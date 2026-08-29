@@ -3,97 +3,122 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Barcelos Hoje — Notícias, Tempo & Praia de Ofir</title>
-<meta name="description" content="Portal local de Barcelos: notícias da região, tempo em Barcelos e estado do mar na praia de Ofir, com informação útil todos os dias.">
-<meta name="theme-color" content="#0b3d2e">
+<title>Barcelos Hoje — Notícias, Tempo, Praias e Nazaré</title>
+<meta name="description" content="Portal local: tempo em Barcelos, praia de Ofir, câmaras ao vivo (Ofir e Nazaré), notícias da região e informação útil.">
+<meta name="theme-color" content="#0d9488">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌊</text></svg>">
 <style>
   :root{
-    --bg:#0e1a16; --bg2:#13241d; --card:#1a2e25; --card2:#20403a;
-    --ink:#eef6f1; --mut:#9fb8ad; --mut2:#78968a;
-    --sea:#3ec9a7; --sea2:#7ad7ff; --sun:#ffd166; --alert:#ff7a6b;
-    --line:#2c4a3f; --shadow:0 6px 24px rgba(0,0,0,.35);
+    --bg:#f2f9f7; --ink:#0f2b2a; --mut:#5b7b76; --mut2:#8aa7a2;
+    --teal:#0d9488; --teal-d:#0f766e; --teal-l:#ccfbf1;
+    --sea:#0891b2; --red:#e11d48;
+    --card:#ffffff; --line:#d7e9e4; --shadow:0 2px 10px rgba(13,148,136,.08),0 12px 32px rgba(13,148,136,.10);
+    --radius:18px;
   }
   *{margin:0;padding:0;box-sizing:border-box}
   html{scroll-behavior:smooth}
-  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;background:linear-gradient(160deg,var(--bg),var(--bg2));color:var(--ink);min-height:100vh;line-height:1.55}
-  .wrap{max-width:1080px;margin:0 auto;padding:0 18px}
-  /* Header */
-  header{background:linear-gradient(135deg,#0b3d2e 0%,#10584a 100%);color:#fff;padding:26px 0 20px;box-shadow:var(--shadow);border-bottom:3px solid var(--sea)}
-  .top{display:flex;flex-wrap:wrap;align-items:center;gap:12px;justify-content:space-between}
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;background:
+    radial-gradient(1200px 500px at 80% -100px, #d8f3ef 0, transparent 55%),
+    radial-gradient(900px 400px at -10% 20%, #e0f6ff55 0, transparent 50%),
+    var(--bg);color:var(--ink);line-height:1.55;min-height:100vh}
+  .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+
+  /* ---------- topo ---------- */
+  header{background:linear-gradient(135deg,#0f766e,#0e7490 60%,#155e75);color:#fff;border-radius:0 0 28px 28px;box-shadow:var(--shadow)}
+  .top{padding:22px 0 0;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
   .brand{display:flex;align-items:center;gap:12px}
-  .brand .logo{font-size:2rem}
-  .brand h1{font-size:1.5rem;font-weight:800;letter-spacing:.2px}
-  .brand small{display:block;font-weight:400;color:#bde8dc;font-size:.82rem}
-  .live{display:flex;align-items:center;gap:8px;background:rgba(255,255,255,.1);padding:7px 14px;border-radius:999px;font-size:.85rem}
-  .live .dot{width:9px;height:9px;border-radius:50%;background:var(--sun);box-shadow:0 0 0 0 rgba(255,198,102,.7);animation:pulso 1.8s infinite}
-  @keyframes pulso{0%{box-shadow:0 0 0 0 rgba(255,198,102,.7)}70%{box-shadow:0 0 0 10px rgba(255,198,102,0)}100%{box-shadow:0 0 0 0 rgba(255,198,102,0)}}
-  nav{margin-top:18px;display:flex;gap:8px;flex-wrap:wrap}
-  nav a{color:#d9f2ea;text-decoration:none;font-size:.9rem;padding:6px 14px;border-radius:999px;background:rgba(255,255,255,.08);transition:.2s}
-  nav a:hover{background:rgba(255,255,255,.2)}
-  /* Seções */
-  section{margin:30px 0}
-  .sec-title{display:flex;align-items:center;gap:10px;margin-bottom:16px}
-  .sec-title h2{font-size:1.35rem;font-weight:700;color:var(--ink)}
-  .sec-title .ico{font-size:1.4rem}
-  .sec-title .stamp{font-size:.75rem;color:var(--mut2);margin-left:auto;background:var(--card);padding:4px 10px;border-radius:99px}
+  .logo{font-size:2rem;line-height:1}
+  .brand h1{font-size:1.45rem;font-weight:800;letter-spacing:.2px}
+  .brand small{display:block;font-weight:400;color:#b9e8e0;font-size:.8rem}
+  .clock{background:rgba(255,255,255,.14);padding:8px 14px;border-radius:999px;font-size:.85rem;display:flex;gap:8px;align-items:center}
+  .dotl{width:8px;height:8px;border-radius:50%;background:#fde68a;box-shadow:0 0 0 0 rgba(253,230,138,.7);animation:pulso 1.8s infinite}
+  @keyframes pulso{0%{box-shadow:0 0 0 0 rgba(253,230,138,.7)}70%{box-shadow:0 0 0 9px rgba(253,230,138,0)}100%{box-shadow:0 0 0 0 rgba(253,230,138,0)}}
+  nav{display:flex;gap:6px;flex-wrap:wrap;padding:16px 0 22px}
+  nav a{color:#e7f8f5;text-decoration:none;font-size:.88rem;font-weight:600;padding:7px 15px;border-radius:999px;background:rgba(255,255,255,.10);transition:.2s}
+  nav a:hover{background:rgba(255,255,255,.24)}
+
+  /* ---------- resumo ---------- */
+  .hero{margin:26px 0 6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
+  .hcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px 20px}
+  .hcard .k{font-size:.72rem;text-transform:uppercase;letter-spacing:.6px;color:var(--mut2);font-weight:700}
+  .hcard .v{font-size:1.8rem;font-weight:800;color:var(--teal-d);margin:4px 0 2px}
+  .hcard .s{font-size:.82rem;color:var(--mut)}
+
+  /* ---------- secções ---------- */
+  section{margin:34px 0}
+  .sec{display:flex;align-items:center;gap:10px;margin-bottom:16px}
+  .sec .ico{font-size:1.35rem}
+  .sec h2{font-size:1.25rem;font-weight:800}
+  .sec .tag{margin-left:auto;font-size:.72rem;color:var(--mut);background:var(--teal-l);padding:4px 12px;border-radius:999px;font-weight:600;white-space:nowrap}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px}
   .grid{display:grid;gap:14px}
-  .g3{grid-template-columns:repeat(auto-fit,minmax(250px,1fr))}
   .g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:16px;box-shadow:var(--shadow)}
-  .card h3{font-size:1rem;color:var(--ink);margin-bottom:8px}
+  .g3{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+  .g4{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
   .mut{color:var(--mut);font-size:.85rem}
   .mut2{color:var(--mut2);font-size:.75rem}
-  /* Tempo agora */
-  .now-card{background:linear-gradient(150deg,#1a372b,#1d4780);background-size:cover;border:none;color:#fff;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
-  .now-card .big{font-size:3.4rem;font-weight:800;line-height:1}
-  .now-card .unit{font-size:1.3rem;font-weight:600;color:#bfe9da}
-  .now-card .emoji{font-size:3.2rem;filter:drop-shadow(0 4px 10px rgba(0,0,0,.3))}
-  .now-meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:8px;flex:1;min-width:220px}
-  .now-meta div{background:rgba(255,255,255,.1);padding:8px 10px;border-radius:10px;font-size:.8rem}
-  .now-meta b{display:block;font-size:1.05rem}
-  /* Previsão dias */
-  .days{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-top:14px}
-  .day{background:var(--card2);border:1px solid var(--line);border-radius:12px;padding:10px;text-align:center}
-  .day .d{font-size:.78rem;color:var(--mut);text-transform:uppercase;letter-spacing:.4px}
-  .day .e{font-size:1.7rem;margin:6px 0}
-  .day .t{font-size:.9rem}
-  .day .t b{color:#fff}
-  .day .rain{font-size:.72rem;color:var(--sea2)}
-  /* Mar */
-  .sea-stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));gap:10px}
-  .sea-box{background:var(--card2);border:1px solid var(--line);border-radius:12px;padding:12px;text-align:center}
-  .sea-box b{display:block;font-size:1.4rem;color:var(--sea)}
-  .sea-box span{font-size:.72rem;color:var(--mut2)}
-  .flag{display:inline-flex;align-items:center;gap:8px;margin-top:12px;padding:8px 14px;border-radius:99px;background:rgba(255,255,255,.06);font-weight:600}
-  .flag .col{display:inline-block;width:14px;height:14px;border-radius:50%}
-  /* Notícias */
-  .news-item{display:flex;gap:12px;padding:14px 10px;border-bottom:1px solid var(--line)}
-  .news-item:last-child{border-bottom:none}
-  .news-item .nx{flex:1}
-  .news-item h4{font-size:.95rem;color:var(--ink)}
-  .news-item h4 a{color:inherit;text-decoration:none}
-  .news-item h4 a:hover{color:var(--sea)}
-  .news-item .src{font-size:.72rem;color:var(--mut2);margin-top:4px}
-  .tag{font-size:.68rem;background:var(--sea);color:#062;padding:2px 8px;border-radius:99px;font-weight:700;text-transform:uppercase;letter-spacing:.3px;align-self:flex-start;white-space:nowrap}
-  .skel{background:linear-gradient(90deg,var(--card) 25%,var(--card2) 50%,var(--card) 75%);background-size:200% 100%;animation:sh 1.4s infinite;border-radius:8px;height:14px;margin:10px 0}
+
+  /* tempo */
+  .now{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
+  .now .big{font-size:3.6rem;font-weight:800;line-height:1}
+  .now .desc{color:var(--mut);font-size:.95rem;margin-top:4px}
+  .now .emo{font-size:3rem}
+  .meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;flex:1;min-width:230px}
+  .meta div{background:#f6fbfa;border:1px solid var(--line);border-radius:12px;padding:10px 12px;text-align:center}
+  .meta b{display:block;font-size:1.15rem;color:var(--teal-d)}
+  .meta span{font-size:.72rem;color:var(--mut2);text-transform:uppercase;letter-spacing:.3px}
+  .days{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:10px;margin-top:16px}
+  .day{background:#fbfefe;border:1px solid var(--line);border-radius:14px;padding:12px 8px;text-align:center}
+  .day .d{font-size:.72rem;color:var(--mut);text-transform:uppercase;letter-spacing:.4px;font-weight:700}
+  .day .e{font-size:1.8rem;margin:6px 0}
+  .day .t{font-size:.88rem;font-weight:700}
+  .day .rain{font-size:.7rem;color:var(--sea)}
+
+  /* mar */
+  .flag{display:inline-flex;align-items:center;gap:9px;margin-bottom:12px;padding:9px 15px;border-radius:999px;background:#fbfefe;border:1px solid var(--line);font-weight:700;font-size:.9rem}
+  .flag .col{width:15px;height:15px;border-radius:50%}
+  .sea-b{border:1px solid var(--line);border-radius:14px;padding:12px;text-align:center;background:#fbfefe}
+  .sea-b b{display:block;font-size:1.4rem;color:var(--teal-d)}
+  .sea-b span{font-size:.7rem;color:var(--mut2)}
+
+  /* câmaras */
+  .cam{display:flex;flex-direction:column;align-items:center;text-align:center;padding:20px 16px;background:linear-gradient(165deg,#ffffff,#f0faf8);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
+  .cam .cine{width:100%;aspect-ratio:16/9;border-radius:14px;margin-bottom:12px;display:flex;align-items:center;justify-content:center;font-size:2.5rem;background:linear-gradient(135deg,#104c5c,#0e7490)}
+  .cam h3{font-size:1rem;margin-bottom:4px}
+  .cam .sub{font-size:.78rem;color:var(--mut);margin-bottom:12px;min-height:32px}
+  .live{display:inline-flex;align-items:center;gap:6px;font-size:.68rem;font-weight:800;letter-spacing:.4px;color:var(--red);text-transform:uppercase;margin-bottom:8px}
+  .live i{width:7px;height:7px;border-radius:50%;background:var(--red);animation:blink 1.2s infinite}
+  @keyframes blink{50%{opacity:.25}}
+  .btn{display:inline-block;background:var(--teal);color:#fff!important;text-decoration:none;font-weight:700;font-size:.88rem;padding:10px 20px;border-radius:999px;transition:.2s}
+  .btn:hover{background:var(--teal-d);transform:translateY(-1px)}
+
+  /* notícias */
+  .news-item{display:flex;gap:12px;padding:13px 8px;border-bottom:1px solid var(--line)}
+  .news-item:last-child{border:none}
+  .news-item h4{font-size:.94rem;font-weight:650}
+  .news-item a{color:var(--ink);text-decoration:none}
+  .news-item a:hover{color:var(--teal)}
+  .news-item .src{font-size:.72rem;color:var(--mut2);margin-top:3px}
+  .skel{background:linear-gradient(90deg,#eef6f4 25%,#e2efeb 50%,#eef6f4 75%);background-size:200% 100%;animation:sh 1.3s infinite;border-radius:8px;height:14px;margin:10px 0}
   @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
-  /* Úteis */
-  .util{display:flex;align-items:center;gap:12px;padding:12px;border:1px solid var(--line);border-radius:12px;text-decoration:none;background:var(--card2);transition:.2s}
-  .util:hover{transform:translateY(-2px);border-color:var(--sea)}
-  .util .u{font-size:1.5rem}
-  .util b{display:block;color:var(--ink);font-size:.92rem}
-  .util span{color:var(--mut);font-size:.78rem}
-  .tips{background:var(--card);border-radius:14px;padding:16px;margin-top:14px;border:1px dashed var(--line)}
-  .tips li{margin:6px 0 6px 18px;color:var(--mut)}
-  .banner{background:linear-gradient(135deg,#1d4783,#0b3d2e);color:#fff;border-radius:14px;padding:16px;display:none}
-  footer{margin-top:40px;padding:22px 0 40px;border-top:1px solid var(--line);color:var(--mut2);font-size:.8rem;text-align:center}
-  footer a{color:var(--sea2)}
-  .err{color:var(--danger);font-size:.85rem;padding:10px;border:1px dashed var(--danger);border-radius:10px}
-  @media(max-width:600px){.now-card .temp{font-size:2.6rem}}
+
+  /* úteis */
+  .util{display:flex;align-items:center;gap:12px;padding:13px;border:1px solid var(--line);border-radius:14px;background:#fbfefe;text-decoration:none;transition:.18s}
+  .util:hover{border-color:var(--teal);transform:translateY(-2px);box-shadow:var(--shadow)}
+  .util .u{font-size:1.35rem}
+  .util b{display:block;color:var(--ink);font-size:.9rem}
+  .util span{color:var(--mut);font-size:.76rem}
+  .tips{background:#f4fbf9;border:1px dashed var(--teal);border-radius:14px;padding:15px 18px;margin-top:14px}
+  .tips li{margin:5px 0 5px 18px;color:var(--mut);font-size:.86rem}
+  .tips b{color:var(--teal-d)}
+  .err{color:var(--red);font-size:.85rem;padding:10px;border:1px dashed var(--red);border-radius:10px}
+  footer{margin-top:46px;padding:26px 0 40px;border-top:1px solid var(--line);color:var(--mut2);font-size:.8rem;text-align:center}
+  footer a{color:var(--teal)}
+  @media(max-width:560px){.now .big{font-size:2.8rem}}
 </style>
 </head>
 <body>
+
 <header>
   <div class="wrap">
     <div class="top">
@@ -101,14 +126,14 @@
         <span class="logo">🌊</span>
         <div>
           <h1>Barcelos Hoje</h1>
-          <small>Notícias · Tempo · Praia de Ofir</small>
+          <small>Notícias · Tempo · Praia de Ofir · Nazaré</small>
         </div>
       </div>
-      <div class="live"><span class="dot"></span><span id="live-label">A gerar dados…</span></div>
+      <div class="clock"><span class="dotl"></span> <span id="live-label">a carregar…</span></div>
     </div>
     <nav>
       <a href="#tempo">🌡️ Tempo</a>
-      <a href="#praia">🏖️ Praia de Ofir</a>
+      <a href="#praia">🏖️ Ofir</a>
       <a href="#cams">📹 Câmaras</a>
       <a href="#noticias">📰 Notícias</a>
       <a href="#uteis">🗂️ Úteis</a>
@@ -116,92 +141,111 @@
   </div>
 </header>
 
-<main class="wrap">
+<div class="wrap">
+  <!-- RESUMO -->
+  <div class="hero" id="heroResumo">
+    <div class="hcard"><div class="k">Tempo agora · Barcelos</div><div class="v" id="h-temp">—</div><div class="s" id="h-desc">a carregar…</div></div>
+    <div class="hcard"><div class="k">Mar · Praia de Ofir</div><div class="v" id="h-wave">—</div><div class="s" id="h-wave-d">a carregar…</div></div>
+    <div class="hcard"><div class="k">Água do mar</div><div class="v" id="h-sea">—</div><div class="s" id="h-sea-d">a carregar…</div></div>
+  </div>
 
   <!-- TEMPO -->
   <section id="tempo">
-    <div class="sec-title"><span class="ico">🌡️</span><h2>Tempo em Barcelos</h2><span class="stamp" id="tempo-stamp">—</span></div>
-    <div class="card now-card" id="tempo-now">
-      <div class="emoji" id="t-emoji">⏳</div>
-      <div><div class="temp" id="t-temp">—</div><div class="unit" id="t-desc">a carregar…</div></div>
-      <div class="now-meta" id="t-meta"></div>
+    <div class="sec"><span class="ico">🌡️</span><h2>Tempo em Barcelos</h2><span class="tag" id="tempo-stamp">—</span></div>
+    <div class="card">
+      <div class="now">
+        <span class="emo" id="t-emoji">⏳</span>
+        <div><div class="big" id="t-temp">—</div><div class="desc" id="t-desc">a carregar…</div></div>
+        <div class="meta" id="t-meta"></div>
+      </div>
+      <div class="days" id="t-days"></div>
     </div>
-    <div class="days" id="t-days"></div>
   </section>
 
-  <!-- PRAIA -->
+  <!-- PRAIA OFIR -->
   <section id="praia">
-    <div class="sec-title"><span class="ico">🏖️</span><h2>Praia de Ofir</h2><span class="stamp" id="praia-stamp">—</span></div>
-    <div class="card" id="praia-card">
-      <div class="mar-stats" id="mar-stats"></div>
-      <div id="praia-info" class="mut" style="margin-top:12px"></div>
+    <div class="sec"><span class="ico">🏖️</span><h2>Praia de Ofir</h2><span class="tag" id="praia-stamp">—</span></div>
+    <div class="card">
+      <div class="flag" id="flag-box"><span class="col" id="flag-col"></span><span id="flag-txt">a carregar…</span></div>
+      <div class="grid g4" id="mar-stats"></div>
+      <p class="mut" style="margin-top:12px" id="mar-info">—</p>
     </div>
     <div class="tips">
       <ul>
-        <li><b>Época balnear:</b> vigia marítima costuma estar ativa até meados de setembro — <b>respeita sempre as bandeiras</b> (verde = calmaria, amarela = cuidado, vermelha = proibido/risco).</li>
-        <li><b>Bebés e crianças:</b> a parte norte da praia tem águas mais protegidas, mas o cordão dunar exige cuidado com passagens — usa sempre as paliçadas.</li>
-        <li>Informação do mar é aproximada por satélite/modelo; para o estado <b>oficial</b> do mar e bandeiras, vê os avisos do IPMA e o posto dos nadadores-salvadores.</li>
+        <li><b>Época balnear:</b> nadadores-salvadores normalmente até meados de setembro — respeita sempre as <b>bandeiras</b> no local (verde = calmaria, amarela = cuidado, vermelha = proibido).</li>
+        <li>O estado do mar aqui é uma <b>estimativa</b> por modelo (altura de onda, água); para o aviso <b>oficial</b> vê o <a href="https://www.ipma.pt" rel="noopener" style="color:var(--teal)">IPMA</a> e o posto de salva-vidas.</li>
       </ul>
     </div>
   </section>
 
-  <!-- WEBCAMS -->
+  <!-- CÂMARAS -->
   <section id="cams">
-    <div class="sec-title"><span class="ico">📹</span><h2>Câmaras ao vivo</h2><span class="stamp">MEO Beachcam</span></div>
+    <div class="sec"><span class="ico">📹</span><h2>Câmaras ao vivo</h2><span class="tag">MEO Beachcam</span></div>
     <div class="grid g3">
-      <div class="card" style="text-align:center">
-        <div style="font-size:2.2rem;margin-bottom:6px">🏖️</div>
+      <div class="cam">
+        <div class="cine">🏖️</div>
+        <span class="live"><i></i> Ao vivo</span>
         <h3>Praia de Ofir</h3>
-        <p class="mut" style="margin:6px 0 12px">Zona central e sul da praia — surf e banhistas.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener nofollow" style="display:inline-block;background:var(--sea);color:#062;padding:9px 18px;border-radius:99px;font-weight:700;text-decoration:none">▶ Ver ao vivo</a>
+        <p class="sub">Zona central e sul — areal e banhistas.</p>
+        <a class="btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
       </div>
-      <div class="card" style="text-align:center">
-        <div style="font-size:2.2rem;margin-bottom:6px">🏄</div>
-        <h3>Praia de Ofir (surf)</h3>
-        <p class="mut" style="margin:6px 0 12px">Câmara focada na zona sul com melhor ondulação.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener nofollow" style="display:inline-block;background:var(--sea2);color:#062;padding:9px 18px;border-radius:99px;font-weight:700;text-decoration:none">▶ Ver ao vivo</a>
+      <div class="cam">
+        <div class="cine">🌊</div>
+        <span class="live"><i></i> Ao vivo</span>
+        <h3>Nazaré — Praia da Vila</h3>
+        <p class="sub">Zona de banhos da vila e entrada do porto.</p>
+        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-da-nazare/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
       </div>
-      <div class="card" style="text-align:center">
-        <div style="font-size:2rem;margin-bottom:6px">🏖️</div>
-        <h3>Apúlia</h3>
-        <p class="mut" style="margin:6px 0 12px">Praia vizinha, a poucos km de Ofir — útil para comparar.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/apulia/" target="_blank" rel="noopener nofollow" style="display:inline-block;background:var(--sea);color:#062;padding:9px 18px;border-radius:99px;font-weight:700;text-decoration:none">▶ Ver ao vivo</a>
+      <div class="cam">
+        <div class="cine">🌊</div>
+        <span class="live"><i></i> Ao vivo</span>
+        <h3>Nazaré — Praia do Norte</h3>
+        <p class="sub">Panorâmica do mar e da rebentação.</p>
+        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-do-norte/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
+      </div>
+      <div class="cam">
+        <div class="cine">🎥</div>
+        <span class="live"><i></i> Ao vivo</span>
+        <h3>Nazaré — Canhão</h3>
+        <p class="sub">A câmara das ondas gigantes (canhão da Nazaré).</p>
+        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-do-norte-canhao-nazare/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
       </div>
     </div>
-    <p class="mut2" style="margin-top:8px">As câmaras são da plataforma oficial MEO Beachcam (abrem no separador à parte, sem necessidade de conta).</p>
+    <p class="mut2" style="margin-top:10px">As câmaras abrem na plataforma oficial MEO Beachcam, sem precisar de conta.</p>
   </section>
 
   <!-- NOTÍCIAS -->
   <section id="noticias">
-    <div class="sec-title"><span class="ico">📰</span><h2>Notícias da região</h2><span class="stamp">Google Notícias</span></div>
-    <div class="card" id="news-card"><div class="skel"><div class="newsletter"></div><div class="newsletter"></div><div class="newsletter"></div></div></div>
-    <p class="mut2" style="margin-top:8px">Títulos agregados automaticamente do Google Notícias. Clica para abrir a fonte original num separador novo.</p>
+    <div class="sec"><span class="ico">📰</span><h2>Notícias da região</h2><span class="tag">Google Notícias</span></div>
+    <div class="card" id="news-card">
+      <div class="skel"></div><div class="skel"></div><div class="skel"></div>
+    </div>
+    <p class="mut2" style="margin-top:8px">Títulos agregados automaticamente do Google Notícias. Clica para abrir a fonte original.</p>
   </section>
 
   <!-- ÚTEIS -->
   <section id="uteis">
-    <div class="sec-title"><span class="ico">🗂️</span><h2>Coisas úteis</h2></div>
+    <div class="sec"><span class="ico">🗂️</span><h2>Coisas úteis</h2></div>
     <div class="grid g2">
       <a class="util" href="https://www.cm-barcelos.pt" target="_blank" rel="noopener nofollow"><span class="u">🏛️</span><span><b>Câmara Municipal de Barcelos</b><span>Serviços, contactos e avisos oficiais</span></span></a>
       <a class="util" href="https://www.cm-esposende.pt" target="_blank" rel="noopener nofollow"><span class="u">🏖️</span><span><b>Câmara de Esposende</b><span>Inclui Ofir: limpeza e serviços do concelho</span></span></a>
       <a class="util" href="https://www.ipma.pt" target="_blank" rel="noopener nofollow"><span class="u">🌐</span><span><b>IPMA — Instituto do Mar e Atmosfera</b><span>Avisos de tempo, mar e ondas (fonte oficial)</span></span></a>
       <a class="util" href="https://www.sns24.gov.pt/" target="_blank" rel="noopener nofollow"><span class="u">🩺</span><span><b>SNS 24 — 808 24 24 24</b><span>Saúde em Portugal: telefone e portal</span></span></a>
       <a class="util" href="https://www.google.pt/maps/search/Praia+de+Ofir" target="_blank" rel="noopener nofollow"><span class="u">📍</span><span><b>Como chegar à Praia de Ofir</b><span>Mapas e direções</span></span></a>
-      <a class="util" href="https://www.portugal.gov.pt" target="_blank" rel="noopener nofollow"><span class="u">🇵🇹</span><span><b>ePortugal / Gov.pt</b><span>Serviços públicos digitais</span></span></a>
+      <a class="util" href="https://www.nazare.pt" target="_blank" rel="noopener nofollow"><span class="u">🌊</span><span><b>Nazaré — Câmara e turismo</b><span>Ondas gigantes, surf e visita à Nazaré</span></span></a>
     </div>
     <div class="tips">
       <ul>
         <li><b>Emergências:</b> 112 (INEM/Bombeiros/PSP) · <b>Saúde:</b> SNS24 808 24 24 24</li>
-        <li><b>Farmácia de serviço em Barcelos:</b> muda diariamente — procura no Google <em>“farmácia de serviço Barcelos hoje”</em> ou nos placards das próprias farmácias.</li>
-        <li><b>Transportes:</b> comboio Barcelos–Porto/Braga na linha do Minho; STAC (Barcelos–Famalicão–Braga) e autocarros da zona para deslocações.</li>
+        <li><b>Farmácia de serviço em Barcelos:</b> muda diariamente — procura no Google <em>“farmácia de serviço Barcelos hoje”</em>.</li>
+        <li><b>Transportes:</b> comboio Barcelos–Porto/Braga na linha do Minho; STAC e autocarros da zona.</li>
       </ul>
     </div>
   </section>
-
-</main>
+</div>
 
 <footer>
-  <div class="wrap">Barcelos Hoje · projeto de experimento · dados: Open-Meteo &amp; Google Notícias (agregador) · feito no Raspberry Pi com OpenClaw 🐧<br>
+  <div class="wrap">Barcelos Hoje · projeto de experimento · dados: Open-Meteo &amp; Google Notícias · feito no Raspberry Pi com OpenClaw 🐧<br>
   Para informação oficial de emergência e mar, consulte sempre o <a href="https://www.ipma.pt" rel="noopener">IPMA</a> e as autoridades locais.</div>
 </footer>
 
