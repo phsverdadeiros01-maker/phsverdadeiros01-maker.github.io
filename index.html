@@ -3,6 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <title>Barcelos Hoje — Notícias, Tempo, Praias e Nazaré</title>
 <meta name="description" content="Portal local: tempo em Barcelos, praia de Ofir, câmaras ao vivo (Ofir e Nazaré), notícias da região e informação útil.">
 <meta name="theme-color" content="#0d9488">
@@ -99,6 +102,7 @@
   .news-item a{color:var(--ink);text-decoration:none}
   .news-item a:hover{color:var(--teal)}
   .news-item .src{font-size:.72rem;color:var(--mut2);margin-top:3px}
+  .pill-src{display:inline-block;background:var(--teal-l);color:var(--teal-d);font-size:.68rem;font-weight:700;padding:2px 9px;border-radius:999px}
   .skel{background:linear-gradient(90deg,#eef6f4 25%,#e2efeb 50%,#eef6f4 75%);background-size:200% 100%;animation:sh 1.3s infinite;border-radius:8px;height:14px;margin:10px 0}
   @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
 
@@ -159,6 +163,7 @@
         <div class="meta" id="t-meta"></div>
       </div>
       <div class="days" id="t-days"></div>
+      <div class="mut2" id="t-sun" style="margin-top:12px"></div>
     </div>
   </section>
 
@@ -245,7 +250,7 @@
 </div>
 
 <footer>
-  <div class="wrap">Barcelos Hoje · projeto de experimento · dados: Open-Meteo &amp; Google Notícias · feito no Raspberry Pi com OpenClaw 🐧<br>
+  <div class="wrap">Barcelos Hoje · projeto de experimento · dados: Open-Meteo &amp; Google Notícias · feito no Raspberry Pi com OpenClaw 🐧 · <a href="admin/" rel="noopener">painel 🔐</a><br>
   Para informação oficial de emergência e mar, consulte sempre o <a href="https://www.ipma.pt" rel="noopener">IPMA</a> e as autoridades locais.</div>
 </footer>
 

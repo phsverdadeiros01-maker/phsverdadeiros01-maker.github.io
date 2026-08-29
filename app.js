@@ -6,8 +6,8 @@
   var BARCELOS = { lat: 41.538, lon: -8.616 };
   var OFIR = { lat: 41.53, lon: -8.78 };
 
-  // Beacon de visitas -> admin (túnel Cloudflare; URL muda se o túnel recriar)
-  var BEACON = 'https://blues-embedded-view-males.trycloudflare.com/hit';
+  // Beacon de visitas -> admin (lê o túnel atual de admin/link.json, nunca fica desatualizado)
+  var BEACON_BASE = null;
 
   // WMO -> [emoji, descrição]
   var WMO = {
@@ -32,19 +32,26 @@
   function stamp(id, t) { var e = $(id); if (e) e.textContent = t; }
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
 
-  /* ---- beacon de visitas ---- */
+  /* ---- beacon de visitas (dinâmico: usa o túnel atual publicado no link.json) ---- */
   function beacon() {
     try {
-      if (navigator.sendBeacon) { navigator.sendBeacon(BEACON); }
-      else { fetch(BEACON, { method: 'POST', mode: 'no-cors' }).catch(function () {}); }
+      fetch('admin/link.json?t=' + Date.now()).then(function (r) { return r.json(); })
+        .then(function (d) {
+          var u = d && d.tunnel;
+          if (!u) return;
+          BEACON_BASE = u;
+          var hit = u + '/hit';
+          if (navigator.sendBeacon) { navigator.sendBeacon(hit); }
+          else { fetch(hit, { method: 'POST', mode: 'no-cors' }).catch(function () {}); }
+        }).catch(function () {});
     } catch (e) {}
   }
 
   /* ---- 1. Tempo Barcelos ---- */
   function carregarTempo() {
     var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + BARCELOS.lat + '&longitude=' + BARCELOS.lon +
-      '&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m' +
-      '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum&timezone=Europe%2FLisbon&forecast_days=5';
+      '&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m,uv_index' +
+      '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,sunrise,sunset&timezone=Europe%2FLisbon&forecast_days=5';
     fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (d) {
         var c = d.current, e = wmo(c.weather_code);
@@ -54,19 +61,27 @@
         $('t-meta').innerHTML =
           '<div><b>' + Math.round(c.relative_humidity_2m) + '%</b><span>Humidade</span></div>' +
           '<div><b>' + (c.precipitation || 0) + ' mm</b><span>Chuva agora</span></div>' +
-          '<div><b>' + Math.round(c.wind_speed_10m) + ' km/h</b><span>Vento</span></div>';
+          '<div><b>' + Math.round(c.wind_speed_10m) + ' km/h</b><span>Vento</span></div>' +
+          '<div><b>' + (c.uv_index != null ? Math.round(c.uv_index) : '—') + '</b><span>Índice UV</span></div>';
         // hero
         $('h-temp').textContent = Math.round(c.temperature_2m) + '°C';
         $('h-desc').textContent = e[1];
         var dias = d.daily, html = '';
         for (var i = 0; i < dias.time.length; i++) {
           var de = wmo(dias.weather_code[i]);
+          var chuva = dias.precipitation_probability_max ? (dias.precipitation_probability_max[i] != null ? dias.precipitation_probability_max[i] + '%' : '—') : ((dias.precipitation_sum[i] || 0) + ' mm');
           html += '<div class="day"><div class="d">' + (i === 0 ? 'Hoje' : diaSemana(dias.time[i])) + '</div>' +
             '<div class="e">' + de[0] + '</div>' +
             '<div class="t">' + Math.round(dias.temperature_2m_max[i]) + '° / ' + Math.round(dias.temperature_2m_min[i]) + '°</div>' +
-            '<div class="rain">💧 ' + (dias.precipitation_probability ? (dias.precipitation_probability[i] || 0) : (dias.precipitation_sum[i] || 0)) + (dias.precipitation_probability ? '%' : ' mm') + '</div></div>';
+            '<div class="rain">💧 ' + chuva + '</div></div>';
         }
         $('t-days').innerHTML = html;
+        var sun = $('t-sun');
+        if (sun) {
+          var nascer = dias.sunrise && dias.sunrise[0] ? fmtH(dias.sunrise[0]) : '';
+          var por = dias.sunset && dias.sunset[0] ? fmtH(dias.sunset[0]) : '';
+          if (nascer || por) sun.textContent = '🌅 Nascer do sol ' + nascer + '  ·  🌇 Pôr do sol ' + por;
+        }
         stamp('tempo-stamp', 'atualizado ' + fmtH(c.time));
       })
       .catch(function () { $('t-desc').textContent = 'Tempo indisponível de momento.'; });
