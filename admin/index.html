@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>A abrir painel — Barcelos Hoje</title>
+<style>
+  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:#f2f9f7;color:#0f2b2a;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
+  .box{text-align:center;padding:30px;max-width:420px}
+  .logo{font-size:3rem}
+  h1{font-size:1.3rem;margin:10px 0 6px}
+  p{color:#5b7b76;font-size:.9rem;line-height:1.5}
+  .btn{display:inline-block;margin-top:16px;background:#0d9488;color:#fff;text-decoration:none;font-weight:700;padding:11px 22px;border-radius:999px}
+  small{display:block;margin-top:22px;color:#8aa7a2;font-size:.75rem}
+</style>
+</head>
+<body>
+  <div class="box">
+    <div class="logo">🔐</div>
+    <h1>A abrir o painel de administração…</h1>
+    <p id="status">A procurar o link atual…</p>
+    <a class="btn" id="btn" href="#">Abrir painel</a>
+    <small>Barcelos Hoje · painel de administração</small>
+  </div>
+  <script>
+    (function () {
+      var status = document.getElementById('status');
+      var btn = document.getElementById('btn');
+      fetch('link.json?t=' + Date.now())
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+          var u = d && d.tunnel;
+          if (!u) throw new Error('sem link');
+          btn.href = u;
+          status.textContent = 'Link atual encontrado — a redirecionar…';
+          location.replace(u);
+        })
+        .catch(function () {
+          status.textContent = 'Não encontrei o link do painel. Pede ao administrador para o atualizar.';
+          btn.style.display = 'none';
+        });
+  </script>
+</body>
+</html>
