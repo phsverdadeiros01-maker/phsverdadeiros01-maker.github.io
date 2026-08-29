@@ -114,31 +114,60 @@
       });
   }
 
-  // ---------- 3. Notícias (Google News via rss2json) ----------
+  // ---------- 3. Notícias (Google News via rss2json + fallback allorigins) ----------
   function carregarNoticias() {
     var url = 'https://api.rss2json.com/v1/api.json?rss_url=' +
       encodeURIComponent('https://news.google.com/rss/search?q=Barcelos+OR+Ofir+OR+Esposende&hl=pt-PT&gl=PT&ceid=PT:pt');
     fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (d) {
-        var card = $('news-card');
-        if (!d.items || !d.items.length) { card.innerHTML = '<div class="err">Sem notícias de momento.</div>'; return; }
-        var items = d.items.slice(0, 8);
-        var html = '';
-        items.forEach(function (it) {
-          var t = it.title || '';
-          // o Google News põe " - fonte" no fim; extrair otimista
+        if (d && d.items && d.items.length) { desenharNoticias(d.items); }
+        else { throw new Error('sem items'); }
+      })
+      .catch(function () { noticiasFallback(); });
+  }
+  function noticiasFallback() {
+    var rss = 'https://news.google.com/rss/search?q=Barcelos+OR+Ofir+OR+Esposende&hl=pt-PT&gl=PT&ceid=PT:pt';
+    var prox = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(rss);
+    fetch(prox).then(function (r) { if (!r.ok) throw new Error(r.status); return r.text(); })
+      .then(function (xml) {
+        var doc = new DOMParser().parseFromString(xml, 'text/xml');
+        var its = Array.prototype.slice.call(doc.querySelectorAll('item')).slice(0, 8);
+        if (!its.length) throw new Error('vazio');
+        var items = its.map(function (it) {
+          var t = (it.querySelector('title') || {}).textContent || '';
           var m = t.match(/^(.*?)\s+-\s+([^-]+)$/);
-          var titulo = m ? m[1] : t;
-          var fonte = m ? m[2] : (it.author || '');
-          html += '<div class="news-item"><div class="nx"><h4><a href="' + (it.link || '#') + '" target="_blank" rel="noopener nofollow">' + titulo + '</a></h4>' +
-            '<div class="src">' + (fonte ? '📰 ' + fonte + ' · ' : '') + (it.pubDate ? new Date(it.pubDate).toLocaleDateString('pt-PT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }) : '') + '</div></div>' +
-            '<span class="tag">região</span></div>';
+          return {
+            titulo: m ? m[1] : t,
+            fonte: m ? m[2] : '',
+            link: (it.querySelector('link') || {}).textContent || '#',
+            pub: (it.querySelector('pubDate') || {}).textContent || ''
+          };
         });
-        card.innerHTML = html;
+        desenharNoticias({ items: items });
       })
       .catch(function () {
         $('news-card').innerHTML = '<div class="err">Sem ligação às notícias agora. Tenta mais tarde.</div>';
       });
+  }
+  function desenharNoticias(d) {
+    var card = $('news-card');
+    var items = (d.items || []).slice(0, 8);
+    if (!items.length) { card.innerHTML = '<div class="err">Sem notícias de momento.</div>'; return; }
+    var html = '';
+    items.forEach(function (it) {
+      var titulo = it.titulo || it.title || '';
+      var fonte = it.fonte || it.author || '';
+      var pub = it.pub || it.pubDate || '';
+      var quando = '';
+      if (pub) {
+        var dt = new Date(pub);
+        if (!isNaN(dt)) quando = dt.toLocaleDateString('pt-PT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' });
+      }
+      html += '<div class="news-item"><div class="nx"><h4><a href="' + (it.link || '#') + '" target="_blank" rel="noopener nofollow">' + titulo + '</a></h4>' +
+        '<div class="src">' + (fonte ? '📰 ' + fonte + ' · ' : '') + quando + '</div></div>' +
+        '<span class="tag">região</span></div>';
+    });
+    card.innerHTML = html;
   }
 
   // ---------- Início ----------
