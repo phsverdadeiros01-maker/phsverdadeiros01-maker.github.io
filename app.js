@@ -51,7 +51,7 @@
   function carregarTempo() {
     var url = 'https://api.open-meteo.com/v1/forecast?latitude=' + BARCELOS.lat + '&longitude=' + BARCELOS.lon +
       '&current=temperature_2m,relative_humidity_2m,apparent_temperature,precipitation,weather_code,wind_speed_10m,uv_index' +
-      '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,sunrise,sunset&timezone=Europe%2FLisbon&forecast_days=5';
+      '&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_probability_max,sunrise,sunset&timezone=Europe%2FLisbon&forecast_days=3';
     fetch(url).then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(function (d) {
         var c = d.current, e = wmo(c.weather_code);
@@ -145,16 +145,25 @@
       })
       .catch(function () { $('news-card').innerHTML = '<div class="err">Sem ligação às notícias agora.</div>'; });
   }
+  function quandoRel(pub) {
+    if (!pub) return '';
+    var dt = new Date(pub);
+    if (isNaN(dt.getTime())) return '';
+    var dif = (Date.now() - dt.getTime()) / 1000;
+    if (dif < 60) return 'agora';
+    if (dif < 3600) return 'há ' + Math.round(dif / 60) + ' min';
+    if (dif < 86400) return 'há ' + Math.round(dif / 3600) + ' h';
+    return dt.toLocaleDateString('pt-PT', { day: 'numeric', month: 'short' });
+  }
   function desenharNoticias(items) {
     var card = $('news-card'), html = '';
-    (items || []).slice(0, 8).forEach(function (it) {
+    (items || []).slice(0, 6).forEach(function (it) {
       var titulo = it.titulo || it.title || '';
       var fonte = it.fonte || it.author || '';
       var pub = it.pub || it.pubDate || '';
-      var quando = '';
-      if (pub) { var dt = new Date(pub); if (!isNaN(dt)) quando = dt.toLocaleDateString('pt-PT', { day: 'numeric', month: 'short', hour: '2-digit', minute: '2-digit' }); }
       html += '<div class="news-item"><div class="nx"><h4><a href="' + esc(it.link || '#') + '" target="_blank" rel="noopener nofollow">' + esc(titulo) + '</a></h4>' +
-        '<div class="src">' + (fonte ? '<span class="pill-src">' + esc(fonte) + '</span> · ' : '') + quando + '</div></div></div>';
+        '<div class="src">' + (fonte ? '<span class="pill-src">' + esc(fonte) + '</span>' : '') +
+        (pub ? '<span class="qnd">🕐 ' + quandoRel(pub) + '</span>' : '') + '</div></div></div>';
     });
     card.innerHTML = html || '<div class="err">Sem notícias de momento.</div>';
   }

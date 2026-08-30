@@ -41,14 +41,14 @@
   nav a:hover{background:rgba(255,255,255,.24)}
 
   /* ---------- resumo ---------- */
-  .hero{margin:26px 0 6px;display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:14px}
-  .hcard{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px 20px}
-  .hcard .k{font-size:.72rem;text-transform:uppercase;letter-spacing:.6px;color:var(--mut2);font-weight:700}
-  .hcard .v{font-size:1.8rem;font-weight:800;color:var(--teal-d);margin:4px 0 2px}
-  .hcard .s{font-size:.82rem;color:var(--mut)}
+  .hero{margin:16px 0 4px;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
+  .hcard{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:10px 14px}
+  .hcard .k{font-size:.64rem;text-transform:uppercase;letter-spacing:.5px;color:var(--mut2);font-weight:700}
+  .hcard .v{font-size:1.5rem;font-weight:800;color:var(--teal-d);line-height:1.1;display:block}
+  .hcard .s{font-size:.75rem;color:var(--mut)}
 
   /* ---------- secções ---------- */
-  section{margin:34px 0}
+  section{margin:26px 0}
   .sec{display:flex;align-items:center;gap:10px;margin-bottom:16px}
   .sec .ico{font-size:1.35rem}
   .sec h2{font-size:1.25rem;font-weight:800}
@@ -63,19 +63,19 @@
 
   /* tempo */
   .now{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
-  .now .big{font-size:3.6rem;font-weight:800;line-height:1}
-  .now .desc{color:var(--mut);font-size:.95rem;margin-top:4px}
-  .now .emo{font-size:3rem}
+  .now .big{font-size:2.8rem;font-weight:800;line-height:1}
+  .now .desc{color:var(--mut);font-size:.9rem;margin-top:4px}
+  .now .emo{font-size:2.2rem}
   .meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;flex:1;min-width:230px}
   .meta div{background:#f6fbfa;border:1px solid var(--line);border-radius:12px;padding:10px 12px;text-align:center}
-  .meta b{display:block;font-size:1.15rem;color:var(--teal-d)}
+  .meta b{display:block;font-size:1rem;color:var(--teal-d)}
   .meta span{font-size:.72rem;color:var(--mut2);text-transform:uppercase;letter-spacing:.3px}
-  .days{display:grid;grid-template-columns:repeat(auto-fit,minmax(100px,1fr));gap:10px;margin-top:16px}
-  .day{background:#fbfefe;border:1px solid var(--line);border-radius:14px;padding:12px 8px;text-align:center}
-  .day .d{font-size:.72rem;color:var(--mut);text-transform:uppercase;letter-spacing:.4px;font-weight:700}
-  .day .e{font-size:1.8rem;margin:6px 0}
-  .day .t{font-size:.88rem;font-weight:700}
-  .day .rain{font-size:.7rem;color:var(--sea)}
+  .days{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
+  .day{background:#fbfefe;border:1px solid var(--line);border-radius:12px;padding:10px 8px;text-align:center}
+  .day .d{font-size:.68rem;color:var(--mut);text-transform:uppercase;letter-spacing:.4px;font-weight:700}
+  .day .e{font-size:1.5rem;margin:4px 0}
+  .day .t{font-size:.84rem;font-weight:700}
+  .day .rain{font-size:.68rem;color:var(--sea)}
 
   /* mar */
   .flag{display:inline-flex;align-items:center;gap:9px;margin-bottom:12px;padding:9px 15px;border-radius:999px;background:#fbfefe;border:1px solid var(--line);font-weight:700;font-size:.9rem}
@@ -96,13 +96,14 @@
   .btn:hover{background:var(--teal-d);transform:translateY(-1px)}
 
   /* notícias */
-  .news-item{display:flex;gap:12px;padding:13px 8px;border-bottom:1px solid var(--line)}
+  .news-item{display:flex;gap:12px;padding:10px 6px;border-bottom:1px solid var(--line)}
   .news-item:last-child{border:none}
-  .news-item h4{font-size:.94rem;font-weight:650}
+  .news-item h4{font-size:.88rem;font-weight:650}
   .news-item a{color:var(--ink);text-decoration:none}
   .news-item a:hover{color:var(--teal)}
   .news-item .src{font-size:.72rem;color:var(--mut2);margin-top:3px}
   .pill-src{display:inline-block;background:var(--teal-l);color:var(--teal-d);font-size:.68rem;font-weight:700;padding:2px 9px;border-radius:999px}
+  .qnd{color:var(--mut2);font-size:.72rem;margin-left:6px}
   .skel{background:linear-gradient(90deg,#eef6f4 25%,#e2efeb 50%,#eef6f4 75%);background-size:200% 100%;animation:sh 1.3s infinite;border-radius:8px;height:14px;margin:10px 0}
   @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
 
@@ -148,9 +149,9 @@
 <div class="wrap">
   <!-- RESUMO -->
   <div class="hero" id="heroResumo">
-    <div class="hcard"><div class="k">Tempo agora · Barcelos</div><div class="v" id="h-temp">—</div><div class="s" id="h-desc">a carregar…</div></div>
-    <div class="hcard"><div class="k">Mar · Praia de Ofir</div><div class="v" id="h-wave">—</div><div class="s" id="h-wave-d">a carregar…</div></div>
-    <div class="hcard"><div class="k">Água do mar</div><div class="v" id="h-sea">—</div><div class="s" id="h-sea-d">a carregar…</div></div>
+    <div class="hcard"><span class="k">🌡️ Tempo · Barcelos</span><span class="v" id="h-temp">—</span><span class="s" id="h-desc">a carregar…</span></div>
+    <div class="hcard"><span class="k">🌊 Mar · Ofir</span><span class="v" id="h-wave">—</span><span class="s" id="h-wave-d">a carregar…</span></div>
+    <div class="hcard"><span class="k">💧 Água do mar</span><span class="v" id="h-sea">—</span><span class="s" id="h-sea-d">a carregar…</span></div>
   </div>
 
   <!-- TEMPO -->
@@ -195,25 +196,11 @@
         <a class="btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
       </div>
       <div class="cam">
-        <div class="cine">🌊</div>
+        <div class="cine">🗼</div>
         <span class="live"><i></i> Ao vivo</span>
-        <h3>Nazaré — Praia da Vila</h3>
-        <p class="sub">Zona de banhos da vila e entrada do porto.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-da-nazare/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
-      </div>
-      <div class="cam">
-        <div class="cine">🌊</div>
-        <span class="live"><i></i> Ao vivo</span>
-        <h3>Nazaré — Praia do Norte</h3>
-        <p class="sub">Panorâmica do mar e da rebentação.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-do-norte/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
-      </div>
-      <div class="cam">
-        <div class="cine">🎥</div>
-        <span class="live"><i></i> Ao vivo</span>
-        <h3>Nazaré — Canhão</h3>
-        <p class="sub">A câmara das ondas gigantes (canhão da Nazaré).</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/praia-do-norte-canhao-nazare/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
+        <h3>Nazaré — Farol</h3>
+        <p class="sub">Forte de S. Miguel Arcanjo — o farol e a ondulação.</p>
+        <a class="btn" href="https://beachcam.meo.pt/livecams/nazare-forte-sao-miguel-arcanjo/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
       </div>
     </div>
     <p class="mut2" style="margin-top:10px">As câmaras abrem na plataforma oficial MEO Beachcam, sem precisar de conta.</p>
