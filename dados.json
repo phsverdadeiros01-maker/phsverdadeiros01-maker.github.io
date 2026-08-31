@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-08-31T14:50:24Z",
+ "atualizado_em": "2026-08-31T17:00:04Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-08-31T14:50:25Z",
+  "atualizado_em": "2026-08-31T17:00:05Z",
   "dias": [
    {
     "data": "2026-08-31",
@@ -1632,16 +1632,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Mercado de Barcelos inaugurado esta segunda-feira após seis anos de obras - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWIwUnB4ZEFHYXlhWTFiVy1LRE9KZUtVY3pZeVVUTEF5WVZjaW80b0MtT1kxVmlpMHdhdzlRbk84ZTRTNzNjTURqM3RNWW1Wb0dSR3Z6b2E2LVpnbEM3VzB3eU9Ld3VvSTI0SzZYd3ltWVN5RTduRlVodnVkYUVjNm9UdzMyVFp4a0tIUTRpN2VrUmY5SmpFb2FOVWlLUGNLb0RYMWRlVTBiNUZEQW1NbWJ3?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788162120
-   },
-   {
     "title": "Jovens de Barcelos carregam à cabeça vasos de 30 quilos para os levar às campas dos familiares - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmpZcVM3SUFOcDhoNTVoZHJNcHdpT00xZ3JQOVE4QWFCSm5kY2ZkTEtCMWpNMVpkQmR2MmhuNHE1Q0NWb0xjVFRneEs1WE9zMDQwOVc0QUpGUFFHcHlyOUY1TWlFYVd1Z3NuQU00eS1NMnNSbkE2eEtITTVHNU1YUHpOcGFsMkFHcy1zSmtaYkotRXJjMGZMZURTNlVmZC03Szh4b1gxVkVqU3YwcnMxclFlTQ?oc=5",
     "source": "O MINHO",
     "ts": 1788168686
+   },
+   {
+    "title": "Mercado de Barcelos inaugurado esta segunda-feira após seis anos de obras - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWIwUnB4ZEFHYXlhWTFiVy1LRE9KZUtVY3pZeVVUTEF5WVZjaW80b0MtT1kxVmlpMHdhdzlRbk84ZTRTNzNjTURqM3RNWW1Wb0dSR3Z6b2E2LVpnbEM3VzB3eU9Ld3VvSTI0SzZYd3ltWVN5RTduRlVodnVkYUVjNm9UdzMyVFp4a0tIUTRpN2VrUmY5SmpFb2FOVWlLUGNLb0RYMWRlVTBiNUZEQW1NbWJ30gGnAUFVX3lxTFBRbXU3blpOZnBhSjJMSUZaMmVVRjNfODhDY0hEaUg3ZXZaSHdvQ2dRelV3YjFqZzRDalhhN2VUdTdVLVdWM2RIVnlmMkcxbWp0THljdFVXSU5Ed0g4MHhqVDdBVW9hemlCYUw5U05tSlFRWU83MXdoSUpXNDNPSmFJWWtZQnc4aTNWaFl2SDM2eVNzWmlLU2ZEVmRwWFlhUXdQdFhqQXQw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788162120
    },
    {
     "title": "Quatro jovens feridos em despiste aparatoso em Barcelos - Correio da Manhã",
@@ -1650,10 +1650,10 @@
     "ts": 1787926993
    },
    {
-    "title": "Barcelos assinala 98.º aniversário da elevação a cidade - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWhJUWFpM1R2MzBINTV3RmEyTkVleDA3dFFfdFZXSUFsbjZkdHBEcEtrY1BIeF9rc2F5ZXE5Z2VvWUhWS1lTWXhhVGg1Y3pKWTVwQzF5NzBPcG5TLWhKbG80UHgybC10djVaQk9aenlGbXhsLWJiUGpRSjVJWVRSag?oc=5",
-    "source": "Braga TV",
-    "ts": 1788171671
+    "title": "Barcelos: 98 anos de cidade com cerimónia de hastear da bandeira - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xcDdDVnZ3UGpNcV83MnBpREMtWTBiLUdZUHo2X3lHbXBZVF9HT1ZHZnVwVWMza2xTcVF1a010djI5QklMd0hWVjkwN25DVzBYSTlNaWo4MDk5N1gwTFFUSnVn?oc=5",
+    "source": "e24.pt",
+    "ts": 1788177272
    },
    {
     "title": "Município de Barcelos reforça resposta habitacional com aquisição de 36 habitações - SAPO",
@@ -1708,22 +1708,22 @@
     "ts": 1788177785
    },
    {
-    "title": "Sánchez culpa Israel e EUA por entrada massiva de migrantes em Ceuta e iliba Marrocos - Correio da Manhã",
+    "title": "Sánchez culpa Israel e Rússia por entrada massiva de migrantes em Ceuta e iliba Marrocos - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlR5ODVXVlJxNk9VVmwzd3A5TV9mYjA5RUZHX3VnaGNPLXNHTXBMaVZPdFQyejFDT3BnSHZ1bWRPYmJYQ3VrMlZvU3dMYmZ3S3VMd1ZtZE5jUGVfYkNSVnF2c21scDViV0drOXhsR1RfN3hSbllSb3NYU25hcHNZN3dIdUM5U0ZlZWdKSUlmcVFHX3h5SmpCdTI3RUpZT29RM0o3aDBFVjNnOXR5cXVrN3VzcTBuUkVMTnBGejhrVkHSAbsBQVVfeXFMTWh5Z0FLVU0ycW1HSWVnc3UwakhKdlczXzVBSUNuZmozME5VSi1XSFFhTzRBQ0lfR18yOElPdFo1cFJoMjZ1d3pvWklLeGphQjRyYzQ2M2JFLTJxQlhNRDJlN2JKSnY4NFhiMU1udlB1UHJ6M3dLU2FNOXNZTEFPd3docU16VlhGSV9idHE3UXZLN0gxNVRGWkstdlBVXzhjclp6TlRXMG43a3pJN2g3OVVFaHBMaXl4ZmNPNA?oc=5",
     "source": "Correio da Manhã",
     "ts": 1788165420
-   },
-   {
-    "title": "Referendo. União Europeia respeita “não” da Islândia e primeira-ministra fala em \"vitória para a democracia\" - Jornal Económico",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT1oyY240NGx0SGk1NktJeGRaRVBZekxaWUVxeHRvbkh5aVdBS2ZCeGxGemN6OG1qb3ZMN203TlRyYnptaTM3aDJXWVNFYlhxbmVDdmNPYVVmUndsNFNLRnRSdWtkSHR6M2ZuaUo1bE1BZFpRWEVPTlVJblVRZHFZU253XzhWMHN1TUN1N1FCdV9CZlRZZkZnaHJJamJPSE44dkt1SHpnSkRFbmxDSnhvNm1hdGk4NzNkWDBfLXdhV2pVaDBVUnEzeVd4Slp6YkdKWGEtb1k5V1FocXdsdVE?oc=5",
-    "source": "Jornal Económico",
-    "ts": 1788134400
    },
    {
     "title": "Lago Ontário passa a chamar-se lago da América no Google Maps dos EUA - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTRvTGgzMEZpYk42SW13UFBuaXVrM2pUMDl4bGQ0dU9qdnRueGRkaU5udEcwNjFVcGJFc1ZFSEhtaWRobWpPekFnUFd5SlNOM1lxVk16cmIwWVZvUjFoZGlUMFRDNGJuT0d0N1hLc1d3UDVjLWZWWURyTmxMY2tPc1NieUcweUpkbDFQMFFvNV85TTFoWU9kUHRLaGp2eWU4am5HM2dsQlhfeE9DR0HSAaIBQVVfeXFMTkgzQng3NjM3ZGJIdTUxVi02SjRHaUw3NlpUdGJZSjJ1VWtqTG9vZW92Q3YxZFBFOW1UajNOdk5JTGxQQzFKcHpueFFfNUswc3hDX0I4RlcwcHdYUDdzZUN2R2VhVjNRTXk1bzRFRzZEZ0g3cFNfTmpZMWVKaWVCeVJJVG5jOGFDdXhsRDJJcmNiT3BQUFpRNFJ2cTdlU203VGVB?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1788172200
+   },
+   {
+    "title": "Detido suspeito de matar a tiro jovem italiana em rave na Suíça - Público",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUmZZb1JFMVYtMWdnaFVSSWtnSnlRRnZ3eURub2IxRGxhUnhDSFRIODROckVRdFozQkdUR2I3SGpxV29kc2VWWjJtODJ4UWRkUnFfai1qeXRhaTlsWFM2azk1bjVtM2FDWkIybXZyUjVubC0xY0dnWDFJXzJHbWI5YTVQRl9STlI2emM2aDg0T3RjbXZNdUR6Szc2NG5BcHRpeEFMNEpnNW9Uc3Rq?oc=5",
+    "source": "Público",
+    "ts": 1788184312
    }
   ]
  }
