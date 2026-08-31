@@ -7,6 +7,7 @@ cd /home/jo/.openclaw/workspace-glm/site || exit 1
 
 python3 - <<'PY'
 import json, sys, urllib.request, xml.etree.ElementTree as ET, datetime
+from email.utils import parsedate_to_datetime
 
 def fetch(url, as_json=False):
     req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux)'})
@@ -29,8 +30,14 @@ def news(q, n=5, topic=False):
         t = (it.findtext('title') or '').strip()
         l = it.findtext('link') or '#'
         s = (it.findtext('source') or '').strip()
+        pub = (it.findtext('pubDate') or '').strip()
+        ts = None
+        try:
+            ts = int(parsedate_to_datetime(pub).timestamp())
+        except Exception:
+            pass
         if t and t not in ('Google Notícias', f'"{q}" - Google Notícias', 'Mundo - Mais recentes - Google Notícias'):
-            items.append({'title': t, 'link': l, 'source': s})
+            items.append({'title': t, 'link': l, 'source': s, 'ts': ts})
         if len(items) >= n:
             break
     return items

@@ -139,6 +139,20 @@
     background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
     padding:0.8rem 0.4rem;text-align:center;
   }
+  .fday.clickable{cursor:pointer;transition:transform .12s ease,border-color .12s ease;}
+  .fday.clickable:hover{transform:translateY(-2px);border-color:var(--telha);}
+  .fday.clickable .ver{
+    display:inline-block;margin-top:0.35rem;font-size:0.68rem;color:#fff;background:var(--telha);
+    padding:0.15rem 0.5rem;border-radius:999px;opacity:0;
+  }
+  .fday.clickable:hover .ver{opacity:1;}
+  .back-btn{
+    background:none;border:1px solid var(--azulejo);color:var(--azulejo);
+    font-size:0.75rem;font-weight:600;padding:0.25rem 0.6rem;border-radius:999px;cursor:pointer;
+    font-family:'IBM Plex Sans',sans-serif;
+  }
+  .back-btn:hover{background:var(--azulejo);color:#fff;}
+  .hora-titulo{font-size:0.82rem;font-weight:600;white-space:nowrap;}
   .fday .d{font-size:0.72rem;color:var(--tinta-suave);text-transform:capitalize;}
   .fday .ic{font-size:1.6rem;margin:0.3rem 0;}
   .fday .hi{font-weight:600;font-family:'IBM Plex Mono',monospace;}
@@ -213,12 +227,19 @@
   #noticias-list{list-style:none;margin:1rem 0 0;padding:0;display:flex;flex-direction:column;}
   #noticias-list li{
     border-bottom:1px solid var(--papel-linha);padding:0.85rem 0;
-    display:flex;gap:0.8rem;align-items:baseline;
+    display:flex;flex-direction:column;gap:0.15rem;align-items:flex-start;
   }
   #noticias-list li:first-child{padding-top:0;}
   #noticias-list a{text-decoration:none;font-weight:500;font-size:0.96rem;}
   #noticias-list a:hover{text-decoration:underline;}
+  #noticias-list .topline{display:flex;gap:0.8rem;align-items:baseline;width:100%;}
   #noticias-list .src{font-size:0.72rem;color:var(--tinta-suave);white-space:nowrap;font-family:'IBM Plex Mono',monospace;}
+  #noticias-list .news-date{
+    font-size:0.7rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;
+    display:flex;align-items:center;gap:0.3rem;
+  }
+  #noticias-list .news-date .novo{color:var(--verde-ok);font-weight:700;}
+  #noticias-list .news-date .velho{color:var(--amarelo-aviso);font-weight:700;}
   #noticias-list .news-cat{
     border:none;padding:1.2rem 0 0.4rem;display:block;
     font-family:'Fraunces',serif;font-size:1.05rem;font-weight:600;color:var(--azul-fundo);
@@ -316,7 +337,10 @@
       </div>
     </div>
 
-    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0;">Próximas horas</h3>
+    <div style="display:flex;align-items:center;gap:0.6rem;margin:1.8rem 0 0;">
+      <button class="back-btn" id="hora-back" style="display:none" onclick="mostrarHorasHoje()">← hoje</button>
+      <h3 class="serif" id="hora-titulo" style="font-size:1.05rem;margin:0;">Próximas horas</h3>
+    </div>
     <div class="hourly-scroll" id="hourly-strip">
       <div class="skeleton">a carregar previsão horária…</div>
     </div>
@@ -464,33 +488,36 @@ const OFIR     = { lat: 41.5233, lon: -8.7889 };
 /* ---------------- Mapeamento de código meteorológico (WMO) -> ícone / texto ---------------- */
 const WCODE = {
   0:  { ic: "☀️", pt: "Céu limpo" },
-  1:  { ic: "🌤️", pt: "Pouco nublado" },
-  2:  { ic: "⛅", pt: "Parcialmente nublado" },
-  3:  { ic: "☁️", pt: "Céu encoberto" },
-  45: { ic: "🌫️", pt: "Nevoeiro" },
-  48: { ic: "🌫️", pt: "Nevoeiro com geada" },
-  51: { ic: "🌦️", pt: "Chuvisco fraco" },
-  53: { ic: "🌦️", pt: "Chuvisco" },
-  55: { ic: "🌧️", pt: "Chuvisco forte" },
-  56: { ic: "🌧️", pt: "Chuvisco gelado" },
-  57: { ic: "🌧️", pt: "Chuvisco gelado forte" },
-  61: { ic: "🌦️", pt: "Chuva fraca" },
-  63: { ic: "🌧️", pt: "Chuva" },
-  65: { ic: "🌧️", pt: "Chuva forte" },
-  66: { ic: "🌧️", pt: "Chuva gelada" },
-  67: { ic: "🌧️", pt: "Chuva gelada forte" },
-  71: { ic: "🌨️", pt: "Neve fraca" },
-  73: { ic: "❄️", pt: "Neve" },
-  75: { ic: "❄️", pt: "Neve forte" },
-  77: { ic: "❄️", pt: "Grãos de neve" },
-  80: { ic: "🌦️", pt: "Aguaceiros fracos" },
-  81: { ic: "🌧️", pt: "Aguaceiros" },
-  82: { ic: "⛈️", pt: "Aguaceiros fortes" },
-  85: { ic: "🌨️", pt: "Aguaceiros de neve" },
-  86: { ic: "❄️", pt: "Aguaceiros de neve fortes" },
-  95: { ic: "⛈️", pt: "Trovoada" },
-  96: { ic: "⛈️", pt: "Trovoada com granizo" },
-  99: { ic: "⛈️", pt: "Trovoada forte com granizo" },
+  1:  { ic: "☀️", pt: "Céu limpo" },
+  2:  { ic: "🌤️", pt: "Pouco nublado" },
+  3:  { ic: "⛅", pt: "Parcialmente nublado" },
+  4:  { ic: "☁️", pt: "Muito nublado" },
+  5:  { ic: "🌥️", pt: "Nublado por nuvens altas" },
+  6:  { ic: "🌦️", pt: "Aguaceiros" },
+  7:  { ic: "🌦️", pt: "Aguaceiros fracos" },
+  8:  { ic: "🌧️", pt: "Aguaceiros fortes" },
+  9:  { ic: "🌧️", pt: "Chuva/aguaceiros" },
+  10: { ic: "🌦️", pt: "Chuva fraca ou chuvisco" },
+  11: { ic: "🌧️", pt: "Chuva/aguaceiros fortes" },
+  12: { ic: "🌧️", pt: "Períodos de chuva" },
+  13: { ic: "🌦️", pt: "Períodos de chuva fraca" },
+  14: { ic: "🌧️", pt: "Períodos de chuva forte" },
+  15: { ic: "🌦️", pt: "Chuvisco" },
+  16: { ic: "🌫️", pt: "Neblina" },
+  17: { ic: "🌫️", pt: "Nevoeiro ou nuvens baixas" },
+  18: { ic: "❄️", pt: "Neve" },
+  19: { ic: "⛈️", pt: "Trovoada" },
+  20: { ic: "⛈️", pt: "Aguaceiros e trovoada" },
+  21: { ic: "🧊", pt: "Granizo" },
+  22: { ic: "❄️", pt: "Geada" },
+  23: { ic: "⛈️", pt: "Chuva e trovoada" },
+  24: { ic: "☁️", pt: "Nebulosidade convectiva" },
+  25: { ic: "⛅", pt: "Períodos de muito nublado" },
+  26: { ic: "🌫️", pt: "Nevoeiro" },
+  27: { ic: "☁️", pt: "Céu nublado" },
+  28: { ic: "🌨️", pt: "Aguaceiros de neve" },
+  29: { ic: "🌨️", pt: "Chuva e neve" },
+  30: { ic: "🌨️", pt: "Chuva e neve" },
 };
 function wInfo(code){ return WCODE[code] || { ic: "❔", pt: "Sem dados" }; }
 
@@ -504,62 +531,163 @@ function tick(){
 }
 tick(); setInterval(tick, 30000);
 
-/* ---------------- Tempo em Barcelos ---------------- */
+/* ---------------- Tempo em Barcelos — IPMA (agregado local 1030200) ---------------- */
+let IPMA_DADOS = null;   // { diario: {data:resumo}, horario: {data:[horas]} }
+let IPMA_HOJE = null;    // data ISO do dia atual
+
+function organizarIPMA(lista){
+  const diario = {}, horario = {};
+  for (const x of lista){
+    const dia = x.dataPrev.slice(0,10);
+    if (x.idPeriodo === 24) diario[dia] = x;
+    else if (x.idPeriodo === 1 || x.idPeriodo === 3) (horario[dia] = horario[dia] || []).push(x);
+  }
+  for (const d in horario) horario[d].sort((a,b)=>a.dataPrev.localeCompare(b.dataPrev));
+  return { diario, horario };
+}
+
+function preencherAgora(diario, horario, diaAtual){
+  const agora = new Date();
+  const hhmm = String(agora.getHours()).padStart(2,'0') + ':00';
+  const hrs = horario[diaAtual] || [];
+  const hr = hrs.find(x=>x.dataPrev.slice(11,16)===hhmm) || hrs[hrs.length-1] || null;
+  const res = diario[diaAtual] || {};
+  const w = wInfo(hr ? hr.idTipoTempo : res.idTipoTempo);
+  const ppOk = (v) => v != null && v > -90;
+  document.getElementById('w-icon-now').textContent = w.ic;
+  document.getElementById('w-temp-now').textContent = hr ? Math.round(hr.tMed)+'°' : '—';
+  document.getElementById('w-desc-now').textContent = w.pt;
+  document.getElementById('w-feels').textContent = hr ? Math.round(hr.utci)+'°' : '—';
+  document.getElementById('w-wind').textContent = hr ? Math.round(hr.ffVento)+' km/h '+(hr.ddVento||'') : '—';
+  document.getElementById('w-hum').textContent = hr ? Math.round(hr.hR)+'%' : '—';
+  document.getElementById('w-rainprob').textContent = ppOk(hr ? hr.probabilidadePrecipita : res.probabilidadePrecipita) ? Math.round((hr?hr.probabilidadePrecipita:res.probabilidadePrecipita))+'%' : '—';
+  document.getElementById('w-max').textContent = res.tMax != null ? Math.round(res.tMax)+'°' : '—';
+  document.getElementById('w-min').textContent = res.tMin != null ? Math.round(res.tMin)+'°' : '—';
+  document.getElementById('w-uv').textContent = res.iUv != null ? Math.round(res.iUv) : '—';
+}
+
+function preencherStripHoras(diaISO, desdeAgora){
+  const horas = (IPMA_DADOS.horario[diaISO] || []);
+  const strip = document.getElementById('hourly-strip');
+  if (!horas.length){
+    strip.innerHTML = '<div class="skeleton">sem previsão horária para este dia.</div>';
+    return;
+  }
+  let usar = horas;
+  if (desdeAgora){
+    const agoraH = new Date().getHours();
+    const futuras = horas.filter(x => parseInt(x.dataPrev.slice(11,13)) >= agoraH);
+    if (futuras.length) usar = futuras;
+  }
+  strip.innerHTML = usar.map(x=>{
+    const w = wInfo(x.idTipoTempo);
+    const p = x.probabilidadePrecipita > -90 ? `<div class="rain">💧${Math.round(x.probabilidadePrecipita)}%</div>` : '';
+    return `<div class="hour"><div class="t">${x.dataPrev.slice(11,16)}</div><div class="ic">${w.ic}</div><div class="temp">${Math.round(x.tMed)}°</div>${p}</div>`;
+  }).join('');
+}
+
+function mostrarDia(diaISO){
+  if (!IPMA_DADOS) return;
+  const label = diaISO===IPMA_HOJE ? 'Hoje' : new Date(diaISO+'T12:00:00').toLocaleDateString('pt-PT',{ weekday:'long', day:'numeric', month:'short' });
+  document.getElementById('hora-titulo').textContent = label + ' · hora a hora';
+  document.getElementById('hora-back').style.display = 'inline-block';
+  preencherStripHoras(diaISO, false);
+}
+function mostrarHorasHoje(){
+  if (!IPMA_DADOS) return;
+  document.getElementById('hora-titulo').textContent = 'Hoje · próximas horas';
+  document.getElementById('hora-back').style.display = 'none';
+  preencherStripHoras(IPMA_HOJE, true);
+}
+
 async function carregarTempo(){
   try{
-    const url = `https://api.open-meteo.com/v1/forecast?latitude=${BARCELOS.lat}&longitude=${BARCELOS.lon}` +
-      `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m` +
-      `&hourly=temperature_2m,weather_code,precipitation_probability` +
-      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset,uv_index_max` +
-      `&timezone=Europe%2FLisbon&forecast_days=7`;
-    const r = await fetch(url);
-    const d = await r.json();
+    const r = await fetch('https://api.ipma.pt/public-data/forecast/aggregate/1030200.json', { cache: 'no-store' });
+    if (!r.ok) throw new Error('ipma ' + r.status);
+    const lista = await r.json();
+    IPMA_DADOS = organizarIPMA(lista);
+    const dias = Object.keys(IPMA_DADOS.diario).sort();
+    if (!dias.length) throw new Error('sem dias');
+    IPMA_HOJE = dias[0];
+    preencherAgora(IPMA_DADOS.diario, IPMA_DADOS.horario, IPMA_HOJE);
 
-    const cur = d.current;
-    const w = wInfo(cur.weather_code);
-    document.getElementById('w-icon-now').textContent = w.ic;
-    document.getElementById('w-temp-now').textContent = Math.round(cur.temperature_2m) + '°';
-    document.getElementById('w-desc-now').textContent = w.pt;
-    document.getElementById('w-feels').textContent = Math.round(cur.apparent_temperature) + '°';
-    document.getElementById('w-wind').textContent = Math.round(cur.wind_speed_10m) + ' km/h';
-    document.getElementById('w-hum').textContent = Math.round(cur.relative_humidity_2m) + '%';
-    document.getElementById('w-rainprob').textContent = d.daily.precipitation_probability_max[0] + '%';
-    document.getElementById('w-max').textContent = Math.round(d.daily.temperature_2m_max[0]) + '°';
-    document.getElementById('w-min').textContent = Math.round(d.daily.temperature_2m_min[0]) + '°';
-    document.getElementById('w-uv').textContent = Math.round(d.daily.uv_index_max[0]);
-    document.getElementById('w-sunrise').textContent = d.daily.sunrise[0].slice(11,16);
-    document.getElementById('w-sunset').textContent = d.daily.sunset[0].slice(11,16);
+    // nascer/pôr do sol (astronomia — Open-Meteo)
+    fetch(`https://api.open-meteo.com/v1/forecast?latitude=${BARCELOS.lat}&longitude=${BARCELOS.lon}&daily=sunrise,sunset&timezone=Europe%2FLisbon&forecast_days=1`)
+      .then(r=>r.json()).then(d=>{
+        document.getElementById('w-sunrise').textContent = d.daily.sunrise[0].slice(11,16);
+        document.getElementById('w-sunset').textContent = d.daily.sunset[0].slice(11,16);
+      }).catch(()=>{});
 
-    // horária: próximas 12h a partir de agora
-    const nowIso = new Date().toISOString().slice(0,13);
-    let startIdx = d.hourly.time.findIndex(t => t.slice(0,13) >= nowIso);
-    if (startIdx < 0) startIdx = 0;
-    const hrs = [];
-    for (let i = startIdx; i < startIdx + 12 && i < d.hourly.time.length; i++){
-      const hw = wInfo(d.hourly.weather_code[i]);
-      const hh = d.hourly.time[i].slice(11,16);
-      hrs.push(`<div class="hour"><div class="t">${hh}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(d.hourly.temperature_2m[i])}°</div></div>`);
-    }
-    document.getElementById('hourly-strip').innerHTML = hrs.join('');
+    mostrarHorasHoje();
 
-    // 7 dias
-    const days = d.daily.time.map((t, i) => {
-      const dw = wInfo(d.daily.weather_code[i]);
-      const dt = new Date(t + 'T12:00:00');
-      const label = i === 0 ? 'Hoje' : dt.toLocaleDateString('pt-PT', { weekday:'short' }).replace('.','');
-      return `<div class="fday">
+    const strip = document.getElementById('forecast-strip');
+    strip.innerHTML = dias.slice(0,7).map((dia,i)=>{
+      const res = IPMA_DADOS.diario[dia];
+      const w = wInfo(res.idTipoTempo);
+      const dt = new Date(dia+'T12:00:00');
+      const label = i===0 ? 'Hoje' : dt.toLocaleDateString('pt-PT',{ weekday:'short' }).replace('.','');
+      const pp = res.probabilidadePrecipita > -90 ? Math.round(res.probabilidadePrecipita)+'%' : '—';
+      return `<div class="fday clickable" onclick="mostrarDia('${dia}')" title="ver hora a hora">
         <div class="d">${label}</div>
-        <div class="ic">${dw.ic}</div>
-        <div class="hi">${Math.round(d.daily.temperature_2m_max[i])}°</div>
-        <div class="lo">${Math.round(d.daily.temperature_2m_min[i])}°</div>
-        <div class="rain">💧${d.daily.precipitation_probability_max[i]}%</div>
+        <div class="ic">${w.ic}</div>
+        <div class="hi">${Math.round(res.tMax)}°</div>
+        <div class="lo">${Math.round(res.tMin)}°</div>
+        <div class="rain">💧${pp}</div>
+        <span class="ver">⏱ hora a hora</span>
       </div>`;
-    });
-    document.getElementById('forecast-strip').innerHTML = days.join('');
+    }).join('');
   }catch(e){
-    document.getElementById('w-desc-now').textContent = 'não foi possível obter o tempo agora';
-    document.getElementById('forecast-strip').innerHTML = '<div class="skeleton">sem dados de momento — tenta recarregar a página.</div>';
-    document.getElementById('hourly-strip').innerHTML = '<div class="skeleton">sem dados de momento.</div>';
+    // Fallback: Open-Meteo (WMO)
+    try{
+      const url = `https://api.open-meteo.com/v1/forecast?latitude=${BARCELOS.lat}&longitude=${BARCELOS.lon}` +
+        `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m` +
+        `&hourly=temperature_2m,weather_code,precipitation_probability` +
+        `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset,uv_index_max` +
+        `&timezone=Europe%2FLisbon&forecast_days=7`;
+      const r = await fetch(url);
+      const d = await r.json();
+      const cur = d.current;
+      const w = wInfo(cur.weather_code);
+      document.getElementById('w-icon-now').textContent = w.ic;
+      document.getElementById('w-temp-now').textContent = Math.round(cur.temperature_2m) + '°';
+      document.getElementById('w-desc-now').textContent = w.pt;
+      document.getElementById('w-feels').textContent = Math.round(cur.apparent_temperature) + '°';
+      document.getElementById('w-wind').textContent = Math.round(cur.wind_speed_10m) + ' km/h';
+      document.getElementById('w-hum').textContent = Math.round(cur.relative_humidity_2m) + '%';
+      document.getElementById('w-rainprob').textContent = d.daily.precipitation_probability_max[0] + '%';
+      document.getElementById('w-max').textContent = Math.round(d.daily.temperature_2m_max[0]) + '°';
+      document.getElementById('w-min').textContent = Math.round(d.daily.temperature_2m_min[0]) + '°';
+      document.getElementById('w-uv').textContent = Math.round(d.daily.uv_index_max[0]);
+      document.getElementById('w-sunrise').textContent = d.daily.sunrise[0].slice(11,16);
+      document.getElementById('w-sunset').textContent = d.daily.sunset[0].slice(11,16);
+      const nowIso = new Date().toISOString().slice(0,13);
+      let startIdx = d.hourly.time.findIndex(t => t.slice(0,13) >= nowIso);
+      if (startIdx < 0) startIdx = 0;
+      const hrs = [];
+      for (let i = startIdx; i < startIdx + 12 && i < d.hourly.time.length; i++){
+        const hw = wInfo(d.hourly.weather_code[i]);
+        const hh = d.hourly.time[i].slice(11,16);
+        hrs.push(`<div class="hour"><div class="t">${hh}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(d.hourly.temperature_2m[i])}°</div></div>`);
+      }
+      document.getElementById('hourly-strip').innerHTML = hrs.join('');
+      const days = d.daily.time.map((t, i) => {
+        const dw = wInfo(d.daily.weather_code[i]);
+        const dt = new Date(t + 'T12:00:00');
+        const label = i === 0 ? 'Hoje' : dt.toLocaleDateString('pt-PT', { weekday:'short' }).replace('.','');
+        return `<div class="fday">
+          <div class="d">${label}</div>
+          <div class="ic">${dw.ic}</div>
+          <div class="hi">${Math.round(d.daily.temperature_2m_max[i])}°</div>
+          <div class="lo">${Math.round(d.daily.temperature_2m_min[i])}°</div>
+          <div class="rain">💧${d.daily.precipitation_probability_max[i]}%</div>
+        </div>`;
+      });
+      document.getElementById('forecast-strip').innerHTML = days.join('');
+    }catch(e2){
+      document.getElementById('w-desc-now').textContent = 'não foi possível obter o tempo agora';
+      document.getElementById('forecast-strip').innerHTML = '<div class="skeleton">sem dados de momento — tenta recarregar a página.</div>';
+      document.getElementById('hourly-strip').innerHTML = '<div class="skeleton">sem dados de momento.</div>';
+    }
   }
 }
 carregarTempo();
@@ -689,7 +817,21 @@ carregarMar();
 async function carregarNoticias(){
   const lista = document.getElementById('noticias-list');
   const cab = (t) => `<li class="news-cat mono">${t}</li>`;
-  const itemHTML = (it) => `<li><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a><span class="src">${it.source}</span></li>`;
+  const itemHTML = (it) => {
+    let dataHtml = '';
+    if (it.ts){
+      const dt = new Date(it.ts * 1000);
+      const diff = Date.now() - it.ts * 1000;
+      const dia = dt.toLocaleDateString('pt-PT', { day:'numeric', month:'short' });
+      const hora = dt.toLocaleTimeString('pt-PT', { hour:'2-digit', minute:'2-digit' });
+      const selo = diff < 4*3600e3 ? '<span class="novo">● agora</span>'
+        : diff < 24*3600e3 ? '<span class="novo">● hoje</span>'
+        : diff < 48*3600e3 ? '<span class="velho">● ontem</span>'
+        : '<span class="velho">● antiga</span>';
+      dataHtml = `<div class="news-date"><span>🕒 ${dia} ${hora}</span>${selo}</div>`;
+    }
+    return `<li><div class="topline"><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a><span class="src">${it.source}</span></div>${dataHtml}</li>`;
+  };
 
   // 1) fonte principal: dados.json publicado pelo Pi às 8h/18h
   try{
