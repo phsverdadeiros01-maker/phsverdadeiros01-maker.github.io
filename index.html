@@ -165,6 +165,21 @@
   .hour .t{font-size:0.72rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;}
   .hour .ic{font-size:1.3rem;margin:0.25rem 0;}
   .hour .temp{font-size:0.85rem;font-weight:600;font-family:'IBM Plex Mono',monospace;}
+  .hour .wind{font-size:0.68rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.2rem;line-height:1.2;}
+
+  /* ---------- Lua ---------- */
+  .moon-card{
+    background:linear-gradient(150deg,#1b2b4a,#12203a 70%);
+    color:#e8edf7;border-radius:var(--radius-m);
+    padding:1.3rem 1.2rem;margin-top:1rem;position:relative;overflow:hidden;
+    display:flex;align-items:center;gap:1.2rem;flex-wrap:wrap;
+  }
+  .moon-card .moon-icon{font-size:2.6rem;line-height:1;}
+  .moon-card .moon-main{flex:1 1 180px;}
+  .moon-card .moon-name{font-family:'Fraunces',serif;font-size:1.25rem;font-weight:600;}
+  .moon-card .moon-illum{font-size:0.85rem;color:#b9c6dd;margin-top:0.15rem;}
+  .moon-card .moon-dates{display:flex;gap:0.8rem;flex-wrap:wrap;font-size:0.8rem;color:#cbd6ea;}
+  .moon-card .moon-dates span{background:rgba(255,255,255,0.08);padding:0.35rem 0.7rem;border-radius:999px;}
 
   /* ---------- Praia / mar ---------- */
   .flag{
@@ -293,6 +308,7 @@
       <a href="#tempo">🌡️ Tempo</a>
       <a href="#mar">🌊 Mar &amp; Ofir</a>
       <a href="#cams">📹 Câmaras</a>
+      <a href="#lua">🌙 Lua</a>
       <a href="#noticias">📰 Notícias</a>
       <a href="#uteis">🗂️ Recursos úteis</a>
     </nav>
@@ -396,6 +412,26 @@
 
     <div class="disclaimer">
       <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Dados oficiais <a href="https://www.ipma.pt/pt/maritima/costeira/index.jsp?selLocal=247&idLocal=247" target="_blank" rel="noopener">IPMA — Praia de Ofir</a>; a previsão atualiza diariamente.
+    </div>
+  </section>
+
+  <!-- ===================== LUA ===================== -->
+  <section id="lua">
+    <div class="eyebrow-row">
+      <div class="section-icon">🌙</div>
+      <h2 class="section-title">Fase da Lua</h2>
+    </div>
+    <p class="section-lede">A fase lunar de agora e as próximas luas cheias e novas — para noites de praia e passeios ao luar.</p>
+    <div class="moon-card">
+      <div class="moon-icon" id="lua-icone">🌖</div>
+      <div class="moon-main">
+        <div class="moon-name" id="lua-nome">a calcular…</div>
+        <div class="moon-illum" id="lua-iluminacao"></div>
+      </div>
+      <div class="moon-dates">
+        <span>🌕 Cheia <b id="lua-cheia">—</b></span>
+        <span>🌑 Nova <b id="lua-nova">—</b></span>
+      </div>
     </div>
   </section>
 
@@ -520,6 +556,12 @@ const WCODE = {
   30: { ic: "🌨️", pt: "Chuva e neve" },
 };
 function wInfo(code){ return WCODE[code] || { ic: "❔", pt: "Sem dados" }; }
+/* Direção do vento em graus -> sigla (N, NE, E, SE, S, SO, O, NO) */
+function dirAbrev(deg){
+  if (deg == null) return '';
+  const pts = ['N','NE','E','SE','S','SO','O','NO'];
+  return pts[Math.round(deg / 45) % 8];
+}
 
 /* ---------------- Relógio / data ---------------- */
 function tick(){
@@ -582,7 +624,8 @@ function preencherStripHoras(diaISO, desdeAgora){
   strip.innerHTML = usar.map(x=>{
     const w = wInfo(x.idTipoTempo);
     const p = x.probabilidadePrecipita > -90 ? `<div class="rain">💧${Math.round(x.probabilidadePrecipita)}%</div>` : '';
-    return `<div class="hour"><div class="t">${x.dataPrev.slice(11,16)}</div><div class="ic">${w.ic}</div><div class="temp">${Math.round(x.tMed)}°</div>${p}</div>`;
+    const vento = (x.ffVento != null && x.ddVento) ? `<div class="wind">💨${Math.round(x.ffVento)} ${x.ddVento}</div>` : '';
+    return `<div class="hour"><div class="t">${x.dataPrev.slice(11,16)}</div><div class="ic">${w.ic}</div><div class="temp">${Math.round(x.tMed)}°</div>${vento}${p}</div>`;
   }).join('');
 }
 
@@ -640,8 +683,8 @@ async function carregarTempo(){
     // Fallback: Open-Meteo (WMO)
     try{
       const url = `https://api.open-meteo.com/v1/forecast?latitude=${BARCELOS.lat}&longitude=${BARCELOS.lon}` +
-        `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m` +
-        `&hourly=temperature_2m,weather_code,precipitation_probability` +
+        `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,wind_direction_10m,relative_humidity_2m` +
+        `&hourly=temperature_2m,weather_code,precipitation_probability,wind_speed_10m,wind_direction_10m` +
         `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset,uv_index_max` +
         `&timezone=Europe%2FLisbon&forecast_days=7`;
       const r = await fetch(url);
@@ -667,7 +710,10 @@ async function carregarTempo(){
       for (let i = startIdx; i < startIdx + 12 && i < d.hourly.time.length; i++){
         const hw = wInfo(d.hourly.weather_code[i]);
         const hh = d.hourly.time[i].slice(11,16);
-        hrs.push(`<div class="hour"><div class="t">${hh}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(d.hourly.temperature_2m[i])}°</div></div>`);
+        const hv = d.hourly.wind_speed_10m ? d.hourly.wind_speed_10m[i] : null;
+        const hd = d.hourly.wind_direction_10m ? d.hourly.wind_direction_10m[i] : null;
+        const windHtml = (hv != null) ? `<div class="wind">💨${Math.round(hv)} ${dirAbrev(hd)}</div>` : '';
+        hrs.push(`<div class="hour"><div class="t">${hh}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(d.hourly.temperature_2m[i])}°</div>${windHtml}</div>`);
       }
       document.getElementById('hourly-strip').innerHTML = hrs.join('');
       const days = d.daily.time.map((t, i) => {
@@ -886,6 +932,40 @@ async function carregarNoticias(){
   }
 }
 carregarNoticias();
+
+/* ---------------- Fase da Lua (cálculo local, ciclo sinódico) ---------------- */
+(function(){
+  const SYNODIC = 29.53058867;
+  const KNOWN_NEW = Date.UTC(2000, 0, 6, 18, 14);
+  function fase(d){
+    let p = ((d.getTime() - KNOWN_NEW) / 86400000) % SYNODIC / SYNODIC;
+    if (p < 0) p += 1;
+    return p;
+  }
+  function iluminacao(p){ return (1 - Math.cos(2 * Math.PI * p)) / 2; }
+  function proxima(d, alvo){
+    let p = fase(d);
+    let delta = (alvo - p + 1) % 1;
+    if (delta < 0.05) delta += 1;
+    return new Date(d.getTime() + delta * SYNODIC * 86400000);
+  }
+  const NOMES = [
+    ['🌑','Lua Nova'], ['🌒','Lua Crescente'], ['🌓','Quarto Crescente'], ['🌔','Crescente Gibosa'],
+    ['🌕','Lua Cheia'], ['🌖','Minguante Gibosa'], ['🌗','Quarto Minguante'], ['🌘','Lua Minguante'],
+    ['🌑','Lua Nova']
+  ];
+  const fmt = (dd) => dd.toLocaleDateString('pt-PT', { day:'numeric', month:'long' });
+  try{
+    const agora = new Date();
+    const p = fase(agora);
+    const idx = Math.floor(p * 8);
+    document.getElementById('lua-icone').textContent = NOMES[idx][0];
+    document.getElementById('lua-nome').textContent = NOMES[idx][1];
+    document.getElementById('lua-iluminacao').textContent = Math.round(iluminacao(p) * 100) + '% iluminada';
+    document.getElementById('lua-cheia').textContent = fmt(proxima(agora, 0.5));
+    document.getElementById('lua-nova').textContent = fmt(proxima(agora, 0));
+  }catch(e){ /* se faltar um elemento, não parte a página */ }
+})();
 </script>
 </body>
 </html>

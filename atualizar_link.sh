@@ -1,9 +1,9 @@
 #!/bin/bash
 # Mantém o link /admin do site apontado para o túnel atual do painel.
 # Corre de hora a hora (ou a pedido): se o URL mudou, atualiza e publica.
-cd /home/jo/.openclaw/workspace-glm/site || exit 1
+cd /home/jo/barcelos-hoje-site || exit 1
 
-URL=$(cat /home/jo/.openclaw/workspace-glm/site/admin/tunnel_url.txt 2>/dev/null)
+URL=$(cat /home/jo/barcelos-hoje-site/admin/tunnel_url.txt 2>/dev/null)
 [ -z "$URL" ] && URL=$(grep -o 'https://[a-z0-9-]*\.trycloudflare\.com' /tmp/admin-tunnel.log 2>/dev/null | head -1)
 if [ -z "$URL" ]; then
   # tenta descobrir do processo ativo

@@ -3,7 +3,7 @@
 # - Notícias: Barcelos + Esposende + Mundo (Google News direto)
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
 # Publica dados.json no GitHub Pages; o site lê este ficheiro.
-cd /home/jo/.openclaw/workspace-glm/site || exit 1
+cd /home/jo/barcelos-hoje-site || exit 1
 
 python3 - <<'PY'
 import json, sys, urllib.request, xml.etree.ElementTree as ET, datetime
@@ -46,7 +46,7 @@ def ipma_ofir():
     """Busca a previsão marítima horária da Praia de Ofir (IPMA local 247)."""
     try:
         import subprocess
-        out = subprocess.check_output([sys.executable, 'ipma_ofir.py'], cwd='/home/jo/.openclaw/workspace-glm/site', text=True, timeout=45)
+        out = subprocess.check_output([sys.executable, 'ipma_ofir.py'], cwd='/home/jo/barcelos-hoje-site', text=True, timeout=45)
         return json.loads(out)
     except Exception as e:
         print(f'aviso: ipma_ofir: {e}')
