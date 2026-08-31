@@ -185,6 +185,9 @@
   .sea-table td{padding:0.55rem 0.8rem;border-top:1px solid var(--papel-linha);}
   .sea-table td:first-child{font-weight:600;color:var(--tinta);}
   .sea-table .cella{color:var(--tinta-suave);font-size:0.75rem;}
+  .sea-table td{vertical-align:top;}
+  .sea-cell{display:flex;flex-direction:column;gap:0.1rem;}
+  .sea-cell span{white-space:nowrap;}
   .table-note{font-size:0.78rem;color:var(--tinta-suave);margin-top:0.5rem;}
 
   /* ---------- Cams ---------- */
@@ -216,6 +219,11 @@
   #noticias-list a{text-decoration:none;font-weight:500;font-size:0.96rem;}
   #noticias-list a:hover{text-decoration:underline;}
   #noticias-list .src{font-size:0.72rem;color:var(--tinta-suave);white-space:nowrap;font-family:'IBM Plex Mono',monospace;}
+  #noticias-list .news-cat{
+    border:none;padding:1.2rem 0 0.4rem;display:block;
+    font-family:'Fraunces',serif;font-size:1.05rem;font-weight:600;color:var(--azul-fundo);
+  }
+  #noticias-list .news-cat:first-child{padding-top:0;}
 
   /* ---------- Recursos uteis ---------- */
   .top3-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.9rem;margin-top:1rem;}
@@ -359,7 +367,7 @@
         </tbody>
       </table>
     </div>
-    <p class="table-note">Cada célula mostra altura da onda e temperatura da água.</p>
+    <p class="table-note">Cada célula mostra: 🌊 altura da onda · período · 🌡 temp. da água · 💨 vento na costa.</p>
 
     <div class="disclaimer">
       <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Estes números são uma estimativa por modelo; para aviso oficial consulta o <a href="https://www.ipma.pt/pt/otempo/observacao.mar/" target="_blank" rel="noopener">IPMA — estado do mar</a>.
@@ -395,9 +403,9 @@
   <section id="noticias">
     <div class="eyebrow-row">
       <div class="section-icon">📰</div>
-      <h2 class="section-title">Notícias da região</h2>
+      <h2 class="section-title">Notícias</h2>
     </div>
-    <p class="section-lede">Últimos títulos sobre Barcelos, via Google Notícias. Abrem na fonte original.</p>
+    <p class="section-lede">Região e mundo — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
     <ul id="noticias-list">
       <li class="skeleton">a carregar notícias…</li>
     </ul>
@@ -560,9 +568,9 @@ async function carregarMar(){
   try{
     const marUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
       `&current=wave_height,wave_period,sea_surface_temperature` +
-      `&hourly=wave_height,sea_surface_temperature&forecast_days=5&timezone=Europe%2FLisbon`;
+      `&hourly=wave_height,wave_period,sea_surface_temperature&forecast_days=5&timezone=Europe%2FLisbon`;
     const ventoUrl = `https://api.open-meteo.com/v1/forecast?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
-      `&current=wind_speed_10m&timezone=Europe%2FLisbon`;
+      `&current=wind_speed_10m&hourly=wind_speed_10m&forecast_days=5&timezone=Europe%2FLisbon`;
 
     const [marR, ventoR] = await Promise.all([fetch(marUrl), fetch(ventoUrl)]);
     const mar = await marR.json();
@@ -589,7 +597,7 @@ async function carregarMar(){
       flag.className = 'flag mau';
       flag.innerHTML = '<span class="dot"></span> Mar agitado — só para surf experiente, evita banho';
     }
-    // Tabela 5 dias — 10h · 12h · 15h · 18h
+    // Tabela 5 dias — 10h · 12h · 15h · 18h (onda · período · temp água · vento)
     const horas = [10, 12, 15, 18];
     const tbody = document.getElementById('sea-table-body');
     const linhas = [];
@@ -600,9 +608,13 @@ async function carregarMar(){
       const celulas = horas.map(h => {
         const idx = mar.hourly.time.findIndex(t => t.slice(0, 13) === `${diaISO}T${String(h).padStart(2, '0')}`);
         if (idx < 0 || mar.hourly.wave_height[idx] == null) return '<td>—</td>';
+        const vIdx = vento.hourly.time.findIndex(t => t.slice(0, 13) === `${diaISO}T${String(h).padStart(2, '0')}`);
         const w = mar.hourly.wave_height[idx].toFixed(1);
+        const p = Math.round(mar.hourly.wave_period[idx]);
         const t = Math.round(mar.hourly.sea_surface_temperature[idx]);
-        return `<td>${w} m <span class="cella">· ${t}°</span></td>`;
+        const v = vIdx >= 0 && vento.hourly.wind_speed_10m[vIdx] != null ? Math.round(vento.hourly.wind_speed_10m[vIdx]) : null;
+        const vPart = v != null ? ` · 💨${v}` : '';
+        return `<td><div class="sea-cell"><span>🌊${w} m · ${p}s</span><span class="cella">🌡${t}°${vPart}</span></div></td>`;
       }).join('');
       linhas.push(`<tr><td>${label}</td>${celulas}</tr>`);
     }
@@ -619,20 +631,32 @@ carregarMar();
 /* ---------------- Notícias (Google News RSS via proxy leitura pública) ---------------- */
 async function carregarNoticias(){
   const lista = document.getElementById('noticias-list');
+  const item = (it) => {
+    const title = it.querySelector('title')?.textContent || '';
+    const link = it.querySelector('link')?.textContent || '#';
+    const source = it.querySelector('source')?.textContent || '';
+    return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a><span class="src">${source}</span></li>`;
+  };
+  const cab = (t) => `<li class="news-cat mono">${t}</li>`;
   try{
-    const feedUrl = 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt';
-    const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl);
-    const r = await fetch(proxied);
-    const text = await r.text();
-    const xml = new window.DOMParser().parseFromString(text, 'text/xml');
-    const items = Array.from(xml.querySelectorAll('item')).slice(0, 8);
-    if (!items.length) throw new Error('sem itens');
-    lista.innerHTML = items.map(it => {
-      const title = it.querySelector('title')?.textContent || '';
-      const link = it.querySelector('link')?.textContent || '#';
-      const source = it.querySelector('source')?.textContent || '';
-      return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a><span class="src">${source}</span></li>`;
+    const queries = [
+      ['Região · Barcelos', 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt'],
+      ['Mundo · Portugal', 'https://news.google.com/rss/search?q=Portugal&hl=pt-PT&gl=PT&ceid=PT:pt']
+    ];
+    const resultados = await Promise.all(queries.map(async ([nome, feedUrl]) => {
+      const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl);
+      const r = await fetch(proxied);
+      const text = await r.text();
+      const xml = new window.DOMParser().parseFromString(text, 'text/xml');
+      const items = Array.from(xml.querySelectorAll('item')).slice(0, 5);
+      return { nome, items };
+    }));
+    const html = resultados.map(({ nome, items }) => {
+      if (!items.length) return cab(nome) + '<li class="skeleton">sem notícias de momento.</li>';
+      return cab(nome) + items.map(item).join('');
     }).join('');
+    if (!resultados.some(r => r.items.length)) throw new Error('sem itens');
+    lista.innerHTML = html;
   }catch(e){
     lista.innerHTML = `<li>Não foi possível carregar as notícias automaticamente. <a href="https://news.google.com/search?q=Barcelos&hl=pt-PT&gl=PT" target="_blank" rel="noopener">Ver no Google Notícias →</a></li>`;
   }
