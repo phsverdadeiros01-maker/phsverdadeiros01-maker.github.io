@@ -405,7 +405,7 @@
       <div class="section-icon">📰</div>
       <h2 class="section-title">Notícias</h2>
     </div>
-    <p class="section-lede">Região e mundo — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
+    <p class="section-lede">Barcelos e Esposende — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
     <ul id="noticias-list">
       <li class="skeleton">a carregar notícias…</li>
     </ul>
@@ -640,8 +640,8 @@ async function carregarNoticias(){
   const cab = (t) => `<li class="news-cat mono">${t}</li>`;
   try{
     const queries = [
-      ['Região · Barcelos', 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt'],
-      ['Mundo · Portugal', 'https://news.google.com/rss/search?q=Portugal&hl=pt-PT&gl=PT&ceid=PT:pt']
+      ['Barcelos', 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt'],
+      ['Esposende', 'https://news.google.com/rss/search?q=Esposende&hl=pt-PT&gl=PT&ceid=PT:pt']
     ];
     const resultados = await Promise.all(queries.map(async ([nome, feedUrl]) => {
       const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl);
