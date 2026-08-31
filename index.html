@@ -264,6 +264,7 @@
     <div class="masthead-top">
       <span class="masthead-date" id="data-hoje">a carregar data…</span>
       <span class="masthead-date" id="hora-agora"></span>
+      <span class="masthead-date" id="upd-note" style="width:100%"></span>
     </div>
     <h1 class="title">Barcelos Hoje</h1>
     <p class="subtitle">Tempo em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo e os recursos oficiais que realmente servem para alguma coisa.</p>
@@ -628,16 +629,36 @@ async function carregarMar(){
 }
 carregarMar();
 
-/* ---------------- Notícias (Google News RSS via proxy leitura pública) ---------------- */
+/* ---------------- Notícias (dados.json publicado 2x/dia pelo Pi; fallback proxy) ---------------- */
 async function carregarNoticias(){
   const lista = document.getElementById('noticias-list');
-  const item = (it) => {
-    const title = it.querySelector('title')?.textContent || '';
-    const link = it.querySelector('link')?.textContent || '#';
-    const source = it.querySelector('source')?.textContent || '';
-    return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a><span class="src">${source}</span></li>`;
-  };
   const cab = (t) => `<li class="news-cat mono">${t}</li>`;
+  const itemHTML = (it) => `<li><a href="${it.link}" target="_blank" rel="noopener">${it.title}</a><span class="src">${it.source}</span></li>`;
+
+  // 1) fonte principal: dados.json publicado pelo Pi às 8h/18h
+  try{
+    const r = await fetch('dados.json?t=' + Date.now());
+    if (!r.ok) throw new Error('sem dados.json');
+    const d = await r.json();
+    const upd = document.getElementById('upd-note');
+    if (upd && d.atualizado_em){
+      const dt = new Date(d.atualizado_em);
+      upd.textContent = '⚡ notícias atualizadas automaticamente às 08:00 e 18:00 · última: ' +
+        dt.toLocaleDateString('pt-PT', { day:'numeric', month:'short' }) + ' ' +
+        dt.toLocaleTimeString('pt-PT', { hour:'2-digit', minute:'2-digit' });
+    }
+    const blocos = [
+      ['Barcelos', d.noticias?.barcelos || []],
+      ['Esposende', d.noticias?.esposende || []]
+    ];
+    if (!blocos.some(([, it]) => it.length)) throw new Error('dados.json vazio');
+    lista.innerHTML = blocos.map(([nome, items]) =>
+      cab(nome) + (items.length ? items.map(itemHTML).join('') : '<li class="skeleton">sem notícias de momento.</li>')
+    ).join('');
+    return;
+  }catch(e){ /* cai no fallback */ }
+
+  // 2) fallback: proxy de leitura pública
   try{
     const queries = [
       ['Barcelos', 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt'],
@@ -648,13 +669,16 @@ async function carregarNoticias(){
       const r = await fetch(proxied);
       const text = await r.text();
       const xml = new window.DOMParser().parseFromString(text, 'text/xml');
-      const items = Array.from(xml.querySelectorAll('item')).slice(0, 5);
+      const items = Array.from(xml.querySelectorAll('item')).map(it => ({
+        title: it.querySelector('title')?.textContent || '',
+        link: it.querySelector('link')?.textContent || '#',
+        source: it.querySelector('source')?.textContent || ''
+      })).filter(it => it.title && it.title !== 'Google Notícias').slice(0, 5);
       return { nome, items };
     }));
-    const html = resultados.map(({ nome, items }) => {
-      if (!items.length) return cab(nome) + '<li class="skeleton">sem notícias de momento.</li>';
-      return cab(nome) + items.map(item).join('');
-    }).join('');
+    const html = resultados.map(({ nome, items }) =>
+      cab(nome) + (items.length ? items.map(itemHTML).join('') : '<li class="skeleton">sem notícias de momento.</li>')
+    ).join('');
     if (!resultados.some(r => r.items.length)) throw new Error('sem itens');
     lista.innerHTML = html;
   }catch(e){
