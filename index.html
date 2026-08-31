@@ -199,6 +199,29 @@
   .sea-tile .val{font-family:'Fraunces',serif;font-size:1.5rem;font-weight:600;margin-top:0.15rem;}
   .sea-tile .unit{font-size:0.8rem;color:var(--tinta-suave);font-weight:400;}
 
+  /* ---------- Tempo Praia de Ofir (na secção mar) ---------- */
+  .ofir-tempo{
+    background:linear-gradient(150deg,#123a4a,#1a5266);
+    color:#eef6fa;border-radius:var(--radius-m);
+    padding:1.2rem 1.1rem;margin-top:0.4rem;
+    box-shadow:0 6px 18px rgba(18,58,74,0.25);
+  }
+  .ofir-tempo .ot-label{
+    font-size:0.72rem;text-transform:uppercase;letter-spacing:0.5px;
+    color:#9fc4d4;margin-bottom:0.7rem;font-family:'IBM Plex Mono',monospace;
+  }
+  .ot-now{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;}
+  .ot-icon{font-size:2.8rem;line-height:1;}
+  .ot-temp{font-family:'Fraunces',serif;font-size:2.2rem;font-weight:600;line-height:1.1;}
+  .ot-desc{font-size:0.9rem;color:#cfe3ec;margin-top:0.2rem;}
+  .ot-stats{display:flex;gap:0.5rem;flex-wrap:wrap;margin-left:auto;}
+  .ot-stats span{background:rgba(255,255,255,0.12);border-radius:999px;padding:0.35rem 0.75rem;font-size:0.8rem;color:#e2f0f6;}
+  .ot-stats b{color:#fff;font-family:'IBM Plex Mono',monospace;}
+  .ot-strip{display:flex;gap:0.5rem;overflow-x:auto;margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.15);}
+  .ot-strip .hour{background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.12);color:#eef6fa;width:60px;}
+  .ot-strip .hour .t{color:#b9d4e0;}
+  .ot-strip .hour .wind{color:#a9c8d6;}
+
   .disclaimer{
     font-size:0.82rem;color:var(--tinta-suave);
     background:#F1ECE1;border-left:3px solid var(--telha);
@@ -395,6 +418,24 @@
         <div class="label">Vento na costa</div>
         <div class="val" id="sea-wind">– <span class="unit">km/h</span></div>
       </div>
+    </div>
+
+    <div class="ofir-tempo">
+      <div class="ot-label">⛅ Tempo agora · Praia de Ofir</div>
+      <div class="ot-now">
+        <div class="ot-icon" id="ot-icon">🌡️</div>
+        <div>
+          <div class="ot-temp" id="ot-temp">–°</div>
+          <div class="ot-desc" id="ot-desc">a carregar…</div>
+        </div>
+        <div class="ot-stats">
+          <span>💨 <b id="ot-vento">–</b></span>
+          <span>💧 <b id="ot-chuva">–</b></span>
+          <span>🌡️ água <b id="ot-agua">–</b></span>
+          <span>😰 <b id="ot-sens">–</b></span>
+        </div>
+      </div>
+      <div class="ot-strip" id="ot-strip"><div class="skeleton">a carregar horas…</div></div>
     </div>
 
     <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0.8rem;">Próximos 5 dias — 10h · 12h · 15h · 18h</h3>
@@ -858,6 +899,38 @@ async function carregarMar(){
   }
 }
 carregarMar();
+
+/* ---------------- Tempo agora + horas — Praia de Ofir (IPMA 1030621) ---------------- */
+const DIR_PT = { N:'N', NE:'NE', E:'E', SE:'SE', S:'S', SW:'SO', W:'O', NW:'NO', VV:'Var' };
+async function carregarTempoOfir(){
+  const strip = document.getElementById('ot-strip');
+  try{
+    const r = await fetch('https://api.ipma.pt/public-data/forecast/aggregate/1030621.json', { cache: 'no-store' });
+    if (!r.ok) throw new Error('ipma ' + r.status);
+    const lista = await r.json();
+    const horas = lista.filter(x => !x.intervaloHora).sort((a,b)=>a.dataPrev.localeCompare(b.dataPrev));
+    if (!horas.length) throw new Error('sem horas');
+    const agora = new Date();
+    const cur = horas.filter(x => new Date(x.dataPrev+'Z').getTime() <= agora.getTime()).pop() || horas[0];
+    const w = wInfo(cur.idTipoTempo);
+    document.getElementById('ot-icon').textContent = w.ic;
+    document.getElementById('ot-temp').textContent = Math.round(cur.tMed) + '°';
+    document.getElementById('ot-desc').textContent = w.pt;
+    document.getElementById('ot-vento').textContent = Math.round(cur.ffVento) + ' km/h ' + (DIR_PT[cur.ddVento] || cur.ddVento || '');
+    document.getElementById('ot-chuva').textContent = (cur.probabilidadePrecipita > -90) ? Math.round(cur.probabilidadePrecipita) + '%' : '—';
+    document.getElementById('ot-agua').textContent = (cur.tempAguaMar != null ? Math.round(cur.tempAguaMar) : '—') + '°';
+    document.getElementById('ot-sens').textContent = (cur.utci != null ? Math.round(cur.utci) : '—') + '°';
+    const futuras = horas.filter(x => new Date(x.dataPrev+'Z').getTime() >= agora.getTime()).slice(0, 8);
+    strip.innerHTML = futuras.map(x => {
+      const hw = wInfo(x.idTipoTempo);
+      const hv = (x.ffVento != null) ? `<div class="wind">💨${Math.round(x.ffVento)} ${DIR_PT[x.ddVento]||''}</div>` : '';
+      return `<div class="hour"><div class="t">${x.dataPrev.slice(11,16)}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(x.tMed)}°</div>${hv}</div>`;
+    }).join('');
+  }catch(e){
+    if (strip) strip.innerHTML = '<div class="skeleton">sem dados do tempo agora.</div>';
+  }
+}
+carregarTempoOfir();
 
 /* ---------------- Notícias (dados.json publicado 2x/dia pelo Pi; fallback proxy) ---------------- */
 async function carregarNoticias(){
