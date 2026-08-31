@@ -334,7 +334,7 @@
       <div class="section-icon">🌊</div>
       <h2 class="section-title">Mar &amp; Praia de Ofir</h2>
     </div>
-    <p class="section-lede">Altura da ondulação, temperatura da água e vento junto à costa, com dados de modelo marítimo (Open‑Meteo). Serve para te preparares — não substitui a bandeira no areal.</p>
+    <p class="section-lede">Previsão horária oficial do IPMA para a Praia de Ofir — mar total, ondulação, período, vento e temperatura da água. Serve para te preparares — não substitui a bandeira no areal.</p>
 
     <div id="flag-status" class="flag ok"><span class="dot"></span> a avaliar condições…</div>
 
@@ -368,10 +368,10 @@
         </tbody>
       </table>
     </div>
-    <p class="table-note">Cada célula mostra: 🌊 altura da onda · período · 🌡 temp. da água · 💨 vento na costa.</p>
+    <p class="table-note">Cada célula mostra: 🌊 altura da onda · período · 🌡 temp. da água · 💨 vento (km/h). Dados oficiais <strong>IPMA — Praia de Ofir</strong>.</p>
 
     <div class="disclaimer">
-      <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Estes números são uma estimativa por modelo; para aviso oficial consulta o <a href="https://www.ipma.pt/pt/otempo/observacao.mar/" target="_blank" rel="noopener">IPMA — estado do mar</a>.
+      <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Dados oficiais <a href="https://www.ipma.pt/pt/maritima/costeira/index.jsp?selLocal=247&idLocal=247" target="_blank" rel="noopener">IPMA — Praia de Ofir</a>; a previsão atualiza diariamente.
     </div>
   </section>
 
@@ -406,7 +406,7 @@
       <div class="section-icon">📰</div>
       <h2 class="section-title">Notícias</h2>
     </div>
-    <p class="section-lede">Barcelos e Esposende — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
+    <p class="section-lede">Barcelos, Esposende e Mundo — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
     <ul id="noticias-list">
       <li class="skeleton">a carregar notícias…</li>
     </ul>
@@ -451,7 +451,7 @@
 </main>
 
 <footer>
-  Barcelos Hoje · dados de tempo e mar: Open‑Meteo · notícias: Google Notícias<br>
+  Barcelos Hoje · tempo: Open‑Meteo · mar: IPMA (Praia de Ofir) · notícias: Google Notícias<br>
   Para informação oficial de emergência, tempo e mar, consulta sempre o <a href="https://www.ipma.pt" target="_blank" rel="noopener">IPMA</a> e as autoridades locais.<br>
   Feito no Raspberry Pi com OpenClaw 🐧 · <a href="admin/" rel="noopener">painel 🔐</a>
 </footer>
@@ -564,28 +564,33 @@ async function carregarTempo(){
 }
 carregarTempo();
 
-/* ---------------- Mar em Ofir ---------------- */
+/* ---------------- Mar em Ofir — dados IPMA (via dados.json) ---------------- */
 async function carregarMar(){
+  // Fonte principal: dados.json (IPMA Praia de Ofir, local 247)
   try{
-    const marUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
-      `&current=wave_height,wave_period,sea_surface_temperature` +
-      `&hourly=wave_height,wave_period,sea_surface_temperature&forecast_days=5&timezone=Europe%2FLisbon`;
-    const ventoUrl = `https://api.open-meteo.com/v1/forecast?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
-      `&current=wind_speed_10m&hourly=wind_speed_10m&forecast_days=5&timezone=Europe%2FLisbon`;
+    const r = await fetch('dados.json?t=' + Date.now());
+    if (!r.ok) throw new Error('sem dados.json');
+    const d = await r.json();
+    const dias = d.mar?.dias;
+    if (!dias || !dias.length) throw new Error('sem dias mar');
 
-    const [marR, ventoR] = await Promise.all([fetch(marUrl), fetch(ventoUrl)]);
-    const mar = await marR.json();
-    const vento = await ventoR.json();
+    // "Agora": usar a hora atual da tabela de hoje
+    const agora = new Date();
+    const hojeISO = agora.toISOString().slice(0,10);
+    const diaAtual = dias.find(x => x.data === hojeISO) || dias[0];
+    const hh = String(agora.getHours()).padStart(2,'0');
+    let hr = diaAtual.horas.find(x => x.hora === hh+'h') || diaAtual.horas[0];
 
-    const wave = mar.current.wave_height;
-    const period = mar.current.wave_period;
-    const seaTemp = mar.current.sea_surface_temperature;
-    const wind = vento.current.wind_speed_10m;
+    const wave = hr.ondulacao ?? hr.mar_total ?? 0;
+    const period = hr.periodo_pico ?? hr.periodo_onda ?? 0;
+    const seaTemp = hr.temp_agua ?? 0;
+    const windNos = hr.vento_nos ?? 0;
+    const windKmh = Math.round(windNos * 1.852);
 
     document.getElementById('sea-wave').innerHTML = `${wave.toFixed(1)} <span class="unit">m</span>`;
     document.getElementById('sea-period').innerHTML = `${period.toFixed(0)} <span class="unit">s</span>`;
     document.getElementById('sea-temp').innerHTML = `${seaTemp.toFixed(1)} <span class="unit">°C</span>`;
-    document.getElementById('sea-wind').innerHTML = `${Math.round(wind)} <span class="unit">km/h</span>`;
+    document.getElementById('sea-wind').innerHTML = `${windKmh} <span class="unit">km/h</span>`;
 
     const flag = document.getElementById('flag-status');
     if (wave < 1.0){
@@ -598,7 +603,58 @@ async function carregarMar(){
       flag.className = 'flag mau';
       flag.innerHTML = '<span class="dot"></span> Mar agitado — só para surf experiente, evita banho';
     }
+
     // Tabela 5 dias — 10h · 12h · 15h · 18h (onda · período · temp água · vento)
+    const horas = [10, 12, 15, 18];
+    const tbody = document.getElementById('sea-table-body');
+    const linhas = dias.slice(0, 5).map((dia, di) => {
+      const dt = new Date(dia.data + 'T12:00:00');
+      const label = di === 0 ? 'Hoje' : dt.toLocaleDateString('pt-PT', { weekday: 'short' }).replace('.', '');
+      const celulas = horas.map(h => {
+        const hh2 = String(h).padStart(2,'0');
+        const hr2 = dia.horas.find(x => x.hora === hh2+'h');
+        if (!hr2 || hr2.ondulacao == null) return '<td>—</td>';
+        const w = hr2.ondulacao.toFixed(1);
+        const p = Math.round(hr2.periodo_pico ?? hr2.periodo_onda ?? 0);
+        const t = Math.round(hr2.temp_agua ?? 0);
+        const v = Math.round((hr2.vento_nos ?? 0) * 1.852);
+        return `<td><div class="sea-cell"><span>🌊${w} m · ${p}s</span><span class="cella">🌡${t}° · 💨${v}</span></div></td>`;
+      }).join('');
+      return `<tr><td>${label}</td>${celulas}</tr>`;
+    });
+    tbody.innerHTML = linhas.join('');
+    return;
+  }catch(e){ /* fallback abaixo */ }
+
+  // Fallback: Open-Meteo (como antes)
+  try{
+    const marUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
+      `&current=wave_height,wave_period,sea_surface_temperature` +
+      `&hourly=wave_height,wave_period,sea_surface_temperature&forecast_days=5&timezone=Europe%2FLisbon`;
+    const ventoUrl = `https://api.open-meteo.com/v1/forecast?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
+      `&current=wind_speed_10m&hourly=wind_speed_10m&forecast_days=5&timezone=Europe%2FLisbon`;
+    const [marR, ventoR] = await Promise.all([fetch(marUrl), fetch(ventoUrl)]);
+    const mar = await marR.json();
+    const vento = await ventoR.json();
+    const wave = mar.current.wave_height;
+    const period = mar.current.wave_period;
+    const seaTemp = mar.current.sea_surface_temperature;
+    const wind = vento.current.wind_speed_10m;
+    document.getElementById('sea-wave').innerHTML = `${wave.toFixed(1)} <span class="unit">m</span>`;
+    document.getElementById('sea-period').innerHTML = `${period.toFixed(0)} <span class="unit">s</span>`;
+    document.getElementById('sea-temp').innerHTML = `${seaTemp.toFixed(1)} <span class="unit">°C</span>`;
+    document.getElementById('sea-wind').innerHTML = `${Math.round(wind)} <span class="unit">km/h</span>`;
+    const flag = document.getElementById('flag-status');
+    if (wave < 1.0){
+      flag.className = 'flag ok';
+      flag.innerHTML = '<span class="dot"></span> Mar calmo — condições tranquilas para banho';
+    } else if (wave < 2.0){
+      flag.className = 'flag aviso';
+      flag.innerHTML = '<span class="dot"></span> Mar com alguma ondulação — atenção redobrada';
+    } else {
+      flag.className = 'flag mau';
+      flag.innerHTML = '<span class="dot"></span> Mar agitado — só para surf experiente, evita banho';
+    }
     const horas = [10, 12, 15, 18];
     const tbody = document.getElementById('sea-table-body');
     const linhas = [];
@@ -649,7 +705,8 @@ async function carregarNoticias(){
     }
     const blocos = [
       ['Barcelos', d.noticias?.barcelos || []],
-      ['Esposende', d.noticias?.esposende || []]
+      ['Esposende', d.noticias?.esposende || []],
+      ['Mundo', d.noticias?.mundo || []]
     ];
     if (!blocos.some(([, it]) => it.length)) throw new Error('dados.json vazio');
     lista.innerHTML = blocos.map(([nome, items]) =>
@@ -662,7 +719,8 @@ async function carregarNoticias(){
   try{
     const queries = [
       ['Barcelos', 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt'],
-      ['Esposende', 'https://news.google.com/rss/search?q=Esposende&hl=pt-PT&gl=PT&ceid=PT:pt']
+      ['Esposende', 'https://news.google.com/rss/search?q=Esposende&hl=pt-PT&gl=PT&ceid=PT:pt'],
+      ['Mundo', 'https://news.google.com/rss/headlines/section/topic/WORLD?hl=pt-PT&gl=PT&ceid=PT:pt']
     ];
     const resultados = await Promise.all(queries.map(async ([nome, feedUrl]) => {
       const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl);
