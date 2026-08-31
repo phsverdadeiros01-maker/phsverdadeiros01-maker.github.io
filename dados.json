@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-08-31T14:35:20Z",
+ "atualizado_em": "2026-08-31T14:50:24Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-08-31T14:35:21Z",
+  "atualizado_em": "2026-08-31T14:50:25Z",
   "dias": [
    {
     "data": "2026-08-31",
@@ -1634,81 +1634,96 @@
    {
     "title": "Mercado de Barcelos inaugurado esta segunda-feira após seis anos de obras - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWIwUnB4ZEFHYXlhWTFiVy1LRE9KZUtVY3pZeVVUTEF5WVZjaW80b0MtT1kxVmlpMHdhdzlRbk84ZTRTNzNjTURqM3RNWW1Wb0dSR3Z6b2E2LVpnbEM3VzB3eU9Ld3VvSTI0SzZYd3ltWVN5RTduRlVodnVkYUVjNm9UdzMyVFp4a0tIUTRpN2VrUmY5SmpFb2FOVWlLUGNLb0RYMWRlVTBiNUZEQW1NbWJ3?oc=5",
-    "source": "Jornal de Notícias"
+    "source": "Jornal de Notícias",
+    "ts": 1788162120
    },
    {
     "title": "Jovens de Barcelos carregam à cabeça vasos de 30 quilos para os levar às campas dos familiares - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdmpZcVM3SUFOcDhoNTVoZHJNcHdpT00xZ3JQOVE4QWFCSm5kY2ZkTEtCMWpNMVpkQmR2MmhuNHE1Q0NWb0xjVFRneEs1WE9zMDQwOVc0QUpGUFFHcHlyOUY1TWlFYVd1Z3NuQU00eS1NMnNSbkE2eEtITTVHNU1YUHpOcGFsMkFHcy1zSmtaYkotRXJjMGZMZURTNlVmZC03Szh4b1gxVkVqU3YwcnMxclFlTQ?oc=5",
-    "source": "O MINHO"
+    "source": "O MINHO",
+    "ts": 1788168686
    },
    {
     "title": "Quatro jovens feridos em despiste aparatoso em Barcelos - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYlhYX1U3SXozOXcwdzlUOGMwR0ZJeTV4aEdCbktjYXZkcjRkcXBzMlJ4UkV4ZW9YLVBrZGFlQjI3eEJjZi0xODliTzFvVUROWHRDOXV6d3diSW9uZlRiRTJLSlNaVS1WVmFzYUU4T1VHWTlkcm1xV1FMSEVSTlNzTHhFRDdOcjA3ZnRrUmU4UkxtM1drdG5wc2hkemTSAZcBQVVfeXFMT1VEZ05pUTFtTW9aYWwzX3k5YU8ybFpDMHF1dFYxSDRUckIwdVk4bDZaaGw5OEhlXzRqXzlYMzZRVUJ5bFRGbTVKWTk4RFd0REZUbjZCSEdCTnVBOVdMcl9mNnF5TWdieVZGOHAyNDVFZW5Ic3hlaGxUZGhkQnFZUEk2X1VZdTBYdjRyX0phSkZITEFVOHVCWQ?oc=5",
-    "source": "Correio da Manhã"
+    "source": "Correio da Manhã",
+    "ts": 1787926993
    },
    {
     "title": "Barcelos assinala 98.º aniversário da elevação a cidade - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOWhJUWFpM1R2MzBINTV3RmEyTkVleDA3dFFfdFZXSUFsbjZkdHBEcEtrY1BIeF9rc2F5ZXE5Z2VvWUhWS1lTWXhhVGg1Y3pKWTVwQzF5NzBPcG5TLWhKbG80UHgybC10djVaQk9aenlGbXhsLWJiUGpRSjVJWVRSag?oc=5",
-    "source": "Braga TV"
+    "source": "Braga TV",
+    "ts": 1788171671
    },
    {
     "title": "Município de Barcelos reforça resposta habitacional com aquisição de 36 habitações - SAPO",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZVNfTVVSVUQySGpCYnNCbnBnZ3AyRHdIMkoxOF9HUFh5WXluTGR3eERiOThjUzZvTXhqeDVjaVhrMEM5TG51S1loSFdNNGdIeWVGRnpvWnE3OWxxbm14OVpBTTlWQzdhQWtkNm1KU2hTUlF6MzcyVjlCcmlqRFJiY3RjU1RXZTF0N0FqMm5CNmxwWVFfS245b1doNWp2d3IyRDZaU0dFaw?oc=5",
-    "source": "SAPO"
+    "source": "SAPO",
+    "ts": 1787994459
    }
   ],
   "esposende": [
    {
     "title": "Três militares feridos após carro da GNR se despistar numa perseguição em Esposende - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3U1SUdRUGFIeXpqNmIxRjVjNUVxQUxUNEhmWG00T2FTVnJ2NS1Cd21OVkVlYWJNcF9FUDdQVGlodF81aTZRbjFIejNja1F4LTN4V2dabkRUZTBod0txRU5qTU82Y2ZfeGlEZzZ0blVBNXpFc09ENHlHREFCRF85eVlvWjRXakYyTkhJLUR2YW9qckFNSnYzRERXVUlKVnc5SG9jSWNvSVR6UlVORlJ2b1o4U3U1STZrZFl0a2FvX0puVEXSAbQBQVVfeXFMTjNqcWhkTC1zTlZ3UGRNVVNxLUhXNy04ZW1DWFIteUxCV252NElwTDZBNUc1Z2JkaFVDeEF6MFJtVUY4SFlvWTNPLTlXdjNvRndBOWtxNklaeVRKTi1CSmdLS2FZNVR5eFhnM2RwTk0xcWY3Ym51ZlloUnRYc25kYXRacFIxVDFwMnZtMGYwREZXVXdvYWZOVDFNaFZZcHdhQmNQekNQcXhVX1paOG9pUHl0Mm5U?oc=5",
-    "source": "Jornal de Notícias"
+    "source": "Jornal de Notícias",
+    "ts": 1788095220
    },
    {
     "title": "Três militares da GNR feridos em despiste de carro em Esposende - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3ZXOXJIaU1nb0xfTGoyZ3dnV0c2bXNwdnZDV0NtYnh1ZFJuN3l2ZzhvTjJZNlNqbUtEclh4VG9xWUc5UGtHZWlUY21uMXFvdHpXTU1QR01JTm53ZjJDQ2hwdlk4QWY2c1VFamFYLWUxQUx1ajhZbENGdjdpWkpGRFozbGd4UTlJSDBuYlA4Ukh5MGJtbkVxYTJHRVYwZ2d6ZEJCVFZoMNIBogFBVV95cUxOSF9CUmFNMEY1TVlsMzRueFI0TXMzZnc4NDBQZzNjR2wzV0J3RzhtZGtyQWUtbUhTSlBLN3RzRHdhbXl4Y19HMkN4LXhtdUhZaVhxVzhCZnNPQTRPRkhqRXlNZjBNSGtEWC1ITVdULWsxXzV6T1Y3ajU4em9ZMVlCaE9oNXpqQnJkcDVxQmVyRGg0UFRzRWNOakxCdFFZcnYxNlE?oc=5",
-    "source": "Correio da Manhã"
+    "source": "Correio da Manhã",
+    "ts": 1788081960
    },
    {
     "title": "Esposende: Três militares da GNR feridos após despiste de viatura da UCC - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sdlNqWmtsN2NWbF84aXR4M1N1a0xmbEZPVWFzUTZGc21YVkJwbms5ZHBVWHBTUEk5b2UxTlRmLU1ha2xncEhEZGlOTXVDaGxWM3Q1MW51eEYzVGZxZDMxbmtSM3lQT0RpX19XWWRIbjAyTGNiVExERzl3?oc=5",
-    "source": "e24.pt"
+    "source": "e24.pt",
+    "ts": 1788081164
    },
    {
     "title": "Três militares da GNR feridos após despiste em Esposende - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHRqYWxTcmFDX0VuMXhjRFdtQ1l2UjJKR3F1ZTBpYnFHMXBGcFR6YVhydk5SVjdySE9rSVg1UkxXaE03aThuNEFDQnJsWUJGQ3dIeklXZkhTSjNsUWxzQzlJVXlnN2VmQWk5OC1CR2YyNnlqYXkydklrN0UxbVRNNQ?oc=5",
-    "source": "O MINHO"
+    "source": "O MINHO",
+    "ts": 1788084948
    },
    {
     "title": "Despiste em Esposende fere três militares da GNR - Diário do Distrito",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXk2T0I5SGtmREtmVHo5b0ttZzFaYnduQ1otQUJiYUZWTFpWM05zcTJzaHB2WVBxdnRNdDAwZ2pIVC10S3FjUmJWMkhrRkRvNUNmcDQyR3hhTDRQcWt5bzBwVmYwOFVtOW9yeDVJdHBsRTdDUmJOMURoSDVJUGNhemJ1b2VQVDQ?oc=5",
-    "source": "Diário do Distrito"
+    "source": "Diário do Distrito",
+    "ts": 1788115468
    }
   ],
   "mundo": [
    {
     "title": "EUA e Irão retomam hostilidades - RTP",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KTVBmRU5nZTJNeFNaaVhpdzNiY19razZpNk9ocGxFSVNlM2hENkExMVJsVHpBV0E5ZHRrT2lTTjlienlTV3Rub1Z4U1hEa1QwZnItOW10RVFFRkdwbDYxQ1ZPVEdSR0ZHbktBMGRKUV9oRDZlcnRoVEVXeXJqSW8?oc=5",
-    "source": "RTP"
+    "source": "RTP",
+    "ts": 1788180649
    },
    {
     "title": "Diretor de escola salva 900 alunos das cheias no Nepal - Expresso",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0Z6eENINy1tWjR0T196TmNyV3F0UXZZUjBLckkzNExwOVpWYm1mRVYtaUdNMl9uaGRjV2dKek41N0JJQVMzUnpsbUhUQWtPNDMxUDJ3OVh1NDRkVzllRjUzRzJWZ3o3eTQ1Q3U1b1NieUFVbUl6ajNNWHpVbjlLdFZtbkYwazh3MEJjczZmbFZkRENHa08xeXdVSkFPRGNp?oc=5",
-    "source": "Expresso"
+    "source": "Expresso",
+    "ts": 1788177785
    },
    {
     "title": "Sánchez culpa Israel e EUA por entrada massiva de migrantes em Ceuta e iliba Marrocos - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlR5ODVXVlJxNk9VVmwzd3A5TV9mYjA5RUZHX3VnaGNPLXNHTXBMaVZPdFQyejFDT3BnSHZ1bWRPYmJYQ3VrMlZvU3dMYmZ3S3VMd1ZtZE5jUGVfYkNSVnF2c21scDViV0drOXhsR1RfN3hSbllSb3NYU25hcHNZN3dIdUM5U0ZlZWdKSUlmcVFHX3h5SmpCdTI3RUpZT29RM0o3aDBFVjNnOXR5cXVrN3VzcTBuUkVMTnBGejhrVkHSAbsBQVVfeXFMTWh5Z0FLVU0ycW1HSWVnc3UwakhKdlczXzVBSUNuZmozME5VSi1XSFFhTzRBQ0lfR18yOElPdFo1cFJoMjZ1d3pvWklLeGphQjRyYzQ2M2JFLTJxQlhNRDJlN2JKSnY4NFhiMU1udlB1UHJ6M3dLU2FNOXNZTEFPd3docU16VlhGSV9idHE3UXZLN0gxNVRGWkstdlBVXzhjclp6TlRXMG43a3pJN2g3OVVFaHBMaXl4ZmNPNA?oc=5",
-    "source": "Correio da Manhã"
+    "source": "Correio da Manhã",
+    "ts": 1788165420
    },
    {
     "title": "Referendo. União Europeia respeita “não” da Islândia e primeira-ministra fala em \"vitória para a democracia\" - Jornal Económico",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT1oyY240NGx0SGk1NktJeGRaRVBZekxaWUVxeHRvbkh5aVdBS2ZCeGxGemN6OG1qb3ZMN203TlRyYnptaTM3aDJXWVNFYlhxbmVDdmNPYVVmUndsNFNLRnRSdWtkSHR6M2ZuaUo1bE1BZFpRWEVPTlVJblVRZHFZU253XzhWMHN1TUN1N1FCdV9CZlRZZkZnaHJJamJPSE44dkt1SHpnSkRFbmxDSnhvNm1hdGk4NzNkWDBfLXdhV2pVaDBVUnEzeVd4Slp6YkdKWGEtb1k5V1FocXdsdVE?oc=5",
-    "source": "Jornal Económico"
+    "source": "Jornal Económico",
+    "ts": 1788134400
    },
    {
     "title": "Lago Ontário passa a chamar-se lago da América no Google Maps dos EUA - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTRvTGgzMEZpYk42SW13UFBuaXVrM2pUMDl4bGQ0dU9qdnRueGRkaU5udEcwNjFVcGJFc1ZFSEhtaWRobWpPekFnUFd5SlNOM1lxVk16cmIwWVZvUjFoZGlUMFRDNGJuT0d0N1hLc1d3UDVjLWZWWURyTmxMY2tPc1NieUcweUpkbDFQMFFvNV85TTFoWU9kUHRLaGp2eWU4am5HM2dsQlhfeE9DR0HSAaIBQVVfeXFMTkgzQng3NjM3ZGJIdTUxVi02SjRHaUw3NlpUdGJZSjJ1VWtqTG9vZW92Q3YxZFBFOW1UajNOdk5JTGxQQzFKcHpueFFfNUswc3hDX0I4RlcwcHdYUDdzZUN2R2VhVjNRTXk1bzRFRzZEZ0g3cFNfTmpZMWVKaWVCeVJJVG5jOGFDdXhsRDJJcmNiT3BQUFpRNFJ2cTdlU203VGVB?oc=5",
-    "source": "Jornal de Notícias"
+    "source": "Jornal de Notícias",
+    "ts": 1788172200
    }
   ]
  }
