@@ -1,5 +1,55 @@
 {
- "atualizado_em": "2026-08-31T14:18:03Z",
+ "atualizado_em": "2026-08-31T14:31:26Z",
+ "mar": {
+  "dias": [
+   {
+    "data": "2026-08-31",
+    "onda_min": 1.1,
+    "onda_max": 1.6,
+    "periodo_min": 4.5,
+    "periodo_max": 5.8,
+    "sst_min": 18.7,
+    "sst_max": 19.0,
+    "total_sea_min": 1.0,
+    "total_sea_max": 2.0,
+    "direcao": "NW",
+    "ponto": "Viana (IPMA)"
+   },
+   {
+    "data": "2026-09-01",
+    "onda_min": 1.1,
+    "onda_max": 1.7,
+    "periodo_min": 4.3,
+    "periodo_max": 5.4,
+    "sst_min": 18.4,
+    "sst_max": 18.6,
+    "total_sea_min": 1.5,
+    "total_sea_max": 1.5,
+    "direcao": "NW",
+    "ponto": "Viana (IPMA)"
+   },
+   {
+    "data": "2026-09-02",
+    "onda_min": 0.7,
+    "onda_max": 1.3,
+    "periodo_min": 3.5,
+    "periodo_max": 4.6,
+    "sst_min": 18.2,
+    "sst_max": 18.5,
+    "total_sea_min": 1.0,
+    "total_sea_max": 1.5,
+    "direcao": "NW",
+    "ponto": "Viana (IPMA)"
+   }
+  ],
+  "vento": {
+   "estacao": "Esposende (IPMA)",
+   "kmh": 30,
+   "dir": "NW",
+   "time": "2026-08-31T13:00:00"
+  },
+  "fonte": "IPMA"
+ },
  "noticias": {
   "barcelos": [
    {
@@ -53,6 +103,33 @@
     "title": "Despiste em Esposende fere três militares da GNR - Diário do Distrito",
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcXk2T0I5SGtmREtmVHo5b0ttZzFaYnduQ1otQUJiYUZWTFpWM05zcTJzaHB2WVBxdnRNdDAwZ2pIVC10S3FjUmJWMkhrRkRvNUNmcDQyR3hhTDRQcWt5bzBwVmYwOFVtOW9yeDVJdHBsRTdDUmJOMURoSDVJUGNhemJ1b2VQVDQ?oc=5",
     "source": "Diário do Distrito"
+   }
+  ],
+  "mundo": [
+   {
+    "title": "EUA e Irão retomam hostilidades - RTP",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1KTVBmRU5nZTJNeFNaaVhpdzNiY19razZpNk9ocGxFSVNlM2hENkExMVJsVHpBV0E5ZHRrT2lTTjlienlTV3Rub1Z4U1hEa1QwZnItOW10RVFFRkdwbDYxQ1ZPVEdSR0ZHbktBMGRKUV9oRDZlcnRoVEVXeXJqSW8?oc=5",
+    "source": "RTP"
+   },
+   {
+    "title": "Diretor de escola salva 900 alunos das cheias no Nepal - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0Z6eENINy1tWjR0T196TmNyV3F0UXZZUjBLckkzNExwOVpWYm1mRVYtaUdNMl9uaGRjV2dKek41N0JJQVMzUnpsbUhUQWtPNDMxUDJ3OVh1NDRkVzllRjUzRzJWZ3o3eTQ1Q3U1b1NieUFVbUl6ajNNWHpVbjlLdFZtbkYwazh3MEJjczZmbFZkRENHa08xeXdVSkFPRGNp?oc=5",
+    "source": "Expresso"
+   },
+   {
+    "title": "Sánchez culpa Israel e EUA por entrada massiva de migrantes em Ceuta e iliba Marrocos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdlR5ODVXVlJxNk9VVmwzd3A5TV9mYjA5RUZHX3VnaGNPLXNHTXBMaVZPdFQyejFDT3BnSHZ1bWRPYmJYQ3VrMlZvU3dMYmZ3S3VMd1ZtZE5jUGVfYkNSVnF2c21scDViV0drOXhsR1RfN3hSbllSb3NYU25hcHNZN3dIdUM5U0ZlZWdKSUlmcVFHX3h5SmpCdTI3RUpZT29RM0o3aDBFVjNnOXR5cXVrN3VzcTBuUkVMTnBGejhrVkHSAbsBQVVfeXFMTWh5Z0FLVU0ycW1HSWVnc3UwakhKdlczXzVBSUNuZmozME5VSi1XSFFhTzRBQ0lfR18yOElPdFo1cFJoMjZ1d3pvWklLeGphQjRyYzQ2M2JFLTJxQlhNRDJlN2JKSnY4NFhiMU1udlB1UHJ6M3dLU2FNOXNZTEFPd3docU16VlhGSV9idHE3UXZLN0gxNVRGWkstdlBVXzhjclp6TlRXMG43a3pJN2g3OVVFaHBMaXl4ZmNPNA?oc=5",
+    "source": "Correio da Manhã"
+   },
+   {
+    "title": "Referendo. União Europeia respeita “não” da Islândia e primeira-ministra fala em \"vitória para a democracia\" - Jornal Económico",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPT1oyY240NGx0SGk1NktJeGRaRVBZekxaWUVxeHRvbkh5aVdBS2ZCeGxGemN6OG1qb3ZMN203TlRyYnptaTM3aDJXWVNFYlhxbmVDdmNPYVVmUndsNFNLRnRSdWtkSHR6M2ZuaUo1bE1BZFpRWEVPTlVJblVRZHFZU253XzhWMHN1TUN1N1FCdV9CZlRZZkZnaHJJamJPSE44dkt1SHpnSkRFbmxDSnhvNm1hdGk4NzNkWDBfLXdhV2pVaDBVUnEzeVd4Slp6YkdKWGEtb1k5V1FocXdsdVE?oc=5",
+    "source": "Jornal Económico"
+   },
+   {
+    "title": "Lago Ontário passa a chamar-se lago da América no Google Maps dos EUA - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOTRvTGgzMEZpYk42SW13UFBuaXVrM2pUMDl4bGQ0dU9qdnRueGRkaU5udEcwNjFVcGJFc1ZFSEhtaWRobWpPekFnUFd5SlNOM1lxVk16cmIwWVZvUjFoZGlUMFRDNGJuT0d0N1hLc1d3UDVjLWZWWURyTmxMY2tPc1NieUcweUpkbDFQMFFvNV85TTFoWU9kUHRLaGp2eWU4am5HM2dsQlhfeE9DR0HSAaIBQVVfeXFMTkgzQng3NjM3ZGJIdTUxVi02SjRHaUw3NlpUdGJZSjJ1VWtqTG9vZW92Q3YxZFBFOW1UajNOdk5JTGxQQzFKcHpueFFfNUswc3hDX0I4RlcwcHdYUDdzZUN2R2VhVjNRTXk1bzRFRzZEZ0g3cFNfTmpZMWVKaWVCeVJJVG5jOGFDdXhsRDJJcmNiT3BQUFpRNFJ2cTdlU203VGVB?oc=5",
+    "source": "Jornal de Notícias"
    }
   ]
  }
