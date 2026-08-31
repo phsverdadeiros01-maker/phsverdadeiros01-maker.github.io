@@ -3,247 +3,641 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="default">
-<title>Barcelos Hoje — Notícias, Tempo, Praias e Nazaré</title>
-<meta name="description" content="Portal local: tempo em Barcelos, praia de Ofir, câmaras ao vivo (Ofir e Nazaré), notícias da região e informação útil.">
-<meta name="theme-color" content="#0d9488">
-<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🌊</text></svg>">
+<meta name="theme-color" content="#163B4D">
+<title>Barcelos Hoje — Tempo, Mar de Ofir e Notícias</title>
+<meta name="description" content="Tempo real em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo, notícias da região e os recursos oficiais mais úteis: Fogos.pt, Barragens.pt e Analisa.pt.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#f2f9f7; --ink:#0f2b2a; --mut:#5b7b76; --mut2:#8aa7a2;
-    --teal:#0d9488; --teal-d:#0f766e; --teal-l:#ccfbf1;
-    --sea:#0891b2; --red:#e11d48;
-    --card:#ffffff; --line:#d7e9e4; --shadow:0 2px 10px rgba(13,148,136,.08),0 12px 32px rgba(13,148,136,.10);
-    --radius:18px;
+    --azul-fundo: #163B4D;
+    --azul-profundo: #0E2A38;
+    --azulejo: #2E6C82;
+    --telha: #B9552C;
+    --telha-clara: #D97A4C;
+    --granito: #55524C;
+    --papel: #FAF7F1;
+    --papel-linha: #E4DDD0;
+    --tinta: #262320;
+    --tinta-suave: #6B665D;
+    --verde-ok: #3E7A52;
+    --amarelo-aviso: #C08A1E;
+    --vermelho-aviso: #B23B2E;
+    --radius-s: 4px;
+    --radius-m: 10px;
   }
-  *{margin:0;padding:0;box-sizing:border-box}
-  html{scroll-behavior:smooth}
-  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;background:
-    radial-gradient(1200px 500px at 80% -100px, #d8f3ef 0, transparent 55%),
-    radial-gradient(900px 400px at -10% 20%, #e0f6ff55 0, transparent 50%),
-    var(--bg);color:var(--ink);line-height:1.55;min-height:100vh}
-  .wrap{max-width:1100px;margin:0 auto;padding:0 20px}
+  *{box-sizing:border-box;}
+  html{scroll-behavior:smooth;}
+  body{
+    margin:0;
+    background:var(--papel);
+    color:var(--tinta);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.5;
+  }
+  h1,h2,h3,.serif{
+    font-family:'Fraunces', serif;
+    font-weight:600;
+    letter-spacing:-0.01em;
+  }
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:inherit;}
+  img{max-width:100%;display:block;}
 
-  /* ---------- topo ---------- */
-  header{background:linear-gradient(135deg,#0f766e,#0e7490 60%,#155e75);color:#fff;border-radius:0 0 28px 28px;box-shadow:var(--shadow)}
-  .top{padding:22px 0 0;display:flex;align-items:center;justify-content:space-between;gap:14px;flex-wrap:wrap}
-  .brand{display:flex;align-items:center;gap:12px}
-  .logo{font-size:2rem;line-height:1}
-  .brand h1{font-size:1.45rem;font-weight:800;letter-spacing:.2px}
-  .brand small{display:block;font-weight:400;color:#b9e8e0;font-size:.8rem}
-  .clock{background:rgba(255,255,255,.14);padding:8px 14px;border-radius:999px;font-size:.85rem;display:flex;gap:8px;align-items:center}
-  .dotl{width:8px;height:8px;border-radius:50%;background:#fde68a;box-shadow:0 0 0 0 rgba(253,230,138,.7);animation:pulso 1.8s infinite}
-  @keyframes pulso{0%{box-shadow:0 0 0 0 rgba(253,230,138,.7)}70%{box-shadow:0 0 0 9px rgba(253,230,138,0)}100%{box-shadow:0 0 0 0 rgba(253,230,138,0)}}
-  nav{display:flex;gap:6px;flex-wrap:wrap;padding:16px 0 22px}
-  nav a{color:#e7f8f5;text-decoration:none;font-size:.88rem;font-weight:600;padding:7px 15px;border-radius:999px;background:rgba(255,255,255,.10);transition:.2s}
-  nav a:hover{background:rgba(255,255,255,.24)}
+  /* ---------- Header / masthead ---------- */
+  header.masthead{
+    background:linear-gradient(155deg, var(--azul-profundo) 0%, var(--azul-fundo) 55%, var(--azulejo) 130%);
+    color:#F3F1EA;
+    padding:2.2rem 1.25rem 1.6rem;
+    position:relative;
+    overflow:hidden;
+  }
+  header.masthead::after{
+    content:"";
+    position:absolute;
+    right:-8%;
+    bottom:-45%;
+    width:70%;
+    padding-bottom:70%;
+    border-radius:50%;
+    background:radial-gradient(circle at 35% 35%, rgba(217,122,76,0.35), rgba(217,122,76,0) 65%);
+    pointer-events:none;
+  }
+  .masthead-inner{max-width:900px;margin:0 auto;position:relative;}
+  .masthead-top{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;flex-wrap:wrap;}
+  .masthead-date{font-family:'IBM Plex Mono',monospace;font-size:0.78rem;color:#C9D8DD;text-transform:lowercase;}
+  h1.title{
+    font-size:clamp(2.1rem, 6vw, 3.1rem);
+    margin:0.5rem 0 0.15rem;
+    color:#fff;
+  }
+  .subtitle{color:#C9D8DD;font-size:0.98rem;max-width:34ch;margin:0;}
 
-  /* ---------- resumo ---------- */
-  .hero{margin:16px 0 4px;display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:10px}
-  .hcard{background:var(--card);border:1px solid var(--line);border-radius:14px;box-shadow:var(--shadow);padding:10px 14px}
-  .hcard .k{font-size:.64rem;text-transform:uppercase;letter-spacing:.5px;color:var(--mut2);font-weight:700}
-  .hcard .v{font-size:1.5rem;font-weight:800;color:var(--teal-d);line-height:1.1;display:block}
-  .hcard .s{font-size:.75rem;color:var(--mut)}
+  nav.tabs{
+    max-width:900px;margin:1.6rem auto 0;
+    display:flex;gap:0.4rem;flex-wrap:wrap;
+    position:relative;
+  }
+  nav.tabs a{
+    text-decoration:none;
+    font-size:0.85rem;
+    padding:0.45rem 0.85rem;
+    border-radius:999px;
+    background:rgba(255,255,255,0.08);
+    border:1px solid rgba(255,255,255,0.16);
+    color:#F3F1EA;
+    white-space:nowrap;
+  }
+  nav.tabs a:hover{background:rgba(255,255,255,0.18);}
 
-  /* ---------- secções ---------- */
-  section{margin:26px 0}
-  .sec{display:flex;align-items:center;gap:10px;margin-bottom:16px}
-  .sec .ico{font-size:1.35rem}
-  .sec h2{font-size:1.25rem;font-weight:800}
-  .sec .tag{margin-left:auto;font-size:.72rem;color:var(--mut);background:var(--teal-l);padding:4px 12px;border-radius:999px;font-weight:600;white-space:nowrap}
-  .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow);padding:20px}
-  .grid{display:grid;gap:14px}
-  .g2{grid-template-columns:repeat(auto-fit,minmax(300px,1fr))}
-  .g3{grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
-  .g4{grid-template-columns:repeat(auto-fit,minmax(150px,1fr))}
-  .mut{color:var(--mut);font-size:.85rem}
-  .mut2{color:var(--mut2);font-size:.75rem}
+  main{max-width:900px;margin:0 auto;padding:0 1.25rem;}
 
-  /* tempo */
-  .now{display:flex;gap:22px;align-items:center;flex-wrap:wrap}
-  .now .big{font-size:2.8rem;font-weight:800;line-height:1}
-  .now .desc{color:var(--mut);font-size:.9rem;margin-top:4px}
-  .now .emo{font-size:2.2rem}
-  .meta{display:grid;grid-template-columns:repeat(auto-fit,minmax(110px,1fr));gap:10px;flex:1;min-width:230px}
-  .meta div{background:#f6fbfa;border:1px solid var(--line);border-radius:12px;padding:10px 12px;text-align:center}
-  .meta b{display:block;font-size:1rem;color:var(--teal-d)}
-  .meta span{font-size:.72rem;color:var(--mut2);text-transform:uppercase;letter-spacing:.3px}
-  .days{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:12px}
-  .day{background:#fbfefe;border:1px solid var(--line);border-radius:12px;padding:10px 8px;text-align:center}
-  .day .d{font-size:.68rem;color:var(--mut);text-transform:uppercase;letter-spacing:.4px;font-weight:700}
-  .day .e{font-size:1.5rem;margin:4px 0}
-  .day .t{font-size:.84rem;font-weight:700}
-  .day .rain{font-size:.68rem;color:var(--sea)}
+  section{padding:2.6rem 0;border-bottom:1px solid var(--papel-linha);}
+  section:last-of-type{border-bottom:none;}
+  .eyebrow-row{display:flex;align-items:center;gap:0.6rem;margin-bottom:0.9rem;}
+  .section-icon{
+    width:2.1rem;height:2.1rem;border-radius:50%;
+    background:var(--azulejo);color:#fff;
+    display:flex;align-items:center;justify-content:center;font-size:1.05rem;flex:none;
+  }
+  h2.section-title{font-size:1.5rem;margin:0;}
+  p.section-lede{color:var(--tinta-suave);margin:0.2rem 0 1.3rem;max-width:56ch;}
 
-  /* mar */
-  .flag{display:inline-flex;align-items:center;gap:9px;margin-bottom:12px;padding:9px 15px;border-radius:999px;background:#fbfefe;border:1px solid var(--line);font-weight:700;font-size:.9rem}
-  .flag .col{width:15px;height:15px;border-radius:50%}
-  .sea-b{border:1px solid var(--line);border-radius:14px;padding:12px;text-align:center;background:#fbfefe}
-  .sea-b b{display:block;font-size:1.4rem;color:var(--teal-d)}
-  .sea-b span{font-size:.7rem;color:var(--mut2)}
+  /* ---------- status pill ---------- */
+  .updated-note{font-size:0.78rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.3rem;}
 
-  /* câmaras */
-  .cam{display:flex;flex-direction:column;align-items:center;text-align:center;padding:20px 16px;background:linear-gradient(165deg,#ffffff,#f0faf8);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow)}
-  .cam .cine{width:100%;aspect-ratio:16/9;border-radius:14px;margin-bottom:12px;display:flex;align-items:center;justify-content:center;font-size:2.5rem;background:linear-gradient(135deg,#104c5c,#0e7490)}
-  .cam h3{font-size:1rem;margin-bottom:4px}
-  .cam .sub{font-size:.78rem;color:var(--mut);margin-bottom:12px;min-height:32px}
-  .live{display:inline-flex;align-items:center;gap:6px;font-size:.68rem;font-weight:800;letter-spacing:.4px;color:var(--red);text-transform:uppercase;margin-bottom:8px}
-  .live i{width:7px;height:7px;border-radius:50%;background:var(--red);animation:blink 1.2s infinite}
-  @keyframes blink{50%{opacity:.25}}
-  .btn{display:inline-block;background:var(--teal);color:#fff!important;text-decoration:none;font-weight:700;font-size:.88rem;padding:10px 20px;border-radius:999px;transition:.2s}
-  .btn:hover{background:var(--teal-d);transform:translateY(-1px)}
+  /* ---------- Weather now card ---------- */
+  .now-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:1rem;}
+  @media (max-width:620px){.now-grid{grid-template-columns:1fr;}}
+  .now-card{
+    background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
+    padding:1.4rem 1.5rem;
+  }
+  .now-card.hero{
+    background:linear-gradient(160deg, var(--azulejo), var(--azul-fundo));
+    color:#fff;border:none;
+  }
+  .now-place{font-size:0.85rem;text-transform:none;opacity:0.85;letter-spacing:0.01em;}
+  .now-temp-row{display:flex;align-items:center;gap:0.9rem;margin-top:0.4rem;}
+  .now-icon{font-size:3rem;line-height:1;}
+  .now-temp{font-family:'Fraunces',serif;font-size:3.2rem;font-weight:600;line-height:1;}
+  .now-desc{font-size:1rem;margin-top:0.15rem;opacity:0.95;}
+  .now-sub{display:flex;gap:1.2rem;margin-top:1rem;font-size:0.85rem;flex-wrap:wrap;opacity:0.9;}
+  .now-sub span strong{display:block;font-family:'IBM Plex Mono',monospace;font-size:0.95rem;font-weight:500;}
 
-  /* notícias */
-  .news-item{display:flex;gap:12px;padding:10px 6px;border-bottom:1px solid var(--line)}
-  .news-item:last-child{border:none}
-  .news-item h4{font-size:.88rem;font-weight:650}
-  .news-item a{color:var(--ink);text-decoration:none}
-  .news-item a:hover{color:var(--teal)}
-  .news-item .src{font-size:.72rem;color:var(--mut2);margin-top:3px}
-  .pill-src{display:inline-block;background:var(--teal-l);color:var(--teal-d);font-size:.68rem;font-weight:700;padding:2px 9px;border-radius:999px}
-  .qnd{color:var(--mut2);font-size:.72rem;margin-left:6px}
-  .skel{background:linear-gradient(90deg,#eef6f4 25%,#e2efeb 50%,#eef6f4 75%);background-size:200% 100%;animation:sh 1.3s infinite;border-radius:8px;height:14px;margin:10px 0}
-  @keyframes sh{0%{background-position:200% 0}100%{background-position:-200% 0}}
+  .stat-list{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:0.7rem;}
+  .stat-list li{display:flex;justify-content:space-between;align-items:center;font-size:0.92rem;padding-bottom:0.7rem;border-bottom:1px dashed var(--papel-linha);}
+  .stat-list li:last-child{border-bottom:none;padding-bottom:0;}
+  .stat-list .label{color:var(--tinta-suave);}
+  .stat-list .value{font-family:'IBM Plex Mono',monospace;font-weight:500;}
 
-  /* úteis */
-  .util{display:flex;align-items:center;gap:12px;padding:13px;border:1px solid var(--line);border-radius:14px;background:#fbfefe;text-decoration:none;transition:.18s}
-  .util:hover{border-color:var(--teal);transform:translateY(-2px);box-shadow:var(--shadow)}
-  .util .u{font-size:1.35rem}
-  .util b{display:block;color:var(--ink);font-size:.9rem}
-  .util span{color:var(--mut);font-size:.76rem}
-  .tips{background:#f4fbf9;border:1px dashed var(--teal);border-radius:14px;padding:15px 18px;margin-top:14px}
-  .tips li{margin:5px 0 5px 18px;color:var(--mut);font-size:.86rem}
-  .tips b{color:var(--teal-d)}
-  .err{color:var(--red);font-size:.85rem;padding:10px;border:1px dashed var(--red);border-radius:10px}
-  footer{margin-top:46px;padding:26px 0 40px;border-top:1px solid var(--line);color:var(--mut2);font-size:.8rem;text-align:center}
-  footer a{color:var(--teal)}
-  @media(max-width:560px){.now .big{font-size:2.8rem}}
+  /* ---------- Forecast strip ---------- */
+  .forecast-strip{display:grid;grid-template-columns:repeat(7,1fr);gap:0.5rem;margin-top:1.2rem;}
+  @media (max-width:700px){.forecast-strip{grid-template-columns:repeat(4,1fr);}}
+  .fday{
+    background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
+    padding:0.8rem 0.4rem;text-align:center;
+  }
+  .fday .d{font-size:0.72rem;color:var(--tinta-suave);text-transform:capitalize;}
+  .fday .ic{font-size:1.6rem;margin:0.3rem 0;}
+  .fday .hi{font-weight:600;font-family:'IBM Plex Mono',monospace;}
+  .fday .lo{color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;font-size:0.85rem;}
+  .fday .rain{font-size:0.72rem;color:var(--azulejo);margin-top:0.2rem;}
+
+  /* hourly */
+  .hourly-scroll{display:flex;gap:0.65rem;overflow-x:auto;padding:1rem 0 0.4rem;margin-top:0.5rem;-webkit-overflow-scrolling:touch;}
+  .hour{flex:none;width:64px;text-align:center;background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:0.6rem 0.3rem;}
+  .hour .t{font-size:0.72rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;}
+  .hour .ic{font-size:1.3rem;margin:0.25rem 0;}
+  .hour .temp{font-size:0.85rem;font-weight:600;font-family:'IBM Plex Mono',monospace;}
+
+  /* ---------- Praia / mar ---------- */
+  .flag{
+    display:inline-flex;align-items:center;gap:0.5rem;
+    padding:0.4rem 0.85rem;border-radius:999px;font-size:0.85rem;font-weight:600;
+    margin-bottom:1rem;
+  }
+  .flag .dot{width:0.6rem;height:0.6rem;border-radius:50%;background:currentColor;}
+  .flag.ok{background:#E6F0E9;color:var(--verde-ok);}
+  .flag.aviso{background:#FBF0DC;color:var(--amarelo-aviso);}
+  .flag.mau{background:#F8E5E1;color:var(--vermelho-aviso);}
+
+  .sea-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:0.7rem;margin-top:1rem;}
+  @media (max-width:620px){.sea-grid{grid-template-columns:repeat(2,1fr);}}
+  .sea-tile{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:1rem 0.9rem;}
+  .sea-tile .label{font-size:0.75rem;color:var(--tinta-suave);}
+  .sea-tile .val{font-family:'Fraunces',serif;font-size:1.5rem;font-weight:600;margin-top:0.15rem;}
+  .sea-tile .unit{font-size:0.8rem;color:var(--tinta-suave);font-weight:400;}
+
+  .disclaimer{
+    font-size:0.82rem;color:var(--tinta-suave);
+    background:#F1ECE1;border-left:3px solid var(--telha);
+    padding:0.8rem 1rem;border-radius:0 var(--radius-s) var(--radius-s) 0;margin-top:1.2rem;
+  }
+  .disclaimer a{color:var(--telha);font-weight:600;text-decoration:none;}
+  .disclaimer a:hover{text-decoration:underline;}
+
+  /* ---------- Tabela do mar ---------- */
+  .sea-table-wrap{overflow-x:auto;margin-top:0.8rem;}
+  .sea-table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);font-size:0.85rem;}
+  .sea-table th{background:var(--azul-fundo);color:#fff;text-align:left;padding:0.55rem 0.8rem;font-weight:600;font-family:'IBM Plex Mono',monospace;font-size:0.75rem;}
+  .sea-table td{padding:0.55rem 0.8rem;border-top:1px solid var(--papel-linha);}
+  .sea-table td:first-child{font-weight:600;color:var(--tinta);}
+  .sea-table .cella{color:var(--tinta-suave);font-size:0.75rem;}
+  .table-note{font-size:0.78rem;color:var(--tinta-suave);margin-top:0.5rem;}
+
+  /* ---------- Cams ---------- */
+  .cam-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-top:1rem;}
+  @media (max-width:620px){.cam-grid{grid-template-columns:1fr;}}
+  .cam-card{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);overflow:hidden;}
+  .cam-card .cam-top{
+    background:var(--azul-fundo);color:#fff;padding:0.9rem 1rem;
+    display:flex;justify-content:space-between;align-items:center;
+  }
+  .cam-card .cam-top .live{font-size:0.7rem;font-family:'IBM Plex Mono',monospace;display:flex;align-items:center;gap:0.35rem;color:#F0B9A6;}
+  .cam-card .cam-top .live .dot{width:0.5rem;height:0.5rem;border-radius:50%;background:#E4573D;animation:pulse 1.8s infinite;}
+  @keyframes pulse{0%,100%{opacity:1;}50%{opacity:0.35;}}
+  .cam-body{padding:1rem;}
+  .cam-body p{margin:0 0 0.9rem;font-size:0.88rem;color:var(--tinta-suave);}
+  .cam-btn{
+    display:inline-block;background:var(--telha);color:#fff;text-decoration:none;
+    font-size:0.85rem;font-weight:600;padding:0.55rem 1rem;border-radius:var(--radius-s);
+  }
+  .cam-btn:hover{background:var(--telha-clara);}
+
+  /* ---------- Noticias ---------- */
+  #noticias-list{list-style:none;margin:1rem 0 0;padding:0;display:flex;flex-direction:column;}
+  #noticias-list li{
+    border-bottom:1px solid var(--papel-linha);padding:0.85rem 0;
+    display:flex;gap:0.8rem;align-items:baseline;
+  }
+  #noticias-list li:first-child{padding-top:0;}
+  #noticias-list a{text-decoration:none;font-weight:500;font-size:0.96rem;}
+  #noticias-list a:hover{text-decoration:underline;}
+  #noticias-list .src{font-size:0.72rem;color:var(--tinta-suave);white-space:nowrap;font-family:'IBM Plex Mono',monospace;}
+
+  /* ---------- Recursos uteis ---------- */
+  .top3-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.9rem;margin-top:1rem;}
+  @media (max-width:700px){.top3-grid{grid-template-columns:1fr;}}
+  .top3-card{
+    background:var(--azul-fundo);color:#fff;border-radius:var(--radius-m);
+    padding:1.3rem 1.2rem;text-decoration:none;position:relative;overflow:hidden;
+  }
+  .top3-card:nth-child(1){background:linear-gradient(150deg,#8A3524,#B9552C);}
+  .top3-card:nth-child(2){background:linear-gradient(150deg,#163B4D,#2E6C82);}
+  .top3-card:nth-child(3){background:linear-gradient(150deg,#2E4A2E,#4C7A4C);}
+  .top3-card .ic{font-size:1.6rem;}
+  .top3-card .name{font-family:'Fraunces',serif;font-size:1.25rem;margin:0.5rem 0 0.25rem;}
+  .top3-card .desc{font-size:0.84rem;opacity:0.92;line-height:1.45;}
+  .top3-card .go{font-size:0.75rem;margin-top:0.8rem;opacity:0.85;font-family:'IBM Plex Mono',monospace;}
+
+  .emerg-bar{
+    display:flex;gap:1.2rem;flex-wrap:wrap;margin-top:1.4rem;
+    background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
+    padding:0.9rem 1.1rem;font-size:0.85rem;
+  }
+  .emerg-bar strong{font-family:'IBM Plex Mono',monospace;color:var(--vermelho-aviso);}
+
+  footer{
+    text-align:center;padding:2rem 1.25rem 2.5rem;
+    color:var(--tinta-suave);font-size:0.8rem;
+  }
+  footer a{color:var(--azulejo);text-decoration:none;}
+  footer a:hover{text-decoration:underline;}
+
+  .skeleton{color:var(--tinta-suave);font-size:0.85rem;}
 </style>
 </head>
 <body>
 
-<header>
-  <div class="wrap">
-    <div class="top">
-      <div class="brand">
-        <span class="logo">🌊</span>
-        <div>
-          <h1>Barcelos Hoje</h1>
-          <small>Notícias · Tempo · Praia de Ofir · Nazaré</small>
-        </div>
-      </div>
-      <div class="clock"><span class="dotl"></span> <span id="live-label">a carregar…</span></div>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <span class="masthead-date" id="data-hoje">a carregar data…</span>
+      <span class="masthead-date" id="hora-agora"></span>
     </div>
-    <nav>
+    <h1 class="title">Barcelos Hoje</h1>
+    <p class="subtitle">Tempo em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo e os recursos oficiais que realmente servem para alguma coisa.</p>
+    <nav class="tabs">
       <a href="#tempo">🌡️ Tempo</a>
-      <a href="#praia">🏖️ Ofir</a>
+      <a href="#mar">🌊 Mar &amp; Ofir</a>
       <a href="#cams">📹 Câmaras</a>
       <a href="#noticias">📰 Notícias</a>
-      <a href="#uteis">🗂️ Úteis</a>
+      <a href="#uteis">🗂️ Recursos úteis</a>
     </nav>
   </div>
 </header>
 
-<div class="wrap">
-  <!-- RESUMO -->
-  <div class="hero" id="heroResumo">
-    <div class="hcard"><span class="k">🌡️ Tempo · Barcelos</span><span class="v" id="h-temp">—</span><span class="s" id="h-desc">a carregar…</span></div>
-    <div class="hcard"><span class="k">🌊 Mar · Ofir</span><span class="v" id="h-wave">—</span><span class="s" id="h-wave-d">a carregar…</span></div>
-    <div class="hcard"><span class="k">💧 Água do mar</span><span class="v" id="h-sea">—</span><span class="s" id="h-sea-d">a carregar…</span></div>
-  </div>
+<main>
 
-  <!-- TEMPO -->
+  <!-- ===================== TEMPO ===================== -->
   <section id="tempo">
-    <div class="sec"><span class="ico">🌡️</span><h2>Tempo em Barcelos</h2><span class="tag" id="tempo-stamp">—</span></div>
-    <div class="card">
-      <div class="now">
-        <span class="emo" id="t-emoji">⏳</span>
-        <div><div class="big" id="t-temp">—</div><div class="desc" id="t-desc">a carregar…</div></div>
-        <div class="meta" id="t-meta"></div>
+    <div class="eyebrow-row">
+      <div class="section-icon">🌡️</div>
+      <h2 class="section-title">Tempo em Barcelos</h2>
+    </div>
+    <p class="section-lede">Previsão em tempo real via Open‑Meteo, atualizada a cada visita. Ícones ligados diretamente ao código meteorológico do momento — não são decorativos.</p>
+
+    <div class="now-grid">
+      <div class="now-card hero">
+        <div class="now-place">Agora · Barcelos</div>
+        <div class="now-temp-row">
+          <div class="now-icon" id="w-icon-now">–</div>
+          <div>
+            <div class="now-temp" id="w-temp-now">–°</div>
+            <div class="now-desc" id="w-desc-now">a carregar…</div>
+          </div>
+        </div>
+        <div class="now-sub">
+          <span>Sensação<strong id="w-feels">–°</strong></span>
+          <span>Vento<strong id="w-wind">–</strong></span>
+          <span>Humidade<strong id="w-hum">–</strong></span>
+          <span>Chuva hoje<strong id="w-rainprob">–</strong></span>
+        </div>
       </div>
-      <div class="days" id="t-days"></div>
-      <div class="mut2" id="t-sun" style="margin-top:12px"></div>
+      <div class="now-card">
+        <ul class="stat-list">
+          <li><span class="label">Máxima hoje</span><span class="value" id="w-max">–°</span></li>
+          <li><span class="label">Mínima hoje</span><span class="value" id="w-min">–°</span></li>
+          <li><span class="label">Nascer do sol</span><span class="value" id="w-sunrise">–</span></li>
+          <li><span class="label">Pôr do sol</span><span class="value" id="w-sunset">–</span></li>
+          <li><span class="label">Índice UV máx.</span><span class="value" id="w-uv">–</span></li>
+        </ul>
+      </div>
+    </div>
+
+    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0;">Próximas horas</h3>
+    <div class="hourly-scroll" id="hourly-strip">
+      <div class="skeleton">a carregar previsão horária…</div>
+    </div>
+
+    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0;">Próximos 7 dias</h3>
+    <div class="forecast-strip" id="forecast-strip">
+      <div class="skeleton">a carregar…</div>
+    </div>
+
+  </section>
+
+  <!-- ===================== MAR / OFIR ===================== -->
+  <section id="mar">
+    <div class="eyebrow-row">
+      <div class="section-icon">🌊</div>
+      <h2 class="section-title">Mar &amp; Praia de Ofir</h2>
+    </div>
+    <p class="section-lede">Altura da ondulação, temperatura da água e vento junto à costa, com dados de modelo marítimo (Open‑Meteo). Serve para te preparares — não substitui a bandeira no areal.</p>
+
+    <div id="flag-status" class="flag ok"><span class="dot"></span> a avaliar condições…</div>
+
+    <div class="sea-grid">
+      <div class="sea-tile">
+        <div class="label">Altura da onda</div>
+        <div class="val" id="sea-wave">– <span class="unit">m</span></div>
+      </div>
+      <div class="sea-tile">
+        <div class="label">Período de onda</div>
+        <div class="val" id="sea-period">– <span class="unit">s</span></div>
+      </div>
+      <div class="sea-tile">
+        <div class="label">Temp. da água</div>
+        <div class="val" id="sea-temp">– <span class="unit">°C</span></div>
+      </div>
+      <div class="sea-tile">
+        <div class="label">Vento na costa</div>
+        <div class="val" id="sea-wind">– <span class="unit">km/h</span></div>
+      </div>
+    </div>
+
+    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0.8rem;">Próximos 5 dias — 10h · 12h · 15h · 18h</h3>
+    <div class="sea-table-wrap">
+      <table class="sea-table">
+        <thead>
+          <tr><th>Dia</th><th>10h</th><th>12h</th><th>15h</th><th>18h</th></tr>
+        </thead>
+        <tbody id="sea-table-body">
+          <tr><td colspan="5" class="skeleton">a carregar previsão do mar…</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="table-note">Cada célula mostra altura da onda e temperatura da água.</p>
+
+    <div class="disclaimer">
+      <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Estes números são uma estimativa por modelo; para aviso oficial consulta o <a href="https://www.ipma.pt/pt/otempo/observacao.mar/" target="_blank" rel="noopener">IPMA — estado do mar</a>.
     </div>
   </section>
 
-  <!-- PRAIA OFIR -->
-  <section id="praia">
-    <div class="sec"><span class="ico">🏖️</span><h2>Praia de Ofir</h2><span class="tag" id="praia-stamp">—</span></div>
-    <div class="card">
-      <div class="flag" id="flag-box"><span class="col" id="flag-col"></span><span id="flag-txt">a carregar…</span></div>
-      <div class="grid g4" id="mar-stats"></div>
-      <p class="mut" style="margin-top:12px" id="mar-info">—</p>
-    </div>
-    <div class="tips">
-      <ul>
-        <li><b>Época balnear:</b> nadadores-salvadores normalmente até meados de setembro — respeita sempre as <b>bandeiras</b> no local (verde = calmaria, amarela = cuidado, vermelha = proibido).</li>
-        <li>O estado do mar aqui é uma <b>estimativa</b> por modelo (altura de onda, água); para o aviso <b>oficial</b> vê o <a href="https://www.ipma.pt" rel="noopener" style="color:var(--teal)">IPMA</a> e o posto de salva-vidas.</li>
-      </ul>
-    </div>
-  </section>
-
-  <!-- CÂMARAS -->
+  <!-- ===================== CAMARAS ===================== -->
   <section id="cams">
-    <div class="sec"><span class="ico">📹</span><h2>Câmaras ao vivo</h2><span class="tag">MEO Beachcam</span></div>
-    <div class="grid g3">
-      <div class="cam">
-        <div class="cine">🏖️</div>
-        <span class="live"><i></i> Ao vivo</span>
-        <h3>Praia de Ofir</h3>
-        <p class="sub">Zona central e sul — areal e banhistas.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
+    <div class="eyebrow-row">
+      <div class="section-icon">📹</div>
+      <h2 class="section-title">Câmaras ao vivo</h2>
+    </div>
+    <p class="section-lede">Imagem direta da plataforma oficial MEO Beachcam — não precisas de conta.</p>
+    <div class="cam-grid">
+      <div class="cam-card">
+        <div class="cam-top"><span>🏖️ Praia de Ofir</span><span class="live"><span class="dot"></span>AO VIVO</span></div>
+        <div class="cam-body">
+          <p>Zona central e sul do areal, vista sobre banhistas e ondulação.</p>
+          <a class="cam-btn" href="https://beachcam.meo.pt/livecams/ofir/" target="_blank" rel="noopener">Ver câmara</a>
+        </div>
       </div>
-      <div class="cam">
-        <div class="cine">🗼</div>
-        <span class="live"><i></i> Ao vivo</span>
-        <h3>Nazaré — Farol</h3>
-        <p class="sub">Forte de S. Miguel Arcanjo — o farol e a ondulação.</p>
-        <a class="btn" href="https://beachcam.meo.pt/livecams/nazare-forte-sao-miguel-arcanjo/" target="_blank" rel="noopener nofollow">▶ Ver agora</a>
+      <div class="cam-card">
+        <div class="cam-top"><span>🗼 Nazaré — Farol</span><span class="live"><span class="dot"></span>AO VIVO</span></div>
+        <div class="cam-body">
+          <p>Forte de S. Miguel Arcanjo, com vista sobre a ondulação gigante.</p>
+          <a class="cam-btn" href="https://beachcam.meo.pt/livecams/nazare-forte-sao-miguel-arcanjo/" target="_blank" rel="noopener">Ver câmara</a>
+        </div>
       </div>
     </div>
-    <p class="mut2" style="margin-top:10px">As câmaras abrem na plataforma oficial MEO Beachcam, sem precisar de conta.</p>
   </section>
 
-  <!-- NOTÍCIAS -->
+  <!-- ===================== NOTICIAS ===================== -->
   <section id="noticias">
-    <div class="sec"><span class="ico">📰</span><h2>Notícias da região</h2><span class="tag">Google Notícias</span></div>
-    <div class="card" id="news-card">
-      <div class="skel"></div><div class="skel"></div><div class="skel"></div>
+    <div class="eyebrow-row">
+      <div class="section-icon">📰</div>
+      <h2 class="section-title">Notícias da região</h2>
     </div>
-    <p class="mut2" style="margin-top:8px">Títulos agregados automaticamente do Google Notícias. Clica para abrir a fonte original.</p>
+    <p class="section-lede">Últimos títulos sobre Barcelos, via Google Notícias. Abrem na fonte original.</p>
+    <ul id="noticias-list">
+      <li class="skeleton">a carregar notícias…</li>
+    </ul>
   </section>
 
-  <!-- ÚTEIS -->
+  <!-- ===================== UTEIS ===================== -->
   <section id="uteis">
-    <div class="sec"><span class="ico">🗂️</span><h2>Coisas úteis</h2></div>
-    <div class="grid g2">
-      <a class="util" href="https://www.cm-barcelos.pt" target="_blank" rel="noopener nofollow"><span class="u">🏛️</span><span><b>Câmara Municipal de Barcelos</b><span>Serviços, contactos e avisos oficiais</span></span></a>
-      <a class="util" href="https://www.cm-esposende.pt" target="_blank" rel="noopener nofollow"><span class="u">🏖️</span><span><b>Câmara de Esposende</b><span>Inclui Ofir: limpeza e serviços do concelho</span></span></a>
-      <a class="util" href="https://www.ipma.pt" target="_blank" rel="noopener nofollow"><span class="u">🌐</span><span><b>IPMA — Instituto do Mar e Atmosfera</b><span>Avisos de tempo, mar e ondas (fonte oficial)</span></span></a>
-      <a class="util" href="https://www.sns24.gov.pt/" target="_blank" rel="noopener nofollow"><span class="u">🩺</span><span><b>SNS 24 — 808 24 24 24</b><span>Saúde em Portugal: telefone e portal</span></span></a>
-      <a class="util" href="https://www.google.pt/maps/search/Praia+de+Ofir" target="_blank" rel="noopener nofollow"><span class="u">📍</span><span><b>Como chegar à Praia de Ofir</b><span>Mapas e direções</span></span></a>
-      <a class="util" href="https://www.nazare.pt" target="_blank" rel="noopener nofollow"><span class="u">🌊</span><span><b>Nazaré — Câmara e turismo</b><span>Ondas gigantes, surf e visita à Nazaré</span></span></a>
-      <a class="util" href="https://fogos.pt" target="_blank" rel="noopener nofollow"><span class="u">🔥</span><span><b>Fogos.pt</b><span>Incêndios ativos em Portugal em tempo real</span></span></a>
-      <a class="util" href="https://barragens.pt" target="_blank" rel="noopener nofollow"><span class="u">💧</span><span><b>Barragens.pt</b><span>Nível das albufeiras e barragens do país</span></span></a>
-      <a class="util" href="https://analisa.pt" target="_blank" rel="noopener nofollow"><span class="u">📊</span><span><b>Analisa.pt</b><span>Qualidade de vida nos 308 municípios — 230+ indicadores</span></span></a>
+    <div class="eyebrow-row">
+      <div class="section-icon">🗂️</div>
+      <h2 class="section-title">Recursos úteis</h2>
     </div>
-    <div class="tips">
-      <ul>
-        <li><b>Emergências:</b> 112 (INEM/Bombeiros/PSP) · <b>Saúde:</b> SNS24 808 24 24 24</li>
-        <li><b>Farmácia de serviço em Barcelos:</b> muda diariamente — procura no Google <em>“farmácia de serviço Barcelos hoje”</em>.</li>
-        <li><b>Transportes:</b> comboio Barcelos–Porto/Braga na linha do Minho; STAC e autocarros da zona.</li>
-      </ul>
+    <p class="section-lede">Os três painéis oficiais que valem mesmo a pena — dados em tempo real, direto da fonte.</p>
+
+    <div class="top3-grid">
+      <a class="top3-card" href="https://fogos.pt" target="_blank" rel="noopener">
+        <div class="ic">🔥</div>
+        <div class="name">Fogos.pt</div>
+        <div class="desc">Incêndios ativos em Portugal em tempo real, com mapa e meios no terreno.</div>
+        <div class="go">fogos.pt</div>
+      </a>
+      <a class="top3-card" href="https://barragens.pt" target="_blank" rel="noopener">
+        <div class="ic">💧</div>
+        <div class="name">Barragens.pt</div>
+        <div class="desc">Nível de armazenamento das albufeiras e barragens do país.</div>
+        <div class="go">barragens.pt</div>
+      </a>
+      <a class="top3-card" href="https://analisa.pt" target="_blank" rel="noopener">
+        <div class="ic">📊</div>
+        <div class="name">Analisa.pt</div>
+        <div class="desc">Qualidade de vida nos 308 municípios, com mais de 230 indicadores.</div>
+        <div class="go">analisa.pt</div>
+      </a>
+    </div>
+
+    <div class="emerg-bar">
+      <span><strong>112</strong> — Emergências (INEM / Bombeiros / PSP)</span>
+      <span><strong>808 24 24 24</strong> — SNS24</span>
+      <span>Farmácia de serviço: muda diariamente, pesquisa "farmácia de serviço Barcelos hoje"</span>
     </div>
   </section>
-</div>
+
+</main>
 
 <footer>
-  <div class="wrap">Barcelos Hoje · projeto de experimento · dados: Open-Meteo &amp; Google Notícias · feito no Raspberry Pi com OpenClaw 🐧 · <a href="admin/" rel="noopener">painel 🔐</a><br>
-  Para informação oficial de emergência e mar, consulte sempre o <a href="https://www.ipma.pt" rel="noopener">IPMA</a> e as autoridades locais.</div>
+  Barcelos Hoje · dados de tempo e mar: Open‑Meteo · notícias: Google Notícias<br>
+  Para informação oficial de emergência, tempo e mar, consulta sempre o <a href="https://www.ipma.pt" target="_blank" rel="noopener">IPMA</a> e as autoridades locais.<br>
+  Feito no Raspberry Pi com OpenClaw 🐧 · <a href="admin/" rel="noopener">painel 🔐</a>
 </footer>
 
-<script src="app.js"></script>
+<script>
+/* ---------------- Coordenadas ---------------- */
+const BARCELOS = { lat: 41.5388, lon: -8.6151 };
+const OFIR     = { lat: 41.5233, lon: -8.7889 };
+
+/* ---------------- Mapeamento de código meteorológico (WMO) -> ícone / texto ---------------- */
+const WCODE = {
+  0:  { ic: "☀️", pt: "Céu limpo" },
+  1:  { ic: "🌤️", pt: "Pouco nublado" },
+  2:  { ic: "⛅", pt: "Parcialmente nublado" },
+  3:  { ic: "☁️", pt: "Céu encoberto" },
+  45: { ic: "🌫️", pt: "Nevoeiro" },
+  48: { ic: "🌫️", pt: "Nevoeiro com geada" },
+  51: { ic: "🌦️", pt: "Chuvisco fraco" },
+  53: { ic: "🌦️", pt: "Chuvisco" },
+  55: { ic: "🌧️", pt: "Chuvisco forte" },
+  56: { ic: "🌧️", pt: "Chuvisco gelado" },
+  57: { ic: "🌧️", pt: "Chuvisco gelado forte" },
+  61: { ic: "🌦️", pt: "Chuva fraca" },
+  63: { ic: "🌧️", pt: "Chuva" },
+  65: { ic: "🌧️", pt: "Chuva forte" },
+  66: { ic: "🌧️", pt: "Chuva gelada" },
+  67: { ic: "🌧️", pt: "Chuva gelada forte" },
+  71: { ic: "🌨️", pt: "Neve fraca" },
+  73: { ic: "❄️", pt: "Neve" },
+  75: { ic: "❄️", pt: "Neve forte" },
+  77: { ic: "❄️", pt: "Grãos de neve" },
+  80: { ic: "🌦️", pt: "Aguaceiros fracos" },
+  81: { ic: "🌧️", pt: "Aguaceiros" },
+  82: { ic: "⛈️", pt: "Aguaceiros fortes" },
+  85: { ic: "🌨️", pt: "Aguaceiros de neve" },
+  86: { ic: "❄️", pt: "Aguaceiros de neve fortes" },
+  95: { ic: "⛈️", pt: "Trovoada" },
+  96: { ic: "⛈️", pt: "Trovoada com granizo" },
+  99: { ic: "⛈️", pt: "Trovoada forte com granizo" },
+};
+function wInfo(code){ return WCODE[code] || { ic: "❔", pt: "Sem dados" }; }
+
+/* ---------------- Relógio / data ---------------- */
+function tick(){
+  const now = new Date();
+  const dataFmt = now.toLocaleDateString('pt-PT', { weekday:'long', day:'numeric', month:'long' });
+  const horaFmt = now.toLocaleTimeString('pt-PT', { hour:'2-digit', minute:'2-digit' });
+  document.getElementById('data-hoje').textContent = dataFmt;
+  document.getElementById('hora-agora').textContent = horaFmt;
+}
+tick(); setInterval(tick, 30000);
+
+/* ---------------- Tempo em Barcelos ---------------- */
+async function carregarTempo(){
+  try{
+    const url = `https://api.open-meteo.com/v1/forecast?latitude=${BARCELOS.lat}&longitude=${BARCELOS.lon}` +
+      `&current=temperature_2m,apparent_temperature,weather_code,wind_speed_10m,relative_humidity_2m` +
+      `&hourly=temperature_2m,weather_code,precipitation_probability` +
+      `&daily=weather_code,temperature_2m_max,temperature_2m_min,precipitation_probability_max,sunrise,sunset,uv_index_max` +
+      `&timezone=Europe%2FLisbon&forecast_days=7`;
+    const r = await fetch(url);
+    const d = await r.json();
+
+    const cur = d.current;
+    const w = wInfo(cur.weather_code);
+    document.getElementById('w-icon-now').textContent = w.ic;
+    document.getElementById('w-temp-now').textContent = Math.round(cur.temperature_2m) + '°';
+    document.getElementById('w-desc-now').textContent = w.pt;
+    document.getElementById('w-feels').textContent = Math.round(cur.apparent_temperature) + '°';
+    document.getElementById('w-wind').textContent = Math.round(cur.wind_speed_10m) + ' km/h';
+    document.getElementById('w-hum').textContent = Math.round(cur.relative_humidity_2m) + '%';
+    document.getElementById('w-rainprob').textContent = d.daily.precipitation_probability_max[0] + '%';
+    document.getElementById('w-max').textContent = Math.round(d.daily.temperature_2m_max[0]) + '°';
+    document.getElementById('w-min').textContent = Math.round(d.daily.temperature_2m_min[0]) + '°';
+    document.getElementById('w-uv').textContent = Math.round(d.daily.uv_index_max[0]);
+    document.getElementById('w-sunrise').textContent = d.daily.sunrise[0].slice(11,16);
+    document.getElementById('w-sunset').textContent = d.daily.sunset[0].slice(11,16);
+
+    // horária: próximas 12h a partir de agora
+    const nowIso = new Date().toISOString().slice(0,13);
+    let startIdx = d.hourly.time.findIndex(t => t.slice(0,13) >= nowIso);
+    if (startIdx < 0) startIdx = 0;
+    const hrs = [];
+    for (let i = startIdx; i < startIdx + 12 && i < d.hourly.time.length; i++){
+      const hw = wInfo(d.hourly.weather_code[i]);
+      const hh = d.hourly.time[i].slice(11,16);
+      hrs.push(`<div class="hour"><div class="t">${hh}</div><div class="ic">${hw.ic}</div><div class="temp">${Math.round(d.hourly.temperature_2m[i])}°</div></div>`);
+    }
+    document.getElementById('hourly-strip').innerHTML = hrs.join('');
+
+    // 7 dias
+    const days = d.daily.time.map((t, i) => {
+      const dw = wInfo(d.daily.weather_code[i]);
+      const dt = new Date(t + 'T12:00:00');
+      const label = i === 0 ? 'Hoje' : dt.toLocaleDateString('pt-PT', { weekday:'short' }).replace('.','');
+      return `<div class="fday">
+        <div class="d">${label}</div>
+        <div class="ic">${dw.ic}</div>
+        <div class="hi">${Math.round(d.daily.temperature_2m_max[i])}°</div>
+        <div class="lo">${Math.round(d.daily.temperature_2m_min[i])}°</div>
+        <div class="rain">💧${d.daily.precipitation_probability_max[i]}%</div>
+      </div>`;
+    });
+    document.getElementById('forecast-strip').innerHTML = days.join('');
+  }catch(e){
+    document.getElementById('w-desc-now').textContent = 'não foi possível obter o tempo agora';
+    document.getElementById('forecast-strip').innerHTML = '<div class="skeleton">sem dados de momento — tenta recarregar a página.</div>';
+    document.getElementById('hourly-strip').innerHTML = '<div class="skeleton">sem dados de momento.</div>';
+  }
+}
+carregarTempo();
+
+/* ---------------- Mar em Ofir ---------------- */
+async function carregarMar(){
+  try{
+    const marUrl = `https://marine-api.open-meteo.com/v1/marine?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
+      `&current=wave_height,wave_period,sea_surface_temperature` +
+      `&hourly=wave_height,sea_surface_temperature&forecast_days=5&timezone=Europe%2FLisbon`;
+    const ventoUrl = `https://api.open-meteo.com/v1/forecast?latitude=${OFIR.lat}&longitude=${OFIR.lon}` +
+      `&current=wind_speed_10m&timezone=Europe%2FLisbon`;
+
+    const [marR, ventoR] = await Promise.all([fetch(marUrl), fetch(ventoUrl)]);
+    const mar = await marR.json();
+    const vento = await ventoR.json();
+
+    const wave = mar.current.wave_height;
+    const period = mar.current.wave_period;
+    const seaTemp = mar.current.sea_surface_temperature;
+    const wind = vento.current.wind_speed_10m;
+
+    document.getElementById('sea-wave').innerHTML = `${wave.toFixed(1)} <span class="unit">m</span>`;
+    document.getElementById('sea-period').innerHTML = `${period.toFixed(0)} <span class="unit">s</span>`;
+    document.getElementById('sea-temp').innerHTML = `${seaTemp.toFixed(1)} <span class="unit">°C</span>`;
+    document.getElementById('sea-wind').innerHTML = `${Math.round(wind)} <span class="unit">km/h</span>`;
+
+    const flag = document.getElementById('flag-status');
+    if (wave < 1.0){
+      flag.className = 'flag ok';
+      flag.innerHTML = '<span class="dot"></span> Mar calmo — condições tranquilas para banho';
+    } else if (wave < 2.0){
+      flag.className = 'flag aviso';
+      flag.innerHTML = '<span class="dot"></span> Mar com alguma ondulação — atenção redobrada';
+    } else {
+      flag.className = 'flag mau';
+      flag.innerHTML = '<span class="dot"></span> Mar agitado — só para surf experiente, evita banho';
+    }
+    // Tabela 5 dias — 10h · 12h · 15h · 18h
+    const horas = [10, 12, 15, 18];
+    const tbody = document.getElementById('sea-table-body');
+    const linhas = [];
+    for (let dia = 0; dia < 5; dia++){
+      const diaISO = mar.hourly.time[dia * 24].slice(0, 10);
+      const dt = new Date(diaISO + 'T12:00:00');
+      const label = dia === 0 ? 'Hoje' : dt.toLocaleDateString('pt-PT', { weekday: 'short' }).replace('.', '');
+      const celulas = horas.map(h => {
+        const idx = mar.hourly.time.findIndex(t => t.slice(0, 13) === `${diaISO}T${String(h).padStart(2, '0')}`);
+        if (idx < 0 || mar.hourly.wave_height[idx] == null) return '<td>—</td>';
+        const w = mar.hourly.wave_height[idx].toFixed(1);
+        const t = Math.round(mar.hourly.sea_surface_temperature[idx]);
+        return `<td>${w} m <span class="cella">· ${t}°</span></td>`;
+      }).join('');
+      linhas.push(`<tr><td>${label}</td>${celulas}</tr>`);
+    }
+    tbody.innerHTML = linhas.join('');
+  }catch(e){
+    document.getElementById('flag-status').innerHTML = '<span class="dot"></span> não foi possível obter dados do mar agora';
+    ['sea-wave','sea-period','sea-temp','sea-wind'].forEach(id => document.getElementById(id).textContent = '—');
+    const tbody = document.getElementById('sea-table-body');
+    if (tbody) tbody.innerHTML = '<tr><td colspan="5" class="skeleton">sem dados de momento.</td></tr>';
+  }
+}
+carregarMar();
+
+/* ---------------- Notícias (Google News RSS via proxy leitura pública) ---------------- */
+async function carregarNoticias(){
+  const lista = document.getElementById('noticias-list');
+  try{
+    const feedUrl = 'https://news.google.com/rss/search?q=Barcelos&hl=pt-PT&gl=PT&ceid=PT:pt';
+    const proxied = 'https://api.allorigins.win/raw?url=' + encodeURIComponent(feedUrl);
+    const r = await fetch(proxied);
+    const text = await r.text();
+    const xml = new window.DOMParser().parseFromString(text, 'text/xml');
+    const items = Array.from(xml.querySelectorAll('item')).slice(0, 8);
+    if (!items.length) throw new Error('sem itens');
+    lista.innerHTML = items.map(it => {
+      const title = it.querySelector('title')?.textContent || '';
+      const link = it.querySelector('link')?.textContent || '#';
+      const source = it.querySelector('source')?.textContent || '';
+      return `<li><a href="${link}" target="_blank" rel="noopener">${title}</a><span class="src">${source}</span></li>`;
+    }).join('');
+  }catch(e){
+    lista.innerHTML = `<li>Não foi possível carregar as notícias automaticamente. <a href="https://news.google.com/search?q=Barcelos&hl=pt-PT&gl=PT" target="_blank" rel="noopener">Ver no Google Notícias →</a></li>`;
+  }
+}
+carregarNoticias();
+</script>
 </body>
 </html>
