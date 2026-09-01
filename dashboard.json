@@ -1,15 +1,15 @@
 {
  "host": "pi",
- "atualizado_em": "2026-09-01T08:20:03Z",
- "uptime_h": 15.4,
+ "atualizado_em": "2026-09-01T08:30:04Z",
+ "uptime_h": 15.6,
  "load": [
-  0.05,
-  0.11,
+  0.2,
+  0.14,
   0.11
  ],
- "cpu": 0.0,
+ "cpu": 5.2,
  "ram": {
-  "used_mb": 804,
+  "used_mb": 779,
   "total_mb": 905
  },
  "disk": {
@@ -65,7 +65,7 @@
   {
    "nome": "Último git push",
    "ok": true,
-   "info": "01 Sep 09:10"
+   "info": "01 Sep 09:20"
   },
   {
    "nome": "Manutenção",
@@ -294,6 +294,12 @@
    "ts": "08:20",
    "cpu": 0.0,
    "ram": 804,
+   "temp": 56.9
+  },
+  {
+   "ts": "08:30",
+   "cpu": 5.2,
+   "ram": 779,
    "temp": 56.9
   }
  ]
