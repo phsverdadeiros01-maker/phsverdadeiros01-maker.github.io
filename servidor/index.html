@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#163B4D">
+<title>Servidor — Barcelos Hoje</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --azul-fundo: #163B4D;
+    --azul-profundo: #0E2A38;
+    --azulejo: #2E6C82;
+    --telha: #B9552C;
+    --telha-clara: #D97A4C;
+    --granito: #55524C;
+    --papel: #FAF7F1;
+    --papel-linha: #E4DDD0;
+    --tinta: #262320;
+    --tinta-suave: #6B665D;
+    --verde-ok: #3E7A52;
+    --amarelo-aviso: #C08A1E;
+    --vermelho-aviso: #B23B2E;
+    --radius-s: 4px;
+    --radius-m: 10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;background:var(--papel);color:var(--tinta);
+    font-family:'IBM Plex Sans',sans-serif;line-height:1.5;
+  }
+  h1,h2,h3{font-family:'Fraunces',serif;font-weight:600;letter-spacing:-0.01em;}
+  a{color:inherit;}
+
+  .topo{
+    background:linear-gradient(135deg,var(--azul-fundo),var(--azul-profundo));
+    color:#fff;padding:2.2rem 1.25rem 1.8rem;text-align:center;
+  }
+  .topo .ic{font-size:2.4rem;line-height:1;}
+  .topo h1{margin:0.4rem 0 0.2rem;font-size:1.7rem;}
+  .topo p{margin:0;font-size:0.85rem;color:#b9c6dd;}
+  .topo .voltar{display:inline-block;margin-top:0.9rem;font-size:0.78rem;color:#9fb0cf;text-decoration:none;}
+  .topo .voltar:hover{color:#fff;text-decoration:underline;}
+
+  main{max-width:880px;margin:0 auto;padding:1.2rem 1.25rem 2.5rem;}
+
+  .eyebrow-row{display:flex;align-items:center;gap:0.6rem;margin:1.2rem 0 0.4rem;}
+  .section-icon{font-size:1.15rem;}
+  .section-title{font-size:1.15rem;margin:0;}
+
+  .dash-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0.8rem;margin-top:0.4rem;}
+  .dash-card{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:1rem;}
+  .dash-card h4{margin:0 0 0.7rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;font-weight:600;}
+  .dash-status{display:flex;flex-direction:column;gap:0.45rem;}
+  .dash-status .row{display:flex;align-items:center;gap:0.5rem;font-size:0.88rem;color:var(--tinta);}
+  .dash-status .dot{width:0.6rem;height:0.6rem;border-radius:50%;flex:none;}
+  .dash-status .dot.ok{background:var(--verde-ok);}
+  .dash-status .dot.bad{background:var(--vermelho-aviso);}
+  .dash-status .nm{margin-right:auto;}
+  .dash-status .st{font-size:0.72rem;font-family:'IBM Plex Mono',monospace;color:var(--tinta-suave);}
+  .dash-metric{display:flex;justify-content:space-between;align-items:baseline;padding:0.5rem 0;border-bottom:1px dashed var(--papel-linha);}
+  .dash-metric:last-child{border-bottom:none;}
+  .dash-metric .lbl{font-size:0.85rem;color:var(--tinta-suave);}
+  .dash-metric .val{font-family:'IBM Plex Mono',monospace;font-weight:700;color:var(--azul-fundo);font-size:0.95rem;}
+  .dash-metric .val.warn{color:var(--amarelo-aviso);}
+  .dash-metric .val.hot{color:var(--vermelho-aviso);}
+  .dash-aut{display:flex;flex-direction:column;gap:0.5rem;}
+  .dash-aut .row{display:flex;align-items:center;gap:0.5rem;font-size:0.88rem;}
+  .dash-aut .ico{font-size:0.9rem;}
+  .dash-chart{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:1rem;margin-top:0.8rem;}
+  .dash-chart canvas{width:100%;height:160px;display:block;}
+  .dash-legend{display:flex;gap:1rem;flex-wrap:wrap;font-size:0.72rem;color:var(--tinta-suave);margin-top:0.5rem;font-family:'IBM Plex Mono',monospace;}
+  .dash-legend span{display:inline-flex;align-items:center;gap:0.35rem;}
+  .dash-legend .sw{width:0.7rem;height:0.7rem;border-radius:2px;display:inline-block;}
+  .dash-note{font-size:0.74rem;color:var(--tinta-suave);margin-top:0.6rem;}
+  .err{color:var(--vermelho-aviso);font-size:0.85rem;}
+  footer{text-align:center;padding:1.5rem 1.25rem 2.5rem;color:var(--tinta-suave);font-size:0.78rem;}
+  footer a{color:var(--azulejo);text-decoration:none;}
+  footer a:hover{text-decoration:underline;}
+</style>
+</head>
+<body>
+
+  <div class="topo">
+    <div class="ic">🖥️</div>
+    <h1>O meu servidor</h1>
+    <p>Raspberry Pi · estado em tempo real, recolhido a cada 10 minutos</p>
+    <a class="voltar" href="../">← voltar ao Barcelos Hoje</a>
+  </div>
+
+  <main>
+    <div id="dash-status" class="dash-grid">
+      <div class="dash-card"><h4>Serviços</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
+      <div class="dash-card"><h4>Recursos</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
+      <div class="dash-card"><h4>Automações</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
+    </div>
+
+    <div class="dash-chart">
+      <h4 style="margin:0 0 0.5rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;font-weight:600;">Últimas 8 horas</h4>
+      <canvas id="dash-canvas" height="160"></canvas>
+      <div class="dash-legend">
+        <span><span class="sw" style="background:#2E6C82;"></span>CPU %</span>
+        <span><span class="sw" style="background:#B9552C;"></span>Temp °C</span>
+        <span><span class="sw" style="background:#4C7A4C;"></span>RAM MB</span>
+      </div>
+      <div class="dash-note" id="dash-note">—</div>
+    </div>
+  </main>
+
+  <footer>
+    Barcelos Hoje · Raspberry Pi · <a href="../">site público</a> · <a href="../admin/">painel 🔐</a>
+  </footer>
+
+  <script>
+    /* ---------------- Dashboard do servidor (dashboard.json do Pi) ---------------- */
+    (function(){
+      var $id = function(i){ return document.getElementById(i); };
+      var pct = function(v){ return Math.round(v) + '%'; };
+
+      function drawChart(hist){
+        var cv = $id('dash-canvas');
+        if(!cv || !hist || !hist.length) return;
+        var ctx = cv.getContext('2d');
+        var W = cv.width = cv.offsetWidth || 760;
+        var H = cv.height = 160;
+        var pad = 10;
+        var n = hist.length;
+        var s = function(i){ return i * (W - pad*2) / Math.max(n-1,1) + pad; };
+        var maxV = Math.max(100, Math.max.apply(null, hist.map(function(h){
+          return Math.max(h.cpu||0, h.temp||0, (h.ram||0)/10);
+        })));
+        var y = function(v){ return H - pad - (v / maxV) * (H - pad*2); };
+        function linha(cor, key, fator){
+          ctx.beginPath();
+          hist.forEach(function(h, i){
+            var v = (key === 'ram' ? (h.ram||0)/(fator||1) : (h[key]||0));
+            var px = s(i), py = y(v);
+            if(i === 0) ctx.moveTo(px, py); else ctx.lineTo(px, py);
+          });
+          ctx.strokeStyle = cor; ctx.lineWidth = 2; ctx.lineJoin = 'round'; ctx.stroke();
+        }
+        ctx.clearRect(0,0,W,H);
+        ctx.strokeStyle = '#ece7dc'; ctx.lineWidth = 1;
+        for(var g=0; g<=4; g++){
+          var gy = pad + g*(H-pad*2)/4;
+          ctx.beginPath(); ctx.moveTo(pad, gy); ctx.lineTo(W-pad, gy); ctx.stroke();
+        }
+        // labels mínimos/máximos
+        ctx.fillStyle = '#9d9789'; ctx.font = '10px IBM Plex Mono, monospace';
+        ctx.fillText(maxV + '%', 2, pad+8);
+        ctx.fillText('0', 2, H-4);
+        linha('#2E6C82','cpu');
+        linha('#B9552C','temp');
+        linha('#4C7A4C','ram',10);
+      }
+
+      fetch('../dashboard.json?t=' + Date.now())
+        .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function(d){
+          var el = $id('dash-status');
+          if(el) el.innerHTML =
+            '<div class="dash-card"><h4>Serviços</h4><div class="dash-status">' +
+            (d.servicos||[]).map(function(s){
+              return '<div class="row"><span class="dot ' + (s.ok?'ok':'bad') + '"></span><span class="nm">' + s.nome + '</span><span class="st">' + (s.ok?'online':'offline') + '</span></div>';
+            }).join('') +
+            '</div></div>' +
+            '<div class="dash-card"><h4>Recursos</h4><div class="dash-status">' +
+            '<div class="dash-metric"><span class="lbl">CPU</span><span class="val">' + pct(d.cpu) + '</span></div>' +
+            '<div class="dash-metric"><span class="lbl">RAM</span><span class="val">' + d.ram.used_mb + ' / ' + d.ram.total_mb + ' MB</span></div>' +
+            '<div class="dash-metric"><span class="lbl">Disco</span><span class="val">' + d.disk.free_gb + ' GB livres</span></div>' +
+            '<div class="dash-metric"><span class="lbl">Temp</span><span class="val ' + (d.temp_c>75?'hot':d.temp_c>65?'warn':'') + '">' + d.temp_c + '°C</span></div>' +
+            '<div class="dash-metric"><span class="lbl">Uptime</span><span class="val">' + d.uptime_h + ' h</span></div>' +
+            '<div class="dash-metric"><span class="lbl">Load</span><span class="val">' + d.load[0] + '</span></div>' +
+            '</div></div>' +
+            '<div class="dash-card"><h4>Automações</h4><div class="dash-aut">' +
+            (d.automacoes||[]).map(function(a){
+              return '<div class="row"><span class="ico">' + (a.ok?'✅':'⚠️') + '</span><span class="nm">' + a.nome + '</span><span class="st">' + a.info + '</span></div>';
+            }).join('') +
+            '</div></div>';
+          var nota = $id('dash-note');
+          if(nota) nota.textContent = 'Atualizado a cada 10 min · última recolha ' + new Date(d.atualizado_em).toLocaleTimeString('pt-PT',{hour:'2-digit',minute:'2-digit'});
+          drawChart(d.hist||[]);
+        })
+        .catch(function(){
+          var el = $id('dash-status');
+          if(el) el.innerHTML = '<div class="dash-card"><h4>Servidor</h4><div class="dash-status"><div class="row"><span class="skeleton">sem dados de momento.</span></div></div></div>';
+        });
+    })();
+  </script>
+</body>
+</html>
