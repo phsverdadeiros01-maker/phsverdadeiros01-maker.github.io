@@ -285,6 +285,17 @@
   }
   #noticias-list .news-cat:first-child{padding-top:0;}
 
+  /* ---------- Facebook · Vila Cova ---------- */
+  .fb-h{font-family:'Fraunces',serif;font-size:1.1rem;font-weight:600;color:var(--azul-fundo);margin:1.6rem 0 0.2rem;}
+  .fb-sub{font-size:0.78rem;color:var(--tinta-suave);margin-bottom:0.9rem;}
+  .fb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0.9rem;}
+  .fb-card{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);overflow:hidden;}
+  .fb-card .fb-head{background:var(--azul-fundo);padding:0.6rem 0.9rem;display:flex;justify-content:space-between;align-items:center;}
+  .fb-card .fb-head a{color:#fff;font-weight:600;text-decoration:none;font-size:0.9rem;}
+  .fb-card .fb-head a:hover{text-decoration:underline;}
+  .fb-card .fb-head .ext{color:#F0B9A6;font-size:0.7rem;font-family:'IBM Plex Mono',monospace;}
+  .fb-card iframe{display:block;width:100%;border:none;overflow:hidden;}
+
   /* ---------- Recursos uteis ---------- */
   .top3-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:0.9rem;margin-top:1rem;}
   @media (max-width:700px){.top3-grid{grid-template-columns:1fr;}}
@@ -509,6 +520,24 @@
       <h2 class="section-title">Notícias</h2>
     </div>
     <p class="section-lede">Barcelos, Esposende e Mundo — os mais recentes, via Google Notícias. Abrem na fonte original.</p>
+
+    <div class="fb-h">📘 Vila Cova no Facebook</div>
+    <p class="fb-sub">Os últimos posts das páginas locais — em direto do Facebook.</p>
+    <div class="fb-grid">
+      <div class="fb-card">
+        <div class="fb-head"><a href="https://www.facebook.com/MARCAVilaCova/" target="_blank" rel="noopener">MARCA Vila Cova</a><span class="ext">⤴ abrir</span></div>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMARCAVilaCova%2F&amp;tabs=timeline&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+      </div>
+      <div class="fb-card">
+        <div class="fb-head"><a href="https://www.facebook.com/p/Jornal-A-Guarita-Vila-Cova-100064472090701/" target="_blank" rel="noopener">Jornal A Guarita</a><span class="ext">⤴ abrir</span></div>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F100064472090701%2F&amp;tabs=timeline&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+      </div>
+      <div class="fb-card">
+        <div class="fb-head"><a href="https://www.facebook.com/vilacovafeitos/" target="_blank" rel="noopener">Vila Cova Feitos</a><span class="ext">⤴ abrir</span></div>
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fvilacovafeitos%2F&amp;tabs=timeline&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+      </div>
+    </div>
+
     <ul id="noticias-list">
       <li class="skeleton">a carregar notícias…</li>
     </ul>
