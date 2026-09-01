@@ -8,7 +8,7 @@ O site (index.html) lê dashboard.json e desenha o painel + gráfico de históri
 import json, os, re, subprocess, time, datetime, glob, sys
 
 BASE = '/home/jo/barcelos-hoje-site'
-OUT  = os.path.join(BASE, 'dashboard.json')
+OUT  = os.path.join('/home/jo/barcelos-hoje-admin-panel/servidor', 'dashboard.json')
 NOW  = datetime.datetime.now(datetime.timezone.utc)
 
 def run(cmd, timeout=12):
@@ -169,14 +169,12 @@ DADOS['servicos'] = servicos()
 DADOS['automacoes'] = automacoes()
 DADOS['hist'] = historico()
 
+os.makedirs(os.path.dirname(OUT), exist_ok=True)
 with open(OUT, 'w', encoding='utf-8') as f:
     json.dump(DADOS, f, ensure_ascii=False, indent=1)
 
-# publica (só se o ficheiro mudou face ao repositório — inclui ficheiro novo)
-ok('git -C %s add dashboard.json' % BASE)
-if ok('git -C %s diff --cached --quiet' % BASE) is False:
-    ok('git -C %s commit -q -m "Dashboard %s" && git -C %s push -q origin main'
-       % (BASE, NOW.strftime('%d/%m %H:%M'), BASE))
+# NOTA: dashboard.json viu darrere el login del panell (túnel), no al GitHub.
+# Per tant ja no es fa git add/commit/push del dashboard.json públic.
 
 print('OK cpu=%s%% ram=%s/%sMB disco=%sGB temp=%s°C servicos=%d hist=%d'
       % (DADOS['cpu'], DADOS['ram']['used_mb'], DADOS['ram']['total_mb'],
