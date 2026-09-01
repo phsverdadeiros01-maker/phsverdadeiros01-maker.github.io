@@ -328,33 +328,6 @@
   }
   .emerg-bar strong{font-family:'IBM Plex Mono',monospace;color:var(--vermelho-aviso);}
 
-  /* ---------- Dashboard do servidor ---------- */
-  .dash-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:0.8rem;margin-top:0.4rem;}
-  .dash-card{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:1rem;}
-  .dash-card h4{margin:0 0 0.7rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;font-weight:600;}
-  .dash-status{display:flex;flex-direction:column;gap:0.45rem;}
-  .dash-status .row{display:flex;align-items:center;gap:0.5rem;font-size:0.88rem;color:var(--tinta);}
-  .dash-status .dot{width:0.6rem;height:0.6rem;border-radius:50%;flex:none;}
-  .dash-status .dot.ok{background:var(--verde-ok);}
-  .dash-status .dot.bad{background:var(--vermelho-aviso);}
-  .dash-status .nm{margin-right:auto;}
-  .dash-status .st{font-size:0.72rem;font-family:'IBM Plex Mono',monospace;color:var(--tinta-suave);}
-  .dash-metric{display:flex;justify-content:space-between;align-items:baseline;padding:0.5rem 0;border-bottom:1px dashed var(--papel-linha);}
-  .dash-metric:last-child{border-bottom:none;}
-  .dash-metric .lbl{font-size:0.85rem;color:var(--tinta-suave);}
-  .dash-metric .val{font-family:'IBM Plex Mono',monospace;font-weight:700;color:var(--azul-fundo);font-size:0.95rem;}
-  .dash-metric .val.warn{color:var(--amarelo-aviso);}
-  .dash-metric .val.hot{color:var(--vermelho-aviso);}
-  .dash-aut{display:flex;flex-direction:column;gap:0.5rem;}
-  .dash-aut .row{display:flex;align-items:center;gap:0.5rem;font-size:0.88rem;}
-  .dash-aut .ico{font-size:0.9rem;}
-  .dash-chart{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:1rem;margin-top:0.8rem;}
-  .dash-chart canvas{width:100%;height:140px;display:block;}
-  .dash-legend{display:flex;gap:1rem;flex-wrap:wrap;font-size:0.72rem;color:var(--tinta-suave);margin-top:0.5rem;font-family:'IBM Plex Mono',monospace;}
-  .dash-legend span{display:inline-flex;align-items:center;gap:0.35rem;}
-  .dash-legend .sw{width:0.7rem;height:0.7rem;border-radius:2px;display:inline-block;}
-  .dash-note{font-size:0.74rem;color:var(--tinta-suave);margin-top:0.6rem;}
-
   footer{
     text-align:center;padding:2rem 1.25rem 2.5rem;
     color:var(--tinta-suave);font-size:0.8rem;
@@ -382,7 +355,6 @@
       <a href="#cams">📹 Câmaras</a>
       <a href="#lua">🌙 Lua</a>
       <a href="#noticias">📰 Notícias</a>
-      <a href="#servidor">🖥️ Servidor</a>
       <a href="#uteis">🗂️ Recursos úteis</a>
     </nav>
   </div>
@@ -616,32 +588,6 @@
       <span><strong>112</strong> — Emergências (INEM / Bombeiros / PSP)</span>
       <span><strong>808 24 24 24</strong> — SNS24</span>
       <span>Farmácia de serviço: muda diariamente, pesquisa "farmácia de serviço Barcelos hoje"</span>
-    </div>
-  </section>
-
-  <!-- ===================== SERVIDOR (DASHBOARD) ===================== -->
-  <section id="servidor">
-    <div class="eyebrow-row">
-      <div class="section-icon">🖥️</div>
-      <h2 class="section-title">O meu servidor</h2>
-    </div>
-    <p class="section-lede">Estado do Raspberry Pi em casa — serviços, recursos e automações, recolhido automaticamente a cada 10 minutos.</p>
-
-    <div id="dash-status" class="dash-grid">
-      <div class="dash-card"><h4>Serviços</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
-      <div class="dash-card"><h4>Recursos</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
-      <div class="dash-card"><h4>Automações</h4><div class="dash-status"><div class="row"><span class="skeleton">a carregar…</span></div></div></div>
-    </div>
-
-    <div class="dash-chart">
-      <h4 style="margin:0 0 0.5rem;font-size:0.78rem;text-transform:uppercase;letter-spacing:0.5px;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;font-weight:600;">Últimas 8 horas</h4>
-      <canvas id="dash-canvas" height="140"></canvas>
-      <div class="dash-legend">
-        <span><span class="sw" style="background:#2E6C82;"></span>CPU %</span>
-        <span><span class="sw" style="background:#B9552C;"></span>Temp °C</span>
-        <span><span class="sw" style="background:#4C7A4C;"></span>RAM MB</span>
-      </div>
-      <div class="dash-note" id="dash-note">—</div>
     </div>
   </section>
 
@@ -1190,75 +1136,6 @@ carregarNoticias();
   }catch(e){ /* se faltar um elemento, não parte a página */ }
 })();
 
-/* ---------------- Dashboard do servidor (dashboard.json do Pi) ---------------- */
-(function(){
-  const $id = (i) => document.getElementById(i);
-  const pct = (v) => Math.round(v) + '%';
-
-  function renderServicos(lista){
-    // (função reservada — o painel é desenhado diretamente no fetch abaixo)
-  }
-
-  function drawChart(hist){
-    const cv = $id('dash-canvas');
-    if (!cv || !hist || !hist.length) return;
-    const ctx = cv.getContext('2d');
-    const W = cv.width = cv.offsetWidth || 640;
-    const H = cv.height = 140;
-    const pad = 8;
-    const n = hist.length;
-    const s = (i) => i * (W - pad * 2) / Math.max(n - 1, 1) + pad;
-    const maxV = Math.max(100, ...hist.map(h => Math.max(h.cpu || 0, h.temp || 0, (h.ram || 0) / 10)));
-    const y = (v) => H - pad - (v / maxV) * (H - pad * 2);
-    function linha(cor, key, fator){
-      ctx.beginPath();
-      hist.forEach((h, i) => {
-        const v = (key === 'ram' ? (h.ram || 0) / (fator || 1) : (h[key] || 0));
-        const px = s(i), py = y(v);
-        if (i === 0) ctx.moveTo(px, py); else ctx.lineTo(px, py);
-      });
-      ctx.strokeStyle = cor; ctx.lineWidth = 2; ctx.lineJoin = 'round'; ctx.stroke();
-    }
-    ctx.clearRect(0, 0, W, H);
-    // grelha
-    ctx.strokeStyle = '#eee'; ctx.lineWidth = 1;
-    for (let g = 0; g <= 4; g++){
-      const gy = pad + g * (H - pad * 2) / 4;
-      ctx.beginPath(); ctx.moveTo(pad, gy); ctx.lineTo(W - pad, gy); ctx.stroke();
-    }
-    linha('#2E6C82', 'cpu');
-    linha('#B9552C', 'temp');
-    linha('#4C7A4C', 'ram', 10);
-  }
-
-  fetch('dashboard.json?t=' + Date.now())
-    .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-    .then(d => {
-      const el = $id('dash-status');
-      if (el) el.innerHTML =
-        '<div class="dash-card"><h4>Serviços</h4><div class="dash-status">' +
-        (d.servicos || []).map(s => `<div class="row"><span class="dot ${s.ok ? 'ok' : 'bad'}"></span><span class="nm">${s.nome}</span><span class="st">${s.ok ? 'online' : 'offline'}</span></div>`).join('') +
-        '</div></div>' +
-        '<div class="dash-card"><h4>Recursos</h4><div class="dash-status">' +
-        `<div class="dash-metric"><span class="lbl">CPU</span><span class="val">${pct(d.cpu)}</span></div>` +
-        `<div class="dash-metric"><span class="lbl">RAM</span><span class="val">${d.ram.used_mb} / ${d.ram.total_mb} MB</span></div>` +
-        `<div class="dash-metric"><span class="lbl">Disco</span><span class="val">${d.disk.free_gb} GB livres</span></div>` +
-        `<div class="dash-metric"><span class="lbl">Temp</span><span class="val ${d.temp_c > 75 ? 'hot' : d.temp_c > 65 ? 'warn' : ''}">${d.temp_c}°C</span></div>` +
-        `<div class="dash-metric"><span class="lbl">Uptime</span><span class="val">${d.uptime_h} h</span></div>` +
-        `<div class="dash-metric"><span class="lbl">Load</span><span class="val">${d.load[0]}</span></div>` +
-        '</div></div>' +
-        '<div class="dash-card"><h4>Automações</h4><div class="dash-aut">' +
-        (d.automacoes || []).map(a => `<div class="row"><span class="ico">${a.ok ? '✅' : '⚠️'}</span><span class="nm">${a.nome}</span><span class="st">${a.info}</span></div>`).join('') +
-        '</div></div>';
-      const nota = $id('dash-note');
-      if (nota) nota.textContent = 'Atualizado a cada 10 min · última recolha ' + new Date(d.atualizado_em).toLocaleTimeString('pt-PT', { hour: '2-digit', minute: '2-digit' });
-      drawChart(d.hist || []);
-    })
-    .catch(() => {
-      const el = $id('dash-status');
-      if (el) el.innerHTML = '<div class="dash-card"><h4>Servidor</h4><div class="dash-status"><div class="row"><span class="skeleton">sem dados de momento.</span></div></div></div>';
-    });
-})();
 </script>
 </body>
 </html>
