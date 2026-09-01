@@ -1104,9 +1104,9 @@ carregarNoticias();
     document.getElementById('lua-cheia').textContent = fmt(proxima(agora, 0.5));
     document.getElementById('lua-nova').textContent = fmt(proxima(agora, 0));
 
-    // Próximos 7 dias — fase de cada dia ao meio-dia
+    // Próximos 12 dias — fase de cada dia ao meio-dia
     const semana = [];
-    for (let i = 0; i < 7; i++){
+    for (let i = 0; i < 12; i++){
       const d = new Date(agora.getFullYear(), agora.getMonth(), agora.getDate() + i, 12);
       const fp = fase(d);
       const fi = Math.floor(fp * 8);
