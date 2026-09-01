@@ -1,22 +1,22 @@
 {
  "host": "pi",
- "atualizado_em": "2026-09-01T02:50:06Z",
- "uptime_h": 10.0,
+ "atualizado_em": "2026-09-01T03:00:04Z",
+ "uptime_h": 10.1,
  "load": [
-  0.93,
-  0.58,
-  0.65
+  0.19,
+  0.3,
+  0.47
  ],
- "cpu": 8.5,
+ "cpu": 5.0,
  "ram": {
-  "used_mb": 736,
+  "used_mb": 750,
   "total_mb": 905
  },
  "disk": {
   "free_gb": 46,
   "used_pct": 17
  },
- "temp_c": 58.5,
+ "temp_c": 56.9,
  "servicos": [
   {
    "nome": "Raspberry Pi",
@@ -65,7 +65,7 @@
   {
    "nome": "Último git push",
    "ok": true,
-   "info": "01 Sep 03:41"
+   "info": "01 Sep 03:50"
   },
   {
    "nome": "Manutenção",
@@ -97,6 +97,12 @@
    "cpu": 8.5,
    "ram": 736,
    "temp": 58.5
+  },
+  {
+   "ts": "03:00",
+   "cpu": 5.0,
+   "ram": 750,
+   "temp": 56.9
   }
  ]
 }
