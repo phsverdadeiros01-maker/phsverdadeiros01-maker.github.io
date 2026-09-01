@@ -1,0 +1,84 @@
+{
+ "host": "pi",
+ "atualizado_em": "2026-09-01T02:34:39Z",
+ "uptime_h": 9.7,
+ "load": [
+  1.46,
+  1.16,
+  0.82
+ ],
+ "cpu": 27.9,
+ "ram": {
+  "used_mb": 716,
+  "total_mb": 905
+ },
+ "disk": {
+  "free_gb": 46,
+  "used_pct": 17
+ },
+ "temp_c": 61.2,
+ "servicos": [
+  {
+   "nome": "Raspberry Pi",
+   "ok": true
+  },
+  {
+   "nome": "Tailscale",
+   "ok": true
+  },
+  {
+   "nome": "Audiobookshelf",
+   "ok": true
+  },
+  {
+   "nome": "Navidrome",
+   "ok": true
+  },
+  {
+   "nome": "Media Hub",
+   "ok": true
+  },
+  {
+   "nome": "OpenClaw",
+   "ok": true
+  },
+  {
+   "nome": "Painel admin",
+   "ok": true
+  },
+  {
+   "nome": "GitHub",
+   "ok": true
+  }
+ ],
+ "automacoes": [
+  {
+   "nome": "Site update",
+   "ok": true,
+   "info": "31 Aug 18:00"
+  },
+  {
+   "nome": "Backup",
+   "ok": true,
+   "info": "31 Aug 20:02"
+  },
+  {
+   "nome": "Último git push",
+   "ok": true,
+   "info": "01 Sep 03:14"
+  },
+  {
+   "nome": "Manutenção",
+   "ok": true,
+   "info": "31 Aug 20:41"
+  }
+ ],
+ "hist": [
+  {
+   "ts": "02:34",
+   "cpu": 27.9,
+   "ram": 716,
+   "temp": 61.2
+  }
+ ]
+}
