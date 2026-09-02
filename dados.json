@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-02T13:31:53Z",
+ "atualizado_em": "2026-09-02T17:00:06Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-02T13:31:54Z",
+  "atualizado_em": "2026-09-02T17:00:08Z",
   "dias": [
    {
     "data": "2026-09-02",
@@ -1632,22 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Despiste de trator faz dois feridos, um deles grave, em Barcelos",
+    "link": "https://ominho.pt/despiste-de-trator-faz-dois-feridos-graves-em-barcelos-2/",
+    "source": "O MINHO",
+    "ts": 1788361376
+   },
+   {
+    "title": "Barcelos: Despiste de trator faz um ferido grave na freguesia de Pereira",
+    "link": "https://e24.pt/barcelos-despiste-de-trator-faz-um-ferido-grave-na-freguesia-de-pereira/",
+    "source": "E24",
+    "ts": 1788361309
+   },
+   {
     "title": "Barcelos: Mário Constantino inaugurou novo Espaço Cidadão em Roriz",
     "link": "https://e24.pt/barcelos-mario-constantino-inaugurou-novo-espaco-cidadao-em-roriz/",
     "source": "E24",
     "ts": 1788355603
-   },
-   {
-    "title": "Barcelos: Mário Constantino Lopes homenageia autarcas e destaca mais de 120 milhões de euros em investimentos no 98.º aniversário da cidade",
-    "link": "https://e24.pt/barcelos-mario-constantino-homenageia-autarcas-120-milhoes-investimentos-98-aniversario-cidade/",
-    "source": "E24",
-    "ts": 1788347041
-   },
-   {
-    "title": "Barcelos: 11.ª edição do Festival Jazz ao Largo traz nomes nacionais e internacionais à cidade",
-    "link": "https://e24.pt/barcelos-11-a-edicao-do-festival-jazz-ao-largo-traz-nomes-nacionais-e-internacionais-a-cidade/",
-    "source": "E24",
-    "ts": 1788342452
    },
    {
     "title": "Barcelos: Mário Constantino afirma que requalificação do Mercado Municipal entrega à cidade “uma obra digna, robusta e preparada para o futuro” - e24.pt",
@@ -1676,54 +1676,48 @@
     "ts": 1788201125
    },
    {
-    "title": "Homem gravemente ferido após capotamento de trator em Esposende - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUF81QVB5R0t4RHN0b1FvOEl6cHN0SnR5UDgtUndTamhkN3RETUxUZVVtUjg1eTN5bXIzaWo5Y1ppZE1wdGt1MlpiQ0tJenVJM0trbVk2VjZYcnNoc3RidmQ5RlJTWDVpUzRjaGFTWXpHRklxb1BxOExZTEl5SlBxZ0NEeWExM3NrV1E?oc=5",
-    "source": "O MINHO",
-    "ts": 1788202990
-   },
-   {
-    "title": "Reunião de Câmara Municipal de Esposende - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0k2YXdRN1dKVDBuZ0JvSFNEWGoyOGgwNGtNbXVZbk5LYXRCQ083VEw2c0VyOXdRdDNmeFhZMlotYUR4QV93UVlxMUNwY2dzWEROYXFaWWs3REtPcEQ0LThBMFFvUlRWc0liT0s5cDRtYl84VTZRWTRqRkpzY1NnX3p4TTV1d1NvNWxCVFRjcnN3QQ?oc=5",
-    "source": "SAPO",
-    "ts": 1788280268
-   },
-   {
-    "title": "Reunião de Câmara Municipal de Esposende - TV Esposende",
+    "title": "Reunião de Câmara Municipal de Esposende - tvesposende.com",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0YmFhbGpsaGJNQjJfT2l3cXhMWENDMktDd2NJVjhMTWFCTUs2RUNDQTNmZW5iZGg4bHBoX2p0R3RtS0F4ZGgtOVUzY28tRzhiamlqR0ZZUE0xQTBpd19laGUyUFlKSFpYMnVsdjlaaXpCSzdERlJxaGJQcw?oc=5",
-    "source": "TV Esposende",
+    "source": "tvesposende.com",
     "ts": 1788273590
+   },
+   {
+    "title": "Galeria de Reordenamento da Marginal de Esposende / Victor Neves Arquitectura e Urbanismo - 13 - ArchDaily",
+    "link": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxNVzZWbktDMU9SYl90Q183cloyYU9RaVpmNVpRaW5mdzBIdXBmdE1EMDZ2LW9sTmU4bVFVWW9MZHNrV0Q5bnlpbkJ6bFNLSU5ic1lXMk5yRHhLUmVzRXdBVUJHSmlyLWZOVmd5YTJOZ3puRUxKWlB0TWZPTGtwSUZfU1ZQRW41ZlkyVEw2SkI2d3NDNUlPbnpVLUVSU3lPMFgyYUF0dzg4MmJhUWVrMnpXQmxiXzJKNk9PSWc4QW95TWFGdl91VFlfLWFtOHhhYUViQnJkdVVqVUVSSV9ZSlBqUldCazRnVUhqZXEzeEJhbmxSMkQxTTJleDFqZVU2MHRJbW1UUDMweDRTb3NXSkxoSjF2SmdwMzBYcHB5emxYeXpvYnBsRmxjQV9uMmxCRTdLR3ZMZWFRbWpLLXM?oc=5",
+    "source": "ArchDaily",
+    "ts": 1788155704
    }
   ],
   "mundo": [
    {
-    "title": "Portugal convoca embaixador russo após ataques ao aeroporto na Alemanha - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHJlaHBZZ181cmpvTVlWeWRwSFN6UHB6YXQ0UGVkWlV2M1dQaG1FU3ZQc3FxYUNLM1NLN2hFb002NkFTUWNkRVkxMG02V2VDdUZGbktDVjB0NUlQZmpNNUtWdy02RllYY1VmQTQ0cWNjLW91NmJGTVFKTXpuemhiaVhZRTZiX25rMUZXcHltUkdtT1FNX3p6bjAxbmI3dlFkSmM0ZUIyQ0lSS1FVb1Y3UG0tUkJCT1llRGRUS3dlTHE0dw?oc=5",
-    "source": "Público",
-    "ts": 1788344910
+    "title": "Identificados dois russos por envolvimento no caso do drone-bomba em Leipzig - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOFlsUVhfeDdxZWhLdk9XclJMa2pmcVFjOUhiWnBZN0tNWlBBSzVmZ2dOWTd6bUEwSmVMYUI5eWVBbWxka0JjM09ZLXplZ3k5SmwzUk05VnNXLVpnTEpleTVfS0dRNmNFMk8yZThiSjZkUmZyemFJTnpzZnlRanplb3JGNVdJZFlabXJDZ3ZQNFBDcFFlb3JnNVVfMEJkTjhuSTlFcFFGQUNTZ01yNFJJX2tlZzhUMEHSAasBQVVfeXFMUE1HVkxqclQ0UkRfVjJIaHR3bEZSVHA2cUU3S2c0dHkzVENsZ3BMRDFPeVljallYaUhLcWxKU3R4dENvU2pTUVVvN1REa1JZQ1ptX0U4dGlyMXR6dFpZY3BYZV9pNjdPOG1ka1doRUJxSC16LXFCdHFUTTlUa3R3MWdBa1c0cWJWN1o3QnAtRlQwSkVTc1BWSnl3bS15V2RyU2hmTllOLW91TUxZ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788360960
    },
    {
-    "title": "Irão ataca bases norte-americanas após bombardeamento dos EUA ter matado cinco pessoas num casamento - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0JBLXBCN1hLYVhqbUxGZ3U2cVpvU2dfOFF1aXNWaGN0MVVlZ3I1NWpMakN0Q1p2YmQtWmF3WWtxWWlqeXVUbUpMaDM1MkpOaTdhaGJfSFoycDBMSHgxWmwyeXo3N2oyNU9fcklENU9DSlBUZE1SMnZGVjVjZzR3c2NuWXM4aVRJOF9jQ19iV0Frbmc4cFZGRkVpcDdVOE02YUo5T3RGa1FDekItUVpjVkhWcGpJZnZMb3pVTXNMeF9uUTdqMEQ1Wkp3?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1788335135
-   },
-   {
-    "title": "Dia da Criação, o Papa: aquilo que foi usado para destruição seja orientado para a vida - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZG9LV2ZYdnNURFU2NjZtNDltX2xad09yN0l3WkdwSjU0dkZXZUpySWwtejdUWGNUWXdXYTFqcjVXNkRCSVNyVnlyRzcyWU9KLUlkRk5hU3hTX2l6UERYUFRDOVl5cVdFY3ZmQ3FXZWZZaHE3NjdWRFFKdmtpNEtRV0F0TnZQWjZVSTdXNHFVLURPbEhoOTBaR0VNUVIyYUd5VDl1ZkZISmFKeWUzSUI0aGx1OTBrVXpP?oc=5",
-    "source": "Vatican News",
-    "ts": 1788349136
-   },
-   {
-    "title": "Putin acusa Ucrânia de \"terrorismo de Estado\" após promessa de Zelensky sobre drones nos céus russos - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRERMd1V4UEwtcnJFcGhtSGhpYVN0MFRxTVRTSmFVQXI1RjlUSEpuZzV1dDI4bjNra09aYW5ZSGRXLWxuai16TUZ4LWlBTjl3aXFOT2RMN3lOQjUxWUZzMHk1cjNmYWJnaUNqdUo5ajdzbjlTUm1teTJNSXFPcDB4THM1ZXpFQTdJaDE1bnN1TU5wNm5sUExZLWxaUXlrYi1ZT1UwSnMxREwzV2hBMllNY0Z6a0RwUXhLeHp2YVY4TllRMUxreTEtRWNtVWJmNi1WQXRmZFBfZHQ3SUhPQTRYbmNNa1JLSVF0TEFOMmZkc0QyZmFTVnZTd09R0gH0AUFVX3lxTFAwT25faHpTSkNXVEEtUjdNLVVnUGQyZC1pWFZmaW01R3BGb2FLdmRIczJndjEyaEhrdUN0aC1id0xZUVJmTzZ5ZjctMURucGg1M1hFVzdBQTExZ2lhV2pGTFlFdWNWTVVWYWFGVlVkSUlJY1UyR19lRGEyVGhqUmJQQ1A4TUN3a2lyalEtSGtVU29JbmlZdUJ5Q3hNRmJQeVhHUVNzUVlnc1lZYXZxZXluWmlXLVJPcXBNWEw0MkpDTC1JUzRCY1k5Z2dlcWVSckJtNXhtSUJTclQzNG1ldnk4S3lCeS1oZHd6a3o3RFoxejMzaDA?oc=5",
+    "title": "Pelo menos 18 mortos e 68 feridos em novos ataques dos EUA contra o Irão - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3hHSlRybDdPYlRxU1E1MWs3dGxaSkVYLXZXb1l1WDVzT1Q4RTBYRnRCNkJpOHl5WVUyM1lNX0RWV0FPYm5zRjhGdmxuSm9FX0I5Mk5WdDVvMDI3U01YcExMWDlEbTBJX1pJeTBZeUpOaWtxeDlTdFVqNjVDWUhkQkhOck9KR25Cc09qa0VoMjNCVDk1VDNmSVhMX3NfQWJYZHQ3UjhhQzh6V01fSVpDM1Fnb1JzUWlTS3BxVWluODBfRTI1ODh6V1pzQmVTQVFJakk0?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1788338460
+    "ts": 1788338220
+   },
+   {
+    "title": "Espaço aéreo russo está a tornar-se “completamente inseguro” para voos comerciais, diz Zelensky - Público",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUmhWVjN5Z1ZZUVlNQ2xWVVdYdVhGUGJleWN3SXdfZ2k3MEhINGdka3RsdG9STUY3QUNuQzBzNlptbG9sOFE2N0pPdVByWGNjYjN1UWRNaXdORDQ1dzhFbE4tQmdCc2NEZHdQX2VJRFpXR2RueGlYZHQ4OE9NZmppck92WHhPMTNVSkpxNDl5ZnVsWWJVQzdyNmx0ZHRWYUItX242TjFnLUU1V3dLQ2x4Zjg3UktIa05aV1JsdEZnbC1BMFoxeEx6YzVBWQ?oc=5",
+    "source": "Público",
+    "ts": 1788350520
    },
    {
     "title": "André Ventura ainda não tomou uma decisão sobre a moção de censura - RTP",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3Z3NjlxX095WDh4dlpvZmlhTUIyZ1lIXzB1cGRzN3ZfWmwzalJ0X0VKNUNEbzZES1FvZHVWdHZtaTJUcmxUQ2ZvT0lHRHhZdW8zcDNlVmlLZkpaSmc4ZTl3VHJIRV9ta2R6SXRpMThTWGM5SjBlQWhoSi1jNlM5aGF3NExERWphRGFRc1hXQ05Dd3lrUTdyN0h4TjVVaWdHemROaE5qRjhUb08xN3BmWG13?oc=5",
     "source": "RTP",
     "ts": 1788287125
+   },
+   {
+    "title": "Crise migratória em Ceuta: relatório policial aponta envolvimento de Marrocos e abala governo de Sánchez - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQakRGWkladVZSY2prVFNNN29rYmI0TDFCc0NSdEdvc1lWeEdNWnRmYkMtay1lVWhqUWVETHNCdXN3RVlKRldlUVdYTzAteDV1TEVhR0xxRE42cnpqUXgzQkZxUmFadXI5MUt0eldQNTN5a2VTLWE1eWRKaUxGRXIxdGtUbG5kNGZhRzFYUTFHZVE0eVVTdTRzajdpRGxzdFh4MURSSGxrODVXRDZUeVFxOXVpTlpfem95aUs2LWtES0E2WEttYnlXNWl3TFU?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1788357901
    }
   ]
  }
