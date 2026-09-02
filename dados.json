@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-02T11:00:06Z",
+ "atualizado_em": "2026-09-02T13:31:53Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-02T11:00:07Z",
+  "atualizado_em": "2026-09-02T13:31:54Z",
   "dias": [
    {
     "data": "2026-09-02",
@@ -1632,16 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Mercado de Barcelos inaugurado esta segunda-feira após seis anos de obras - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWIwUnB4ZEFHYXlhWTFiVy1LRE9KZUtVY3pZeVVUTEF5WVZjaW80b0MtT1kxVmlpMHdhdzlRbk84ZTRTNzNjTURqM3RNWW1Wb0dSR3Z6b2E2LVpnbEM3VzB3eU9Ld3VvSTI0SzZYd3ltWVN5RTduRlVodnVkYUVjNm9UdzMyVFp4a0tIUTRpN2VrUmY5SmpFb2FOVWlLUGNLb0RYMWRlVTBiNUZEQW1NbWJ30gGnAUFVX3lxTFBRbXU3blpOZnBhSjJMSUZaMmVVRjNfODhDY0hEaUg3ZXZaSHdvQ2dRelV3YjFqZzRDalhhN2VUdTdVLVdWM2RIVnlmMkcxbWp0THljdFVXSU5Ed0g4MHhqVDdBVW9hemlCYUw5U05tSlFRWU83MXdoSUpXNDNPSmFJWWtZQnc4aTNWaFl2SDM2eVNzWmlLU2ZEVmRwWFlhUXdQdFhqQXQw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788162120
+    "title": "Barcelos: Mário Constantino inaugurou novo Espaço Cidadão em Roriz",
+    "link": "https://e24.pt/barcelos-mario-constantino-inaugurou-novo-espaco-cidadao-em-roriz/",
+    "source": "E24",
+    "ts": 1788355603
    },
    {
-    "title": "Foi inaugurado o renovado Mercado Municipal de Barcelos, numa cerimónia que cont… - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXVtRWtmMVhqTS1ZOEh1b2JBNEg0S3R5dHM1N2luUi15dDktV1cyNFhXM0lDWUItX0xTVFBLQ3BvOGoxUlJ6dGUyQ2NLMFNGMlhJdE00cDRBYlpfczBZUnZwVHQxX0l3R3NHOUY0bG9KOGtnMFoyTkdQUkpBQjh2Vjh0MGRGZkJiblNHQmFHT29SS3Z1Mmh4Sl9zWlhUWWFLMlo4OGxVS2tEdmgxQW52OWI4RUJzMWJHV1hYVF9oVVhDdzRqaXc?oc=5",
-    "source": "SAPO",
-    "ts": 1788280205
+    "title": "Barcelos: Mário Constantino Lopes homenageia autarcas e destaca mais de 120 milhões de euros em investimentos no 98.º aniversário da cidade",
+    "link": "https://e24.pt/barcelos-mario-constantino-homenageia-autarcas-120-milhoes-investimentos-98-aniversario-cidade/",
+    "source": "E24",
+    "ts": 1788347041
+   },
+   {
+    "title": "Barcelos: 11.ª edição do Festival Jazz ao Largo traz nomes nacionais e internacionais à cidade",
+    "link": "https://e24.pt/barcelos-11-a-edicao-do-festival-jazz-ao-largo-traz-nomes-nacionais-e-internacionais-a-cidade/",
+    "source": "E24",
+    "ts": 1788342452
    },
    {
     "title": "Barcelos: Mário Constantino afirma que requalificação do Mercado Municipal entrega à cidade “uma obra digna, robusta e preparada para o futuro” - e24.pt",
@@ -1650,80 +1656,74 @@
     "ts": 1788187841
    },
    {
-    "title": "Barcelos distinguiu mais de uma centena de autarcas no 98.º aniversário da cidade - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcU5lQ0hsbHJWMHZjOWZOeFJ2ZVRlTWE2TmhORGprVzc4YnJNUVhwMDh2c2ZlU2hDRUR4TDNkVURXb2RnYmNSWGEybERTQURPODBwNXdIVnJ0R3RfaXoyU3J4cFdhcnV4SGw0RjdiRTBJeEZUSmhKUkpfUWw1c3RNeko0Rk1wNnRXc1Vuck44cXpvZWR4LU9Vd1FrS2VJV3RXN1RBWUVxZ0NJcC1Ubnd5cE1wb3lnTGtrQVB4M1hBRW1hM0dsREE?oc=5",
+    "title": "Foi inaugurado o renovado Mercado Municipal de Barcelos, numa cerimónia que cont… - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMXVtRWtmMVhqTS1ZOEh1b2JBNEg0S3R5dHM1N2luUi15dDktV1cyNFhXM0lDWUItX0xTVFBLQ3BvOGoxUlJ6dGUyQ2NLMFNGMlhJdE00cDRBYlpfczBZUnZwVHQxX0l3R3NHOUY0bG9KOGtnMFoyTkdQUkpBQjh2Vjh0MGRGZkJiblNHQmFHT29SS3Z1Mmh4Sl9zWlhUWWFLMlo4OGxVS2tEdmgxQW52OWI4RUJzMWJHV1hYVF9oVVhDdzRqaXc?oc=5",
     "source": "SAPO",
-    "ts": 1788286140
+    "ts": 1788280205
    },
    {
-    "title": "Barcelos: 98 anos de cidade com cerimónia de hastear da bandeira - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xcDdDVnZ3UGpNcV83MnBpREMtWTBiLUdZUHo2X3lHbXBZVF9HT1ZHZnVwVWMza2xTcVF1a010djI5QklMd0hWVjkwN25DVzBYSTlNaWo4MDk5N1gwTFFUSnVn?oc=5",
-    "source": "e24.pt",
-    "ts": 1788177272
+    "title": "Mercado de Barcelos inaugurado esta segunda-feira após seis anos de obras - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUWIwUnB4ZEFHYXlhWTFiVy1LRE9KZUtVY3pZeVVUTEF5WVZjaW80b0MtT1kxVmlpMHdhdzlRbk84ZTRTNzNjTURqM3RNWW1Wb0dSR3Z6b2E2LVpnbEM3VzB3eU9Ld3VvSTI0SzZYd3ltWVN5RTduRlVodnVkYUVjNm9UdzMyVFp4a0tIUTRpN2VrUmY5SmpFb2FOVWlLUGNLb0RYMWRlVTBiNUZEQW1NbWJ30gGnAUFVX3lxTFBRbXU3blpOZnBhSjJMSUZaMmVVRjNfODhDY0hEaUg3ZXZaSHdvQ2dRelV3YjFqZzRDalhhN2VUdTdVLVdWM2RIVnlmMkcxbWp0THljdFVXSU5Ed0g4MHhqVDdBVW9hemlCYUw5U05tSlFRWU83MXdoSUpXNDNPSmFJWWtZQnc4aTNWaFl2SDM2eVNzWmlLU2ZEVmRwWFlhUXdQdFhqQXQw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788162120
    }
   ],
   "esposende": [
    {
-    "title": "Três militares feridos após carro da GNR se despistar numa perseguição em Esposende - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3U1SUdRUGFIeXpqNmIxRjVjNUVxQUxUNEhmWG00T2FTVnJ2NS1Cd21OVkVlYWJNcF9FUDdQVGlodF81aTZRbjFIejNja1F4LTN4V2dabkRUZTBod0txRU5qTU82Y2ZfeGlEZzZ0blVBNXpFc09ENHlHREFCRF85eVlvWjRXakYyTkhJLUR2YW9qckFNSnYzRERXVUlKVnc5SG9jSWNvSVR6UlVORlJ2b1o4U3U1STZrZFl0a2FvX0puVEXSAbQBQVVfeXFMTjNqcWhkTC1zTlZ3UGRNVVNxLUhXNy04ZW1DWFIteUxCV252NElwTDZBNUc1Z2JkaFVDeEF6MFJtVUY4SFlvWTNPLTlXdjNvRndBOWtxNklaeVRKTi1CSmdLS2FZNVR5eFhnM2RwTk0xcWY3Ym51ZlloUnRYc25kYXRacFIxVDFwMnZtMGYwREZXVXdvYWZOVDFNaFZZcHdhQmNQekNQcXhVX1paOG9pUHl0Mm5U?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788095220
-   },
-   {
-    "title": "Três militares da GNR feridos após despiste em Esposende - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOHRqYWxTcmFDX0VuMXhjRFdtQ1l2UjJKR3F1ZTBpYnFHMXBGcFR6YVhydk5SVjdySE9rSVg1UkxXaE03aThuNEFDQnJsWUJGQ3dIeklXZkhTSjNsUWxzQzlJVXlnN2VmQWk5OC1CR2YyNnlqYXkydklrN0UxbVRNNQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1788084948
-   },
-   {
-    "title": "Três militares da GNR feridos em despiste de carro em Esposende - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQM3ZXOXJIaU1nb0xfTGoyZ3dnV0c2bXNwdnZDV0NtYnh1ZFJuN3l2ZzhvTjJZNlNqbUtEclh4VG9xWUc5UGtHZWlUY21uMXFvdHpXTU1QR01JTm53ZjJDQ2hwdlk4QWY2c1VFamFYLWUxQUx1ajhZbENGdjdpWkpGRFozbGd4UTlJSDBuYlA4Ukh5MGJtbkVxYTJHRVYwZ2d6ZEJCVFZoMNIBogFBVV95cUxOSF9CUmFNMEY1TVlsMzRueFI0TXMzZnc4NDBQZzNjR2wzV0J3RzhtZGtyQWUtbUhTSlBLN3RzRHdhbXl4Y19HMkN4LXhtdUhZaVhxVzhCZnNPQTRPRkhqRXlNZjBNSGtEWC1ITVdULWsxXzV6T1Y3ajU4em9ZMVlCaE9oNXpqQnJkcDVxQmVyRGg0UFRzRWNOakxCdFFZcnYxNlE?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1788081960
-   },
-   {
-    "title": "Esposende: Três militares da GNR feridos após despiste de viatura da UCC - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1sdlNqWmtsN2NWbF84aXR4M1N1a0xmbEZPVWFzUTZGc21YVkJwbms5ZHBVWHBTUEk5b2UxTlRmLU1ha2xncEhEZGlOTXVDaGxWM3Q1MW51eEYzVGZxZDMxbmtSM3lQT0RpX19XWWRIbjAyTGNiVExERzl3?oc=5",
+    "title": "Esposende: Acidente com trator em Apúlia faz um ferido grave - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBnNzhXWkN4aU9IaUg3TUtfUzFxR2FLMGhkY1d0d2NJeERWRm1VQkdJT0RydjhlSXJCYmJNeFZ1WnZvb3pnZDJkbklBcXhHLXc3eUdXNHhKMlN2cjdkcG13THFvc2VKSnc2eldyVTdManRMcXNGc0UtZVhB?oc=5",
     "source": "e24.pt",
-    "ts": 1788081164
+    "ts": 1788201125
+   },
+   {
+    "title": "Homem gravemente ferido após capotamento de trator em Esposende - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUF81QVB5R0t4RHN0b1FvOEl6cHN0SnR5UDgtUndTamhkN3RETUxUZVVtUjg1eTN5bXIzaWo5Y1ppZE1wdGt1MlpiQ0tJenVJM0trbVk2VjZYcnNoc3RidmQ5RlJTWDVpUzRjaGFTWXpHRklxb1BxOExZTEl5SlBxZ0NEeWExM3NrV1E?oc=5",
+    "source": "O MINHO",
+    "ts": 1788202990
    },
    {
     "title": "Reunião de Câmara Municipal de Esposende - SAPO",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa0k2YXdRN1dKVDBuZ0JvSFNEWGoyOGgwNGtNbXVZbk5LYXRCQ083VEw2c0VyOXdRdDNmeFhZMlotYUR4QV93UVlxMUNwY2dzWEROYXFaWWs3REtPcEQ0LThBMFFvUlRWc0liT0s5cDRtYl84VTZRWTRqRkpzY1NnX3p4TTV1d1NvNWxCVFRjcnN3QQ?oc=5",
     "source": "SAPO",
     "ts": 1788280268
+   },
+   {
+    "title": "Reunião de Câmara Municipal de Esposende - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA0YmFhbGpsaGJNQjJfT2l3cXhMWENDMktDd2NJVjhMTWFCTUs2RUNDQTNmZW5iZGg4bHBoX2p0R3RtS0F4ZGgtOVUzY28tRzhiamlqR0ZZUE0xQTBpd19laGUyUFlKSFpYMnVsdjlaaXpCSzdERlJxaGJQcw?oc=5",
+    "source": "TV Esposende",
+    "ts": 1788273590
    }
   ],
   "mundo": [
    {
-    "title": "Putin considera sanções alemãs \"outro erro\" após acusações de ataque com drone em Leipzig - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPV19QT3dqSnkzdm41SVpsRFQtbldPWXdlbHFiVk9BZ0pzekk2MWFodmRSTWllak54d3IzZ0o2QXBCZkNHT0pnUE9wSWt4WDFPUEZabW5GS09XMEx2bGJEV1dvZUttdjBNSXV5aUg1c25ZZGJEMVJiQW9KYVByLXVLc1R2R0tzOUhVNHBWWWtfSjdzclJOcDNOek1kMXFaRnNGa2MtZDZPbnNWWEFIcFNDdEFqcDQ3NzEtVEl5NUJJdWM2T0RXQ2RadUwyREYwZW5ZcE91c1dOaVJDTUE?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1788302040
-   },
-   {
-    "title": "Irão reporta pelo menos quatro mortos nos novos ataques dos EUA e promete retaliar - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb0JrZDFXQV9jYUwyQkhUZTV4ZTZOcU1yNXJVcGtIYllCeUZ5c0hncW85djMtUmpnQ1dQOEFwOW9MS2lwcHhUdGFqcE01WUxEOVQ0QzMtY3g0REZxZTVSX2JOb2wzdDFUaGVqc0t5VmxzQ2lHVTdyS3l6bGgxRUt4TmZLVXNZSm51ejBzbXNVYnNWQWtQZnlSVm9uM21VWDdaQlZGOEdEeTlSMC1EWW5CRC0xVDFQUHJGQU5aZzB2dFJvTU0?oc=5",
-    "source": "RTP",
-    "ts": 1788298944
-   },
-   {
-    "title": "Risco de cheias foi avaliado em maio pela China e Nepal - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLU81YU1MQVg1TTlLWU0wd3kzZzBNajFLMWxiYVZYTjFXRHRoYVFydnlGdWRud2tHRi16aFpwd0lBM3FCUWdDelVNcWV6bDJGZnQ5YzdhMzdNSHVpeUdOWmZvdE1idmI2RmQ4UWtSNDlqSklMeUxpblQwUVJtbnFzcEhrWXR5eE9zd3lqV3FqejJsU1Jsd3FwTmxhcw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788298020
-   },
-   {
-    "title": "Oposição guineense considera referendo constitucional um “fracasso total” | Guiné-Bissau - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd0FBWVRMMDlQRFN3bEltVXByMGpIOFA1OHRJdy16aE5pb3h0R2ZOYUE4SkN1cE5RYWNfN2t3dG03NllTak5EdTVGT0VicFpzdzhaeFJjeGZrTHF6LTQtRkxYU3NEMFFzazl5dlJMQ0ZGdjd0NF9WNUtBZEdpeXZENTZGak85VFZDUGNMWlFya1FtRy0yZVNjOFFMWl9UUV9oT0hFQ3dMaTNQQUpscXpnTEhaTXROb1hPTzZyNmU5MFpUUQ?oc=5",
+    "title": "Portugal convoca embaixador russo após ataques ao aeroporto na Alemanha - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUHJlaHBZZ181cmpvTVlWeWRwSFN6UHB6YXQ0UGVkWlV2M1dQaG1FU3ZQc3FxYUNLM1NLN2hFb002NkFTUWNkRVkxMG02V2VDdUZGbktDVjB0NUlQZmpNNUtWdy02RllYY1VmQTQ0cWNjLW91NmJGTVFKTXpuemhiaVhZRTZiX25rMUZXcHltUkdtT1FNX3p6bjAxbmI3dlFkSmM0ZUIyQ0lSS1FVb1Y3UG0tUkJCT1llRGRUS3dlTHE0dw?oc=5",
     "source": "Público",
-    "ts": 1788187075
+    "ts": 1788344910
    },
    {
-    "title": "Leão XIV renova convite a uma conversão ecológica: \"Ainda não é tarde demais\" - vaticannews.va",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNkxwR3lubWcwTE93dW9ESW5mTUc4TURZSGhvWG8ydzhCSGtNU1c5SXNucXU5NWJ1bjNXYWMtc0l3NVlXY1hlQ1JwQkdxQkxmOXBUZXdsSGdoQVc1SHV3UmwzdGJPQW9HZDdtQUR2Ui1HQ29iWXF5cU5sWUR2N1FHbGlrR3JwQTFvZWNHbGZ0ZEUwS0Z6cmVGVmVqNGJ4NUVJdG1Ub1JtWUVkQmM?oc=5",
-    "source": "vaticannews.va",
-    "ts": 1788281710
+    "title": "Irão ataca bases norte-americanas após bombardeamento dos EUA ter matado cinco pessoas num casamento - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQ0JBLXBCN1hLYVhqbUxGZ3U2cVpvU2dfOFF1aXNWaGN0MVVlZ3I1NWpMakN0Q1p2YmQtWmF3WWtxWWlqeXVUbUpMaDM1MkpOaTdhaGJfSFoycDBMSHgxWmwyeXo3N2oyNU9fcklENU9DSlBUZE1SMnZGVjVjZzR3c2NuWXM4aVRJOF9jQ19iV0Frbmc4cFZGRkVpcDdVOE02YUo5T3RGa1FDekItUVpjVkhWcGpJZnZMb3pVTXNMeF9uUTdqMEQ1Wkp3?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1788335135
+   },
+   {
+    "title": "Dia da Criação, o Papa: aquilo que foi usado para destruição seja orientado para a vida - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZG9LV2ZYdnNURFU2NjZtNDltX2xad09yN0l3WkdwSjU0dkZXZUpySWwtejdUWGNUWXdXYTFqcjVXNkRCSVNyVnlyRzcyWU9KLUlkRk5hU3hTX2l6UERYUFRDOVl5cVdFY3ZmQ3FXZWZZaHE3NjdWRFFKdmtpNEtRV0F0TnZQWjZVSTdXNHFVLURPbEhoOTBaR0VNUVIyYUd5VDl1ZkZISmFKeWUzSUI0aGx1OTBrVXpP?oc=5",
+    "source": "Vatican News",
+    "ts": 1788349136
+   },
+   {
+    "title": "Putin acusa Ucrânia de \"terrorismo de Estado\" após promessa de Zelensky sobre drones nos céus russos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRERMd1V4UEwtcnJFcGhtSGhpYVN0MFRxTVRTSmFVQXI1RjlUSEpuZzV1dDI4bjNra09aYW5ZSGRXLWxuai16TUZ4LWlBTjl3aXFOT2RMN3lOQjUxWUZzMHk1cjNmYWJnaUNqdUo5ajdzbjlTUm1teTJNSXFPcDB4THM1ZXpFQTdJaDE1bnN1TU5wNm5sUExZLWxaUXlrYi1ZT1UwSnMxREwzV2hBMllNY0Z6a0RwUXhLeHp2YVY4TllRMUxreTEtRWNtVWJmNi1WQXRmZFBfZHQ3SUhPQTRYbmNNa1JLSVF0TEFOMmZkc0QyZmFTVnZTd09R0gH0AUFVX3lxTFAwT25faHpTSkNXVEEtUjdNLVVnUGQyZC1pWFZmaW01R3BGb2FLdmRIczJndjEyaEhrdUN0aC1id0xZUVJmTzZ5ZjctMURucGg1M1hFVzdBQTExZ2lhV2pGTFlFdWNWTVVWYWFGVlVkSUlJY1UyR19lRGEyVGhqUmJQQ1A4TUN3a2lyalEtSGtVU29JbmlZdUJ5Q3hNRmJQeVhHUVNzUVlnc1lZYXZxZXluWmlXLVJPcXBNWEw0MkpDTC1JUzRCY1k5Z2dlcWVSckJtNXhtSUJTclQzNG1ldnk4S3lCeS1oZHd6a3o3RFoxejMzaDA?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1788338460
+   },
+   {
+    "title": "André Ventura ainda não tomou uma decisão sobre a moção de censura - RTP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM3Z3NjlxX095WDh4dlpvZmlhTUIyZ1lIXzB1cGRzN3ZfWmwzalJ0X0VKNUNEbzZES1FvZHVWdHZtaTJUcmxUQ2ZvT0lHRHhZdW8zcDNlVmlLZkpaSmc4ZTl3VHJIRV9ta2R6SXRpMThTWGM5SjBlQWhoSi1jNlM5aGF3NExERWphRGFRc1hXQ05Dd3lrUTdyN0h4TjVVaWdHemROaE5qRjhUb08xN3BmWG13?oc=5",
+    "source": "RTP",
+    "ts": 1788287125
    }
   ]
  }
