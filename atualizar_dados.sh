@@ -1,5 +1,5 @@
 #!/bin/bash
-# Atualização automática do site Barcelos Hoje — 2x/dia (08:00 e 18:00)
+# Atualização automática do site Barcelos Hoje — 3x/dia (08:00, 12:00 e 18:00)
 # - Notícias: Barcelos + Esposende + Mundo (Google News direto)
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
 # Publica dados.json no GitHub Pages; o site lê este ficheiro.
