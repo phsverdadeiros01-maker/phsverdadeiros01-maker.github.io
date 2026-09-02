@@ -368,7 +368,7 @@
       <div class="section-icon">🌡️</div>
       <h2 class="section-title">Tempo em Barcelos</h2>
     </div>
-    <p class="section-lede">Previsão em tempo real via Open‑Meteo.</p>
+    <p class="section-lede">Previsão em tempo real via Open‑Meteo, atualizada a cada visita. Ícones ligados diretamente ao código meteorológico do momento — não são decorativos.</p>
 
     <div class="now-grid">
       <div class="now-card hero">
@@ -419,7 +419,7 @@
       <div class="section-icon">🌊</div>
       <h2 class="section-title">Mar &amp; Praia de Ofir</h2>
     </div>
-    <p class="section-lede">Previsão horária oficial do IPMA para a Praia de Ofir — mar total, ondulação, período, vento e temperatura da água.</p>
+    <p class="section-lede">Previsão horária oficial do IPMA para a Praia de Ofir — mar total, ondulação, período, vento e temperatura da água. Serve para te preparares — não substitui a bandeira no areal.</p>
 
     <div id="flag-status" class="flag ok"><span class="dot"></span> a avaliar condições…</div>
 
@@ -472,6 +472,10 @@
       </table>
     </div>
     <p class="table-note">Cada célula mostra: ⛅ tempo e temperatura do ar · 🌊 altura da onda · período · 🌡 temp. da água · 💨 vento (km/h). Dados oficiais <strong>IPMA — Praia de Ofir</strong>.</p>
+
+    <div class="disclaimer">
+      <strong>Época balnear:</strong> nadadores-salvadores normalmente até meados de setembro. Respeita sempre a <strong>bandeira</strong> içada no local (verde = calmaria, amarela = cuidado, vermelha = mar interdito, ausência de bandeira = sem vigilância). Dados oficiais <a href="https://www.ipma.pt/pt/maritima/costeira/index.jsp?selLocal=247&idLocal=247" target="_blank" rel="noopener">IPMA — Praia de Ofir</a>; a previsão atualiza diariamente.
+    </div>
   </section>
 
   <!-- ===================== LUA ===================== -->
@@ -480,7 +484,7 @@
       <div class="section-icon">🌙</div>
       <h2 class="section-title">Fase da Lua</h2>
     </div>
-    <p class="section-lede">A fase lunar agora e as próximas mudanças de fase.</p>
+    <p class="section-lede">A fase lunar agora, os próximos dias e as próximas mudanças de fase — para noites de praia e passeios ao luar.</p>
     <div class="moon-card">
       <div class="moon-icon" id="lua-icone">🌖</div>
       <div class="moon-main">
@@ -580,12 +584,19 @@
       </a>
     </div>
 
+    <div class="emerg-bar">
+      <span><strong>112</strong> — Emergências (INEM / Bombeiros / PSP)</span>
+      <span><strong>808 24 24 24</strong> — SNS24</span>
+      <span>Farmácia de serviço: muda diariamente, pesquisa "farmácia de serviço Barcelos hoje"</span>
+    </div>
   </section>
 
 </main>
 
 <footer>
-  Barcelos Hoje · <a href="admin/" rel="noopener">painel 🔐</a>
+  Barcelos Hoje · tempo: Open‑Meteo · mar: IPMA (Praia de Ofir) · notícias: Google Notícias<br>
+  Para informação oficial de emergência, tempo e mar, consulta sempre o <a href="https://www.ipma.pt" target="_blank" rel="noopener">IPMA</a> e as autoridades locais.<br>
+  Feito no Raspberry Pi com OpenClaw 🐧 · <a href="admin/" rel="noopener">painel 🔐</a>
 </footer>
 
 <script>
@@ -1014,7 +1025,7 @@ async function carregarNoticias(){
     const upd = document.getElementById('upd-note');
     if (upd && d.atualizado_em){
       const dt = new Date(d.atualizado_em);
-      upd.textContent = 'última: ' +
+      upd.textContent = '⚡ notícias atualizadas automaticamente às 08:00 e 18:00 · última: ' +
         dt.toLocaleDateString('pt-PT', { day:'numeric', month:'short' }) + ' ' +
         dt.toLocaleTimeString('pt-PT', { hour:'2-digit', minute:'2-digit' });
     }
