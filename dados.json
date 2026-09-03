@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-03T11:00:07Z",
+ "atualizado_em": "2026-09-03T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-03T11:00:09Z",
+  "atualizado_em": "2026-09-03T17:00:03Z",
   "dias": [
    {
     "data": "2026-09-03",
@@ -1632,10 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Despiste de trator faz dois feridos, um deles grave, em Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenZmak11QmV5LV9OS2pFZFV6VE9qMFRSUHdCYlpoN0xjbFljeE91WEdxTXExM2RHSThoOHBpZ1B1NzRZVHd0ckdfckJ2M1lmUnJOSVNydENlZWhUSW45MV91ek9HZVlzVzljbkY1S3dwZ21mQW1zbnZyVUVBaVNBOQ?oc=5",
+    "title": "Barcelos: Figurado de Barcelos passa a ter proteção europeia como Indicação Geográfica",
+    "link": "https://e24.pt/barcelos-figurado-de-barcelos-passa-a-ter-protecao-europeia-como-indicacao-geografica/",
+    "source": "E24",
+    "ts": 1788453921
+   },
+   {
+    "title": "Figurado de Barcelos ganha proteção europeia como Indicação Geográfica",
+    "link": "https://ominho.pt/figurado-de-barcelos-ganha-protecao-europeia-como-indicacao-geografica/",
     "source": "O MINHO",
-    "ts": 1788361376
+    "ts": 1788452802
+   },
+   {
+    "title": "Figurado de Barcelos passa a beneficiar de proteção europeia como Indicação Geográfica - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOM1drUDZBV2RKWFUzdEx3MnVNWnY5NzU0aENhMV8yaHBSVkFhT0U0RGItNEJhek53QkNiUV9acVFkMzI3bUF6TC1INUZlWW82SGxuOE9QVkxoejdQV1NwMDRZZDVBUkhDSF9xRVhjWHNFNE9zZV96UE1PTzRCUEZJcXpmWi1XS0NIel9DMnBaWlhVdGxrYUxmeGNCSXZEOHFnUU9hMmVyemYwZUtWVGx0b2JYNEVLaENXVndwYjhWdw?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1788450761
    },
    {
     "title": "Barcelos ao ritmo do jazz durante quatro dias - SAPO",
@@ -1644,86 +1656,56 @@
     "ts": 1788344040
    },
    {
-    "title": "Barcelos: Mário Constantino afirma que requalificação do Mercado Municipal entrega à cidade “uma obra digna, robusta e preparada para o futuro” - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYkJ5N2x5X2RSUzlMZUZHWEtnckhidGVCeVVoZXA1Z0d2UHE3cUZRZnJCU2w5Tlo3ZUMwbm1LSHFfREk3X3phM21keEhyVjlGREwzQXYwelN6NFdlSGZ4UE1WMXJSX1NSdGRBZ2NkVHUxN2ltcDdKbi0zakhXUHVTczdkbG1ZRkQ3MFFtbkIyOA?oc=5",
-    "source": "e24.pt",
-    "ts": 1788187841
+    "title": "Barcelos homenageia ex-autarca Fernando Reis pelo \"contributo decisivo para a transformação\" da cidade - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWDBFcDlWSF8tZ2tRajlJdGUyRkVoR1NCSXJCV0cwdnlmUzZ5MU9UUkxSUnpfZHM0WURJdW4weWdMYjcxTmViaGNVT2NYX1AybnN5SVllYVcxOGpJbXJFdW41RzBUTG96NUJpdDNfVnJfbnFXTnFkRVQ1SV8yYzJFZFludG9wS2JZOXFsQ2xobWxBRUhEa0pIaXpKUVNOYjBYd25aOUwxUWlVZ1dYRkdrUFBYSmx6Q01JOUpJ?oc=5",
+    "source": "O MINHO",
+    "ts": 1788296709
    },
    {
-    "title": "Homem e mulher feridos em despiste de trator em Barcelos. Têm 70 anos - noticiasaominuto.com",
+    "title": "Homem e mulher feridos em despiste de trator em Barcelos. Têm 70 anos - Notícias ao Minuto",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNandPcGk1bHJuYTB5SGM5VWw5TUNOVlo1RW1WTEhfajItcWlGM3NMYkN2aDM0RHdqWGgyX0doTG9VT0ZCZklsXzUwSnQzWFJoTGVuNW02TFVlQU1XUDBxUldmREpvMzQwQ2R6R1BHWmhVSFBDbUJGVnhEQzFmbzZEOG1fWndfazFuZ2ctLWMtVEJmX2psNFhDYy14NDk1TVhaQlJSUQ?oc=5",
-    "source": "noticiasaominuto.com",
+    "source": "Notícias ao Minuto",
     "ts": 1788371390
-   },
-   {
-    "title": "Barcelos distinguiu mais de uma centena de autarcas no 98.º aniversário da cidade - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcU5lQ0hsbHJWMHZjOWZOeFJ2ZVRlTWE2TmhORGprVzc4YnJNUVhwMDh2c2ZlU2hDRUR4TDNkVURXb2RnYmNSWGEybERTQURPODBwNXdIVnJ0R3RfaXoyU3J4cFdhcnV4SGw0RjdiRTBJeEZUSmhKUkpfUWw1c3RNeko0Rk1wNnRXc1Vuck44cXpvZWR4LU9Vd1FrS2VJV3RXN1RBWUVxZ0NJcC1Ubnd5cE1wb3lnTGtrQVB4M1hBRW1hM0dsREE?oc=5",
-    "source": "SAPO",
-    "ts": 1788286140
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Voluntários recolhem uma tonelada de lixo na Mata de Folhosas em Fão",
-    "link": "https://e24.pt/esposende-voluntarios-recolhem-uma-tonelada-de-lixo-na-mata-de-folhosas-em-fao/",
+    "title": "Esposende: Vila Chã recebe obra de saneamento de 2,6 milhões de euros",
+    "link": "https://e24.pt/esposende-vila-cha-recebe-obra-de-saneamento-de-26-milhoes-de-euros/",
     "source": "E24",
-    "ts": 1788428524
-   },
-   {
-    "title": "Esposende: Há uma mudança no centro da cidade. Vem aí os parquímetros em outubro",
-    "link": "https://e24.pt/esposende-parquimetros-centro-outubro/",
-    "source": "E24",
-    "ts": 1788386670
-   },
-   {
-    "title": "Esposende: Município atribui 35 bolsas de estudo a estudantes do ensino superior num investimento de 26 mil euros",
-    "link": "https://e24.pt/esposende-municipio-atribui-35-bolsas-de-estudo-a-estudantes-do-ensino-superior-num-investimento-de-26-mil-euros/",
-    "source": "E24",
-    "ts": 1788368498
-   },
-   {
-    "title": "Esposende aumenta bolsas de estudo e apoia 35 estudantes do Ensino Superior - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVy01bm0tWVZhS3hxcV9UVVVXN0IzT0NPbUx5R1ZsNElZbFJ1dWVURWk3ZDRxZnA3YVpNX1FqOGlXUVFYUVRMM0xDaEx5Mm54NW9XZVRNMTdMakNZdHVaM2h4XzZoNmxXRnJiNVRMaXh3aUltNlh2Z0lMaXB2WHN2ekR1dkJzT0taZk1sU0d1T1h1UGtDbjBqM2Y3aHNFQmo4SDlTa0hQLWVBaURFdmV6ZnUtRnnSAaoBQVVfeXFMUERaVXhVNkJ4WncxeEVmWVkzSDFLODBQeWczd1h0SFEyaTlDSFZmbzRtbFVyT0ZDMFJ2OFQ1am5oS2N3Rm5RNWtlRTVacE1sTm1SRVlrTm1kOGR3dFRhVVlBTkRfSjFhR2ZlV0lrVkZvUGZsTTRCNTVaVFp3bWdtZkN1dmdXaWcwNTZ2RkpWX3JyN09LZVFlLUFsbG4zWXpRVFJUblpBdnRsSEE?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788368700
-   },
-   {
-    "title": "Esposende vai ter parquímetros no centro da cidade - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5jVHVvdThhaXlLUjFWTFd5SzVFZlZjckczalFkTThUS29OWlc5SHpWQ2hpeWQ0SzVRRkRFRUJ4dmQ2bC1TTkdpYm1ZSjIxaFVmWktjbUk2SzJNNnZybnpEeWkxVFZwN3lHcUVSRzRHVmhqWHd3bG5ySQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1788373160
+    "ts": 1788436125
    }
   ],
   "mundo": [
    {
-    "title": "Ataque de drone em Leipzig: UE fala em “terrorismo” de Moscovo, NATO em “imprudência”, vários países já convocaram diplomatas russos - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcXE3cm9oaHhtX3N2SHczTnN6RjhCSC0zV3JxY29KSmFHZlZwQ2RfMW1iQ2JTS3hrdm1OVHhyYjZaUlg1QzFMeUpzbkxZTkswaExnT09NN1oyQWhmRnY4dzJicEkwWUlMdGRkRkZvWEV6QjBJSVJDMkpZLVVmdko5MVI4Mkk4end4RV84anB6YnlEcGhrc043TEEwRThUX3J1VC1qWEJudld6VXJ6MGhDd3hmeEhpeXZFeVBlMUpVRTBsYjlld19ieklqRTVaZks3Q2o5STc4eXNIZ2ppWTdEUFZXQnZHenY4ZXRJbFFSR0VoTVZLaXRVVS04dUxpS3BnUGJIalRTTGlBWWEz?oc=5",
+    "title": "José Milhazes: “Nós estamos em guerra. Putin só entende a linguagem da força, mas encurralado pode ameaçar com o nuclear” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRWlTZEZLTnlMRUhGNmpndmxzOWExOGNxdklpOS1ZRkxPcF9rMmdNdzdlOGJfdXV3YXRxUHIzX1U1aGs5SjNYSmZ5b20tRWhPdEhyQWpLRThSel9TNFF4bld2Ul9IWGdpY1VmaDZRajRrM1dVMUQ2R3FfbWNlOTlwQ2cyVDVFVU5paUlFbTdfcWlsOGhVd2lvQXlLS2tOZVRxdW5lMzd4bUh6UkFYRkk0eVJnUlB6MHNHN0VRVFZmSTFPOGU5V0s1dzNCVWt0dnc5VndNMjczSlRZQ05WTTE4NG92NnYwYTBhM2hjZDI4MkRhaUlhR3VhYzBlMmZaSGo4VGJ0eDFoNnNYb2tGbWdTTGlR?oc=5",
     "source": "Expresso",
-    "ts": 1788356929
+    "ts": 1788413400
    },
    {
-    "title": "Superou Berlusconi e só está atrás de Mussolini. Os 1.412 dias em que Meloni trouxe estabilidade à turbulenta Itália - Observador",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPcFhYQzBHeW5ROUhreEtNVWhacTdUMDZxeGdIT25wcDByYk1zbHZUcVoxVllyeUpRS2JZR1JnbXNpa3JMSkUycTBZRi1qOUNpTTdxcDlDMHdrRWx6YjBYcmlDUkRrak5oMmI4cE9oLWtBYVJ4dGNQRmZ6VTR2VXlrS29pajhFRXpSWWk2aHcxZjAxZm1iUkdGN0NCU1FxSjdwVDB6QzY5VWlLV3hWaWNxaTBtVThuUl91VDE1dFB6T1M5RjQ5NDRtQ2J5LU5TTS03Z3gzZnRCNHoxd1dSZHJMVE1R?oc=5",
+    "title": "Preço do petróleo sobe após escalada de tensões no Médio Oriente - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQVTR3M2FKaWJ4c25LV3Zzb19YUGt1aUtPTkNqNVA1ZE1xYnhuUjJZT1B6aUFfM294bFB4VExmNV9LSUlkb19lZ3NGMlhUczdtNE1Nbm1nTzlXWXBlTExXYTFsblVJN2syUDlEdmhzRF8zVmtXeEhDU3MzWVBUOTRGc1Nwa09FZkJBS3F0U2tRa25QQjU3TmcwQVQwajVaWmtzTjJmdEdLaDYySzNmOWs1MWJ2M2pfWHlIZVhJVXVGb1Job3RVM3R0Qm5iMF9fdGVzdTB2c3NKZERpcno1b0VEd0gwMGtVV0XSAeIBQVVfeXFMT0R4ZEd0c1UwSTVDR1hVUExzdmFXRjMxbUhEeEsybUszR0g5clBxNXRvV20zMy0zbVEtbm1UNTN5MFNxS2JkTWhzalhHT0QwSkl6S0ZDZlNGQVgxMEJPdmdHREhsZ1RUY05XYjFmWDNGdWY1S2lTSVNyc1lmeGhfM2U1SjBJNEhzeE56ZmZNeW8yUm5PTGlXNWFKMFpHTE56VHMxdnFIY0hnck5wbGQ1S3JoRS1GZDRvazJyNUp6ZUEtTWxTSi1aUmsxRm93SUVoejh4ZGpTOW95QTJFTmdsN2dDQQ?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1788418388
+   },
+   {
+    "title": "Zelensky diz que companhias aéreas começaram a suspender voos para a Rússia - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaC1NSlVkc3h1TmNsb0xyT0RLTTQ0aHFJeDhTTFl4X0c0N01HSm56ZnRjUjNwUm43eWN2T1kyX1FQZEtadzJoOXNPd2c2bl92SlpTeWc1bDV5T1YxNWNWdFB0czRRdk90SUlvQnpxUWtDanNMb3VOaE9EcTNPYUIwdVUyMWpwNjd4RXJkaXNvejdQeGtvc1ZyQzVzemVXMnBJN25tQ0R0WEdVcWFiNGQyZXRkQ0VoaWV4SXBoU3RIcG8wQ2lZcElTblgxTjlVYjZoMEtVSExMTXVMYUdIdHcySllKM0k?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1788424583
+   },
+   {
+    "title": "Governo e polícia desmentem relatório policial sobre Ceuta - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNOUJ2Q0hjbkZmTGktMGFtYkNLNFgySmItNGQtUUN6Sk1LR203SUlZR3JuVTZTUGtCUldfZkZkSG4tTlFJVGdxNnZISXhKTFFvMzI1MmlFRlpCUjQ5Ny1NNVc3aVktekxfa1YtZW4teHkyMURGREZ5aWg4MGRodXNTcWFma1VCTTNzWGV2QVp0TzYyM2FPWjkzZk1pOFpGc3VrMkl0bk1CZTJIUFRraURTMk82cUotb1hvbjk2VnNiNzVQRDRETzdDMWlFSTY5Qi04V2hmOXppdUE3c01xYldJSEJnbkFyUGk1ank2M00tY190d3pXTFpZWmNzVXM?oc=5",
     "source": "Observador",
-    "ts": 1788427644
-   },
-   {
-    "title": "Pelo menos 18 mortos e 108 feridos em novos ataques dos EUA contra o Irão - cmjornal.pt",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM3hHSlRybDdPYlRxU1E1MWs3dGxaSkVYLXZXb1l1WDVzT1Q4RTBYRnRCNkJpOHl5WVUyM1lNX0RWV0FPYm5zRjhGdmxuSm9FX0I5Mk5WdDVvMDI3U01YcExMWDlEbTBJX1pJeTBZeUpOaWtxeDlTdFVqNjVDWUhkQkhOck9KR25Cc09qa0VoMjNCVDk1VDNmSVhMX3NfQWJYZHQ3UjhhQzh6V01fSVpDM1Fnb1JzUWlTS3BxVWluODBfRTI1ODh6V1pzQmVTQVFJakk0?oc=5",
-    "source": "cmjornal.pt",
-    "ts": 1788338220
+    "ts": 1788380368
    },
    {
     "title": "O “milagre” da casa de cor verde-menta que resistiu à força da água no Nepal - Público",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxSNDFGV01lUjVyOF84eGFCTFZjdU9RNUpHTUQ4VmhtY0U2eEUxOTNldFB6cWRzLS1Ucjk0Qzc3WEdVN19zc1hGTE5LLXNDamhKZW0yTmFUQ1YxRVc0bFc1bldRVE1mUGRlbGNSUlBhYnZwaXI5RC1KLVBzNmhiWWk0SjhkV05NU3hWR2QzVlZzSlpMdGNJdklpejNSc0NHWGhfMDU3OTZrY3lnSlE?oc=5",
     "source": "Público",
     "ts": 1788370167
-   },
-   {
-    "title": "Um mês depois de Ceuta, continuam as manifestações e a dúvida: foi a Rússia ou Marrocos? - Público",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQXJwY0dPZXp1SHRya3dpZFNJLXRObDBiZUhhWlhZbEZfVl9RYllwMWNQblRmeDR3aW9jRTdwZVJLZDZDQ0V1TkdjNm5YSUFvaUhrRkFpV3Z4U0hOekEtZ005Q3pSNEQ5M1gwLWdxRnc1bXVwTzRiTlpDZlhTbVkxdUNKQkMxMnNNSXo0cGliU0ZjcUE0RFNHTDRmZ0VjaGJZV1dHcU5XN1Jfa1A5MGxHb19B?oc=5",
-    "source": "Público",
-    "ts": 1788366600
    }
   ]
  }
