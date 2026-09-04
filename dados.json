@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-04T11:00:07Z",
+ "atualizado_em": "2026-09-04T17:00:11Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-04T11:00:09Z",
+  "atualizado_em": "2026-09-04T17:00:12Z",
   "dias": [
    {
     "data": "2026-09-04",
@@ -1632,21 +1632,15 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Homem julgado por violação da ex-mulher",
-    "link": "https://ominho.pt/barcelos-homem-julgado-por-violacao-da-ex-mulher/",
-    "source": "O MINHO",
-    "ts": 1788517862
-   },
-   {
-    "title": "Barcelos: Figurado de Barcelos passa a ter proteção europeia como Indicação Geográfica",
-    "link": "https://e24.pt/barcelos-figurado-de-barcelos-passa-a-ter-protecao-europeia-como-indicacao-geografica/",
+    "title": "Barcelos: RTP1 estreia “Evadidos”, série de ficção gravada integralmente no concelho",
+    "link": "https://e24.pt/barcelos-rtp1-estreia-evadidos-serie-de-ficcao-gravada-integralmente-no-concelho/",
     "source": "E24",
-    "ts": 1788453921
+    "ts": 1788521944
    },
    {
-    "title": "Homem gravemente ferido num despiste de trator em Barcelos - Jornal de Notícias",
+    "title": "Homem gravemente ferido num despiste de trator em Barcelos - jn.pt",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWFVOG5VUXVzOGtYaWE2YzlLOTFFLTZsN2xqM29aQmdXQlZtM0RSNWxpQ0dJLWR1NTFwb29GQzhjVmNOdzI3ampKWTg3OUNTbzN5VU1KQzZoYjR6YkZJOGY0TFNSZlM4dVk4YnVuV0RfV29HNzlxQnpMNnR5MGFkLTFzQUtxeE5KeTV0bFdteXd1SWdONzFHMHNfTks2QdIBkwFBVV95cUxQWFdhRUFtWG1OMnBtUWZaSDJibzZBQWJndXFUY0RKd0hFZ3hFaFZsRzgxVkFUSEN0d0liRVNPX19UQkxwSENZM0xzemZqUmdubVFrcTVFRzNKN2Y2WHdOaUhXaGRlTzU4aWNSLXlGSGNwaElxa1V4TkdkV0FlSEVRWWswNmxEdF9sc0FISWRiSmlkSWs?oc=5",
-    "source": "Jornal de Notícias",
+    "source": "jn.pt",
     "ts": 1788368280
    },
    {
@@ -1662,6 +1656,12 @@
     "ts": 1788361376
    },
    {
+    "title": "Barcelos: Homem julgado por violação da ex-mulher - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZRmpKZnBHTTdBcHJtR1NrMGZ3MWl5R2xMMlotZ3VvVldIQ3pOTnZuZmdzQkppSWJ4cHEzNG1pb3ZkdFZPam9adWRQdWprMzVFb2pNSWJ1OVZ5RDJxVmE0aXk5VDlJMXlXQ1JfOTZwRFBJZFEtTmc?oc=5",
+    "source": "O MINHO",
+    "ts": 1788517862
+   },
+   {
     "title": "Motociclista gravemente ferido em colisão na estrada Braga-Barcelos - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNlYxUlBmZFZFc3dwQm9nSzVzaG9rbVBkV0V3YlVJbzNISEk4clB5X2c0Z1BucEwyU2Q0cTVDN185X3ZwSGVLYm1wN3ZrUU5sa0pZdFg4cWQwWkgtOXBWdVBUNWFYaGtsbXZWNGh5TUhjX0p6a2VmTGFKMFBoQm1SSkFLd0xPN09QOUNENjJYOA?oc=5",
     "source": "O MINHO",
@@ -1670,15 +1670,15 @@
   ],
   "esposende": [
    {
-    "title": "Esposende investe 2,6 milhões para levar saneamento a 300 habitantes",
-    "link": "https://ominho.pt/esposende-investe-26-milhoes-para-levar-saneamento-a-300-habitantes/",
-    "source": "O MINHO",
-    "ts": 1788513153
+    "title": "Esposende: Município garante medicamentos gratuitos a crianças e jovens acolhidos na ASCRA",
+    "link": "https://e24.pt/esposende-municipio-garante-medicamentos-gratuitos-a-criancas-e-jovens-acolhidos-na-ascra/",
+    "source": "E24",
+    "ts": 1788522350
    },
    {
-    "title": "Esposende investe 2,6 milhões de euros para levar saneamento a quase 300 habitantes - Jornal de Notícias",
+    "title": "Esposende investe 2,6 milhões de euros para levar saneamento a quase 300 habitantes - jn.pt",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORF85dnBteHBvcEtrQlkwN0dUdVRWMkJpNG10bWZ2cEpqSmhpTGRuelFXcnlNZEJpbU81SFA0blJjSkdIOWs5eUt1MXY1V2hpRTFQUjRqVWxwbnNGa2dHUXhsb2dqaVpOTnVqM2xKLU5OS3JnT2I5b3NqZmRqZmttUmgzYU40bWdRbno0bmJvLTdpVktHUXBXTmU4U19XZnJhSDFPNnpsRVNnWkJpQXNSQXRJQUljYW9ZblBFeFlR0gGzAUFVX3lxTE5PaG1HejNqcjQ5ZlR2RmtTc2NyMHo0ZlZYS3h1dXRIM3pfaEpNVGFYNVkyU2x1ZFN5eVRDSzhUc1NVUFYtdXctR1VKdkNSdXROX2pjYUtIbVo3WEo3UFJXQTFkRTJyalZHR0M1Vmd3aXNhUnJKdzNEelR1em1JeDhNaHZjZ1F0ZnRJRzB0Y0FoVWQ0RVBaX0t4WXdnNXE3ZjA3UE5sdGNIaERTNUxlSzhPaURF?oc=5",
-    "source": "Jornal de Notícias",
+    "source": "jn.pt",
     "ts": 1788447420
    },
    {
@@ -1688,10 +1688,10 @@
     "ts": 1788513153
    },
    {
-    "title": "Obra de saneamento de 2,6 milhões de euros arranca em Vila Chã - sapo.pt",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZVU0aWdCdFlnTFJ2X216SWtlLVlvVjY0SmFqM1FINW85ZFVsTndWS05JSGphUjdUSnNGTVhNc1pPRktMTngzZzVrWUxtckRKcmtOOVBLR21aeDNOSzQ4cWxoUEJSSkxrQ0xsX2dORmNWWFY0bTJzcmMyZFU0OVJFbzNHWElNaVhJVG9ta09RNlVlNkJwVzV0Mi1VU3BSRUtTaXpFMndKZkRHWFRHa0Qw?oc=5",
-    "source": "sapo.pt",
-    "ts": 1788453183
+    "title": "Esposende: Vila Chã recebe obra de saneamento de 2,6 milhões de euros - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3h3ZnhjUk1EUUk4eEQzNTJabUtVcWVBSHhRbDluZERLT0FTOG5uUEEtM3ZudGJBVTltZnFfWGd0QXowdHdYb3VsWV9OSFdIYXl0Sm9DLUVVc1FzaEZUWnhtbEY5S0ZFeGNzQktPUkVVZGhYZmxHY3Z5dklqYmlrV0tKZjdhLWVKYUhj?oc=5",
+    "source": "e24.pt",
+    "ts": 1788436125
    },
    {
     "title": "Voluntários recolhem uma tonelada de lixo na Mata de Folhosas em Esposende - O MINHO",
@@ -1700,42 +1700,42 @@
     "ts": 1788382603
    },
    {
-    "title": "Cerca de 30 voluntários retiram uma tonelada de lixo da Mata de Folhosas em Esposende - Jornal de Notícias",
+    "title": "Cerca de 30 voluntários retiram uma tonelada de lixo da Mata de Folhosas em Esposende - jn.pt",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHFKcE1uaFdKLUtiQzN5S2pmSmpZYVBobUQ4Z1RRN2MyaElsZWpVLUFmeHhFY2FBU01zNGltUzlUR3J4Rm1LX1JYSlZJdjMxMGF2M0Z4cmt6OTRuOWdSWHhicEdCMThyc1ZJbXhfNl8xYl83Q3dYTUlTSlNRTFZvVFpIYWJQVGRDb1ZyZkw5N2JhVGZha3BoV3AtRzFwV25rVEo2NEJWMGRuTFMyS2JZZmlNNmhob0Y0dVppNFVTSUcxd9IBtwFBVV95cUxNbXhtaTlCSGgzR0lpVE1yRGR4eE92Sjh6MEwtNzV4c0ZRMDlXU3lWRWx0djRWdTNxYWpJV0xja01sNHAzdXdxUHdvdHBGcjE1a1o1QklIVGRsWlM3Qzh2ckRrQ2lzOFdOLWJrVWxPV2RkVDUzT2EtSDYwTnJsQ182eVdsWXNaUkcwWkVEVG9OSi1GY3R6cDlsYkZ2bVdqRHlZWDBYQ2tYTEFoaGc2UTJPSTdhZHJlbTg?oc=5",
-    "source": "Jornal de Notícias",
+    "source": "jn.pt",
     "ts": 1788440820
    }
   ],
   "mundo": [
    {
-    "title": "Dois trabalhadores resgatados com vida de túnel no norte do Nepal, nove dias após enxurrada que abalou o país - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaXN3UUxoamFPaU1UWU10LURsSE1hNEJWdzE5TXhOMUFxT29YZ0pRclNEazBBX0lFcjUzN2FXYVVzaVBidkdtS2szbW9oRHZhRzBGSUx4Mkk2Vm82T2J4MHJFQ2o4LUh6UnY2QWh3UkxhS2hMdDdxVE43eXVWUmhzXzgtRlloVUJaM2lURHJjZGtlSTNobkVRRlRrLW5GU0Nzci1JaWNzYy1UMHJWcFBzUzByTXBzOXUtZUtvc0VnU1NNTjV5YTlsZk1LVDZpbGxNTTVzd21vN2ZEcTIyN0tn0gHaAUFVX3lxTE54VnAyWHd4ZG1iQUVTZlczWG9IZlV1ZTgxUjlrN2tSQlp4TUd1cmtsbkZneV9ZbGlhdDRya2daTXV5ZVFlT1JZQ3dqV2RZcEc0bS0tOW1VdDBwblhETk40QjhlSllMdHhCemFyenlMd3BXRERPUmNxVFNoVUZqbG1BakRsWE1tMUNlcVBZS2dCVS1xb0l1SUdLclFzbHpoc0F1RWZVRTlMZ0pRRE0xRDRvY3BJZWhsNTE4RmJKRE9QRl8xTGFrVmREay1HUktYZWRHcEhOVHhnSTVB?oc=5",
+    "title": "Julgamento de Lindsay Clancy anulado devido a falta de consenso do júri - jn.pt",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOUpzYkdDMmw0UkEwVnBIV1daVmtHdVd2ZW1iUXo0MnhrS094YmE5S0VMSEdPUmh0bl9HM3JPa3JMWnJ6VFRKODVYYlN1WUFYSnV2N21qMjBnTDMwODUwTGNqVGhEanJVcDRMd0xia3pQSjlCdUxKakdjM2JUR1A5R2ZvOHZ1THczdEZ2dkI5VUl1cVdaZXJMczRxSmtHRjZVMUdmOFMxLU1ha1l6WW1TadIBpAFBVV95cUxPdnJqUlFWRGx1NFZoZWpwaFlfVHF1QVFzRWFvamw3SDJ2S2RoMnJxM2JDR3pCUTF2c0dMWF91UnpGUS1LeklGVXR4ZVVPNVZyWncxSzAteEx3ODZmNGZNTC1Sb3BIMldicmpCNzczNV84cTZ5dUVLb0ZzT2d4Z2MwVzgwZHVuMGYxNWk5V3BHUm9Bc09KTXZOU3haYm1TOFBuYWZCVg?oc=5",
+    "source": "jn.pt",
+    "ts": 1788536520
+   },
+   {
+    "title": "Nepal. Dois trabalhadores de central hidroelétrica foram resgatados com vida - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbURfbWRyck44LW0za3BuSkpTV2xQOUhSaFpjWldIU0ZSNXR4alEtSW10a3doRjI3eUFHTnVhakRqbTBFbXNiOHhLTnByQk1PdWhjNkJ5R2NMVEUtUXJPcWhyQzZPRFAyUEk0NmMzbWZacHl3T2VJbWhXaUttS29lOG1MdlN5MnRzWlNkTThraWgtSmlzZ0l2clBUaXpRb2NMZGFRakM1alRLUFBPeDdDbmtBR3NOa3hpX3c?oc=5",
+    "source": "RTP",
+    "ts": 1788527634
+   },
+   {
+    "title": "Embaixador russo rejeita junto de Lisboa acusações de ataque falhado na Alemanha - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmpJbnFDN1NzOGJjUFZreW9EZWo0RVlxVVpRdTlkbkxOaEpaQmdjbmppdTd4Zkd3Qm5BaUR0NGV0OVhZRHJ5RUVNMnRFQ0hrTHluejRjX1o0UlNDYmdqV1B3ck8xSXVPTV9HWkhwQ3JOaDNuS21fcnJ3WnRBbzBjUUlKdkpfYjg5V3V4OEYtQWNuUDdrWGEybXYwaWtBSUVXQkRzYllLUGVEOGxveE5WelhHaXRxU2Y3LUhoOVRB0gG4AUFVX3lxTE1FRFlvV1M1VFRSNkpxQVlsVGpPeWQ1OUlEWFlDbzN4cFFwZERlS202TVVpVjVEZ1RoSzZabUplS3JXODJ5R1QtN2Nzb1hRelFTcFpGcEdtRDlhV2NOd1plbnpqR09PUDlNM0lXUkRJcHJlblNIdVpJOFVLWTFjdDFTTnFNZDNXTi0zdTlRZjBIU0ZzM3lKV1ZCc1FHby1iQzNFSzBJUDhId1BwVzhMemhRbXkyLWxpdFA?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1788502260
+    "ts": 1788441060
    },
    {
-    "title": "Giorgia Meloni tem o Governo mais duradouro de Itália, mas quem a ameaça? - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTnI3c0xOWXpPeUNWRlNpTzF1Q1BBU05aUGV3b1plYm11blZUTTlIbHNPSzRkTzVmcnpWaXZsdGZEOEtYeGM4U3ZFWWd0UFlhWEJPaUUzd1RFT3JGWEJOZkM4bjZubDlHM05yemJ6TU5WN3N0bzFHeTBKRC1IbFRGbXl0Q2FaUEM1VjNqZkF4MUJxZ2ttN25pcS1oUFZ6UjQ0dmxIMnR2SDhXclJsWTI4etIBpAFBVV95cUxOLWdHVmxINUlrSEwza2tmQkpfNFMya2RzTzhRX0FRM0MwMzNwM2U5bUlqR3pWVnhvXzlobEo2cl9wVko4M0UySjZEX1VmM2ZodVVmaWNfN2lzRnBVcXdkMFh6SHhtVTFBaDRwOWNWa0hIYk1QcWdMLXdSVE9DNmFXV196UHFPUGFMeVFiS1pzX0p2Z3psUFNXV2NCcXpMUjE4WUZWVQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788502200
+    "title": "Operação anti-terrorista em Kiev acaba em troca de tiros entre agentes ucranianos. \"Vergonhoso\", diz Zelensky - observador.pt",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTy1icndoaVdDc3d2U3JrMGFaQlFvMDZPbGJZWkZCazQ1NWpieDFXbTd1Szl0SG4tQXdjZzRpejB0cGNaRFROeEtPZkEzMVF5OFhxTnhjYmlmUzZkOG1LMlFwZl95eXVRZlZHOEdUX2VVTHJWbXprVlNheUpaMXo2UFhkRWE4VlFNV2dYZkJ3RVFUbHpaNGpkRG5MVGVzR0t0ZWROcU5tajI4RVFuTi11ZlAwZmUtSWZ1a0FYRXg0UExDU3dyS1dPSXJySFNEbjdxQTFYRzJn?oc=5",
+    "source": "observador.pt",
+    "ts": 1788433024
    },
    {
-    "title": "José Milhazes: “Nós estamos em guerra. Putin só entende a linguagem da força, mas encurralado pode ameaçar com o nuclear” - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRWlTZEZLTnlMRUhGNmpndmxzOWExOGNxdklpOS1ZRkxPcF9rMmdNdzdlOGJfdXV3YXRxUHIzX1U1aGs5SjNYSmZ5b20tRWhPdEhyQWpLRThSel9TNFF4bld2Ul9IWGdpY1VmaDZRajRrM1dVMUQ2R3FfbWNlOTlwQ2cyVDVFVU5paUlFbTdfcWlsOGhVd2lvQXlLS2tOZVRxdW5lMzd4bUh6UkFYRkk0eVJnUlB6MHNHN0VRVFZmSTFPOGU5V0s1dzNCVWt0dnc5VndNMjczSlRZQ05WTTE4NG92NnYwYTBhM2hjZDI4MkRhaUlhR3VhYzBlMmZaSGo4VGJ0eDFoNnNYb2tGbWdTTGlR?oc=5",
-    "source": "Expresso",
-    "ts": 1788413400
-   },
-   {
-    "title": "Espanha: dezenas de milhares manifestam-se em Madrid por Ceuta e contra o governo - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVGZPVnZlWGtLTzRaa3NnbUR0akQ2RTRoZFdTZVdwd214cTVFNUYyMHVfbkoySVIyQ1E2VDljTm9JMHdwV0N2aXEzSWZla2s1Yi1WRnN6UUgwQ0NycVhfdnZKSlEtUnoyS2N3ZzltRDRPV2dxcnR4RjBpakZRZFY1YzhuSTlnTm55WFYtN3l1OWVSdF9fVi11YURJRnE4eV8wZkZoc3lma1VDc3ctZ0pZVVgxQ29PdnYzb1huVzkyMS1aNHc?oc=5",
-    "source": "Euronews.com",
-    "ts": 1788414152
-   },
-   {
-    "title": "Petróleo continua a subir: Gasóleo pode mesmo ter forte aumento 2.ª-feira - noticiasaominuto.com",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUDlFaG9uRkJpRF9SenFrdXlkcFpvYlBSejRRSkluU092UkNlZ2hQODl2bjVLTVEtdW02aWNScVlrVS1lcU5HbTQ5bEZGZzFnWE8yU0s4bUxrelF4NXNZVm1JWG13YUFwcGFGMVo3T0ZOZ1p4S1lWQ2FfYjEwYV9GVzA5azRNY1JISjNnQzhIc0p5R0w2eXRtenJnc0ZSVV93dENYN3pvZFF0NUh5cmUxcUdudEtxV1F6OUpZZw?oc=5",
-    "source": "noticiasaominuto.com",
-    "ts": 1788427020
+    "title": "Meloni bate recorde: executivo de direita é o mais duradouro de Itália dos últimos 80 anos - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUWNhdE10dmVTdjJmOWIyNU9pQ3VFeEVGbXlfdUZ0U0lUVVdLd3MwTGNOaFZoQjZPLS1feHBjaFhDbDRmcmJSVmxyb0pNTEcwQ3FOSGhEODRfbEJ3ZlZKMnVSMWpGTl9RbVJ0TXFxaDVxdXg5aGU2UVVWQ244ZlBkakFDNW9RTnZtUHVwMFo2Q1VscWFuS3NDVS1FWXBYTVpic1ptMjZxdWhISlRjYzVfQjc5cllqOGpWb2RYR2RzUkFOZ3JPV1ZYNGRJLXFYUWU1YXcxTA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1788498900
    }
   ]
  }
