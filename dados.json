@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-05T11:00:02Z",
+ "atualizado_em": "2026-09-05T17:00:03Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-05T11:00:05Z",
+  "atualizado_em": "2026-09-05T17:00:04Z",
   "dias": [
    {
     "data": "2026-09-05",
@@ -1642,30 +1642,6 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZjNYTXVyLVdoRTlGSmlfOUJvcVlmVXNwQXA3ZTNuSVVQa1ZKbzZ0Tkpxd2tBQUtidG9KNE1zRWhWaHhoaG1fYkVZa2tHSS04SXgtSHJjUkk2ZUMzb3E2S2d3QkM3cmQ5a3hHem43cTZTb3ZMc09yN056UTFUclNKVFVVRWdfTHBIV1lrN1ZSS2U2TEcybjdwblFuR1o2OTNqOVBTLVZSOV9aSWJwQ1JITzBDYw?oc=5",
     "source": "CNN Portugal",
     "ts": 1788536510
-   },
-   {
-    "title": "\"Vamos criar mais dificuldades que os últimos adversários que foram a Barcelos causaram\" - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN2pRZEVOWWpfVG5Qbm4tbHVzVkcycFFkMklqaTN4dk9xTExkZTRydnFrMElQYmRERVFmRWtoRWlXdEZLcGg0TlRya3BKVFczVlR6VWZJamI5Rjl4RXprUTA4TmdOaVlOajBSclVLalVGeFpDMi1sMmhoMl9oOHZxNFBSMHNKMnJFejZzMmx5SG1FaGRySkUyd2RIeVFQZG9YeTF3MHV6cjE0MFJlUTRGQ20wTUNxS0NtcGR6ajRoZS1xckYwWVNMVjZRdjFpbWM?oc=5",
-    "source": "SAPO",
-    "ts": 1788529980
-   },
-   {
-    "title": "Homem gravemente ferido num despiste de trator em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNWFVOG5VUXVzOGtYaWE2YzlLOTFFLTZsN2xqM29aQmdXQlZtM0RSNWxpQ0dJLWR1NTFwb29GQzhjVmNOdzI3ampKWTg3OUNTbzN5VU1KQzZoYjR6YkZJOGY0TFNSZlM4dVk4YnVuV0RfV29HNzlxQnpMNnR5MGFkLTFzQUtxeE5KeTV0bFdteXd1SWdONzFHMHNfTks2QdIBkwFBVV95cUxQWFdhRUFtWG1OMnBtUWZaSDJibzZBQWJndXFUY0RKd0hFZ3hFaFZsRzgxVkFUSEN0d0liRVNPX19UQkxwSENZM0xzemZqUmdubVFrcTVFRzNKN2Y2WHdOaUhXaGRlTzU4aWNSLXlGSGNwaElxa1V4TkdkV0FlSEVRWWswNmxEdF9sc0FISWRiSmlkSWs?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788368280
-   },
-   {
-    "title": "Barcelos: Despiste de trator faz um ferido grave na freguesia de Pereira - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdnZNd3VxZGpwMHFUUkRTcVgyNWU0XzRRN3ZFR3N2LWVzMVVKd0IzWXpfZnduc3I4SXJSNFc4T3BmaDh2ZkZGWkdnX3VVWXlsOHppakdndWplUVdxUFFJbDJKTHpTeHhKRDNkeGhtUmFlVVQxdlp6czFZd1BDeGJPdEtjVVZwSEc2TFpHS0tBSUY?oc=5",
-    "source": "e24.pt",
-    "ts": 1788361309
-   },
-   {
-    "title": "Despiste de trator faz dois feridos, um deles grave, em Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNenZmak11QmV5LV9OS2pFZFV6VE9qMFRSUHdCYlpoN0xjbFljeE91WEdxTXExM2RHSThoOHBpZ1B1NzRZVHd0ckdfckJ2M1lmUnJOSVNydENlZWhUSW45MV91ek9HZVlzVzljbkY1S3dwZ21mQW1zbnZyVUVBaVNBOQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1788361376
    }
   ],
   "esposende": [
@@ -1674,24 +1650,6 @@
     "link": "https://e24.pt/esposende-sessao-de-esclarecimento-debateu-apoios-do-norte-2030-a-criacao-de-emprego-e-microempreendedorismo/",
     "source": "E24",
     "ts": 1788537424
-   },
-   {
-    "title": "Esposende investe 2,6 milhões de euros para levar saneamento a quase 300 habitantes - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORF85dnBteHBvcEtrQlkwN0dUdVRWMkJpNG10bWZ2cEpqSmhpTGRuelFXcnlNZEJpbU81SFA0blJjSkdIOWs5eUt1MXY1V2hpRTFQUjRqVWxwbnNGa2dHUXhsb2dqaVpOTnVqM2xKLU5OS3JnT2I5b3NqZmRqZmttUmgzYU40bWdRbno0bmJvLTdpVktHUXBXTmU4U19XZnJhSDFPNnpsRVNnWkJpQXNSQXRJQUljYW9ZblBFeFlR0gGzAUFVX3lxTE5PaG1HejNqcjQ5ZlR2RmtTc2NyMHo0ZlZYS3h1dXRIM3pfaEpNVGFYNVkyU2x1ZFN5eVRDSzhUc1NVUFYtdXctR1VKdkNSdXROX2pjYUtIbVo3WEo3UFJXQTFkRTJyalZHR0M1Vmd3aXNhUnJKdzNEelR1em1JeDhNaHZjZ1F0ZnRJRzB0Y0FoVWQ0RVBaX0t4WXdnNXE3ZjA3UE5sdGNIaERTNUxlSzhPaURF?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788447420
-   },
-   {
-    "title": "Esposende: Vila Chã recebe obra de saneamento de 2,6 milhões de euros - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZ3h3ZnhjUk1EUUk4eEQzNTJabUtVcWVBSHhRbDluZERLT0FTOG5uUEEtM3ZudGJBVTltZnFfWGd0QXowdHdYb3VsWV9OSFdIYXl0Sm9DLUVVc1FzaEZUWnhtbEY5S0ZFeGNzQktPUkVVZGhYZmxHY3Z5dklqYmlrV0tKZjdhLWVKYUhj?oc=5",
-    "source": "e24.pt",
-    "ts": 1788436125
-   },
-   {
-    "title": "Esposende investe 2,6 milhões para levar saneamento a 300 habitantes - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUJPMGFsRlVvRlZISkNncklzUmwwWlhyTE5jMG5XNkRKSjRUdHRlZWs5X2V2QlplQWM0Y0hwYXI5R0k3VG9YNzEwSmRMU2ZjTXE1NkQ4M09BTDRleGlrcVdxeEN2M25QelliQm0tTWQtSDdyVGh5TGowTXFxaFhBUk0wMUx0cWlQa0UxXzJubw?oc=5",
-    "source": "O MINHO",
-    "ts": 1788513153
    },
    {
     "title": "Esposende: Voluntários recolhem uma tonelada de lixo na Mata de Folhosas em Fão - e24.pt",
@@ -1704,38 +1662,56 @@
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHFKcE1uaFdKLUtiQzN5S2pmSmpZYVBobUQ4Z1RRN2MyaElsZWpVLUFmeHhFY2FBU01zNGltUzlUR3J4Rm1LX1JYSlZJdjMxMGF2M0Z4cmt6OTRuOWdSWHhicEdCMThyc1ZJbXhfNl8xYl83Q3dYTUlTSlNRTFZvVFpIYWJQVGRDb1ZyZkw5N2JhVGZha3BoV3AtRzFwV25rVEo2NEJWMGRuTFMyS2JZZmlNNmhob0Y0dVppNFVTSUcxd9IBtwFBVV95cUxNbXhtaTlCSGgzR0lpVE1yRGR4eE92Sjh6MEwtNzV4c0ZRMDlXU3lWRWx0djRWdTNxYWpJV0xja01sNHAzdXdxUHdvdHBGcjE1a1o1QklIVGRsWlM3Qzh2ckRrQ2lzOFdOLWJrVWxPV2RkVDUzT2EtSDYwTnJsQ182eVdsWXNaUkcwWkVEVG9OSi1GY3R6cDlsYkZ2bVdqRHlZWDBYQ2tYTEFoaGc2UTJPSTdhZHJlbTg?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1788440820
+   },
+   {
+    "title": "Voluntários recolhem uma tonelada de lixo na Mata de Folhosas em Esposende - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTkNIdFBxWWR0cTZxZWx0QU5hYy1TSE1RZTdrNlpJdUp0aERXZ2lZa0lMTE0zRDBObDVjdlhhQ2Z6dHo1N0RueS1Xci1Fd2NPbXV3RjBIU1d3bHdoWnZxblZYLXJkdkc1d1hPbDFkSzI2eVpmelpFb0JFRW11cTBnV0VkX1BoV2JfVjVWeGt3ZGduODJkVWxCUA?oc=5",
+    "source": "O MINHO",
+    "ts": 1788382603
+   },
+   {
+    "title": "Esposende investe 2,6 milhões de euros para levar saneamento a quase 300 habitantes - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORF85dnBteHBvcEtrQlkwN0dUdVRWMkJpNG10bWZ2cEpqSmhpTGRuelFXcnlNZEJpbU81SFA0blJjSkdIOWs5eUt1MXY1V2hpRTFQUjRqVWxwbnNGa2dHUXhsb2dqaVpOTnVqM2xKLU5OS3JnT2I5b3NqZmRqZmttUmgzYU40bWdRbno0bmJvLTdpVktHUXBXTmU4U19XZnJhSDFPNnpsRVNnWkJpQXNSQXRJQUljYW9ZblBFeFlR0gGzAUFVX3lxTE5PaG1HejNqcjQ5ZlR2RmtTc2NyMHo0ZlZYS3h1dXRIM3pfaEpNVGFYNVkyU2x1ZFN5eVRDSzhUc1NVUFYtdXctR1VKdkNSdXROX2pjYUtIbVo3WEo3UFJXQTFkRTJyalZHR0M1Vmd3aXNhUnJKdzNEelR1em1JeDhNaHZjZ1F0ZnRJRzB0Y0FoVWQ0RVBaX0t4WXdnNXE3ZjA3UE5sdGNIaERTNUxlSzhPaURF?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788447420
+   },
+   {
+    "title": "Esposende esclarece empresas sobre apoios à criação de emprego - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNHh6VTRzcnU0UVBfVXoxZXFXWXV5cDNzRlBxa0FHWktGRXdRMUFxdGJVN0FfTVFFMTd2cnRKQ0d6VzhvMHJHc2hjSWVsYmFQOVBkRzFfM1BWTlhabktJLW84WFo3S1JnbF9YdTJ6T2VnR19VODVjRUNrUjhsMDNDVEFkaFRNbDNzcHc?oc=5",
+    "source": "Braga TV",
+    "ts": 1788545980
    }
   ],
   "mundo": [
    {
-    "title": "Alemanha: percentagens altas da AfD trazem “o Leste” de novo para a ribalta - publico.pt",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZHJYdjFKalFPbTVUUUY3Y0RMc1ZNSTZweEYyOU5Ja2prMkhfTGZTSjlzQWtPdXVKWmx4NDBESW1PT0xFaFgxUy1SNjVwdHRqZUFGSlEzLTI2dFlqSHdXbm8zVUtycnNIaEVfR0lIXzNnYml3UWY4OEpMVUMxVEszeXp5OXFKSDlBOGE1LUtJeTlidlB6U09LckZ6dVV6SG5MTWZuTXJGTlA1aEdpaTFZOHhXSQ?oc=5",
-    "source": "publico.pt",
-    "ts": 1788588000
+    "title": "Guerra na Ucrânia. Putin ordena cessar-fogo de três dias - RTP",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdk9NQzlWRk96V1dsR2pObWNtNjV2OEZOMHRlTm9HN2duc214YzlXU1lXVDZjek5WSDhGNzRaU1hMX0pUWEpRNlA3cnpvbGxWQi1ncVFOZGdITTdZMFFwdTZkMFlNU0J2QnVYeWFNai1YeGtnY3p4M1kyeHVPWnFZNWp3S2IzY0NVeTFDNWJRV0lvSng2QnppQnNYQzlueFE?oc=5",
+    "source": "RTP",
+    "ts": 1788617516
+   },
+   {
+    "title": "Alemanha em suspenso com possível triunfo regional da AfD - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb3FsZ1JaQWE3RXBFS2dVcmxmZEpwQWNQZngzbnNWeGljb05CMzk4TUZNRXpfN3JHdnNBaEM5dENhNkVDYXFQbFliVW9KY3lJdzZCTFBaTDlrYUlmQVFIS1NGaUtOZGhGQXd2Y1FqUUJrd2RUSkR3Vy1CSjFzVzViMlh0cDRWZFE0dW5QbzNwUXJKOUk2azQybTJ6UDN6dw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788602280
    },
    {
     "title": "Ex-marido de Lindsay Clancy quebra o silêncio após julgamento ser considerado nulo - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZkRVR2kwdFJuS25lUnlPTVF0YThsYWlMQlJpSEVWbmdzNmR6dVF0WlVPLVZ1Q01laVNsWmxEbUViY0hWY2szYXl6cjkwZmxUekJxSkN0aUVHM2IyV2dKZEUzV2RLejh1LTZ6RUVZaWJWRjdmOGVqWWJRM0U4bkdXblFBbFJzZDN5cmV6RGR2aldLQ0puV01FRUVIVG15c0ZCdmt5NTFIdmQ1UzJMZDhfU3pDc3ltbFVZdnN6cdIBtwFBVV95cUxNbVB2bTlnX1V4OUpuZklraU1JVFhSQlg5b0NIWi0yVlh6MVFuVWE2YVVGRG5yZ25Ka3A2amhOUFhtRXVvb3RMQ2F4TTJOczg0Sy0tOGQzNXVyUHBjbTlTUXZTY2ltSTN2cXBjQjVIOE9sVlQxZDZLWElCbmZZdUlnSEx6VEpKS2duTTlXV1hLak56M3NsRnpIWHZFUXlwQlE3S2dGYTRmbUJHRE1QZG5TaDZrQkx5R0k?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1788600279
+    "ts": 1788622262
    },
    {
-    "title": "Nepal: resgatado um português, balanço de mortos sobe para mais de 1000 - publico.pt",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ3RiUWlSRFFFa3ZZYmlVRFJOVm5yUll2aDAzNnZCSEFVOURPcnRfQkpxSmRDWTdiNkFnLVhTY0J2eXV4eEkyeUhKUXBTd1V6WlhMMGRVNlZvVDFWcnRRZ1d3RHhEWHFoUC1mRzF4MU9nRGpRWFNfcDU5VTNKSG5ZRWEyWnNKNGpacmNfU1FtU0FCOTh0NUpHMVJQNlA0Q0hS?oc=5",
-    "source": "publico.pt",
-    "ts": 1788258403
+    "title": "O “milagre” da casa de cor verde-menta que resistiu à força da água no Nepal - Público",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxSNDFGV01lUjVyOF84eGFCTFZjdU9RNUpHTUQ4VmhtY0U2eEUxOTNldFB6cWRzLS1Ucjk0Qzc3WEdVN19zc1hGTE5LLXNDamhKZW0yTmFUQ1YxRVc0bFc1bldRVE1mUGRlbGNSUlBhYnZwaXI5RC1KLVBzNmhiWWk0SjhkV05NU3hWR2QzVlZzSlpMdGNJdklpejNSc0NHWGhfMDU3OTZrY3lnSlE?oc=5",
+    "source": "Público",
+    "ts": 1788370167
    },
    {
-    "title": "Nepal. Dois trabalhadores de central hidroelétrica foram resgatados com vida - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbURfbWRyck44LW0za3BuSkpTV2xQOUhSaFpjWldIU0ZSNXR4alEtSW10a3doRjI3eUFHTnVhakRqbTBFbXNiOHhLTnByQk1PdWhjNkJ5R2NMVEUtUXJPcWhyQzZPRFAyUEk0NmMzbWZacHl3T2VJbWhXaUttS29lOG1MdlN5MnRzWlNkTThraWgtSmlzZ0l2clBUaXpRb2NMZGFRakM1alRLUFBPeDdDbmtBR3NOa3hpX3c?oc=5",
-    "source": "RTP",
-    "ts": 1788527634
-   },
-   {
-    "title": "Leipzig foi só o início? A Europa teme novos ataques híbridos - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQzdzRm0wTWJKSmZNZTZlSnlpQ1VyX3RUOTV3aDlIbVh5YlJOVGVrWHk5OVRNMW1yNTlxZVFzLWZyZ2lkSjE1dm9qV29pdGRpQTlYdlJ0aUlPVUMwbTVueEtBeU45ZDVTTDlNWmpQX001M1VfS2FGWjJZT2hGcXV3VnAxMlozVE13YmI5amN1Z0VMWmJZdzB0TTBqd3Q0emdnc0ktYnFhc1VnV2FfX0dzVWZtZjAxUQ?oc=5",
-    "source": "Expresso",
-    "ts": 1788456939
+    "title": "Von der Leyen acusa Rússia de tentativa de ataque militar na UE e rejeita intimidação - Executive Digest",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNblBpTnUwSVAwVWxXWkNPdEt2NzdMRjNSUjFCRUZ5cUp3RXhuZFRPcXJNblpRcUQ2UlhMejBhMmxvb25SWVlSemZGTkJ5dkVOUC1YZzgyUkZYLVhwcVNOdDVab0F3OHVFR2xYRTVTOEVHczRqTnhRdlpERmZpMzdpc1dtS3M2Y1FjREV4NFZxLVM1ZVdxc2hXcDFfdmJCUHdnMGhzVWs2OTZMaXhrRFZwVjhkOXlsd292Ync?oc=5",
+    "source": "Executive Digest",
+    "ts": 1788351968
    }
   ]
  }
