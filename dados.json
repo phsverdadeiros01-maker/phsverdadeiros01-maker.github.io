@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-06T11:00:04Z",
+ "atualizado_em": "2026-09-06T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-06T11:00:06Z",
+  "atualizado_em": "2026-09-06T17:00:04Z",
   "dias": [
    {
     "data": "2026-09-06",
@@ -1656,16 +1656,16 @@
     "ts": 1788521944
    },
    {
-    "title": "Qualidade do ar preocupa em escolas de Barcelos, Guimarães e Ponte de Lima - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOF9XOHZBeTRCeHcwMGVud2x6TnhJenEwVFZCNXY5anE1NGZvM0JlVFdfV2ZsanRVMGJXNUprTDdQOFBpWUJuc3JxUFdIN3RWc0Y0b2QxLVNmcDJNcm56bDFHSU9fbUFmRVVyNzJSQVM0Y0xkTUVMejlLei15bFJNRlNTRlNGSGRmLWJjcS0xeWVRS3RUamNiTw?oc=5",
+    "title": "Câmara de Barcelos discute abertura de concurso para 36 fogos de arrendamento acessível - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2VrRmxFUGFLd09Md25Qb1J6Z1FyUk95ZkczNFp2a2NudlRuMUtTMTJhQlhLTVcxNkQ3dEdsNFBLN0NFRDByNXNOSW9pcTI3M1k1Vk1KYVhfWDVQMVdwazZ2ZVZtOHFNeTVRT3ZOaEwtWTJjZnAteEZMX3ZTNE9seUJfa1JBeDFWX1RNTVdzbm5Db3VqalNldUstTF93VElLVk91R3N4cFVOUmM?oc=5",
     "source": "Braga TV",
-    "ts": 1788606353
+    "ts": 1788538570
    },
    {
-    "title": "Barcelos: Homem julgado por violação da ex-mulher - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZRmpKZnBHTTdBcHJtR1NrMGZ3MWl5R2xMMlotZ3VvVldIQ3pOTnZuZmdzQkppSWJ4cHEzNG1pb3ZkdFZPam9adWRQdWprMzVFb2pNSWJ1OVZ5RDJxVmE0aXk5VDlJMXlXQ1JfOTZwRFBJZFEtTmc?oc=5",
+    "title": "Barcelos: Tribunal julga ex-vereadores por alegado favorecimento a empresário do PS - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeUpibUQxUjdqTWVtWUMxeFM4cnlJS3dubUx5NTVJZVJDUU1EU0F1ZU91SnJyMmpNY2szNllxWjFueGJLLUJmVUdMR01GMkRwaDBSbDRhcEJWdVVocUNYekw2akRqczhxNnl2MkszVVpNUjdWcFV0SVRpemlLYXFBMVZPMFozUVllbWpLTDg3TkVaM1NtUzRLcFpXdzNKQzVsMDJr?oc=5",
     "source": "O MINHO",
-    "ts": 1788517862
+    "ts": 1788467703
    }
   ],
   "esposende": [
@@ -1682,42 +1682,36 @@
     "ts": 1788635280
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Sul - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVE0zcVAtMUswZGFmdVZOVFdWR3M2WUZ4alVsZW5GcENoUGN1NWRTTlJES2xzUkNkbE8wb3k2cHhMbS05bzJId3FQSHMxcFBYY2hfMVpWcDlDWkR1U2dzdjF4VjBFZzdwclhqcDM0S3RsRVcyTWZnTHo5elpyTWJSbjZSX3lOYWJRQWw0LUppMA?oc=5",
+    "title": "Esposende investe 2,6 milhões para levar saneamento a 300 habitantes - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObUJPMGFsRlVvRlZISkNncklzUmwwWlhyTE5jMG5XNkRKSjRUdHRlZWs5X2V2QlplQWM0Y0hwYXI5R0k3VG9YNzEwSmRMU2ZjTXE1NkQ4M09BTDRleGlrcVdxeEN2M25QelliQm0tTWQtSDdyVGh5TGowTXFxaFhBUk0wMUx0cWlQa0UxXzJubw?oc=5",
+    "source": "O MINHO",
+    "ts": 1788513153
+   },
+   {
+    "title": "Município de Esposende garante acesso gratuito a medicamentos a crianças e jovens acolhidos na ASCRA - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWdmZFlwb25tV2NEVHB2SkFZVDVaZ2xMN0hnOV9nQ3VLYTdueUNPNldaRE1lSXBKRW9qYXlCTURPM0ZyYUoxWEpDcnFmOThJUGc0QlRpT29NU1ZKVjN1Q3lGSUprN3pYTEJvdWVaZWxXcDRwVmltRjBuSF9SZmZBSTNpTmhYNDRmLUhCT0NBaUNkNEIzX2pWVWpZelluSlJOTWZLc2hXOHJJN2pjd2Y4T25iWjlETHVHWVhvaW5YYw?oc=5",
     "source": "SAPO",
-    "ts": 1788589407
+    "ts": 1788692400
    },
    {
-    "title": "Esposende investe 2,6 milhões de euros para levar saneamento a quase 300 habitantes - jn.pt",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORF85dnBteHBvcEtrQlkwN0dUdVRWMkJpNG10bWZ2cEpqSmhpTGRuelFXcnlNZEJpbU81SFA0blJjSkdIOWs5eUt1MXY1V2hpRTFQUjRqVWxwbnNGa2dHUXhsb2dqaVpOTnVqM2xKLU5OS3JnT2I5b3NqZmRqZmttUmgzYU40bWdRbno0bmJvLTdpVktHUXBXTmU4U19XZnJhSDFPNnpsRVNnWkJpQXNSQXRJQUljYW9ZblBFeFlR0gGzAUFVX3lxTE5PaG1HejNqcjQ5ZlR2RmtTc2NyMHo0ZlZYS3h1dXRIM3pfaEpNVGFYNVkyU2x1ZFN5eVRDSzhUc1NVUFYtdXctR1VKdkNSdXROX2pjYUtIbVo3WEo3UFJXQTFkRTJyalZHR0M1Vmd3aXNhUnJKdzNEelR1em1JeDhNaHZjZ1F0ZnRJRzB0Y0FoVWQ0RVBaX0t4WXdnNXE3ZjA3UE5sdGNIaERTNUxlSzhPaURF?oc=5",
-    "source": "jn.pt",
-    "ts": 1788447420
-   },
-   {
-    "title": "Cerca de 30 voluntários retiram uma tonelada de lixo da Mata de Folhosas em Esposende - jn.pt",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVHFKcE1uaFdKLUtiQzN5S2pmSmpZYVBobUQ4Z1RRN2MyaElsZWpVLUFmeHhFY2FBU01zNGltUzlUR3J4Rm1LX1JYSlZJdjMxMGF2M0Z4cmt6OTRuOWdSWHhicEdCMThyc1ZJbXhfNl8xYl83Q3dYTUlTSlNRTFZvVFpIYWJQVGRDb1ZyZkw5N2JhVGZha3BoV3AtRzFwV25rVEo2NEJWMGRuTFMyS2JZZmlNNmhob0Y0dVppNFVTSUcxd9IBtwFBVV95cUxNbXhtaTlCSGgzR0lpVE1yRGR4eE92Sjh6MEwtNzV4c0ZRMDlXU3lWRWx0djRWdTNxYWpJV0xja01sNHAzdXdxUHdvdHBGcjE1a1o1QklIVGRsWlM3Qzh2ckRrQ2lzOFdOLWJrVWxPV2RkVDUzT2EtSDYwTnJsQ182eVdsWXNaUkcwWkVEVG9OSi1GY3R6cDlsYkZ2bVdqRHlZWDBYQ2tYTEFoaGc2UTJPSTdhZHJlbTg?oc=5",
-    "source": "jn.pt",
-    "ts": 1788440820
+    "title": "Despiste na EN13 em Marinhas derruba poste de eletricidade e faz um ferido - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdXJub1JjeWl4UmhIdmtYZjZiNmRHclhmQWV2dXBGcTZPaE5EOWoyZjM0LXp5Z1NVYldzd2RyUHpjNDNiSXIwN2pyQzQyaVpfQV9KbVNGeVBfbldHalB3dng1bm1IYUFnQlZET2JPbFhKcTNhTnpBTlNjaTdQM28ydW80SUxkT0dyaklQd1VLbm5aV2pudzR3dGo3LUR5bnJJMnB2UzdkODVPNlNmZGJSeTZnWmdOdmtLdl9vaHc4QQ?oc=5",
+    "source": "SAPO",
+    "ts": 1788555005
    }
   ],
   "mundo": [
    {
-    "title": "Pelo menos 22 mortos em acidente com autocarro na ilha cabo-verdiana do Fogo - cmjornal.pt",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWmE2ejNmWkJMVkFrYTR1cWtFdVRTVXNjY21xcDZUTEJRMDRGNnN6QURIWk5iOWxjQ041UXl2dHQzR3RqRlYyTVIyWnh5RFB6aFA2aHZKeHBmUHA0MGpMdFpSaGNUZEtUY2dSLW96U1gwbDNxdWEyaWVpa2NfQXpmNC1QdmpMdDFDTUVKZTFHOTlKYlV2c2psVzRkT01KM25WUWQ1dklLWVZjRjI1aHBMNnFodjDSAa8BQVVfeXFMTTBtTFd4NDBFYUxxZVBtakdVQ0pqWXhQWVBCaXZGUWt2UnVSMUNrYklqQWJuLTIzU0xsdUJaUGpqaF96cWVLYTJxTnlxZ0RremoxNTZSWHV3amprMExwdlpqc3pIbGpnWXhTTlgtTnZkanBLNFFDVU5wWWYxNnZ3Q196WjR4VEdlYWVaOF81MC1mNEkyMndWM0RuSmhrQkNvdGk5ZmNVR0szcFZldzdBQQ?oc=5",
-    "source": "cmjornal.pt",
-    "ts": 1788678878
-   },
-   {
-    "title": "Entre a euforia da AfD e o medo dos seus opositores, a Saxónia-Anhalt vai a votos - Público",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONFdGNTl3bm1hQjlkN2F5bm5XTnRkYXV2UzdwRExJaGhOVmhmM0VfSGVSZW5HUmc4LXh6OTNKaXlzcWdtZWQzRjEwVEFKQ0hiT2NBeEpUa3owY3dvaTc5VmVBeFJtNVJHTklPanhySmRETjZnSEtnekVMTDVZQUl0NFRNV2hMLXlxYWtDLUd0VGJTaVI2aDl4djA5cWpSeVZLVXFCaDhUOFhPZ3c?oc=5",
+    "title": "Eleições na Saxónia-Anhalt: sondagens à boca das urnas dão 44% a AfD - Público",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzVNUDdSOFRtQ2NuV0JXaS1kak5FNWMtTkRfd3JwaEpNNXdBUExsVUdKZGNnNE9yRFpwOXJRTWl2M0JsY1lXUkVZQnlpaW9wYmZ3X0dOd2h5d01JSFZabm51VXBTXzZkWEZUdU95cVFsUF9wTkZZTE9pVEthMHVnTGdabnMtUm4xMG9uMk1WM0d3Um5pLUc3ZFRKejdacVRtbDFSaTZuM1p0UDFrNGZN?oc=5",
     "source": "Público",
-    "ts": 1788674400
+    "ts": 1788711068
    },
    {
-    "title": "\"Situação não é fácil\", diz Putin perante enviados da Casa Branca a Moscovo para discutir paz na Ucrânia - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMzdRUHVBY1AwZDhURXVmWjdNel9LaG1iT0JUN3RIQXZoNEVnSWNXdnFzTUgxUHJ1QnZpbDliNUZVWnR3U0RURnA4U25qb09nQk9GdVkydUlkcWRVUmpSdkw0dGJPbWNEeGthOFJ3V2s4Sm9jOFF4UDN0S1RRNlpMUHZBODVVQ05fTEQ2aUdYUmh0TnNmR2ltNUVsdWVXejQ0b0xxb3psQTZtaGk4NEY0RkMxMDJMR0x3X1JUeExHenFOVHhj?oc=5",
+    "title": "Witkoff e Kushner chegaram a Kiev após encontro com Putin que terminou sem anúncio de avanços - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcVBTQk9RbXhVbmpMSkRZYVRDM0xOSHoxYkZtOGs0M1Vic1JMUkx4al9WRFdqV20tenU1VmtoMC1QN2Zzck5hUU5MVVFrRDdiUm1fUDFPRk84MGhDb09FSTNtRTRiazU5eUdXSjhSV3ZMckxYX2F5X3oyLXZqWnp4Rm5rY3BBamVPRGhrT1AzQkJLY2dydjFkblNtaGFGdDh0b2gzZ1dqT29lVGhaSkVVWVF5cVVmUXBiV3NGbHZrSFpQU28?oc=5",
     "source": "Diário de Notícias",
-    "ts": 1788631714
+    "ts": 1788689082
    },
    {
     "title": "Leipzig e a vulnerabilidade europeia - Público",
@@ -1730,6 +1724,12 @@
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMlJGX19kR05CX0habkJuTmpZek9WREZWZHIwbkpibDI0UEM5YXVaQWdHLVlvMWlsUG1oVDRSMEg2SVJqVlBPbk5NWFZ2TkE5OGRTTU1JMWZrS09fSUc2Y09VZU9QM0xONHF6dkZqMWY0SjZaLVV2OU1EZjR2cF9Ta0lpWWQ1ZmVkWmV1eHNIYnJxY0tDTkZob9IBjAFBVV95cUxQY3l0Rzd2bWQ2eERBazRlZm85OUw1bTZ5TW9uMjY4UEZxbTJnbGd3a2pwaUZjcDE5QzFRMlJUYk16Y3M1dUM4eXVya2VvZElEQnBrSjE3aldnMzlzaXBoN1RYOWx6dGZvSnpIcV90V053cWdpX3VYeHdBMUQxcVhiaklmT0hvd2NJTmEyOA?oc=5",
     "source": "jn.pt",
     "ts": 1788622740
+   },
+   {
+    "title": "O “milagre” da casa de cor verde-menta que resistiu à força da água no Nepal - Público",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxSNDFGV01lUjVyOF84eGFCTFZjdU9RNUpHTUQ4VmhtY0U2eEUxOTNldFB6cWRzLS1Ucjk0Qzc3WEdVN19zc1hGTE5LLXNDamhKZW0yTmFUQ1YxRVc0bFc1bldRVE1mUGRlbGNSUlBhYnZwaXI5RC1KLVBzNmhiWWk0SjhkV05NU3hWR2QzVlZzSlpMdGNJdklpejNSc0NHWGhfMDU3OTZrY3lnSlE?oc=5",
+    "source": "Público",
+    "ts": 1788370167
    }
   ]
  }
