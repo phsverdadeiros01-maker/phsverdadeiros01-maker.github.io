@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-07T11:00:06Z",
+ "atualizado_em": "2026-09-07T17:00:03Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-07T11:00:08Z",
+  "atualizado_em": "2026-09-07T17:00:05Z",
   "dias": [
    {
     "data": "2026-09-07",
@@ -1632,86 +1632,92 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Falta de qualidade do ar detetada em escolas de Guimarães, Barcelos e Ponte de Lima",
-    "link": "https://ominho.pt/falta-de-qualidade-do-ar-detetada-em-escolas-de-guimaraes-barcelos-e-ponte-de-lima/",
-    "source": "O MINHO",
-    "ts": 1788777667
-   },
-   {
-    "title": "Barcelos: ETAR de Areias de Vilar entra em funcionamento 17 anos após a sua conceção",
-    "link": "https://e24.pt/barcelos-etar-de-areias-de-vilar-entra-em-funcionamento-17-anos-apos-a-sua-concecao/",
+    "title": "Barcelos: Rota do enoturismo leva participantes a vivenciar a tradição da vindima em Fonte Coberta",
+    "link": "https://e24.pt/barcelos-rota-do-enoturismo-leva-participantes-a-vivenciar-a-tradicao-da-vindima-em-fonte-coberta/",
     "source": "E24",
-    "ts": 1788771735
+    "ts": 1788788425
    },
    {
-    "title": "Barcelos: 17 anos depois de construída, ETAR começou a funcionar",
-    "link": "https://ominho.pt/barcelos-17-anos-depois-de-construida-etar-comecou-a-funcionar/",
-    "source": "O MINHO",
-    "ts": 1788770673
-   },
-   {
-    "title": "Futebol: Académico derrota Gil Vicente FC em Barcelos (0-1)",
-    "link": "https://e24.pt/futebol-academico-derrota-gil-vicente-fc-em-barcelos-0-1/",
+    "title": "Barcelos: Área de Serviço para Autocaravanas inaugurada nas Quintas de Prestar em Barqueiros",
+    "link": "https://e24.pt/barcelos-area-de-servico-para-autocaravanas-inaugurada-nas-quintas-de-prestar-em-barqueiros/",
     "source": "E24",
-    "ts": 1788730259
+    "ts": 1788787262
+   },
+   {
+    "title": "Barcelos: Artista Monteiro da Silva orienta visita guiada à exposição “Conversas de Silêncio”",
+    "link": "https://e24.pt/barcelos-artista-monteiro-da-silva-orienta-visita-guiada-a-exposicao-conversas-de-silencio/",
+    "source": "E24",
+    "ts": 1788781947
    },
    {
     "title": "Académico de Viseu vence em Barcelos - RTP",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeVA5SncyRV9hWTFlbEdub0xfR2Vrc3lqWnU5R0JZODNQMGFuLUJiclkxdlNONDJCU3EwcXA2MzF4RGNnam1FQVgwcjcwc255bTl0T05MZUJXVHNCUDFSUEVmTENsdm5JNjFtcGNyZUpWTDNTNURzWHdaVWw2bW8zbGZQMFd6S0ZMOHc?oc=5",
     "source": "RTP",
-    "ts": 1788731444
+    "ts": 1788731855
    },
    {
     "title": "\"Vir a Barcelos ganhar, contra um Gil que nunca tinha perdido, tem de nos dar confiança...\" - SAPO",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWpXZ2R1dDhjQ1B3NllBLWY4WHQ4dTN2MzFJUmFxbTQ3aE9zbUJxOG9nM21ucm5mQzhyU0Noc0pfcHNrcGZyTUI1V3dCWWQ0bmNDbThvR3kwQ0FJaVp2eUxxalpiTnUwbXI5UjZRWlRrbnVLdk1Sdld3ZUdzNVctaF9sd1VCbTVwaG9DVDJzSjQtSzFpNXhxeE9XN0hjSnlnS3NzUWh6bzZpTks4bHUyWTZtcjBHVUtSaUFsOU9pUUZGcHRDSC12QnYtOTE?oc=5",
     "source": "SAPO",
     "ts": 1788735840
+   },
+   {
+    "title": "Futebol: Académico derrota Gil Vicente FC em Barcelos (0-1) - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxRndFVzFHaGU3OWREVkQybzBLanZTYl82NHZBaTFyQU5hX3B1UktmaTJvQTFTSlJVdkdVekJmU1FvUWxlTU85dW9aTllFeEpnV3g0bXdzZEVDU0ZMc3Z0N1MyempYcEhvUXA0cTdtd0lhMG1VWExyWlNhWVA?oc=5",
+    "source": "e24.pt",
+    "ts": 1788730259
    }
   ],
   "esposende": [
    {
+    "title": "Esposende: Carlos Silva marcou presença nas festividades em honra de Santa Tecla em Antas",
+    "link": "https://e24.pt/esposende-carlos-silva-marcou-presenca-nas-festividades-em-honra-de-santa-tecla-em-antas/",
+    "source": "E24",
+    "ts": 1788781421
+   },
+   {
+    "title": "Esposende: Incêndio em instalação elétrica do “Mira Rio” mobiliza Bombeiros de Fão em Gandra",
+    "link": "https://e24.pt/esposende-incendio-em-instalacao-eletrica-do-mira-rio-mobiliza-bombeiros-de-fao-em-gandra/",
+    "source": "E24",
+    "ts": 1788780843
+   },
+   {
     "title": "Obra de saneamento de 2,6M€ arranca em freguesia de Esposende - Ambiente Magazine",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOXzVOV2s1Y1NhNXVTU3ZIVmswZzdCS2pnVVdoaF9mZnY2bm93Z1VfMDBaLUV2R3oyZTFEQ2RNbWtVQkV2WFExc0RsNXJPRHh1NVdzRHN1d2ZEQ2lnT1pOdHNXS3RyZmE1dDh2YTZsN1otY1dDUmczbmw3UVV2NDZnR1d4anlGRFNOcUFIUlB4LXBFbm1zUXhTeEJn?oc=5",
     "source": "Ambiente Magazine",
-    "ts": 1788775650
-   },
-   {
-    "title": "ETAR de Areias de Vilar entrou em funcionamento - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWVFMV0V3WUFwak9WR0phMXZ2ejhyU1pVb3JCeUVWUlJaY0RGTy16VHloMDBLSUdIdjNmSVlsM2VOUVlYeFQ3UHR6MDU4SkpSa2NYcTBCeUVfTnh6MXhqQlFYbWg0M0VZR1dLcURobEN5aXhPV2NoUzRlQVNRcW9ZbFZR?oc=5",
-    "source": "TV Esposende",
-    "ts": 1788773019
+    "ts": 1788776044
    }
   ],
   "mundo": [
    {
-    "title": "De \"idiotas ou traidores\" a uma “grande celebração da democracia”: as reações à vitória da extrema-direita alemã - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONUFvbTNJRXFvMEttLXFiNmpSZEo1ZEFWYU1hY1lpVWdPVHpUbEVuYURES1BUZ21xdzJUZE5NQ0kwVldLM3puOEdLeFo2MEpvQTRfcjZURkVWTDBPZ3VnS2g1S2psc3BSSXl3d2dtWE9CMnVPeFlVWGFYWmRvaW1waXBtSUVpdVpORC1FWjU2RXlCNk12QlNraERxWXcwX1RwRjhkVDJ5eHRuSlBoZWlnZTdYMDFYTG4tWk56dmZTOUpmNmVQU203cGhGWTZ1OVg4UFlRc1NubjVmWGlIRlIxY3hwendsRGVPVGlSbA?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1788759033
-   },
-   {
-    "title": "Depois de encontro com Putin, enviados de Trump mantiveram conversações “encorajadoras” com Zelensky - Público",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOG52Mk9hb3NKSWR3TkpaS28tUXRDSG9pY3pFLWZ0aVdna29hMGJmOWE2UEpVbS1wTmV3NnFFLW9pYjR2UjdGcXJMc0tpYnRvQjliY3lENkU3T0c3N1habnZwTG5CanZBNy0wcFZrYXdHQm1QNXh3SWxnTzBEaTZGOFNPS3oza3FaSEFQeGVna1NXcDlsbkhPMmROcWpvY0J2VjdGRDN4ZUFVQXVhVHpjOTczSFExTkdDSndMS19WcFdSSlZsNTJBQ1VrOFo?oc=5",
+    "title": "“Um sinal claro”: a Alemanha face à vitória da AfD na Saxónia-Anhalt - Público",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOakZXckdaYzhTbnFNb2FQN0lHalRBVk9YcFJ5NWVYcUZlRkpSX2prWFhBaUYzUHZveXBwbndpSGd4eUh3UXZRdjVLMnFqVjJ6TU9ubXA1VVpFUnJkWVZ4Z0tTTVBYRHZOSFFvRzVDQTgwSDg2Ti1FNzJ0TkNTUkZRbndXSWdFd3doZGcwU2wxNkU1WHNxcHZpbmstRzMzbkZ4QWdxd0ZYRlh0TVU?oc=5",
     "source": "Público",
-    "ts": 1788718912
+    "ts": 1788784200
    },
    {
-    "title": "Moscovo acusa Alemanha de iniciar uma \"verdadeira guerra\" contra a Rússia - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0pXRjlDUG4tVDhFUlJSSTBPOEtvT1c1UVlhem5BS2p5SUpHdEZrU2U0bldEdkljakVkZ2RPWU1RWlBKVVd5emxPd0w5NV80V0UtQ0M2YVZOWThWdDhIVjBpS0xLWTRWaG1aUGxKQkYwX2YzS1pwcUVZOXQ1TlFROFlNWkpONWZNZVBxb3luVzVnLWN6aVNqU0NYZzk4MFd4Qk5GS0JWRFFkaWFYX1pUU1FqSlRsOU5QSUhNZlp3Q3NQTFE?oc=5",
+    "title": "Criminoso de guerra Ratko Mladic homenageado na Sérvia, funeral juntou milhares - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOUw3OVFFcG1hX25Rd1N2N3FuWGRBNkRsLTlzemwxeDVQMWtiaU91LURTVF93ejJBTzN3b1BwSDYwSXJEWDhxS0ZDSEMxNl9UQlh2UmE2VHg0ZUYxVURfdktsSkZxZ3ZRQUpyVWpZd21nNGE5UTVackRpOFJBeVBjVjlEeGRGTUJKa1R2Z0NUY1Y2YW4ySm5ESHJGbFBZUzdQZ1VPc0c4RkxSSDZkRHdIMjVGLTZCOTJ0cm5QVVktYUFNazA?oc=5",
+    "source": "Público",
+    "ts": 1788777667
+   },
+   {
+    "title": "Erupção vulcânica na Indonésia retém 270 mil passageiros e fecha sete aeroportos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDNlQnphMEw4MW5YM2p6dDZJNjJtWkJjcE56c294bDAxaVd5Y3FaUVkyZ3JMSkowYy1TT3UzbzNLVmYzY2ZBVVlyX19QX1c1MEdMX05Nelp1SzE1QmRmbGlVRjJHRTZGSHNLVzlTdFR0bVowVlA1NE1uVVlPUkFiLTJjVmNqMlFkUzRidGFYM2lrTkstN3p3dG1tZHpLYVQxZ1hPbtIBnwFBVV95cUxQODc4Z2JuRFBBdzM0QnFSdVhCNmZ0VjJlbndySVBjQW1vT0lQdlh3dVlmdk94VkJiazA3OHB4S3NwUE8tU2NjcUxlNEJWRGFsM1RQcUxxRjVUbDAteXY3bEJZZmxzaGYxUHV5MkcyRVNEOVJMSFdrUDRJaFZrZnpzQkFybVVWbDAzUFlIaXR1SnJoemJnYVRWMGI4dnBRNTA?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1788762900
+   },
+   {
+    "title": "Delegação de Trump sai “muito encorajada” das negociações com Zelensky, mas não revela avanços nas negociações - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPeTFROUtkZ0NXYVBjcHQtUXdHXzJzN0RLeWl6NEhJQzVWZkJyVG5kUlRyY19IYXpzYk9TUTRDcC1wcVYyR0ZPTEljRFYzQ2pQMkxMVXZZcEY1Yi1mblY5cE1DdkdadHVmOXZUX1JoRTFUdWtfTUN0dW5HbklMRnJzQWgxYlowZzFwX3BFN2RYbnYzZnAzWHdpTldyQnFMakZMaDRnX2pIRS1kOFlQN1lnZUszY1d2T0pEckhMZFlVelFIbW5kbVYxVFlvN18wdTlOcTM2XzBXV2p0TjZfNFpEUUg2ZjlTUWxoT3lJZnlQMU1lM2pL?oc=5",
     "source": "Expresso",
-    "ts": 1788696327
+    "ts": 1788710900
    },
    {
-    "title": "Pelo menos cinco mortos em acidente no Aeroporto de Miami com avião da Amazon - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN2FKX3doQXRaZF9vRlh1T0NDVWN6aGNrSXB5OE5zdlh4NFZBSDB3X2cxMEdNTTJBTHlqRFZVdE91dWNpeHJNQzhvQ2haWmVHbjQ4bW9zVjVxZ20zT2NEaVFWZmpSVjBwUVVuMXhLclRsZ1FSWHBZV1BfZXg5TWM5Z2pIa3dhc05UY3NXMGZBU3FUUXNuZ1FIRjZmaGVoTlJmd3ZzMWlCTVZfQTNWN1RBNHR1SnlWOFh5VnFpTQ?oc=5",
-    "source": "RTP",
-    "ts": 1788732196
-   },
-   {
-    "title": "O “milagre” da casa de cor verde-menta que resistiu à força da água no Nepal - Público",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUxSNDFGV01lUjVyOF84eGFCTFZjdU9RNUpHTUQ4VmhtY0U2eEUxOTNldFB6cWRzLS1Ucjk0Qzc3WEdVN19zc1hGTE5LLXNDamhKZW0yTmFUQ1YxRVc0bFc1bldRVE1mUGRlbGNSUlBhYnZwaXI5RC1KLVBzNmhiWWk0SjhkV05NU3hWR2QzVlZzSlpMdGNJdklpejNSc0NHWGhfMDU3OTZrY3lnSlE?oc=5",
-    "source": "Público",
-    "ts": 1788370167
+    "title": "Drone com explosivos em Leipzig: “Dentro de pouco tempo a guerra deixará de ser híbrida para passar a ser convencional” - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPZmhja1JwQ1JPQlNNVHFzYkFrMnpPM29uTExyZUdaRjAweUdpY3RjZEphNTU5UlpaQUpiSE5pQUVER2hiRVdsTDZzLTNQOXZUVmg5UnhmN2JaTFZDYWJxcHVka21udzdaR3l4V2wxcGpLWFctWlYxY1AxQktTVGpVOUVob3Q2V1dPMmF1R282ZThiTmV6NkxNUWVmSXRQRFZhc3hNZ2VuLTE0T3BsYnY0eHNTQzFaWG5xanc4UVhQTy1xMWFqWUhaOVB5MWprSi1mRC0xR2VDbzNtc0tEQ3hiTk9MY2VQZW55M3NraWtlcERwZjV6bWhSYk9tLWRFWExnN1picDVRWmtEUTZPdWZKSTl0QmlBQQ?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1788762000
    }
   ]
  }
