@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-08T11:00:07Z",
+ "atualizado_em": "2026-09-08T17:00:07Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-08T11:00:10Z",
+  "atualizado_em": "2026-09-08T17:00:09Z",
   "dias": [
    {
     "data": "2026-09-08",
@@ -1632,22 +1632,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Rota do enoturismo leva participantes a vivenciar a tradição da vindima em Fonte Coberta",
-    "link": "https://e24.pt/barcelos-rota-do-enoturismo-leva-participantes-a-vivenciar-a-tradicao-da-vindima-em-fonte-coberta/",
+    "title": "Barcelos: Município investe 46 milhões de euros na Educação e acolhe mais de 22 mil alunos no ano letivo 2026/2027",
+    "link": "https://e24.pt/barcelos-investe-46-milhoes-de-euros-na-educacao-e-acolhe-mais-de-22-mil-alunos-no-ano-letivo-2026-2027/",
     "source": "E24",
-    "ts": 1788788425
-   },
-   {
-    "title": "Barcelos: Área de Serviço para Autocaravanas inaugurada nas Quintas de Prestar em Barqueiros",
-    "link": "https://e24.pt/barcelos-area-de-servico-para-autocaravanas-inaugurada-nas-quintas-de-prestar-em-barqueiros/",
-    "source": "E24",
-    "ts": 1788787262
-   },
-   {
-    "title": "Barcelos: Artista Monteiro da Silva orienta visita guiada à exposição “Conversas de Silêncio”",
-    "link": "https://e24.pt/barcelos-artista-monteiro-da-silva-orienta-visita-guiada-a-exposicao-conversas-de-silencio/",
-    "source": "E24",
-    "ts": 1788781947
+    "ts": 1788885843
    },
    {
     "title": "Académico de Viseu vence em Barcelos - RTP",
@@ -1656,80 +1644,98 @@
     "ts": 1788731855
    },
    {
-    "title": "\"Vir a Barcelos ganhar, contra um Gil que nunca tinha perdido, tem de nos dar confiança...\" - SAPO",
+    "title": "Gil Vicente: Estádio Cidade de Barcelos estreou sistema VAR pioneiro - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVWJOc3JVdnVtYXEwYlphY2U5YktCUmpQRmY1dUE5YmVrYWZ5SDlvWnZoZzNUcmtyOU5pWjVXQXFqVVRiZjlPeHBQaFBoaGRZVmlGSnRTZHRjTHRQY0NCUFdpZFdBMWxqRWx6VGszc1M4NVNlNnM5OWZ5c1NleVhHdUlQMDF5NmE3LWhzOUhGUGowTzhhVHRHZ3lZa0hrLXJHMzFMRHdrcFBRLXV0eXVQUXlZb0NBcm9J?oc=5",
+    "source": "A Bola",
+    "ts": 1788803880
+   },
+   {
+    "title": "\"Vir a Barcelos ganhar, contra um Gil que nunca tinha perdido, tem de nos dar confiança...\" - sapo.pt",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWWpXZ2R1dDhjQ1B3NllBLWY4WHQ4dTN2MzFJUmFxbTQ3aE9zbUJxOG9nM21ucm5mQzhyU0Noc0pfcHNrcGZyTUI1V3dCWWQ0bmNDbThvR3kwQ0FJaVp2eUxxalpiTnUwbXI5UjZRWlRrbnVLdk1Sdld3ZUdzNVctaF9sd1VCbTVwaG9DVDJzSjQtSzFpNXhxeE9XN0hjSnlnS3NzUWh6bzZpTks4bHUyWTZtcjBHVUtSaUFsOU9pUUZGcHRDSC12QnYtOTE?oc=5",
-    "source": "SAPO",
+    "source": "sapo.pt",
     "ts": 1788735840
    },
    {
-    "title": "Futebol: Académico derrota Gil Vicente FC em Barcelos (0-1) - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxRndFVzFHaGU3OWREVkQybzBLanZTYl82NHZBaTFyQU5hX3B1UktmaTJvQTFTSlJVdkdVekJmU1FvUWxlTU85dW9aTllFeEpnV3g0bXdzZEVDU0ZMc3Z0N1MyempYcEhvUXA0cTdtd0lhMG1VWExyWlNhWVA?oc=5",
+    "title": "Barcelos investe 46 milhões de euros na Educação para o novo ano letivo - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb080d1I0T1dUUUloRlAwb2c3cW1zZFpoOElONDJueWlYVWJUdVRMcUZUYWlyWERrYkdVZXY0UWJ6ZzhfeEYwdzZ6MkVXcHdOZFhBbnZWeDFhUWdTbEQtTFNKemd5VzRpdDJLa01oUnlvMWcwMXNGUjhfVWNIZUMtUG1BUU1QQlpmWVlnZHVZU0xSUDZGSXlaYlJRRS1WSlhDbDl0aWdld1M3Ulk?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1788884511
+   },
+   {
+    "title": "Barcelos: Área de Serviço para Autocaravanas inaugurada nas Quintas de Prestar em Barqueiros - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSFc4bjJIdmZfU1h2Z1lxd2VaaGFQQkJzVnhWak9MSENrSk9RUkNfcW1SRmJsVUxSTjVKTDRBblEzaExlbWx2UDJYR1dwUW03LXNrSjR3b2ctZFcza1JTVjJ5S2RPbF9mSllTZVVnaWlJMUtGVU9US2VmX1gxTVcxTFNnNG9PeHJKSnNHMjhOSE5IQ2FwMmEtekd4RjdBMTVqeEZRaFVlTGRCR0E?oc=5",
     "source": "e24.pt",
-    "ts": 1788730259
+    "ts": 1788787262
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Carlos Silva marcou presença nas festividades em honra de Santa Tecla em Antas",
-    "link": "https://e24.pt/esposende-carlos-silva-marcou-presenca-nas-festividades-em-honra-de-santa-tecla-em-antas/",
+    "title": "Esposende: Peregrina norte-americana de 65 anos morre de ataque cardíaco em Belinho",
+    "link": "https://e24.pt/esposende-peregrina-norte-americana-de-65-anos-morre-de-ataque-cardiaco-em-belinho/",
     "source": "E24",
+    "ts": 1788883390
+   },
+   {
+    "title": "Esposende: I Fórum Municipal da Juventude debate habitação, empreendedorismo e Casa da Juventude a 26 de setembro",
+    "link": "https://e24.pt/esposende-i-forum-municipal-da-juventude-debate-habitacao-empreendedorismo-e-casa-da-juventude-a-26-de-setembro/",
+    "source": "E24",
+    "ts": 1788882870
+   },
+   {
+    "title": "Primeiro-ministro vai homenagear dois antigos governantes de Esposende - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVERrM3JWNjB3bWRpX2tRSFhtUlBCYVVKRE5hLXpkc0U5R0VnTmNoaUtMemhjVEZaSkF6QlJfNFlvUGJWZm5aTGJPcTR3QVNBVkJYRUpCcWF5WHY1SHA5dU1mN2JBQzVIQWs2MnMzb01MRFlYSUtHOVRRdjBUV09pdmgzQkk1dUtvQlRkcDgtZ1h3amNlamNxWVNxQ2g2OEhCNjBtbDZvSFI0aE85UUHSAaMBQVVfeXFMTUNiQjZoQWlDUEVRckpmNEluZ05Cc1B0b1lIdUpwMGhDSDBNTlMzc0JyRC1lUER5dW1QclNwUzR3OG9QT19tek9sWWdoa1d4Zk9YOHlUMlZ1N3Q5YzNEeDZ5VXpPQ295a2taa19rZ3JRc2FENHhaLVd4OEFyWWtEZGx4T2NzeElzaVJLcmd6R3VneWkycUI4OTZiSENudXp6OFFYcw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1788886200
+   },
+   {
+    "title": "Montenegro em Esposende para homenagear dois ex-governantes a título póstumo - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUpSZEk1bDhGQy1CbzJaNDhPaXNnbFVnZ2k1OFdMNzdfU0VEbVJSS09oMGFnQm9JMzB5Y0dwdUZfaVpyOVFUaHl1bnZ0ZjdZZ2hKajhBX2dwRmJrQzZjYVFKaFAtdTF5QWpaSEd1aDFMNm5CS183RUR1NWluMHN1TFNXWjVkb0YwZlk5SWJwMk5uT2pCdGRlRl9MSQ?oc=5",
+    "source": "O MINHO",
+    "ts": 1788871058
+   },
+   {
+    "title": "Esposende: Carlos Silva marcou presença nas festividades em honra de Santa Tecla em Antas - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYXZUTjlBTlhkd3RpOUh3ZFpKRlFtWU1PQy04THRBcEhVUG56S2lWT092aS1QMGVsNHY1SVRjc04zV0QtMHA3bUV5aHg0Yk9HQ3ZvUGtaNzlzSlREOE9iLXZvYWR5aFlDLXVRUDdTSTBmUkJqekgzSnJsWXpHVGh1SjNySHpiY1FBZHlKY2pMNW00VDNfakRROUlkcHRaNDdIb0lCWDdnUQ?oc=5",
+    "source": "e24.pt",
     "ts": 1788781421
    },
    {
-    "title": "Luís Montenegro vai a Esposende homenagear dois antigos governantes do concelho - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN0pENHNqdGZqUjZwek5saDhkVHkzNXdDRzBTZ3RyTndsaXQzZkZFUmNrWTFMOWFNUXN4YUNwNTJPNjYzU2dTYkV3MFJ3NHN5eHljUXdWdFR6SjdHV3hmTVVuODFrb1hqZmtZTTJrSm01dkVKRWJtdEVEa1dhck5OSlhRcTZYVldsYURnTEM5ZmNDa0gyV3BzeDRJX0JDWjR4X3hJMXc5ei1UWHlxaVBCQWpMWlRDZUkxeFVDcQ?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1788864163
-   },
-   {
-    "title": "Esposende homenageia Oliveira Martins e Couto dos Santos a título póstumo com presença de Luís Montenegro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTZLRml1S00wWk1TVXRRbWhKdTdISEMzSVVoSm9JM19NdWthTV9qVF9Sb2VlVzAwSHloWU4xQXBlVXR6SWZGY2dmRnBnQVFtMmp1c2hvUnRvbFRYMHd5enhRR2pRRzNVb1FueFY2U1l3NU14VXVMOWRvczYtX3RqdlNLd3BEQUdTV2tIdmxrbHRKTEhWQjUyNnh1TS1id1ZlSEZfbg?oc=5",
-    "source": "TV Esposende",
-    "ts": 1788859606
-   },
-   {
-    "title": "Esposende homenageia a título póstumo dois antigos governantes - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObU9Vc3VTSjdFckhfSjJTdVBvVDk3U0g2QmFPdFI4NHRuZ2l3RzR4encwRFkwNlRDeTRSTVdMa0s0a25uc09iU1VtS05GazBDMzRZUHA3Q1ZrM2VLZk1fUU1ZVVE5SkpNZHBsMFFGbkpTUjFFZVJTRUgtV0JmNGk1dU9CVHdKX25Yc2c?oc=5",
-    "source": "Braga TV",
-    "ts": 1788861287
-   },
-   {
-    "title": "Esposende garante medicamentos gratuitos a crianças e jovens acolhidos - Rádio Festival",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTlE4NXZtSjV1OVdTeDNEcUQxcHcxZnJpak9QVUtYamlqZkExd3I2eVBEdHV2aTRfbXNjYVdBaFhJTGQ3MkJkU0czOUxKbWpJY3k0X0VpVWg5eFliWDhxaTNVRVdtaXJFSks2Y285TFVQNl93eDVWS3htZnBKQzhQLUFZSFJnMEp6b0RacHV4ZWFXd2lNLU9pQldwMHRDWFNyOFRIR0xxOFM0OWNrXzFhUl9BaDM1UQ?oc=5",
-    "source": "Rádio Festival",
-    "ts": 1788857700
+    "title": "Esposende homenageia Oliveira Martins e Couto dos Santos a título póstumo com presença de Luís Montenegro - sapo.pt",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOWdhT0xIcmJxMGd6dWZxa25HZXZkbnBEZ0trcm83Zk1NS3BhT2czeFhKSXYwMkU2NG1kdjBweEpqbk5CUklKRVlUUFNQX2JpY3paVzFSRDdlMEpXR2xrYmh1Y3NXMm5vVkZuc0JvaHduRnNXWDg4WFlXRHlWOS1ZNDFXblhZdFRjVzc0U3lhRTRpdUFQM19GeXloaEpXWUJoWmxVU1I5ZFpOemdqV19lU3M5cmtKM1BsNUJpdnl4ZzBfTW55bWNKNG01emJKMmZkTE8wTXpDRlhqOXNzRnE0aFVMMXM5ZmhW?oc=5",
+    "source": "sapo.pt",
+    "ts": 1788869250
    }
   ],
   "mundo": [
    {
-    "title": "\"Preocupante\" e \"momento muito grave\". Europa reage a vitória da AfD na Saxónia-Anhalt - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUlh3R0dVQmR0VmNQYW9iOGN2MFZmOEFpekw4aF9ORkpfREc0emhVWG0tUFMzT1pNQTNaQkhzZFZ5U1F3SUJuVkUwdVZiT3ZFbDNPSVE4SHFTMWdoOFVwQVVhT2pWMWl2YWhiTV9ReVEyQ2hpTWVJaHJEbl9zTFBVdVl1NVQyMmpmREpsdGFnblpJSWVHemZYTGR6NDNaXzZJRzRadVZ1X29ZWWM0SC01MmxhX0NTa0FpUENQd1JqQlg4MmZhYzItZlVWSVY1QmxtXy1F?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1788803820
+    "title": "Kremlin afirma que a paz depende de Kiev. Putin propôs suspensão de ataques em setores estratégicos - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRk1UU09fY1lBZUhROWdQUTJJVlVkSXRVTVRoRXBSWFJUMXVIUVpxSnJnal9HXzk3eDMzWS1sX01FWXh5MVZjVnVvbVhpR2tHUzc1bVNtczR3NzJEc1ItZ2wtZHBONlNoSkFtX1E0N1BaYkl6SzdQcHBjUmtESHJKajRUYkFfeFVHZXlrNDVyMVdwZzg0QkdmRVE1SVY1SzB4NW9qaDhBd3U1ajFMX0dkVEJ0WnJ6OFJ6T1dvRkpCVjR0NG5ibWc?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1788871232
    },
    {
-    "title": "Kremlin não exclui negociações trilaterais, mas Kiev já teme a chegada do Inverno | Guerra na Ucrânia - Público",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORDU4NkNIT3o0dVhFaEQtQjFvME81WWNwVDk4QkFyX1RnS0VaZDlCTm00N1hPeTlJVmpIQjRRVWU1T0VudFFnVE95czg0SkhvUVg1TkVqUXMtbm9iQ1BBUDVKcGVHLVpaWkpWM1dwQWVlVFB3UDgzYW9yXzFIQ25PUEZwVWlScE1aQkU1TERDQ083R0RMa3QteV9CbVh5LUNMZUh5QkhQb2NsYk5KYW1SWnZrdTNkcFhjanhDc0hwU09uQk44NkE?oc=5",
+    "title": "Kiev denuncia \"ataque horrível\" após visita de enviados dos EUA - RTP",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGg2czVmSWkyb3ZFSmhETXI1cFJVRUtZS2dZVldfdGpZWHdnUUhrYl9peWlIRkFHSjRPUXQ0R080ejE1SDlPVXBRSl9sTC1GUFNTQlZoVF93VDhjamZyRTVrV3B1cFVlaTRra1Q4V2ZnSmdhYWpDbGtJUXZiV3dpb1ktM0xfQXlqSFlsS29FNXd4cWpnTnhmSmZESTViZzk3Y1RBNjRUZw?oc=5",
+    "source": "RTP",
+    "ts": 1788871816
+   },
+   {
+    "title": "A vitória da AfD na Alemanha é um aviso para a Europa? | Podcast Hoje - Público",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNndWRWkzR0F5Y0xEOENsdEVUMUF4SXRoYll0QjVBR2NIMlNSVWluZ2dheURiQUNqcGJNY2tsTzV6UEhpOFRNc2lXLWNWSmN3cmtMemtab1hETUxBczVETmJhajNPaHpzWHZaaEwtcmhaOXFLT0lJb3YzTG1SclVzODZCVWJfLWVkMWZDOWxaeUJ0djg?oc=5",
     "source": "Público",
-    "ts": 1788807036
+    "ts": 1788841800
    },
    {
-    "title": "Sondagem prevê abalo sísmico: PS a liderar, Chega em segundo e a AD de Montenegro em terceiro - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTloyT3YtQTI4Z0NOY0wwNnVwWGVVU2RnMHJvV1FPYkhBTTdBS3RadVUwZDRoMHhJTzREQjVaRjRVRnpIeWpRb0U2S1UzbEtUcmIwT1BvWHRFUlM3YlZ2cG9zMUd1TElEMmNULVh5X1ZKSm1Gc2Fva19rYXNTS2hWaHgwTjlmRmpSYkpDMW9mOWo4a29OQlR0OHRZSUhWelFpa2NlSy1UU0ozQlJCTW5RSXl4WVVCNmtNdDNBa3RGZk5xODg3emExT0lwanFiclHSAb8BQVVfeXFMT3FIem5Gc0Y2cm5pU2s5YVhRSmprcWNSd1RnSTJXbkVOVmEwallKZW5YdkJsQXE5SE1kYVVGWlBlRk9YNTA0dFdnMVFiTUJvbWx3RFFZMFE2QlZXOWs1bkU3TUpyUEF6bFRIUGRMT3VwRThLWk9vSU5DajZmWGo3SHJhSEtTWlhWalMxelRzYndyU3dXeWxva2lycDJnVVB2VHRTaEFFbWNrWDV6dzlzRjNxNjlIT2VTc29TWXduWVk?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1788847500
+    "title": "Reino Unido acusa “terroristas” israelitas de limpeza étnica na Cisjordânia - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOEUyc1M1M2NVbG5ZRlpqT0pBa2tYajZHLXNZNDVFWXBCLTRlX2pTWjgzcW03djNZZHFWMmU2VklfcnNQU1B3a1NNUVh2Z0dTSTd6S3ZITWdHQkxNdExGMndQMFN3WG15TTBvNTVrelY0VEtKUmNUTWJyU0JsdkJLRmRMbkFnS1UzS21XUjlIQzBrdUxXSWliZWp6eTdLRzluZnNBd3F4ekFQME9LSUtaSmJ1dGxQLXJmRVkxaGJLQjg?oc=5",
+    "source": "Público",
+    "ts": 1788878636
    },
    {
     "title": "Funeral do criminoso de guerra Ratko Mladic reuniu milhares em Belgrado - Expresso",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNODJneU1KdDMtNU5pODFZRlNCc2pDd254ZEVua3pqS1dYUUFhSm1MQXRoLWFDQkd5UmYzamZWdDlMSXk3VWpsa042ZDFHTGU3b2cybld5WVZBS0JFQWR1THh5a3hHR2FUM0R0UWRwcnNDTXFCaVpFZlJUTmlNLXhFelNMVW4xNnFIcHUtODVpVFVtRlJrZzdfdUJuZkdtQWp5Mjd0cndCN1hsQTVCamV3TWYwbnYwOXFIc2dvUmdjN3QzYVE?oc=5",
     "source": "Expresso",
     "ts": 1788793758
-   },
-   {
-    "title": "Com “a atenção no Árctico a aumentar”, UE e Gronelândia reforçam aliança estratégica - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNM2dXZk00X3NkeVVIVTFjVDI0NDJWbjdjdTIxVTNPb2VPYmxaaENQV3NXQzNfQmR1UnJHby05SC15R3I2UjliY0RpSGw1LWNXMVZwVFBMblZOaDJqWXp6ajRnalI2ck1LRzRMRUhNRVprLTd1MTVjbjdqU0lBZElHdmFnN05VLXkxNmlXYnR1NU1ITzJYU3I5czJtZy13Wm5BUWRJenA0VzJVVjdqcnVTT0dtazRzTC10VG9LNDI1TEI?oc=5",
-    "source": "Público",
-    "ts": 1788794911
    }
   ]
  }
