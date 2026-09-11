@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-11T07:00:02Z",
+ "atualizado_em": "2026-09-11T11:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-11T07:00:04Z",
+  "atualizado_em": "2026-09-11T11:00:03Z",
   "dias": [
    {
     "data": "2026-09-11",
@@ -1471,16 +1471,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Ciclista de Barcelos lidera seleção nacional no Mundial de maratona BTT",
-    "link": "https://ominho.pt/ciclista-de-barcelos-lidera-selecao-nacional-no-mundial-de-maratona-btt/",
-    "source": "O MINHO",
-    "ts": 1789080003
-   },
-   {
-    "title": "FootPark Barcelos inaugurado junto ao Parque Radical de Arcozelo - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUxPOE1pMFZPdV9TVkw5c1BEZ2RvOXdnQldDZlhRSGR1ZW5HQnFtaWk4X2x4dzdoVkJKOHZuVEZrMk5XMjc0b1dxZjJNVFh4elN0cXNFdG0xel9mc0gwdDhvWHNZNlRVXzhPUHlBOTI3U3NSdFUxZmdyV1NyMF9VOTFrcm5QcjZYd0p6cVRCTDNJQ1pnYnVZamlwTGtidnBZMEMydFFqRTNtdkkzb3BkWkNhZzhzNnE4LW0xMkl2aENEeG9MVFJDSVJjNEVZMTZRdEHSAdcBQVVfeXFMTVk0MHVCdHZXdkl6ZkU0OHBaRWFUVldwdW03cjY3VkVPSEdVMVFtVHRzUVl6NC13V09OYTE3Q0tNdkEzcW91U3VFdjNCb05ackN4b0RmOXBZYWsxMTctT3JoTWlyZ253c0RweG9wNlg3TG82dXdCWEZvdTlFd0Q2cUI0NHZaTkdLemNza05VMURDdmJMX1pQXy1PWGhnOVdWVnRQVV9YOGs5bEpyYllFZDdZZmtoY0hPWjVXcU1QU0RjbmxQbTBmb2MxUzdwdE9QdjExUVVpSEE?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1789046040
+    "title": "Barcelos: FootPark de Arcozelo inaugurado com promessa de expansão para mais modalidades",
+    "link": "https://e24.pt/barcelos-footpark-de-arcozelo-inaugurado-com-promessa-de-expansao-para-mais-modalidades/",
+    "source": "E24",
+    "ts": 1789120614
    },
    {
     "title": "Candidaturas abertas para 36 habitações a renda acessível em Tamel S. Veríssimo - Município de Barcelos",
@@ -1489,16 +1483,22 @@
     "ts": 1788942963
    },
    {
-    "title": "Este robô humanoide vai dar boas-vindas aos estudantes em Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMGVwWWx5ZHlsS2FCVkJWeUIxcVpLQXBxZWVyYUp2XzN3aGZKWV9OdGktSVFvUWdLc0c4eXN2bkE2NW1nSWRrdXEyWnlkc1VoSGU2OUlhcDU1eHRBbkFVcnNvZXM5S2FzNHpTbFFESk5VY096ZXJUdkpmU29HcGprNzYzeHlzRzlab1dzaXd3?oc=5",
-    "source": "O MINHO",
-    "ts": 1789062910
+    "title": "Barcelos abre candidaturas para 36 habitações a renda acessível na freguesia de Tamel - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPQlJfcnRWczNxR0RWTzJlemt6OUI4dHlkbVBWb1NZSnVjRkdFTFBrclZLR2hiNEppZkw3ZlZ4dXlqYUFERjVpRWNCazZoMlJkRTBXOWdLMEhlajZGWWwtT19JYmxZVVo4ZmlqWWU5N2xVakUyb0tNNVlxeUJUcy1XcHNScVlnajZ1LXVjXzZOQ01tWXVfRHcwZ0xxMzZ2X3laeHNFZzctT1BjSTdjeGk3UFFhY2ZiUUdGOUlsRVNCM2liMEpLYmJrVFFDNGp2RFRkbnpGNG1jWWU4WF9zckQ2SGNLVmltWnl1R09V0gHwAUFVX3lxTFB2X2ZOcGRJVWpDaklGZmhseXoxZUktNzU4aTdvb19sM1JiT25YdGtGYzVEVEdCSi1XakZ0RHdMVk9CRXNMTGFMTE9CNU1nTkpfRVl6WWs3c1l0aElkZ09XSVVuUU9QOG5VdDh5bHYyaGJacjI2eEVsMnF3TTVoNEV4WmJGNlZPS1htV0RaNW1ZdnF1dUxhS2xILVA3WW16Q0V2N3Q4YWhhVHRzVVc5TTd4LTJYLU8xdHpIZ3A4b0FuX0dTb3VkYzk3MDF6bFFDdUZzNW9tcnJOcW1GanlYZlR0VVJBQzRWbmFrUjFEM3NIQw?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1788963300
    },
    {
-    "title": "Barcelos investe 46 milhões de euros na Educação para o novo ano letivo - sapo.pt",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQT3NyYXRmbERnOVRrQXNkQkFvNnpVVHc2WDVabERzaUFFOU5QREVhTEZObkt2dDAtVU1qNWpvSDJzZ1BuVVF0ZVRnSm9lUkE2SzZEM044ZzNpSHhUSHBrSmhtMi1qZWZreUNsX1JEMGFzY0pwQUhidXFyWFlmNDZGQUhKX0g1RXlsUnZZaUt4NzhNS2RiVU9pZ2pRNnhoNlo4MHFJYVNqalVvWGhhX0htbHl4Y2UxcllIbUpV?oc=5",
-    "source": "sapo.pt",
-    "ts": 1788948334
+    "title": "Barcelos abre candidaturas para 36 habitações com rendas entre 281 e 447 euros - ominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYk8waTV3WFI2cUVRYUNYQnhTM2lSLVdHS1BoU09OMlhLZll6QVo1TXVfNzVhOXNoMTZXWnktb1N3clV4Yl9RVkpCSnk4OFV0ZnpVMG1vQXFQZlA0UGhxNDMyaklHWjEtcFI4Y3VBMnB6ejZjajBjOXB0aUxsT210eTFkakJUd2N0YlB3OS1QNzJGWXNfbXdwN3Q5WTg3UQ?oc=5",
+    "source": "ominho.pt",
+    "ts": 1788943843
+   },
+   {
+    "title": "FootPark Barcelos inaugurado junto ao Parque Radical de Arcozelo - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbUxPOE1pMFZPdV9TVkw5c1BEZ2RvOXdnQldDZlhRSGR1ZW5HQnFtaWk4X2x4dzdoVkJKOHZuVEZrMk5XMjc0b1dxZjJNVFh4elN0cXNFdG0xel9mc0gwdDhvWHNZNlRVXzhPUHlBOTI3U3NSdFUxZmdyV1NyMF9VOTFrcm5QcjZYd0p6cVRCTDNJQ1pnYnVZamlwTGtidnBZMEMydFFqRTNtdkkzb3BkWkNhZzhzNnE4LW0xMkl2aENEeG9MVFJDSVJjNEVZMTZRdEHSAdcBQVVfeXFMTVk0MHVCdHZXdkl6ZkU0OHBaRWFUVldwdW03cjY3VkVPSEdVMVFtVHRzUVl6NC13V09OYTE3Q0tNdkEzcW91U3VFdjNCb05ackN4b0RmOXBZYWsxMTctT3JoTWlyZ253c0RweG9wNlg3TG82dXdCWEZvdTlFd0Q2cUI0NHZaTkdLemNza05VMURDdmJMX1pQXy1PWGhnOVdWVnRQVV9YOGs5bEpyYllFZDdZZmtoY0hPWjVXcU1QU0RjbmxQbTBmb2MxUzdwdE9QdjExUVVpSEE?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1789046040
    },
    {
     "title": "Barcelos: Recinto do Gil Vicente FC estreia novo sistema elétrico de emergência para a tecnologia VAR - e24.pt",
@@ -1515,66 +1515,66 @@
     "ts": 1788988657
    },
    {
-    "title": "Esposende avança com videovigilância e entrega duas viaturas à GNR - sapo.pt",
+    "title": "Esposende avança com videovigilância e entrega duas viaturas à GNR - SAPO",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcW40WUxDTVNkZ2s2LU5yb3U0SG9idHJuMElUSjBYdXBMWFYyVVVSWFhSaEZlSW5raU9wLUtEcVhTVkV2Z1JKSDlmWEl2akNiN2owaUtZQU9YdXJ5V2hLQ053TXdUdVRaU21xX0pydXBtcFh5X0w5RE8zNmRzLWV1NWFEaU1tNnlrdkVobzlMTXdQSG9KRk1XWGljMlNfRzlZZW9GMXpyZnMtMnpNV3BsRzhUazE?oc=5",
-    "source": "sapo.pt",
+    "source": "SAPO",
     "ts": 1789035300
    },
    {
-    "title": "Peregrina norte-americana morre subitamente no Caminho de Santiago em Esposende - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU1I3WGRuYmxjNnZPOVppT3pNRTdtSHlZdklPcURiLWVLbmVrb1JaUmdPcUItUkRkMUM0N0YwZFhXZWwtYzdZRXlRLTJCLVRHS3VtbXh1SU1kMFdPTkMzZk1rRklPNjlYSkpWM0wwd0tRek1uZ0M4eHRreEFKWGFtWmprS3p3N2JhN1l2Y08wd0ZYWUV2Z0hvekpGLUVBSkE?oc=5",
-    "source": "O MINHO",
-    "ts": 1788940969
+    "title": "Construtora de Braga ganha obra emblemática de 3,6 milhões em Esposende - ominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNV1RraV93SzFCdjB1QWNJZkt5bWxTeWtwNnNyMTZoa2ZxY3BEWjJkeHBhalVvWV9PVEZ3VmRJUDkxLVRNLVlnQmdUTHJwMmtFR0ZEOElqLXRZRkdaNUlqS09xbjBGbjRBMHgyck1VeFpRMjhJVldNemxlRDJ1azM1TTlUek1oUllyR3poQmZ3TjNKdzg?oc=5",
+    "source": "ominho.pt",
+    "ts": 1789117000
    },
    {
-    "title": "Idoso alvo de tentativa de burla com falso relógio de ouro em Esposende - Braga TV",
+    "title": "Município reúne Governo e IPSS para reforçar respostas sociais em Esposende - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRmVYdzRpamw0dFRNUFlDMmJiWmRUZERWWTRUU2xGVXlOU0tyV1JrdTdDOW1XbEU5dW9hMDJQX3lHQ1Y0Rjg3emRiZ2hNQXpvcFZJR1dVV1dGMXZFcHpTYU00SERjMVMwVHVDOE9rNWFLdXplSWxTODhpajBsR0FWQ2dzcDQzVF9Rem9HeVhjNFlWcFdKUklmSXBzQmNRSm5SUnZFUzQ3djc2THNLbXdaZWJUeWRKQ3UwMzdrZlpJdFFkMjNHU3FwQ3VrUWs3b1FyYk1DQ3VZMHFrLTdsTFHSAeMBQVVfeXFMUDFWVHl4TVNQV1g4Y3ZfOTFOdXYxUGVzcTBLeWprMHFRV2RXUmJfUm14RnFCN3RldnZHdVhRNjBmelItZXFVSEp5ekhyWVNhMnV5ZGpPWTRSaUNodmZYdFU0YUg2b09kSDgxa29WRm9zR3dlQ1dHOFZpdG1Na0o4dFlOOHlLSVFidEg5cHFJUGRiRzlZRm9oeXE5X2drQlpabUxibzRGc1RVRUpsYzJtYUxleEVZLUV5S3dXQTZ1SENIQy1UR3ctRVNrVzhCNEtXaDIydzk5Wllmb3lXVG9SVl95U0U?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1788887160
+   },
+   {
+    "title": "Idoso alvo de tentativa de burla com falso relógio de ouro em Esposende - bragatv.pt",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGNONm1na3gzVTlQa2tzZTZGc24xWHBfa0tHa1pJSjFTR2VjN2RuS2U5NjhObjlwaGNFaldkSTlWN19TbEZsT0F0ckFBanBrY0pfZWc3ZGRFcUNOTmdIYWtZV215YVRkN0Zhb19VeU1aVC10bzZVWHRiWEpka1p0eWFMZXFMXzc4RkVTRnpFNDZkcU5yQmc?oc=5",
-    "source": "Braga TV",
+    "source": "bragatv.pt",
     "ts": 1789076927
    },
    {
-    "title": "Município de Esposende reforça meios da GNR com videovigilância e duas viaturas - sapo.pt",
+    "title": "Município de Esposende reforça meios da GNR com videovigilância e duas viaturas - SAPO",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdGdJdXpYUnI3MGRuU29za0hTQS1vcV9SRjl0U20xWGpNZjRXU1NEdzVha0RyQVN0ejRuUGxXalptSGpBSlg4WFhMMlZXaExjR3JYM2hYdnhJak52NlZNcWQ2cXc1MS1DanFERi1ERzI0Qk5NR0FGTV9hbU9MN2h4Q0k0X1NrbUtQdktXa2thUEpEUndjaTkzektuLURSNFl2cjdSLVdHZkk4VWFXcnBfcHZjSFdQSTYtaFJ3c1F4NDVfOHNvLUE?oc=5",
-    "source": "sapo.pt",
+    "source": "SAPO",
     "ts": 1789049823
-   },
-   {
-    "title": "Montenegro em Esposende para homenagear dois ex-governantes a título póstumo - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUpSZEk1bDhGQy1CbzJaNDhPaXNnbFVnZ2k1OFdMNzdfU0VEbVJSS09oMGFnQm9JMzB5Y0dwdUZfaVpyOVFUaHl1bnZ0ZjdZZ2hKajhBX2dwRmJrQzZjYVFKaFAtdTF5QWpaSEd1aDFMNm5CS183RUR1NWluMHN1TFNXWjVkb0YwZlk5SWJwMk5uT2pCdGRlRl9MSQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1788871058
    }
   ],
   "mundo": [
    {
-    "title": "11 de setembro: o dia em que o Mundo mudou aconteceu há 25 anos - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHVJOUVlMHZ1SzV3emRTYWMwVjd1REw5LUl0WVQ4OUM3UmFTTE0wSWVuTFNOZzFPTG5hMzlhN1Bfd0lNcHA0QWJzcDluZkxKV2E1bEpqclJoTDF1YnF3X290U0NLN05WZGMyWE9qLU5SX19QdzJ6bG94WUZwbEw0MFZlbEhkN0twODZFbzdjM0hraWgwZmVieWY4RGFtZHB0ZW1tRjZUTWozS0F0ZnBSTEtB?oc=5",
-    "source": "A Bola",
-    "ts": 1789083061
+    "title": "Ex-chefe da CIA ao Expresso: “Não aprendemos as lições” do 11 de Setembro - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWFcwTm13UlhsVHVlZXJSOW5oS3Y1SlFSZVVqQlZtSi1LZVlwaF9LMUJMU3phbWZKRF9DcEExaHhOek5TYkZWd1JvSlFkT01RZHprdUlfUnRyczIzVU5qQ2llRnlOOWhHZzVGellmcHh2YkQ3YjJPR0lXSFBDSmFzZl80QlF3S1VXN0dNaEJXaEswX3RSczRyb1o1X1d6d2VIR0l3TmZiV01SS2hnakotd2VQaGFtYkpJVEVmc0FYUG43QQ?oc=5",
+    "source": "Expresso",
+    "ts": 1789077420
    },
    {
-    "title": "Trump promete dar cinco mil dólares a cada americano se republicanos vencerem as intercalares - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbVAxV1V0aFNoNjZpQm1pOWVvSW1hb0FYenZ1QUo2eGh1ZjRyZXFxRHZLZHRSWEJLTFM1eFRBRWtqYlN6bkdSM1c3LXJjOXZsaXFZN1AtQVJoakEzVThqREphaUNQY0IxY0l3a3RTYXNYakF2LVg3OExpZnYtYkpJVV9WYmtsQ2RERTk4dWJIeHJwNks4enI2cFVfdkxhWUFzTkZDaDBtU05aZWpfU2ZsX2d0Y3dOWnNVT1J4dzBYZlVKQ21mWTFCeVdQLVVmY2tGU3c?oc=5",
-    "source": "RTP",
-    "ts": 1789073454
+    "title": "\"Sabem o que acontece se não votarem? Vão para o inferno\", diz Trump aos eleitores - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWhOYTB0YUZkQmlLUEVRbUE5VVBfUUtscDVYUTVSUnFxX0EyWFhHa0xUbzRpWEpfbXZqVldxNTBERXlleUxYYjM3QnRybHVSQ201QkNCSkNNZzh6U3ZUWmVNYThTU3pSc3pXWHpWZVUxeTQxZzVmb0x5VjZpZkNyOGd4Z0J1T1Rxa3d1RVdtRXRqOENpTjFzNGF0OHZoYTJDS1dZR2V0bFhwZkhVU093MlhOQWR1QU1ZUnfSAa4BQVVfeXFMTVFFWWFZSG1GcjBoZDdCblpqNDRFNEoyXzl2Nl8taUdFdF9oSGt5WVYzSm9lcFhyUlU0YTlraTR3aHlBSzlBUkhsaHc5TDF5ZmtpMTBGNlNrN0FCWEU3V2tPOWNSakwxbFp2dkZtS25ieHFHTHhvMXJVVUxnOEJjRnFUby1NXzZvbXlfcDlpbG0zMnBmZ1BQb0JueEd4Nk5JQWJOV2p1cVNBNG8xODVB?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1789118160
    },
    {
-    "title": "Agência Espacial Europeia quer dez mil milhões de euros para ter independência espacial - publico.pt",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQU1ZHem5qc2plc21KczVtTWc1UkpDOUQ0NC1mWWtyTmlpUi1Wck9UTW0zOW1uX0pIZHoxMEl5angwLVgwQ3dRdUQ5ZlcwTGpucjNmMkhBMkF2TVdPNkhmNHR1LW1McTN6WFN0T19yVWlrRF9Vci0wSE10Zm9LenItT00tSDF4aUtCZzFrXzJxZ0I3X1U0TEFXbTF4TzB3MG1xWDJyQk10ejdRTnhKSjJjTVZMaFVkdUw5dkprWEJBb3dMSVhEQ2FzY0pvTFVfbnB1c2swTg?oc=5",
-    "source": "publico.pt",
-    "ts": 1788985920
+    "title": "Merz acusa AfD de apelar à “limpeza étnica” de migrantes na Alemanha - Público",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTzc5UEZiemtXSGhUM0syakUxeEpRbXhLUG5JMjJCQjhaekJZTVMzZ2pGMlQtRzVBRnJuN083N1hqLV9RUnVETVhaNmV4RFpUWEp3ZUpQemg2WmZUcmdvR2JrVXRNRExaTkgzUHRXWGpqVHo4YlJ3d2FRd0NlOEFZTElJekprT280dmFfdS1MTFBEbVZmWnFUamEzaWFnYUhKSnR2SnRmS1FNcWxjN3FBdA?oc=5",
+    "source": "Público",
+    "ts": 1788966001
    },
    {
-    "title": "FMI nega ter afastado Ricardo Reis por críticas à política económica de Trump - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTzhIMkpjOXBzNkJheEUtWFYxc1JzZm1pQW90Q3dQX2xIQWNtbnpMVEJpTmt0aVJFdzlCZUNpYWx0RXE2SksxUDhkVWpzUjNYLTJvYjA1WDRuN2pYVDlsSUtkLXdYd0pvVld6QlVHLU1XT0QyWF8teFRHdlFkd0JRSGdsUkdSVzZTbWNGN2NkTDJJX0FZUUh6cUFnMzQwNnZtR0dWLWY3TXM0TS14YXNUMjlhSkFaRGtJVnE2ZlNpZkphQ1JSMHNOWExaV2c4eVlLa0hJM1l4dmvSAdMBQVVfeXFMTkY4M015S0VqWmJWQUUtN0s0N254amRqUHhIRlNxcnRhbjBpQ1I3R2E4UW5fT3BnaW84bmh5aG5oSU5ncldGMzN2S3ZQdGhsZERaNFozZVNMcWxsSks0bW9TdWpwcm03M0MxaEE3Y0hvWW16di0xT1NUeDJzQm1wZC1zb2FOOW9qem5wQlVURW11VnVtY25xdnJqR3BFUWJfRW1GRE5VblpvSFdXdW8yUnRLTUxvWTRCd0RyUGZ4bk05M19kNGtuUG1mS0dzNElyQlIwUQ?oc=5",
+    "title": "Uma só empresa já controla seis em cada dez satélites activos no espaço - Público",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbXVjejd2dHpHWjlzR0c2NU5MYTlBVHV2TTdQbmphRExHWU1Qdm5MLUlaS042N0g1ZFI3T0R0RXhFcXFNa1hUSTYxbnpTWGc2MTNWeWdWZ0IxTTJkN09MNzJlTF9GNU5fTnJ5TnJfVVRieUZJeEl6WnM4ZlRIQVIxVkFQbnlLRGM5UFl4RXVXcHcxUEEtS0FveHRON1c1eUJlQzVZdkgzVHY3R1p6Y0Y4WG9ydmU?oc=5",
+    "source": "Público",
+    "ts": 1789036680
+   },
+   {
+    "title": "Rebeldes do Iémen conquistam cidade no mar Vermelho e avançam para estreito de Bab el-Mandeb - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOY3RVa3F0NlRBUXh3NDkzaVZjQlhYUHhDRFhWa09VX2t3enBIWmcxenlqQms2em9na0s0dlhwcnlWVXBuRzhqdTd5QkpDdjdaUnA4YnJTN1RFbnBMU1NHa0x3QVFuTFZPWWdXNUJrdFFsbWJnVm1HRWFkVjZtdkczS1laZUV4SGZjbGZJUHlPNU1ORm5TWHlZWXYwMUhBWDdfZVdvQ2J1N3JqWjk3QXpzX2NCQ0xHYjl5TDdTczdFVlJHckpucWV2WXJRMmZjY05feFJheFZzYVBzNTdaTkVZZS1TRVjSAd8BQVVfeXFMTUxCZXlURjBwaGhtbkRuUzNyNmVXQ05CbFFxNDI2bXBuMDFnZThzbWRQVUxtdEhKdVIyUkZrekMwWW1PeFViMlZoejRHcHZacVEtT1FTN3hTUXVabGhSRV9qb0NMd091VUxsNFdsMERTZjZKOXVRMUZxVG1RZUhpTmIydzBaZlhZUmpSUU9iRnFLZ3BHWmZWbGhRVF9nTERhZmo5VGRiSFZGMVNRSGxmYXlKZGdNbDNodTVoTjIxWWhzenp2ZTRycDVqdkNJaVhoSFRGSTg3ajU0ZXR1S0NXNA?oc=5",
     "source": "Jornal de Negócios",
-    "ts": 1789062600
-   },
-   {
-    "title": "Houthis anunciam captura de importante arquipélago para o comércio mundial - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLTl3UlJMaTFyelFmbUw5MGZpaXBXTjNSYlBfd1lKZ05VckRGTjNJb0VSR0dUT2g0WnNBeGluSG91WF91TEtWVEJBWVFhV29hcjc1V0VMNFRlc1FWNGUyVFpjckFVWHFWdVZPVjNNTWNyUUcyV1hEcXBnLWlNZlZrYjdUQUFrYXlwWWNzQkQtMnFiUnFnZ3k2Y1A5N3ZTZnpLQnBoM2NtdmFrZWxyamZSNWVpN29semtHVl9tWFBkTGVOT1lsM0h2N1A2eUlHQXhpTEZVdmQ3UUlPNXAwVDJoUDlB?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1789056840
+    "ts": 1789037472
    }
   ]
  }
