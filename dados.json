@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-12T11:00:02Z",
+ "atualizado_em": "2026-09-12T17:00:15Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-12T11:00:03Z",
+  "atualizado_em": "2026-09-12T17:00:20Z",
   "dias": [
    {
     "data": "2026-09-12",
@@ -1632,6 +1632,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "José Dias, de Barcelos, em 21.º no Mundial de Maratona BTT",
+    "link": "https://ominho.pt/jose-dias-de-barcelos-em-21-o-no-mundial-de-maratona-btt/",
+    "source": "O MINHO",
+    "ts": 1789229456
+   },
+   {
     "title": "Barcelos: Secretário de Estado visita Santa Casa e destaca reforço na resposta à infância",
     "link": "https://e24.pt/barcelos-secretario-de-estado-visita-santa-casa-e-destaca-reforco-na-resposta-a-infancia/",
     "source": "E24",
@@ -1644,9 +1650,9 @@
     "ts": 1789140785
    },
    {
-    "title": "Incêndio em cozinha de apartamento obriga a evacuar edifício em Barcelos. Três pessoas ficaram feridas - Correio da Manhã",
+    "title": "Incêndio em cozinha de apartamento obriga a evacuar edifício em Barcelos. Três pessoas ficaram feridas - cmjornal.pt",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM25pQW5pOWN5WjdEempGa1hNeW5RYk5FSzNLYXItNEQxbFdTRWhQc00ydkdvOXAxU2Fiaks1cjIwY19fcjN0MDNQbjJyS3laRzJGb00zMlVnMjBWWWhGRHFWLTR0dlY4STBnUzAxQjA2UzI4Zm1Sdk5mbm9VVjBENHZMb2p6bVUwX0NMZ3J1YVFlNm1OQVBSV2FHeEphUFF4QnNHWEp3bEZHUzB3U0FacjRpelUzQkZMVDlJSE5IckpoanFIaVdLSjQwenpnMlNxa1M3UU9SZURCN3RFckE?oc=5",
-    "source": "Correio da Manhã",
+    "source": "cmjornal.pt",
     "ts": 1789201466
    },
    {
@@ -1656,36 +1662,18 @@
     "ts": 1789153020
    },
    {
-    "title": "Barcelos: Município promove sessões de capacitação para pessoal não docente antes do novo ano letivo - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS1M3MkFwM3FZSFpCd2wxeVE1Ty1KS1dENVQ2OGFrYWs0VU5OM0JKNDIzOFR4MTJKVUpZNWhBQ3FWN0dMZ0hpbFZRS0JMNDZkcEJsNF9kY2lfXzFWYUVpbERIX1NMUzVpUWNNRGxTd2dPeGFNb3NadUNYMzRNNHY3SkprazZ1d2UybGpMZm9WMEJqQUdvUHBzdG5TT3lNU0R3T1hhMWJYQWU0YTd6dUhRRTlUeTZGQQ?oc=5",
-    "source": "e24.pt",
-    "ts": 1789037527
-   },
-   {
-    "title": "Do boccia ao hyrox. Nove dias de desporto em Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5YQktIUlEwc0d5cnpwWGJpeHRVLWRaMkZUZ0l6UnpoUU00cjBTb0J5bmE2VWsyNWF1eG1IeWVHQjZGSEdZTFJ3c2lqN0dPb2NHZkdGNlkwNGRjNlZkODduM2RoejQ0T1FVV1Nfc0VvV1JPazh6dzljQ0xnOA?oc=5",
+    "title": "José Dias, de Barcelos, em 21.º no Mundial de Maratona BTT - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYi1vUnVWOGQ0Q1BMUGJSMUV3QlhPYlkwTmJ6NVpiOUE4S1ZPUFJxQ1F5NFZzQ1lmaTJVUlFiaU0yZU1jaGpzemliekV0U3R4ekkySE4ybmU1aVNhelFjTEFBRV9sMHJGaDd5dFRnYXduczhkQ2ZMVmgtQnVYcy1lRA?oc=5",
     "source": "O MINHO",
-    "ts": 1789142411
+    "ts": 1789229456
    }
   ],
   "esposende": [
    {
-    "title": "Caravelas-portuguesas avistadas na praia de Esposende",
-    "link": "https://ominho.pt/caravelas-portuguesas-avistadas-na-praia-de-esposende/",
-    "source": "O MINHO",
-    "ts": 1789207549
-   },
-   {
-    "title": "Boletim Unidade Pastoral Esposende Nascente - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNxekVHRm1aRTU2MldLOUdjQ0tDM2pRQjlGYXpkRXJFYldvdll0T0JhRHAtQUFkSmpJV3h4TkhwOFFnWUxROXI1RHI0X2FkZG5tVENSUGxBM3pfMHFhS2NtMmVxRkxyUWpCOFlwWTBGWWpBY0hJdXpZLXBGQlljOUNNLTBsWDY1MXlac3VKNmV5WTJPLVE?oc=5",
+    "title": "Boletim Unidade Pastoral Esposende Centro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzk4UkFkLUFyYkhQUTZpRzJIRjNPa3RzRTZyNElSbkd5TWRnbzl3azFEQzVwQXZYeDFrM3RkMDdoSDdUSkZ2amJGTHExX1RwNE5jRkR1bElGcDgtSE5vZ0x6WVJtUmlCUExIUVdYQllKR0YwMTQxdERubnBMNFFTQlg5X3VQQm13eGJSLWVXbUtacnc?oc=5",
     "source": "SAPO",
-    "ts": 1789196022
-   },
-   {
-    "title": "Esposende: “Costeira” vai dar nova vida ao Forte São João Baptista - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3RKd3lnTWx4WTNIeUc0VHM3Y0JndkctVkpWcURhMmp5NnBieHZOUmhGcW5yUGVwZHVhSFk0MnhpVGFmelF4clFaSzk3bTVmLTRydmRlNHlyU0hxRUVsSmtaQVBFRXZfSnNyX2NPcDBmNUxZRWI0TXB6a2hCVzZlVUtYdW12dw?oc=5",
-    "source": "e24.pt",
-    "ts": 1788988657
+    "ts": 1789196598
    },
    {
     "title": "Caravelas-portuguesas avistadas na praia de Esposende - O MINHO",
@@ -1694,10 +1682,22 @@
     "ts": 1789207549
    },
    {
-    "title": "Esposende apresenta nova iniciativa sobre trajes tradicionais do Norte - Braga TV",
+    "title": "Esposende: “Costeira” vai dar nova vida ao Forte São João Baptista - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNR3RKd3lnTWx4WTNIeUc0VHM3Y0JndkctVkpWcURhMmp5NnBieHZOUmhGcW5yUGVwZHVhSFk0MnhpVGFmelF4clFaSzk3bTVmLTRydmRlNHlyU0hxRUVsSmtaQVBFRXZfSnNyX2NPcDBmNUxZRWI0TXB6a2hCVzZlVUtYdW12dw?oc=5",
+    "source": "e24.pt",
+    "ts": 1788988657
+   },
+   {
+    "title": "Esposende apresenta nova iniciativa sobre trajes tradicionais do Norte - bragatv.pt",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ3hpZW5sNFpqRHlma3d0V1MwS0NXWlJGRVlWekczNURvazFkbDlELVFJUjhUR3dBQ2RNRW50UmpoM1k3c2lsQ3RfdHlaQm1rLWlnelYwdTRremYwNGcxRzYtQnBxMmNwY3J2Z3h4SXR6U05rMGJGV0RMeHNjZjVCYXJ4NG5kQ3BsSG44YmFWdlpzV2d5?oc=5",
-    "source": "Braga TV",
+    "source": "bragatv.pt",
     "ts": 1789138085
+   },
+   {
+    "title": "Boletim Unidade Pastoral Esposende Nascente - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNxekVHRm1aRTU2MldLOUdjQ0tDM2pRQjlGYXpkRXJFYldvdll0T0JhRHAtQUFkSmpJV3h4TkhwOFFnWUxROXI1RHI0X2FkZG5tVENSUGxBM3pfMHFhS2NtMmVxRkxyUWpCOFlwWTBGWWpBY0hJdXpZLXBGQlljOUNNLTBsWDY1MXlac3VKNmV5WTJPLVE?oc=5",
+    "source": "SAPO",
+    "ts": 1789196022
    },
    {
     "title": "Construtora de Braga ganha obra emblemática de 3,6 milhões em Esposende - O MINHO",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "No dia das vítimas, as cerimónias do 11 de Setembro também são sobre guerra e ódio - Público",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeW5pOVBGejEzZjJkTDVnZ2FTMlJvUHB3UmZMM1lsYUJjOGkyRjY4S3FKRUdINV9YNkpzX1h5Rlppd2NkS0U3eUVaZkxaT0ZEYV9lR2lPc0RUZGpxUFhGcElCSWpMSTFiX04wTFl4R1VkS2ZKUi1nNWFvNmtCa1Eybkl6NGh2QVVDTHFwcktQUUVyX05YS1VtS0VtYnRKUUpUY2tRNVJJOGpQZDVLQ3ZRR0ZFZw?oc=5",
-    "source": "Público",
-    "ts": 1789152411
-   },
-   {
-    "title": "11 de setembro. Bombeiro português recorda operação de salvamento nos Estados Unidos - RTP",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMERxVTRUVktaVGd5UmNvRmY2WEk2UmlsOVprTVpnWmNELW5JdmhKMldQbTBZUnRfemxvWmFOQ1BNZ3FSM3VRYmtKZFVHQVQyV3R2Y1ZmRUl5cUVSZWs4TURNOFYxS3kwSUlKaVVxUjJ3ZldMdHYtNlJfdTh0U3FMQlpyeEhCZm5Wd2RCUzVUeGJXWTZJMXhiWE5JckY4NDUyeTBFMlZEcG5tSU05U0YxSHBYeTZCN1RwdFBoU1oxWVAtNUli?oc=5",
+    "title": "Forças governamentais atacaram houthis na costa ocidental do Iémen - RTP",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2J6ZElNcDBrSVAyVjVFSkdUbTF6YUVmYXVwZlYxd2ozMHBpUjk1UUp4UFNISFcyNmZmc3BwYXFNWWJmbmlZVkJXU1puMHlqQzQtTDRjbkRLX0dzcFhhM0xBRWlqM1JZYVhmU3dQY21NTkpSSWVXVG8wX001UmR4dFhMcENneVF6TVppaWdoVzJaRS1iYWFZOEVYNWRPZ3VOWWg0TjVsdFZIemVGZFE?oc=5",
     "source": "RTP",
-    "ts": 1789162600
+    "ts": 1789219900
    },
    {
-    "title": "Pelo menos 44 feridos em descarrilamento de comboio no norte de França - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR3A5VkZ0UWNmQnZaeUU5U2cxbGNZUVU4Ql9sc3g3eDlPVmtJNElISGhlN1J1UDlTczBpUjYzYTJOU2dndTNuQWo0Z1c2RGs0UnlNSVBnWUFzTlhjSzh1RXg5VXJPRDdIRTJkSmdaRWNqODFERlpUTHRiSHNmUUNkYXJyRl9IWm81NGVBa2F3MzNBRHd5VnFSRVlEMVJXVjU2VnZqaWtOSG1mSkVEbjNzeE5HMVZUM19B?oc=5",
-    "source": "Expresso",
-    "ts": 1789160959
+    "title": "Em Dublin, Trump prevê Irlanda unificada e um “potencial desastre” nas Malvinas. Reino Unido discorda - Público",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbl9Hd2YyQ0JiaTFmQXRVa0FWeDRRbW45WThJNXAxczhDM1BncDBiRGZPc1Bnd1kxbUU2c09ueGJRRGtOZV83N3hvbktvLWNuZ1BLRmItc0xrQzFiNDVjdmhoMzRDVTNNZl9nMXBIZWF1SHZILXlvSm16eE5MRkR0bVJIa1RDeGE2T25FclFNazE1aXNXNTA1OENXUmtxd1UwMi1oTTdBbEN5UFV2SDlFdUw4T2tLeDA5WFgyYmJ1NFJvWWMtWmc2UnVfQkZtZWQxaEpQcDBJZUY?oc=5",
+    "source": "Público",
+    "ts": 1789223671
    },
    {
-    "title": "Oleoduto saudita que serve de alternativa a Ormuz encerrado após ataques - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWm9oQVVEcm90czVpRExBUWIwSVpnR1BQcF9jcTVZX2VaSGxZXzJGVFZQOVh3UEZXOVFKRHZjSWZpQ1NzczVjdjNVZGpRTFJtTGFLaGJNQzZFSGJlVFFlaWpPNHFkZVNLQ19BSjNtUWFwcmd3WmV4bjRxdDlVN1J2T01naEp4eVVfVEtwT2hXdXh0NW9OUnZqRVhITjVzcmtQMC1LTDBkYVJYMkdPQmFCbmd6Y1ppWUNQelg3RG84VkdqV3dGUE1GZzdjTWllVi1GSXRWWWp0MTBVemNiWHg40gHaAUFVX3lxTE9Lb0VQTF9qU3dUaU9uUTZIcUJCNExCNUZKclllc0NaaWo4T1NjQkxSS3V5dzdrVDRNdzRWYTlCak9QdE1kOFZudV9PRnhiLTBrdlduRDlOSzdkY2RiUUhXczNTdWkxOEp0bFRzcGJOdS15cjhrSkt5REZYMUs2cnZfZ2N5RjlxYTVOR1Y4UWlhc3VIaTdGR3d1dnZ6QlhpakV4LW9kcFh0Yzd1VnM4Wm1lSDB1UW9KZVpiYUw5aEZSNXJlbGFSdTUxNlJmaUxTcm9oYnoyQi14V2J3?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1789155240
+    "title": "Investigadores suspeitam de sabotagem em descarrilamento de comboio em França - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQjFlUDE4ZjdiYzR2cTBRMkxhNGF2VVcyX1hqS09sV0JEblJHSXZ5czJXODV6Tmhja1RRWlB2YXBWUUhFdWtqT1pkZlZzeHZIbnR4emN6WlliTDdmNG04VUdHb1NVWjhWcWxFODdSVnczQUtWa0JtTEFfTVRhWERlNTFBdkdpOFpIVFROYk95YktYeVUwSnNLbmdiRDctNnRjcnRMTUdremFpa3ozUEtYMEZjMFdIMGlp0gGsAUFVX3lxTFA4UDhZQl9faUdQY2Q3ZUlfamkzblVZVjJLN3I4SE9Qak8yLS1SZHRUUV9DakZPWjYzWlFRSDVORVV3Ymc2S3JRMkx4VHlXMTVFZmFzQThCMVlzY2hkVUxmSFBmcHdPRl9TTjhRWC1uSTNNVjM3a2h2VmNXMExmS0p0Vm9lQlFiSEZxN29fLXNNajhCeXdRQ2ktaFQwRW5BcWlmTDJGMjBRemVBNzE?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1789220160
    },
    {
-    "title": "Morreu a princesa Astrid da Noruega, duas semanas depois da morte do irmão - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxQak80MGRpbWpCZGl5c3ExQWh4Q1JIX3lKNVVfeW1qSG96ZHpSeXUyNWdMSTF0Mks3U0c4bzN0SENDSHZhdEljM0VObmdDSDVvWi12Q2VVVUZlU2d3cmpUNGh4NjB4MTJZTUZlYkZYVFgzenNnM01udWh5ZUk1ZG1wYjN4MzZLN0toQy0yVXFlNDdvRFlSem9aMzRDZG5JUUF1dDM0X01pNk9mT293WG9UUHNJXzBUblJYRXNpdDRJVmp4X1RMREMzbjhORWdlZUxNTEtqNnJvUGpsT0RzUnRndWlpbjkwWVQtUEdUeUJ1Y0w0Z0l3SFktYVFQWGtzVGdSTl81dEl3c250YzRpZWx1OEZmRG84YUpqMzVDZG1yLVh5Y3pXSWZhM0RYUk1wLUpCRkN6VkkxSGc1R1R1b3Y5Ym5KdU5tU1lwWVVCX3JSdmhad0pBX2JzWHZJN0hReURRbG15ZVRiemFfTVgtMVRZTHpxSUtsWWYyT3ZqWXB3eWlMcWlENXlrUU1RMXZ1cXJaNHBTNFNuQ0NHRGZ5cUxGZWZ6RXBTOFNZc1RsTGp0VlpVQ0FESUNiTF96UVNXYzI3N1FYQWNmLWRpWms4aEVFd1Robnh0MU9KeS1n?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1789134273
+    "title": "Rostos marcados pela dor da memória: as imagens da cerimónia dos 25 anos do 11 de Setembro - cmjornal.pt",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdGRtclloWi1xdVE4eW1scTFrcEhIVnhJNkVzejJxUWxFNHBkMHNWSEt6Y2N1cHBtSGY5NjR3ZEplX09XTWRKS3hmRS1sQ0NUUWcxUFBlaWZGcVUzSVJlVmJTYVJHWEh2V0pKNndtVmswTjhtd243bkNxcWE4cmlRU2p0RHJIMGQxc3VLSDkwWlhJeXJhZ0pyTG5mSktTajFjT2dQN3QtejFzNnNReURLLWwzNUdUWTd1NjFLTjhick0xVUx2MXNQTGhTVk5WUm9XMUk2cURBM0hwemZnM0E?oc=5",
+    "source": "cmjornal.pt",
+    "ts": 1789152360
+   },
+   {
+    "title": "Depois da Alemanha, Suécia à beira de uma eleição histórica que pode levar a extrema-direita ao Governo - 24noticias.sapo.pt",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVmViTmhxRUQwMXhhWFNfUnFvWHBQTFN2UFBqcjIyU24zU2k5RkFXaTFmZnZKQXV2S2RGUjlPY1hoNDdkZzN2VlFsc2hnbW1JZV9PRFJoRkVvcHZmbTQ5azNnYThKS3RiaUNUZnl5aFVkcks1R3FKRXVadEFIaTlsQ29MWklQa0lBMElBNFRZSnJZaFcxSFp4R3FGNjBqRlBWNWFCZVVodUtWOVY5akc5bWlHY3UwYXFNQTJzdGVGVkt0ZjkxQkVXSWxYTjVhNVNUa1NZRnQ2b0dvWWlCdzYyeg?oc=5",
+    "source": "24noticias.sapo.pt",
+    "ts": 1789203041
    }
   ]
  }
