@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-13T11:00:02Z",
+ "atualizado_em": "2026-09-13T17:00:04Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-13T11:00:03Z",
+  "atualizado_em": "2026-09-13T17:00:11Z",
   "dias": [
    {
     "data": "2026-09-13",
@@ -1632,6 +1632,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende",
+    "link": "https://ominho.pt/motociclista-em-estado-grave-apos-colisao-na-estrada-barcelos-esposende/",
+    "source": "O MINHO",
+    "ts": 1789317404
+   },
+   {
     "title": "Barcelos: Secretário de Estado visita Santa Casa e destaca reforço na resposta à infância",
     "link": "https://e24.pt/barcelos-secretario-de-estado-visita-santa-casa-e-destaca-reforco-na-resposta-a-infancia/",
     "source": "E24",
@@ -1656,39 +1662,45 @@
     "ts": 1789220640
    },
    {
-    "title": "Governo reconhece trabalho da Santa Casa da Misericórdia de Barcelos em prol da comunidade - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNaGpvVThOSTJvcU1kMUM2UkZreFlLcFdGWGRwdFF0MGxjbE11Mno4ZHJqSkRnMDhvLXFEemxxU2o5QlhESXAwaHA3RzVJbWhRNllSdlk1eVJ5Q0EyR05FY05aemNoRkNrTUhvdEFjUGNaUUhvOGc1MjZOSDAtb0VUY0ZzLWRrVlVtb2dkLVQ1b3BPTUE0UXJQTGUtRlBQa3Y0Rk8xX3FuZGgxUktzb25KN3RkbmxIVWM2cFo4Mk1XQktHWnpPWFVsdGJobk11bzJTVGR0Y3JDY2wwT0FUVWpKb0hoVkZBd3RtY3BHTHBWQTBXQdIB9wFBVV95cUxOekp3Zm5tRVpFcmVhckZxX2dGZVVmYjB4MzhTUmVOOWVJNnZTMGh2VnF2TVJRSkxoZUxEaVdVYm1OMENWcnZGUmhLUGNwa1VTZnpZN1BOODZnVTlMV3hkaGs4a1MwSnBReXZ6dzUwXzE4WE5ZYmdkckE2X01xV1lGZjhQNGtDMFJUUFQ4dklvMmEtREVUVnBlM0JjWUo1SmlkN0VfOHVVY0xTcDFxRzVEU3U1bmU3Q3JvME92RXE3OTRZTDBRS3VsTGVsLUM0Mmh2Tmdrb1FBeUlsbXZSbXlrVzNEeFRjZTU5ZHk2WHkwM0d0dzhQLUFr?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1789153020
-   },
-   {
-    "title": "José Dias, de Barcelos, em 21.º no Mundial de Maratona BTT - ominho.pt",
+    "title": "José Dias, de Barcelos, em 21.º no Mundial de Maratona BTT - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOYi1vUnVWOGQ0Q1BMUGJSMUV3QlhPYlkwTmJ6NVpiOUE4S1ZPUFJxQ1F5NFZzQ1lmaTJVUlFiaU0yZU1jaGpzemliekV0U3R4ekkySE4ybmU1aVNhelFjTEFBRV9sMHJGaDd5dFRnYXduczhkQ2ZMVmgtQnVYcy1lRA?oc=5",
-    "source": "ominho.pt",
+    "source": "O MINHO",
     "ts": 1789229456
    }
   ],
   "esposende": [
    {
-    "title": "Caravelas-portuguesas avistadas na praia de Esposende - ominho.pt",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DekV0UmQ2M0hMYUhiWjR1UzJHcENtbk1IUktpODRyWHpLaF91d19PNVo0VDQ1UTBaOXZ5blVhdmFpNGJySUVVc1VVQ1o4YmEzWWpKclJqM3VCS00xcXp1ZDlQYTdJMm5MbldZUGFHbVBpbG9UeTdrR0JaRF8?oc=5",
-    "source": "ominho.pt",
-    "ts": 1789207549
+    "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende",
+    "link": "https://ominho.pt/motociclista-em-estado-grave-apos-colisao-na-estrada-barcelos-esposende/",
+    "source": "O MINHO",
+    "ts": 1789317404
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Nascente - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNxekVHRm1aRTU2MldLOUdjQ0tDM2pRQjlGYXpkRXJFYldvdll0T0JhRHAtQUFkSmpJV3h4TkhwOFFnWUxROXI1RHI0X2FkZG5tVENSUGxBM3pfMHFhS2NtMmVxRkxyUWpCOFlwWTBGWWpBY0hJdXpZLXBGQlljOUNNLTBsWDY1MXlac3VKNmV5WTJPLVE?oc=5",
-    "source": "SAPO",
-    "ts": 1789196022
+    "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFpPNlBhVFZoOXNBNDh1dll0cWJBRjRnVXd4VUdrVVAtV1dMMGo1bzA2Zk1NWWRodk8wdzMwd0VNV2FxYzRnTnRfYUNhcFNSUFNncHRMVklCNHVKakdhcXRubHZnc0oxY0djcjEydURZcWpzWVNPYUtZYzlGMHJXaFNJUmVwb3ZrcW9iRkRfZXhBU0Zs?oc=5",
+    "source": "O MINHO",
+    "ts": 1789317404
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LZGxMVTY0cHFZaHE3akc3RTFmYkJsN2o3RUR6TEdaUUx3Q3YtekcwV3ozWEIwVXNRZUtuV0FQR2tGbFhIT28zVW00TG80VWRIUnNyQzMzWUxtdVhFclZlTzlGRnFqUGhGZjh0QmRVdTdQeVZIX3NwaFIzTC1lb1E?oc=5",
-    "source": "TV Esposende",
-    "ts": 1789196820
+    "title": "Esposende reforça segurança com videovigilância e duas novas viaturas para a GNR - Rádio Festival",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWtqTmFkS1FrSDB1QnRDbXhfbGI1WjYtZEc0QjMxMVNlOEUxMGhmRjAwNEhldThhRXZTRjdfTUVQdG54UWJjSElfZ2Nkc2ZDem03RzRKUmFWdVpieWpsUGctdlFENmZUeEp6dm1CQXcxeDNXcTV3SHlKT0hEaDduZFN4dDBvYUNGcEltNWVoQmZVMGdLWThtZ2w3dW1nUG1lV1dGZVlfdjZPaUpucExPRVFXRGdyTzlYRHZoSkhhdWVVNWc?oc=5",
+    "source": "Rádio Festival",
+    "ts": 1789296600
    }
   ],
   "mundo": [
+   {
+    "title": "Trump manda Zelensky parar ataques a infraestruturas de gasóleo da Rússia - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPQ09iVURZSkNMR25lZkRrNnV4dExTR1BPTVNxWHRwdnItNEJMbjZESHBzQ3NUajFoUHBILXFFeGwyQ0dWMGF6c2NFMURmM1d5VjNnZm9HUnB6XzFDTmV6Q3pEZ2VzczlvNUJtMUJqNk0yZXNlX29QQkxmQlpHVnlZRzJob053SlN5cHY0TENHaW9TWXpWZjJHSnRzUlpEWjNMd0txdHVXdmJrWUNUY1JSTGlHdHRBWDdqUGFiakZvWFNyN1J2S3Vr?oc=5",
+    "source": "Expresso",
+    "ts": 1789311821
+   },
+   {
+    "title": "Ataque \"sistemático\" em curso na rede ferroviária ucraniana - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVVR3V3RUS1N0Rmo5QXREYlFUc08xWXhhXzM4MU9UbURNR3R6Z1V1SUVsTzYxQmtyZGZmRUNjOVRZUnRPcVN3Z3VPVDZ5Z1BIYXNFcXdMWXltOEpkMHZTMVE0SEtDSWsxV1VwRE1xSDNfMGdWSHptT1ZUWTU3YlZTVXBJcGFyV1JZWFBSVEp0UDZDaVhVNDB3Rkh6OGU5dDlJTHc?oc=5",
+    "source": "RTP",
+    "ts": 1789304214
+   },
    {
     "title": "Joe Salgado virou à direita no 11 de Setembro e sobreviveu - Observador",
     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM1RBMVZ2eVBVS1ppZTJUMkVFLTk4Z3BTTUVnZXQyZV9ZOFc0WndNZUVlNU90bkVTb0N2aXRHbnhDNXUxM3RENkdLbGpISVlkdklnbUJiV0NCZ1pTXzdYN18xcTRwd01GZGhFSkFQelRxUDhYRDFITjI4MDdBb2xVZ25lblBVakdwalNIUUJXSWRaTG9YLXVsOElwcG40bXFlM2tMaEI1TVkxQkxzQjVWSGVDdXBSXzNuclRQXzR6LVkxWTB0UDdwdG12bUl4VXlGcWFyS3A2bFN3MjRrSW1uTWJ6UTRBcl9wTGdB?oc=5",
@@ -1696,28 +1708,16 @@
     "ts": 1789180635
    },
    {
-    "title": "Um ex-oficial da Stasi, vários neonazis e um actor pornográfico: eis os eleitos da AfD - Público",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTV9ad0kzUko1RkpUdkNyVlh0RDNsMDQzbUlqVXFQaG5XbmViV0ZER2cyR1N6TnRVUTlHSVdYaGtBVlBxM2hKemV4RE55QnFiemllUFhpM0hoNHhMUTFXdDFqTUpQTzVqUnBVNUE0VFE1cGNwcTBxTlNqZmFJQk9zSnhmR2t5Wk5KaUpyUE9LVE05Uk9qeUxSZU1oTGNKYkswT3ZTV3lkbmd2aWFRNzdWanZqWW1FV3dxRHBCUlhiaw?oc=5",
-    "source": "Público",
-    "ts": 1789237079
-   },
-   {
-    "title": "Forças governamentais atacaram houthis na costa ocidental do Iémen - rtp.pt",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV2J6ZElNcDBrSVAyVjVFSkdUbTF6YUVmYXVwZlYxd2ozMHBpUjk1UUp4UFNISFcyNmZmc3BwYXFNWWJmbmlZVkJXU1puMHlqQzQtTDRjbkRLX0dzcFhhM0xBRWlqM1JZYVhmU3dQY21NTkpSSWVXVG8wX001UmR4dFhMcENneVF6TVppaWdoVzJaRS1iYWFZOEVYNWRPZ3VOWWg0TjVsdFZIemVGZFE?oc=5",
-    "source": "rtp.pt",
-    "ts": 1789219900
-   },
-   {
-    "title": "Suécia testa a vontade de os eleitores terem a extrema-direita no Governo - Público",
+    "title": "Suécia testa a vontade de os eleitores terem a extrema-direita no Governo - publico.pt",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWhDSkJ2Q2ZZa010U2F6MnJ1ZFhsemk5dmJGUGRFb0FUYmpMNnhPN2o2eHlDQXI5Smc0dlc4ZFFsZjc1T20zbGF4eks4SmhESlpxQ0hjandaWVBnbU03dW5FcWgyem1aSnhvUGpqU04yenJHT0lYMkoyTFJwZGw4RkxNcGE5LVBySVBLMnhoLXgzcW9yelNKUlRQZGNKalU5anVRbjRWUDBab2hFT2lmLWtqdHI3QQ?oc=5",
-    "source": "Público",
+    "source": "publico.pt",
     "ts": 1789226649
    },
    {
-    "title": "Em Dublin, Trump diz que gostava de ver uma Irlanda unificada e que vai “resolver a situação” das Malvinas - expresso.pt",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPUlVrX1hENDhNS2lqTUdCMllTeGxFUUs2c2UwZ1c2OUE4eUMtU0dGSUFIVER3MXRIOXliRHpEbURZZDBMalhpVWUxVTVHLU0xQjVzYWEzZzBLYVE0a3VnS0ZQb2JTUHlMaUlZZWNsV3hMZnRZMHk1TjM1cEMxcGdIbjQ2akZ6YmwyTVVfWU9Sa1BqelNIemZ6RV92MEJPaDZTNzYtQVlkS1A5Y2pCVkF5OVdnSWpvTkNzSGc5Nkl1ZXBrNUI4dlVDOGlnNnBLS0RRR0RubHBxeGhSOUZ6TzlOUmU1NVV5WlBmTWVWejVn?oc=5",
-    "source": "expresso.pt",
-    "ts": 1789210006
+    "title": "Um ex-oficial da Stasi, vários neonazis e um actor pornográfico: eis os eleitos da AfD - publico.pt",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTV9ad0kzUko1RkpUdkNyVlh0RDNsMDQzbUlqVXFQaG5XbmViV0ZER2cyR1N6TnRVUTlHSVdYaGtBVlBxM2hKemV4RE55QnFiemllUFhpM0hoNHhMUTFXdDFqTUpQTzVqUnBVNUE0VFE1cGNwcTBxTlNqZmFJQk9zSnhmR2t5Wk5KaUpyUE9LVE05Uk9qeUxSZU1oTGNKYkswT3ZTV3lkbmd2aWFRNzdWanZqWW1FV3dxRHBCUlhiaw?oc=5",
+    "source": "publico.pt",
+    "ts": 1789237079
    }
   ]
  }
