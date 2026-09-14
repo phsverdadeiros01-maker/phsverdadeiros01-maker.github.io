@@ -3,59 +3,306 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>A abrir servidor — Barcelos Hoje</title>
+<meta name="theme-color" content="#163B4D">
+<title>Estado do servidor — Barcelos Hoje</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
 <style>
-  body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;background:#f2f9f7;color:#0f2b2a;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0;padding:20px}
-  .box{text-align:center;padding:32px 26px;max-width:460px;width:100%;background:#fff;border-radius:22px;border:1px solid #d7e9e4;box-shadow:0 12px 32px rgba(13,148,136,.12)}
-  .logo{font-size:3rem}
-  h1{font-size:1.3rem;margin:10px 0 6px;color:#0f2b2a}
-  p{color:#5b7b76;font-size:.9rem;line-height:1.5;min-height:22px}
-  .btn{display:inline-block;margin-top:18px;background:#0d9488;color:#fff!important;text-decoration:none;font-weight:800;padding:13px 30px;border-radius:999px;font-size:.98rem;transition:.2s}
-  .btn:active{transform:scale(.96)}
-  .raw{margin-top:16px;font-size:.78rem;color:#8aa7a2;word-break:break-all}
-  .raw a{color:#0d9488;font-weight:600}
-  .err{color:#e11d48;font-size:.85rem}
-  small{display:block;margin-top:22px;color:#8aa7a2;font-size:.74rem}
+  :root{
+    --azul-fundo: #163B4D;
+    --azul-profundo: #0E2A38;
+    --azulejo: #2E6C82;
+    --papel: #FAF7F1;
+    --papel-linha: #E4DDD0;
+    --tinta: #262320;
+    --tinta-suave: #6B665D;
+    --verde-ok: #3E7A52;
+    --amarelo-aviso: #C08A1E;
+    --vermelho-aviso: #B23B2E;
+    --radius-m: 10px;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:var(--papel);
+    color:var(--tinta);
+    font-family:'IBM Plex Sans', sans-serif;
+    line-height:1.5;
+    min-height:100vh;
+  }
+  h1,h2,h3{font-family:'Fraunces', serif; font-weight:600; letter-spacing:-0.01em; margin:0;}
+  .mono{font-family:'IBM Plex Mono', monospace;}
+  a{color:inherit;}
+
+  /* masthead igual ao site principal */
+  header.masthead{
+    background:linear-gradient(155deg, var(--azul-profundo) 0%, var(--azul-fundo) 55%, var(--azulejo) 130%);
+    color:#F3F1EA;
+    padding:2rem 1.25rem 1.5rem;
+    position:relative;
+    overflow:hidden;
+  }
+  header.masthead::after{
+    content:"";
+    position:absolute;
+    right:-8%;
+    bottom:-45%;
+    width:70%;
+    padding-bottom:70%;
+    border-radius:50%;
+    background:radial-gradient(circle at 35% 35%, rgba(217,122,76,0.35), rgba(217,122,76,0) 65%);
+    pointer-events:none;
+  }
+  .masthead-inner{max-width:760px; margin:0 auto; position:relative;}
+  .masthead-top{display:flex; justify-content:space-between; align-items:baseline; gap:1rem; flex-wrap:wrap;}
+  .masthead-date{font-family:'IBM Plex Mono', monospace; font-size:0.78rem; color:#C9D8DD; text-transform:lowercase;}
+  h1.title{font-size:clamp(1.9rem, 5vw, 2.6rem); color:#fff; margin:0.5rem 0 0.2rem;}
+  .subtitle{color:#C9D8DD; font-size:0.95rem; margin:0; max-width:38ch;}
+
+  /* summary bar */
+  .summary-bar{
+    max-width:760px;
+    margin:-1.2rem auto 0;
+    background:#fff;
+    border:1px solid var(--papel-linha);
+    border-radius:var(--radius-m);
+    padding:1rem 1.3rem;
+    display:flex;
+    align-items:center;
+    gap:1rem;
+    flex-wrap:wrap;
+    position:relative;
+    z-index:1;
+  }
+  .summary-bar .pulse{
+    width:14px; height:14px; border-radius:50%;
+    background:var(--verde-ok);
+    box-shadow:0 0 0 0 rgba(62,122,82,0.45);
+    animation:pulse 1.8s infinite;
+    flex:none;
+  }
+  .summary-bar.warn .pulse{background:var(--amarelo-aviso); box-shadow:0 0 0 0 rgba(192,138,30,0.45);}
+  .summary-bar.crit .pulse{background:var(--vermelho-aviso); box-shadow:0 0 0 0 rgba(178,59,46,0.45);}
+  @keyframes pulse{
+    0%{box-shadow:0 0 0 0 currentColor;}
+    70%{box-shadow:0 0 0 12px rgba(0,0,0,0);}
+    100%{box-shadow:0 0 0 0 rgba(0,0,0,0);}
+  }
+  .summary-bar .pulse-text{font-weight:600; font-size:0.98rem;}
+  .summary-bar .updated{margin-left:auto; font-family:'IBM Plex Mono', monospace; font-size:0.78rem; color:var(--tinta-suave);}
+
+  main{max-width:760px; margin:0 auto; padding:1.4rem 1.25rem 2.5rem;}
+
+  section{padding:1.5rem 0;}
+  .eyebrow-row{display:flex; align-items:center; gap:0.6rem; margin-bottom:0.9rem;}
+  .section-icon{
+    width:2.1rem; height:2.1rem; border-radius:50%;
+    background:var(--azulejo); color:#fff;
+    display:flex; align-items:center; justify-content:center; font-size:1.05rem; flex:none;
+  }
+  h2.section-title{font-size:1.35rem;}
+  p.section-lede{color:var(--tinta-suave); margin:0.2rem 0 1.2rem; max-width:56ch;}
+
+  /* serviço card */
+  .servicos{display:grid; grid-template-columns:1fr; gap:0.55rem;}
+  .serv{
+    display:flex; align-items:center; gap:0.9rem;
+    background:#fff; border:1px solid var(--papel-linha); border-radius:var(--radius-m);
+    padding:0.85rem 1rem;
+    transition:transform .12s ease, border-color .12s ease;
+  }
+  .serv:hover{transform:translateY(-1px); border-color:var(--azulejo);}
+  .serv .status-dot{
+    width:11px; height:11px; border-radius:50%; flex:none;
+    background:var(--tinta-suave);
+  }
+  .serv.ok .status-dot{background:var(--verde-ok);}
+  .serv.ok{border-left:3px solid var(--verde-ok);}
+  .serv.fail .status-dot{background:var(--vermelho-aviso);}
+  .serv.fail{border-left:3px solid var(--vermelho-aviso);}
+  .serv .nome{font-weight:600; font-size:0.95rem;}
+  .serv .detalhe{font-family:'IBM Plex Mono', monospace; font-size:0.78rem; color:var(--tinta-suave); margin-top:1px;}
+  .serv .badge{
+    margin-left:auto;
+    font-size:0.72rem;
+    padding:3px 9px;
+    border-radius:999px;
+    font-weight:600;
+    text-transform:uppercase;
+    letter-spacing:0.04em;
+  }
+  .serv.ok .badge{background:rgba(62,122,82,0.12); color:var(--verde-ok);}
+  .serv.fail .badge{background:rgba(178,59,46,0.12); color:var(--vermelho-aviso);}
+
+  /* métricas */
+  .metricas{display:grid; grid-template-columns:repeat(2, 1fr); gap:0.7rem;}
+  @media (min-width:620px){.metricas{grid-template-columns:repeat(4, 1fr);}}
+  .met{
+    background:#fff; border:1px solid var(--papel-linha); border-radius:var(--radius-m);
+    padding:0.9rem 1rem;
+  }
+  .met .label{font-size:0.72rem; color:var(--tinta-suave); text-transform:uppercase; letter-spacing:0.04em;}
+  .met .value{font-family:'Fraunces', serif; font-size:1.5rem; font-weight:600; margin-top:0.2rem;}
+  .met .unit{font-size:0.78rem; color:var(--tinta-suave); margin-left:2px;}
+
+  .updated-note{font-size:0.78rem; color:var(--tinta-suave); font-family:'IBM Plex Mono', monospace; margin-top:1.4rem; text-align:center;}
+
+  /* loading skeleton */
+  .skeleton{opacity:0.55; filter:saturate(0.4);}
+  .skel-bar{height:14px; background:linear-gradient(90deg, #eee, #f7f7f7, #eee); border-radius:4px;}
+
+  .footer-link{
+    text-align:center; margin-top:1.5rem; font-size:0.85rem;
+  }
+  .footer-link a{color:var(--azulejo); text-decoration:none; border-bottom:1px dashed var(--azulejo);}
 </style>
 </head>
 <body>
-  <div class="box">
-    <div class="logo">🖥️</div>
-    <h1>Servidor</h1>
-    <p id="status">A procurar o link atual…</p>
-    <a class="btn" id="btn" href="#" style="display:none">Abrir servidor →</a>
-    <div class="raw" id="raw"></div>
-    <small>Barcelos Hoje · se o botão não abrir, toca no link direto em baixo</small>
+<header class="masthead">
+  <div class="masthead-inner">
+    <div class="masthead-top">
+      <span class="masthead-date" id="date">a carregar…</span>
+      <a class="masthead-date" href="https://phsverdadeiros01-maker.github.io/" style="text-decoration:none;">← voltar ao site</a>
+    </div>
+    <h1 class="title">Estado do servidor</h1>
+    <p class="subtitle">O Pi que serve o Barcelos Hoje, de relance.</p>
   </div>
-  <script>
-    (function () {
-      var status = document.getElementById('status');
-      var btn = document.getElementById('btn');
-      var raw = document.getElementById('raw');
-      function baseSemBarra(u) { return u.replace(/\/+$/, ''); }
-      function mostra(u) {
-        var dest = baseSemBarra(u) + '/app/servidor';
-        btn.href = dest;
-        btn.style.display = 'inline-block';
-        raw.innerHTML = 'Link direto: <a href="' + dest + '" target="_blank" rel="noopener">' + dest.replace(/^https?:\/\//, '') + '</a>';
-        status.textContent = 'A redirecionar automaticamente…';
-        try { location.replace(dest); } catch (e) {}
-        setTimeout(function () { try { location.href = dest; } catch (e) {} }, 1600);
-      }
-      function falha() {
-        status.innerHTML = '<span class="err">Não encontrei o link do servidor.</span>';
-        btn.style.display = 'none';
-        raw.innerHTML = 'Volta ao <a href="https://phsverdadeiros01-maker.github.io">site</a> e pede ajuda ao administrador.';
-      }
-      fetch('../admin/link.json?t=' + Date.now())
-        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
-        .then(function (d) {
-          var u = d && d.tunnel && d.tunnel.trim();
-          if (!u) throw new Error('sem link');
-          mostra(u);
-        })
-        .catch(falha);
-    })();
-  </script>
+</header>
+
+<div class="summary-bar" id="summary">
+  <div class="pulse"></div>
+  <div class="pulse-text" id="pulseText">A verificar…</div>
+  <div class="updated" id="updated">—</div>
+</div>
+
+<main>
+
+  <section>
+    <div class="eyebrow-row">
+      <div class="section-icon">🛠️</div>
+      <h2 class="section-title">Serviços</h2>
+    </div>
+    <p class="section-lede">O que precisa de estar de pé para o Barcelos Hoje funcionar.</p>
+    <div class="servicos skeleton" id="servicos">
+      <div class="serv"><div class="status-dot"></div><div><div class="nome skel-bar" style="width:140px;"></div></div></div>
+      <div class="serv"><div class="status-dot"></div><div><div class="nome skel-bar" style="width:120px;"></div></div></div>
+      <div class="serv"><div class="status-dot"></div><div><div class="nome skel-bar" style="width:160px;"></div></div></div>
+    </div>
+  </section>
+
+  <section>
+    <div class="eyebrow-row">
+      <div class="section-icon">📊</div>
+      <h2 class="section-title">Métricas</h2>
+    </div>
+    <p class="section-lede">Estado de saúde do Pi neste momento.</p>
+    <div class="metricas" id="metricas">
+      <div class="met"><div class="label">Temp</div><div class="value">—</div></div>
+      <div class="met"><div class="label">RAM</div><div class="value">—</div></div>
+      <div class="met"><div class="label">Disco</div><div class="value">—</div></div>
+      <div class="met"><div class="label">Load</div><div class="value">—</div></div>
+    </div>
+  </section>
+
+  <p class="updated-note" id="foot">a carregar status.json…</p>
+
+  <p class="footer-link"><a href="https://phsverdadeiros01-maker.github.io/">← barceloshoje (página principal)</a></p>
+
+</main>
+
+<script>
+(function () {
+  var URL = 'https://phsverdadeiros01-maker.github.io/status.json?cb=' + Date.now();
+  var FALLBACK = '../status.json?cb=' + Date.now();
+
+  function $(id){ return document.getElementById(id); }
+  function fmtTime(iso){
+    if(!iso) return '—';
+    try{
+      var d = new Date(iso);
+      return d.toLocaleString('pt-PT', {day:'2-digit', month:'short', hour:'2-digit', minute:'2-digit'});
+    }catch(e){ return iso; }
+  }
+  function num(v, dec){
+    if(v === null || v === undefined) return '—';
+    return Number(v).toFixed(dec == null ? 1 : dec);
+  }
+  function pickClass(s){ return s.ok ? 'ok' : 'fail'; }
+  function badge(s){ return s.ok ? 'OK' : 'OFF'; }
+
+  function render(d){
+    // cabeçalho
+    $('date').textContent = new Date().toLocaleString('pt-PT', {weekday:'long', day:'2-digit', month:'long', hour:'2-digit', minute:'2-digit'});
+
+    // resumo
+    var total = d.resumo.total, ok = d.resumo.ok, falha = d.resumo.falha;
+    var bar = $('summary');
+    bar.classList.remove('warn','crit');
+    var txt = '';
+    if(falha === 0){
+      txt = 'Tudo operacional — ' + ok + '/' + total + ' serviços';
+    } else if(falha <= 2){
+      bar.classList.add('warn');
+      txt = falha + ' serviço' + (falha>1?'s':'') + ' com problema — ' + ok + '/' + total + ' ok';
+    } else {
+      bar.classList.add('crit');
+      txt = falha + ' serviços em baixo — ' + ok + '/' + total + ' ok';
+    }
+    $('pulseText').textContent = txt;
+    $('updated').textContent = 'atualizado ' + fmtTime(d.atualizado_em);
+
+    // serviços
+    var sHtml = '';
+    d.servicos.forEach(function(s){
+      sHtml += '<div class="serv '+pickClass(s)+'">'
+        + '<div class="status-dot"></div>'
+        + '<div><div class="nome">'+s.nome+'</div>'
+        + '<div class="detalhe">'+s.detalhe+'</div></div>'
+        + '<div class="badge">'+badge(s)+'</div>'
+        + '</div>';
+    });
+    var sl = $('servicos');
+    sl.classList.remove('skeleton');
+    sl.innerHTML = sHtml;
+
+    // métricas
+    var m = d.metricas || {};
+    var metricas = [
+      {label:'Temp', value: num(m.temp_c, 1), unit:'°C'},
+      {label:'RAM',  value: num(m.ram_pct, 0), unit:'%'},
+      {label:'Disco', value: num(m.disk_pct, 0), unit:'%'},
+      {label:'Load', value: num((m.load && m.load[0]) || 0, 2), unit:''},
+    ];
+    var mHtml = '';
+    metricas.forEach(function(x){
+      mHtml += '<div class="met"><div class="label">'+x.label+'</div>'
+        + '<div class="value">'+x.value+'<span class="unit">'+x.unit+'</span></div></div>';
+    });
+    $('metricas').innerHTML = mHtml;
+
+    $('foot').textContent = 'JSON publicado pelo Pi · último push ' + fmtTime(d.ultimo_push);
+  }
+
+  function fail(e){
+    $('summary').classList.add('crit');
+    $('pulseText').textContent = 'Não consegui ler o status.json';
+    $('updated').textContent = '';
+    $('servicos').classList.remove('skeleton');
+    $('servicos').innerHTML = '<div class="serv fail"><div class="status-dot"></div><div><div class="nome">Erro de leitura</div><div class="detalhe">'+(e && e.message || e)+'</div></div><div class="badge">ERR</div></div>';
+  }
+
+  // tenta primeiro o URL público (CDN Pages), fallback ao path relativo
+  fetch(URL, {cache:'no-store'})
+    .then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); })
+    .then(render)
+    .catch(function(){ return fetch(FALLBACK, {cache:'no-store'}).then(function(r){ if(!r.ok) throw new Error('HTTP '+r.status); return r.json(); }); })
+    .then(render)
+    .catch(fail);
+
+  // auto-refresh a cada 60s
+  setTimeout(function(){ location.reload(); }, 60000);
+})();
+</script>
 </body>
 </html>

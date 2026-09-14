@@ -1,8 +1,9 @@
 #!/bin/bash
 # Atualização automática do site Barcelos Hoje — 3x/dia (08:00, 12:00 e 18:00)
-# - Notícias: Barcelos + Esposende + Mundo (Google News direto)
+# - Notícias locais (Barcelos/Esposende): O MINHO + E24 (filtro por keyword) → fallback Google News
+# - Notícias Mundo: Google News direto
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
-# Publica dados.json no GitHub Pages; o site lê este ficheiro.
+# Publica dados.json e status.json no GitHub Pages; o site lê estes ficheiros.
 cd /home/jo/barcelos-hoje-site || exit 1
 
 python3 - <<'PY'
@@ -15,7 +16,61 @@ def fetch(url, as_json=False):
         data = r.read()
     return json.loads(data) if as_json else data
 
-def news(q, n=5, topic=False):
+def parse_feed(url, source_name, q, n=20):
+    """Parse RSS feed, returns list of items matching keyword q (case-insensitive)."""
+    try:
+        root = ET.fromstring(fetch(url))
+    except Exception as e:
+        print(f'  aviso: {source_name} falhou ({e})')
+        return []
+    items = []
+    for it in root.iter('item'):
+        t = (it.findtext('title') or '').strip()
+        l = it.findtext('link') or '#'
+        pub = (it.findtext('pubDate') or '').strip()
+        ts = None
+        try:
+            ts = int(parsedate_to_datetime(pub).timestamp())
+        except Exception:
+            pass
+        if t and q.lower() in t.lower():
+            items.append({'title': t, 'link': l, 'source': source_name, 'ts': ts})
+    items.sort(key=lambda x: x.get('ts') or 0, reverse=True)
+    return items[:n]
+
+def news_local(q, n=6, max_age_h=72):
+    """Busca notícias locais com cascata: O MINHO → E24 → Google News fallback."""
+    all_items = []
+    sources = [
+        ('O MINHO', 'https://ominho.pt/feed/'),
+        ('E24',     'https://e24.pt/feed/'),
+    ]
+    for name, url in sources:
+        all_items.extend(parse_feed(url, name, q, n=10))
+    # Dedup por título
+    seen = set()
+    deduped = []
+    for it in all_items:
+        key = it['title'].lower()[:80]
+        if key in seen: continue
+        seen.add(key)
+        deduped.append(it)
+    deduped.sort(key=lambda x: x.get('ts') or 0, reverse=True)
+    # Fallback Google News se locais não chegam a n
+    if len(deduped) < n:
+        gn = news_google(q, n - len(deduped))
+        for it in gn:
+            key = it['title'].lower()[:80]
+            if key not in seen:
+                seen.add(key)
+                deduped.append(it)
+    # Cortar por idade (default 72h para locais)
+    now = datetime.datetime.now(datetime.timezone.utc).timestamp()
+    deduped = [it for it in deduped if (not it.get('ts')) or (now - it['ts']) <= max_age_h*3600]
+    return deduped[:n]
+
+def news_google(q, n=5, topic=False):
+    """Busca notícias via Google News RSS (fallback e Mundo)."""
     if topic:
         url = f'https://news.google.com/rss/headlines/section/topic/WORLD?hl=pt-PT&gl=PT&ceid=PT:pt'
     else:
@@ -23,7 +78,7 @@ def news(q, n=5, topic=False):
     try:
         root = ET.fromstring(fetch(url))
     except Exception as e:
-        print(f'aviso: falha ao buscar {q}: {e}')
+        print(f'aviso: google news falhou para {q}: {e}')
         return []
     items = []
     for it in root.iter('item'):
@@ -56,16 +111,26 @@ out = {
     'atualizado_em': datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ'),
     'mar': ipma_ofir(),
     'noticias': {
-        'barcelos': news('Barcelos'),
-        'esposende': news('Esposende'),
-        'mundo': news('Mundo', topic=True),
+        'barcelos':  news_local('Barcelos',  n=6, max_age_h=72),
+        'esposende': news_local('Esposende', n=6, max_age_h=72),
+        'mundo':     news_google('Mundo', n=5, topic=True),
     }
 }
 with open('dados.json', 'w', encoding='utf-8') as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
 print(f'OK: Barcelos={len(out["noticias"]["barcelos"])} Esposende={len(out["noticias"]["esposende"])} Mundo={len(out["noticias"]["mundo"])}')
+
+# Reportar fontes usadas
+for cat, items in out['noticias'].items():
+    fontes = {}
+    for it in items:
+        s = it.get('source','?')
+        fontes[s] = fontes.get(s, 0) + 1
+    print(f'  {cat}: {dict(fontes)}')
 print(f'Mar: {len(out["mar"]["dias"])} dias · fonte: {out["mar"]["fonte"]}')
 PY
 
-git add dados.json
+python3 /home/jo/barcelos-hoje-site/status.py || echo 'aviso: status.py falhou; dados.json será publicado na mesma'
+
+git add dados.json status.json
 git diff --cached --quiet || { git commit -q -m "Atualização automática dados $(date '+%d/%m %H:%M')" && git push -q origin main && echo "publicado $(date '+%F %T')"; }

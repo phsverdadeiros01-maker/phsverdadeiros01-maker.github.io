@@ -1,0 +1,57 @@
+{
+ "host": "pi",
+ "atualizado_em": "2026-09-04T19:53:19Z",
+ "resumo": {
+  "total": 7,
+  "ok": 6,
+  "falha": 1
+ },
+ "servicos": [
+  {
+   "nome": "Site (GitHub Pages)",
+   "detalhe": "phsverdadeiros01-maker.github.io",
+   "ok": true
+  },
+  {
+   "nome": "IPMA · Mar de Ofir",
+   "detalhe": "api.ipma.pt",
+   "ok": false
+  },
+  {
+   "nome": "OpenClaw",
+   "detalhe": "gateway",
+   "ok": true
+  },
+  {
+   "nome": "Tailscale",
+   "detalhe": "mesh",
+   "ok": true
+  },
+  {
+   "nome": "Navidrome",
+   "detalhe": "música",
+   "ok": true
+  },
+  {
+   "nome": "Audiobookshelf",
+   "detalhe": "audiolivros",
+   "ok": true
+  },
+  {
+   "nome": "Painel admin",
+   "detalhe": "túnel",
+   "ok": true
+  }
+ ],
+ "metricas": {
+  "temp_c": 60.1,
+  "load": [
+   1.33,
+   0.65,
+   0.64
+  ],
+  "ram_pct": 81.9,
+  "disk_pct": 18
+ },
+ "ultimo_push": "2026-09-04T18:00"
+}
