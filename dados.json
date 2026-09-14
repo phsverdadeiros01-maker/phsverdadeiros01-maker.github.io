@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-14T11:00:04Z",
+ "atualizado_em": "2026-09-14T17:00:08Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-14T11:00:05Z",
+  "atualizado_em": "2026-09-14T17:00:09Z",
   "dias": [
    {
     "data": "2026-09-14",
@@ -1632,55 +1632,43 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Onda de solidariedade mobiliza comunidade para apoiar neuroreabilitação do jovem Paulinho",
-    "link": "https://e24.pt/barcelos-onda-de-solidariedade-mobiliza-comunidade-para-apoiar-neuroreabilitacao-do-jovem-paulinho/",
+    "title": "Barcelos: Teatro Gil Vicente acolhe Seminário da Semana Europeia da Mobilidade a 18 de setembro",
+    "link": "https://e24.pt/barcelos-teatro-gil-vicente-acolhe-seminario-da-semana-europeia-da-mobilidade-a-18-de-setembro/",
     "source": "E24",
-    "ts": 1789376824
+    "ts": 1789400432
+   },
+   {
+    "title": "1.º Biatlo Aventura Barcelos–Esposende reuniu centenas de atletas - diariodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdTlpRDBZUHBKeGJfcmpMVDcwQjFEdXlLdk84SXY5LWo4V0dGLVpmWUd1YVFuX2xuSUo5RUFWeWlFLWN1WTl2WUxPVDB4MlRLMzRIUEgwck5ZVVlfZ1kteFg3YV9jRU9vYnNWcUdablNRTzgtYXdZeThpNmNzRWQ3OEV4eERwb2RaY0E4Y1JYQWxralNYZjNvM1JibXZLTDAyZUYyeEo3TUdYWjQzQ1ZVNkJabW5LZ2RtUW9TNk9wOTUyVzhSU0N4SWxKUzl3dEs3bHfSAdcBQVVfeXFMTldLYVItZGlOOE1fVEYtYlhQMmctNmVjUEQ2am9WdmQ3ek1YNktzdkMtYVE4X0NzZGllNzQ3Y0pJRWNZbURvdjFPYzdiR24zcEFLbkg5LUk4QlgyV0NxSzRIejROZ1RCSFBrNjh2X1gyTmFxLW5Ic3Rrci1YYUFTR1I3azZkV3dvZUFadWswN3VkYkV2MkFnNVlFblI5cWFiQW5UbFJvVkEzTjg3OF9EeVA2SHU2Nkk0a19ORkFhbl9wRjBrY3hhamJkeUd1aGl2UlNKc1JHczg?oc=5",
+    "source": "diariodominho.pt",
+    "ts": 1789398300
+   },
+   {
+    "title": "Semana Europeia da Mobilidade traz oito dias de atividades a Barcelos - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMXkxRFRkaGdmZkJwZThZSVVpLTlwUGVEYkMtcU9TM0dBZDhqSXlubUxYbmh2MXUtU0gtOWZpUlIyNG5hVkQ2d2pVX0ZpX3AtMnJ0Vkh4cDZxb1R1aDJ0cHBpNGFTUXBYS1QwT3Q0a0l4STMwN2xQWVhVcXRqS1B4QUMzS2xvdmxhdFNub0FIdmd0TXlxcGJ1ZjI5UWpKWHhOREFJYVRjUXk?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1789401094
+   },
+   {
+    "title": "Ciclista atropelada em Barcelos. Condutor foge sem prestar assistência - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBQbVFBeGQtSFUxOVBqRi1fdnRUTTBqMHRfWDdhY29hT2Y0MFF4S1N0elBuZzhHaFQzMks2Ml8waXJKaVlsdGxnaTlPSm8wWFh1NUV3N09wbEdfLUJzeHZ1dHNOaVV2TkFDZ3ZNT291R1RoM0JhOVRiSXRMaWVHYkRjM0JfRjk1TjBnc2RLTC1FTEwtYkg1MWZVSzZoaTQ5RzVFdzZXZ1F6R0lQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1789341060
+   },
+   {
+    "title": "Robô humanoide e cão robótico vão receber novos estudantes em Barcelos - Pplware",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORmxHYUc4a0JLUW1nNlNob2p3WUpqWXVYVjZOXzBxSUhIdHNHYnc2R25LaV90WHdCVTFoZHhZeExwTGszM3dqWXgxanA4bnNFVG1raTREZUNRWlg2dGtJR2lEd19Yd3J5ZDJ3YnVjOG5HbGkwekNBR2lOQndaTXY0VFlUX0dfSFh0NTQxQUJkcU1xekl6d3VVaDZCa0Z3WEVRcEplNXhqVE7SAa4BQVVfeXFMTjBtLUowYnE0TUhQR0hoVzZnQTlzYndtZUkwZ003OEwwY2ZPVG1nVnFLc25OSnZBTC1BYUlES1FoNTdhR0VESmRuUy1jMDFubXdPNDdLUi1Jd1FwYWpxc2hXejdZRTYwOTFNMy0wRHJyT3ZzcXpkQ3lYc1dvYm82MXpXZWpCZkJCOWxWZFBYZ09XQkZ4MEFYaW9qb1VndU9vUkRlcGRNNjhXQUd3OHlB?oc=5",
+    "source": "Pplware",
+    "ts": 1789322402
    },
    {
     "title": "Barcelos promove Semana Europeia do Desporto com dezenas de atividades - SAPO",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkhCMUNQOUZQVlRIN3dZaHlPMl9ZY0pCV0pOOFlwdWotR1ZoWGRTbDdkaDZkQ1JnZ2tBOFdCSTJSOVJ0V3NMazl0TFJHSTBfa0tHZVhGRjByVVY4TkNEOXJfcTFNT0RCcWFPNFJPNGNITFU5WHgyTXp4azNlLUVVQmNhajVRUGlVMGNZUFR1MXlVaThmQTh2ZWlmVEpxcG5oRmlXODN5X2RuaW1Vd2xmQ2JZdjBvUXdGREE?oc=5",
     "source": "SAPO",
     "ts": 1789379062
-   },
-   {
-    "title": "Ciclista atropelada em Barcelos. Condutor foge sem prestar assistência - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBQbVFBeGQtSFUxOVBqRi1fdnRUTTBqMHRfWDdhY29hT2Y0MFF4S1N0elBuZzhHaFQzMks2Ml8waXJKaVlsdGxnaTlPSm8wWFh1NUV3N09wbEdfLUJzeHZ1dHNOaVV2TkFDZ3ZNT291R1RoM0JhOVRiSXRMaWVHYkRjM0JfRjk1TjBnc2RLTC1FTEwtYkg1MWZVSzZoaTQ5RzVFdzZXZ1F6R0lQ0gGiAUFVX3lxTE11WUVFNWJ5S2R5dWpyNDFRWkRoSVRMV1F5WlhKWlM4M29VZWh0c0xZNC1ieFFlR0lyb0g1cC13czFpY1R0bzFLNmNCOVo5N3B4dGRieGtieW9aTG1rWWhCUFFQSWZFa3NOV2Y1anRaUF9DNzBRWUxDb0diSm1qbXV4aUZKR1BFMFFMZ21ScF9mN0FuU3A2SUptZzYzbFF2TWVBdw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789341060
-   },
-   {
-    "title": "Barcelos propõe atividades para adultos com depressão - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZGkxOTVhUGFuOE1wdVpuRTR1cnJXUlUtUnBLVWtOenNsWmZvZFhQNFZoWHU2YXk2LWJjM2xZN1pDRmxqS1JXYnRSLUhDMFRMemxxc2xSVmpUVTFhSHJjNHJLUm9MeWY2T28xaExfQWxwZ2pteUJDaDFwX2lIelloT0lGR3poRWd6ZW92ZTA1Y21ySDEyOENIWGU1c09KMl8yVktwNUs5LXIyQzZzU1NDM2VxZnRGQXQwV2F0TGJGekjSAcYBQVVfeXFMT0FEWEFNbUxNNjlYM0kyRU1QdUl0SngzZ0RZM1pXY2JtTUpLLVEtci1kc1JQUG9QVzlpdnVvWndmb0xJT3J1SDRad2pwem53SjRXMXEwLWdRU1Nra3NCeWJ3SmQ4UVNvbzloanFtdlhiSzA5ZVRTbGhZaU9UdnRWeEVlSGVnT3NOai1xekxYdzhkOEJqUVZqMURkd3FSd01oMlJvLWdjWElvbFlVODRBSmo2OWoxeDRfbEoyMzh3QW50V25FUkpn?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1789308720
-   },
-   {
-    "title": "Incêndio em cozinha de apartamento obriga a evacuar edifício em Barcelos. Três pessoas ficaram feridas - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM25pQW5pOWN5WjdEempGa1hNeW5RYk5FSzNLYXItNEQxbFdTRWhQc00ydkdvOXAxU2Fiaks1cjIwY19fcjN0MDNQbjJyS3laRzJGb00zMlVnMjBWWWhGRHFWLTR0dlY4STBnUzAxQjA2UzI4Zm1Sdk5mbm9VVjBENHZMb2p6bVUwX0NMZ3J1YVFlNm1OQVBSV2FHeEphUFF4QnNHWEp3bEZHUzB3U0FacjRpelUzQkZMVDlJSE5IckpoanFIaVdLSjQwenpnMlNxa1M3UU9SZURCN3RFckE?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1789201466
-   },
-   {
-    "title": "Motociclista em estado grave numa colisão com carro em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHpvakExUGVBTEZJY2c2WjlSbEs2N0c2Q3dXMXlCQ0pJSVdNTnU4LTFldG1VZjM0RUd2YzFSRmtKOXlkRExhcjh1ZjdocXFtY3pzWDdzUGlZa0UtY0FRaTFuSHJRMkNwSEhZdldfcUFwM2RSWnhObzVWalpPVTVRa2JVTHhnMEJueGtmelQyN1JNQmtzdmJMRmRzTmNLbC0wMkVpOdIBmgFBVV95cUxONTJqUG5qQ3NvQzdGa0Y0OVNmc2pyRURIeGZZN3M1V3R6anE0NGZNV3QyRENHMTloMWJWWjRjdTJFQzU4VlB4US1DcDVvQi1jZ1JFQW9rcjRaZXBkdW5FUDVMX1RVTU9TU2FkdUMzNjlpbkxmbW94MXY3VGV4TnBrdlpwcmM5UlVvWFFjZVBJVlJzNENXeXNoLXFB?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789325460
    }
   ],
   "esposende": [
-   {
-    "title": "Esposende: PSD conquista maioria absoluta em eleição intercalar em Belinho",
-    "link": "https://e24.pt/esposende-psd-conquista-maioria-absoluta-em-eleicao-intercalar-em-belinho/",
-    "source": "E24",
-    "ts": 1789380386
-   },
-   {
-    "title": "Esta freguesia em Esposende voltou às urnas e o PSD ganhou com maioria absoluta",
-    "link": "https://ominho.pt/esta-freguesia-em-esposende-voltou-as-urnas-e-o-psd-ganhou-com-maioria-absoluta/",
-    "source": "O MINHO",
-    "ts": 1789375236
-   },
    {
     "title": "Marinhas vence dérbi em Esposende e Forjães empata em casa - SAPO",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGE5cXJnVHI1Y3o0S2FmOG9nZmF1UmdVWTg1eW5seFFkdnd4R2ZwLW85ZHlKY3VYVUlkdWFPUExEanVxSHR5dGhRWVdXNURRYlpoRDN2SVhZT21kbFBhYVhhaEE3T0xuaXd6RGRXUnNCazdJdk5WdF9kbTJWa0tEVXhOY25tQS1sWjdEXzdxeEpUM0VzUUhvUG5QWFNXMENMOWFWVTdpT3lxdw?oc=5",
@@ -1688,10 +1676,16 @@
     "ts": 1789323322
    },
    {
-    "title": "PSD ganha eleições intercalares em Belinho (Esposende) com maioria absoluta - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRnY4WjczQVBqQV9fQjh3X294Y2N2c0dkMW5lcl9ESy1DNnpTNWdReWVlLUppZ1Bwb0lPekx4MVV2M0k4RGtIbWxqQ3dhd05jeWp2SVFXRE5YVzJRLTBJMXd6VVVZMTZtYldOQmZ1UEQ3Ti1GNDVVWXVRSWROckx0LTdVWXZlVHN4cFh6Yy12eFhPV1R0ZkRsdzBLc1dUTUh0czJPTEthbko1MmVGckczXzM5c0d5XzVIbTVaU2wxLU0tY0cwanVIdUdfbXRvbnUxX3l0dWdfX2dqTlHSAeABQVVfeXFMUGFCTmxBQzlhMzNNeVBFNFFlV1RNdGdaYUplUWFQSDVCUFB0MWZjMlE0eGt5Qk5JVkdmcmpObjdXUTVmcmJMV1lmSXNUOHF1ZHhTSktJS2pRdUoxcXU0Y1BFSVJrMlNyV1VJVGJxOEZiaWVXcFE3azQwX0VnRVE0aXZNRFpuMm9pT3Zza2JiLU1SNlRmQWwzWVBpYUY1WXlaV0NuREp3UjRtVUpzNmhURU9oOW9ia2laYm1NZUFJYzkwM3F1aFp5NlNFbmFfMGhWaVNPVzRfNllMTm4zRThqLUk?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1789372740
+    "title": "1.º Biatlo Aventura Barcelos–Esposende reuniu centenas de atletas - diariodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdTlpRDBZUHBKeGJfcmpMVDcwQjFEdXlLdk84SXY5LWo4V0dGLVpmWUd1YVFuX2xuSUo5RUFWeWlFLWN1WTl2WUxPVDB4MlRLMzRIUEgwck5ZVVlfZ1kteFg3YV9jRU9vYnNWcUdablNRTzgtYXdZeThpNmNzRWQ3OEV4eERwb2RaY0E4Y1JYQWxralNYZjNvM1JibXZLTDAyZUYyeEo3TUdYWjQzQ1ZVNkJabW5LZ2RtUW9TNk9wOTUyVzhSU0N4SWxKUzl3dEs3bHfSAdcBQVVfeXFMTldLYVItZGlOOE1fVEYtYlhQMmctNmVjUEQ2am9WdmQ3ek1YNktzdkMtYVE4X0NzZGllNzQ3Y0pJRWNZbURvdjFPYzdiR24zcEFLbkg5LUk4QlgyV0NxSzRIejROZ1RCSFBrNjh2X1gyTmFxLW5Ic3Rrci1YYUFTR1I3azZkV3dvZUFadWswN3VkYkV2MkFnNVlFblI5cWFiQW5UbFJvVkEzTjg3OF9EeVA2SHU2Nkk0a19ORkFhbl9wRjBrY3hhamJkeUd1aGl2UlNKc1JHczg?oc=5",
+    "source": "diariodominho.pt",
+    "ts": 1789398300
+   },
+   {
+    "title": "Esta freguesia em Esposende voltou às urnas e o PSD ganhou com maioria absoluta - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaTFuVWZ0X3RaV3BrWS1iTUJJNmZHVm1LdUVZMWs2NXVxWkZzRnlZZGlNb3NlaE9LUDFpMFpENjZ1UjVmUVVNa25nWjJ3OGx5Z2QyRG12WmZ0bUxVYXRER3E0V0lvOC1GWXItSVpGRnpjMWVRODN0SWFzX1dTMGlWVDBfRTQxMVNYWUxqQ01YVGFkY1l2QWRHT1ZpUXBXRW8?oc=5",
+    "source": "O MINHO",
+    "ts": 1789375236
    },
    {
     "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende - O MINHO",
@@ -1704,38 +1698,44 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOWNxekVHRm1aRTU2MldLOUdjQ0tDM2pRQjlGYXpkRXJFYldvdll0T0JhRHAtQUFkSmpJV3h4TkhwOFFnWUxROXI1RHI0X2FkZG5tVENSUGxBM3pfMHFhS2NtMmVxRkxyUWpCOFlwWTBGWWpBY0hJdXpZLXBGQlljOUNNLTBsWDY1MXlac3VKNmV5WTJPLVE?oc=5",
     "source": "SAPO",
     "ts": 1789196022
+   },
+   {
+    "title": "Boletim Unidade Pastoral Esposende Sul - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNMjhsRUtablp2TWRsb29mc2lsNDdwWXdQLWxxUFZac24xV3pQdjFaMlhkNHZKcWhxT3QyRW9tR2dKVndQcndyOVFBU1ZUYmZYV2JLamh1SUdxSEc4OEFXUXQzZEs2WlJBSUlPcWNNT3N1MHRpbnE0Q0l6cnRoa05kRi1TcG1MX0E0NmJDV3lGaw?oc=5",
+    "source": "SAPO",
+    "ts": 1789196395
    }
   ],
   "mundo": [
    {
-    "title": "Sociais-Democratas vencem eleições na Suécia. Cenário de coligação de esquerda é o mais provável - Observador",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU18xVDNhVmdDTjlEOXEyQVI3NU9waVg5S2dVWGM4eGZqMlBLR2R4YVBMNkVZUHNqVXpKNVI4RlJqOU9vWW5fMmt1eHlLUnV3bnJMSGVic1dOcDdPRmlnNnVkY09VckVUdVBySlNjNmFoT1F2aHVlc2dVN2ZNazZGWDJMTS01dVNYT2l5VlRWclgzbi05ODN4U0FzNzNZbWxaSlIyWU1Gb2Vac0JjWF9aalh5NHBVanlZSUYzdzB5LTQ5NEIteEhkVw?oc=5",
-    "source": "Observador",
-    "ts": 1789378938
-   },
-   {
-    "title": "Comboio com Boris Johnson e ex-diretor da CIA escapa por minutos a ataque de drone russo - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQTHN5VF9BdmRITWh2TU96TUotbWJsNGdQbjRPOWRSMHVoejVaQVVlY05YeDhxR2dsaFE0aTR5cHliaXBXaFRYLTFoV015Y2dDTzlEanE5X0VUc09IRW12aG5qLU5TQmE0WU5JYm50QjBJRFZkX083M1EtcDVDRW1RN3ExN3liQnpzVGpMaEZsWGl2dHNOS3RvRVRjWVFyX210Zm1mSWJhSzB5dlY4bnFGa2d3bk9kNHdOWGhKN0VYYVIzTHo1MEliVVRFdnhzRkJscThFcVJaS0gtQUlzQWlROERscXhjWW0wUkZqZlJvaXpSaFBuM3c?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1789366030
-   },
-   {
-    "title": "Um ex-oficial da Stasi, vários neonazis e um actor pornográfico: eis os eleitos da AfD - Público",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTV9ad0kzUko1RkpUdkNyVlh0RDNsMDQzbUlqVXFQaG5XbmViV0ZER2cyR1N6TnRVUTlHSVdYaGtBVlBxM2hKemV4RE55QnFiemllUFhpM0hoNHhMUTFXdDFqTUpQTzVqUnBVNUE0VFE1cGNwcTBxTlNqZmFJQk9zSnhmR2t5Wk5KaUpyUE9LVE05Uk9qeUxSZU1oTGNKYkswT3ZTV3lkbmd2aWFRNzdWanZqWW1FV3dxRHBCUlhiaw?oc=5",
-    "source": "Público",
-    "ts": 1789237079
-   },
-   {
-    "title": "Primeiro a \"retaliação de grande escala\" depois o sangrento conflito sem fim: eis as opções para resolver o conflito com os houthis - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNNFJJMFJHR1dfOFNtN2hUWmZUMHBrSWVrVUFINGZWUUpWOGktdzUyZUdjSVZQemVXbFNSMGpNZUJoLU41cUN3RHpaU3RxQ09aVGRMeHZsa1ZYWkVKTGNaMEpQaHViaWo4aVpfSU4yOGdPWFdyOFNDV1dwRklrTUZBSkJEeVdjNzdwc3RWZ0tZVzZJMkhrRFBMb1ktbG4weUxJZWlQOUFTQnh3d09VQ0lhNnhZdzAyTWVXdldEMTBmREpVTl9YaEFYQmxtempHRFFPZWRTaVhERFlEQlcxaWhXLUJVNjdicGtCOWhsbGN5Z0FrN3VwQ2ZmOXE0czlrdnFXS0czV0VxNDRhRGZPajg5aGxRbzVLMWpnTzVnR1dRN0ktWVd1cng0dFdGeW1GdkJ2aUdKaw?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1789316100
-   },
-   {
-    "title": "11 de Setembro: passados 25 anos, talibãs continuam a proporcionar à Al-Qaeda o ambiente permissivo que levou aos atentados - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMilgRBVV95cUxPQ3h6QWhWUnlYenpIa3VNMGM3R1dRQ0lfbWp5bk1hSEdIOF9CTHZkRFotSlFWVE96MGJrUjlwR3RIMWVWdlMxdlNyV3FUNzRHWFZJclBmTlZ2SlV3WGJRRkZxc2pNa3VkZl92anAydlFXN1d0VUlIVGFka05zNXlZN0dWUkNQNkRWckpqbTlfWkxYTGdBak1HU2lpbHJsaGJQOTkyNHFybGw3VnF6SWUwTFJuU2FHUGZxTXFieFpibDFiUGpjNS1EemlzcDVvMHV5TnBfVEVGTHhCTUN6TXFoOUtZeVBjY2VXZG9hMXlBa2pZNm1kZjczU1A5eGp1NTNhTkQtQ3FBdy1NdEVSNTZaSXNaaHl0aC1pQjdTekgxYkRXQjc5N0dOY0lEVVltM21CM0lDTWtUamhNZWoyaktodWN4djN2dW1PNGlpWG5ROWtIUjJ1Q1hGSEFnLUM4TGpFV25CTHhoQ3ZqdGRPSTY0c0NlbEtsQ3RkYkxXUVBZb0I5UmlaNWQwTzR3cjVyV2RRbkMwa3FRRHFXTmFYTVVBWWtCaFVQc2UyNXYwNW9fQmV5ZEw3RVRLT1pwcVJROGlLaTB2V0JlblhXTUxmeG9sRkgydGV2WXZvWGFOaDRaVS1kUXl5QUx0NVg2ODV5eGpEeUZKN1NUeW9vQmppelVidzlVQUQ1U1JDcXk3U1pOclUwZk9kMkE?oc=5",
+    "title": "Suécia no fio da navalha e à beira de longas negociações após legislativas renhidas - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXlGYjNJU3lTalZneXZPZWVUSUk3SHNKQTd6THEyQXFJQWx2aU1Zb3ZsOHY3YjNaYTAyS3BueXNPM2h3NElpTXVaV1FWZmx5cFZ5VEhDY0hKdWo3QXVTbUdWNFdRWVNXV0pkbXpUaW5BSGhGOHdqTGdtWHc2bHhxUGtZeXphSGNVRm5NWHZGMTFjdE50MEJlMmVndlYtM2JKWlhReGZkeG5SVUJETlU1X3FWVEFUTnllVk5JYWxTVjJZZGk5YTNKZVNESXVzOEJMWndR?oc=5",
     "source": "Expresso",
-    "ts": 1789115205
+    "ts": 1789385043
+   },
+   {
+    "title": "Preços altos, sem rotas alternativas: o que significa ataque a oleoduto na Arábia Saudita? - Público",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVzQ3Wmg2Z0xocGNiczF0SHk2dDVKYjJSQUk3ay1SZ3lHNWJtV2VySnI4eXM2djlLSlFVSWY4VHpseDNlQ3JjWU5XVkNCdC1tQVBjZlZvNm10V042S2pUM3M1aGJhUTljU1ZZcDdrZ0FlYVRsamhGZ2lsS0ZfdDZWYVExRzBSZVZsakhDQVlTc1RzU2pRV1VtZlp0ZkNOTXJ4SFlSVEltUmw5QUlac1pkOENlVDlGRGU1OGdaVDhOYXRvSFRfUUNZ?oc=5",
+    "source": "Público",
+    "ts": 1789396869
+   },
+   {
+    "title": "\"Está a prejudicar o mundo\". Trump pede a Zelensky para parar de atacar gasóleo russo - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUDRrbE5rTFFiTWdZVnBXRVdNS2JFMzZOcVNvRmpoWU9wbnlkSWg1R2t4aG1wUUkzV242bk1FTlQxUkpKcHpUR2Y1RTBHLUFiVmVyUDUwVjY3Z0VGTEFTYU1KbWVHRUNvbmttamsyN2xFUFVERmNPVWE0bGJDc0JNT19nX2Q4bFNhdlZQZ1lqSkl1TnRTSmYtdTVnakJuWVVwaW1HT3JsQVRMYmp6dUNrUkhBMzFkSkhJSGlya2pIX05wYmM?oc=5",
+    "source": "RTP",
+    "ts": 1789311080
+   },
+   {
+    "title": "Quem votou na AfD na Saxónia-Anhalt — e o que quer? | Alemanha - Público",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcEdjdkVHUllXTEVnTC0zRGsyUzMtRzNXRnlWT25TMTFNdW5yTU1qaWhic3ZMcWw0cy1neU5NTFFXclNmV01SNUNRUlFjUnFqV0RJSjRidTAxQ2x0SDRwUVBBZkJ2UDZvZUE0cUUxMHlMMXlMTjdxTjVLTlBidFl2V1RhSkNiWHZaRTZLaQ?oc=5",
+    "source": "Público",
+    "ts": 1788807600
+   },
+   {
+    "title": "11 de setembro: “Os jihadistas que treinaram nos EUA usavam aftershave e perfumes para não serem reconhecidos como fundamentalistas” - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxOT0lHS1RTMTlDcFptZnF1U1BqcHg0OUxXMkJrX1BUbnRLQVlubkdmV1NBeXdzLTZFNFdGY0NfaEZuVUZNUDFBS2Q1YzlOX3NRdU9BaFNYX1NFZ0lKLVpxT2oxWi1iWktsX3dzTUNnQTF0bGVMdkMxLVJRak5CUFh4eFZWN21RR0NrUnhBSEQ0RGNxajBYR3NXME9MNVJwSkFQT1A1UkxSZEl0Mlc2Z1JtdHRFdzJTVDNYclZ2WGFBTFdUam1lT0NzSEFGa2tGOWk3dTJKMzhVeEJ5SHV0THNITE5XWUlLdFZydEdScHpYaVhhQm9XS2lHNV9EYUpjLS1NTXBNb0N0dTBQcmFRX0tqa3dFdEZzbGJPakpTNnVR?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1789311660
    }
   ]
  }
