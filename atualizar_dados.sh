@@ -3,7 +3,7 @@
 # - Notícias locais (Barcelos/Esposende): O MINHO + E24 (filtro por keyword) → fallback Google News
 # - Notícias Mundo: Google News direto
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
-# Publica dados.json e status.json no GitHub Pages; o site lê estes ficheiros.
+# Publica dados.json no GitHub Pages; o site lê este ficheiro.
 cd /home/jo/barcelos-hoje-site || exit 1
 
 python3 - <<'PY'
@@ -130,7 +130,5 @@ for cat, items in out['noticias'].items():
 print(f'Mar: {len(out["mar"]["dias"])} dias · fonte: {out["mar"]["fonte"]}')
 PY
 
-python3 /home/jo/barcelos-hoje-site/status.py || echo 'aviso: status.py falhou; dados.json será publicado na mesma'
-
-git add dados.json status.json
+git add dados.json
 git diff --cached --quiet || { git commit -q -m "Atualização automática dados $(date '+%d/%m %H:%M')" && git push -q origin main && echo "publicado $(date '+%F %T')"; }
