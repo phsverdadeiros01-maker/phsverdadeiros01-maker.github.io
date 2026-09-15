@@ -335,6 +335,17 @@
   footer a{color:var(--azulejo);text-decoration:none;}
   footer a:hover{text-decoration:underline;}
 
+  #back-to-top{
+    position:fixed;right:1rem;bottom:1rem;z-index:20;
+    width:2.8rem;height:2.8rem;border:0;border-radius:50%;
+    background:var(--azul-fundo);color:#fff;box-shadow:0 5px 18px rgba(0,0,0,.22);
+    font-size:1.25rem;cursor:pointer;opacity:0;visibility:hidden;
+    transform:translateY(0.5rem);transition:opacity .2s,visibility .2s,transform .2s;
+  }
+  #back-to-top.is-visible{opacity:1;visibility:visible;transform:translateY(0);}
+  #back-to-top:hover{background:var(--azulejo);}
+  #back-to-top:focus-visible{outline:3px solid var(--azulejo);outline-offset:3px;}
+
   .skeleton{color:var(--tinta-suave);font-size:0.85rem;}
 </style>
 </head>
@@ -609,6 +620,8 @@
   </section>
 
 </main>
+
+<button id="back-to-top" type="button" aria-label="Voltar ao topo" title="Voltar ao topo">↑</button>
 
 <footer>
   Barcelos Hoje
@@ -1150,6 +1163,14 @@ carregarNoticias();
     document.getElementById('lua-fases').innerHTML = mudancas.join('');
   }catch(e){ /* se faltar um elemento, não parte a página */ }
 })();
+
+const backToTop = document.getElementById('back-to-top');
+if (backToTop) {
+  const updateBackToTop = () => backToTop.classList.toggle('is-visible', window.scrollY > 420);
+  window.addEventListener('scroll', updateBackToTop, { passive: true });
+  backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  updateBackToTop();
+}
 
 </script>
 </body>
