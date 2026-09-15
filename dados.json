@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-15T11:00:02Z",
+ "atualizado_em": "2026-09-15T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-15T11:00:03Z",
+  "atualizado_em": "2026-09-15T17:00:04Z",
   "dias": [
    {
     "data": "2026-09-15",
@@ -1632,16 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos: Miguel Costa Gomes e Domingos Pereira remetem-se ao silêncio no arranque do julgamento da ‘Operação Teia’",
+    "link": "https://e24.pt/barcelos-miguel-costa-gomes-e-domingos-pereira-remetem-se-ao-silencio-no-arranque-do-julgamento-da-operacao-teia/",
+    "source": "E24",
+    "ts": 1789489270
+   },
+   {
     "title": "Mercado de Barcelos reabre ao fim de seis anos mas bancas não abrem todos os dias - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTWdJU0VtQmNWOHdWR0RqR2F3S2NwZ1B4anpPRjZnbnN5Slo1TXlHV0VZbnYxa1k1dS1fdVIteXc2YUhGNXZfdlRhM0RZMmU2dkdYdkFoS0ZPVXUxTThmM1dIdWJoTlVIRmY1WXc1SHlFOW1VRG44Q3FoT2EwUzFQV0kwZjEwcy1nT0xubmlFamxCZFBOTWdxN0ZVVnpaaG44Qk82eUpTb0NobXZ1OFI5UG83OVZOOGRuQWtnSw?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1789320660
    },
    {
-    "title": "Barcelos promove Semana Europeia do Desporto com dezenas de atividades - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRkhCMUNQOUZQVlRIN3dZaHlPMl9ZY0pCV0pOOFlwdWotR1ZoWGRTbDdkaDZkQ1JnZ2tBOFdCSTJSOVJ0V3NMazl0TFJHSTBfa0tHZVhGRjByVVY4TkNEOXJfcTFNT0RCcWFPNFJPNGNITFU5WHgyTXp4azNlLUVVQmNhajVRUGlVMGNZUFR1MXlVaThmQTh2ZWlmVEpxcG5oRmlXODN5X2RuaW1Vd2xmQ2JZdjBvUXdGREE?oc=5",
+    "title": "Semana Europeia da Mobilidade traz oito dias de atividades a Barcelos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUk5ZdW5nRmR3X2dQNjVFajEtZmM5ODZyQzNISG5xNVYxX215akNDall0YldObFpIck5BYnEwMWlEb0tCek9uQVBTQzZodWNPLUtkYnBoanJ0X0RPLXBYRTR6NnI5TWFaNkZKcHloa3RvQ1puWDhLNVF4UGhxWU1OT2FaeWdUSVlMclVBMzJJNk9tZHZLQkE?oc=5",
     "source": "SAPO",
-    "ts": 1789379062
+    "ts": 1789489924
+   },
+   {
+    "title": "Ex-presidentes de Santo Tirso e Barcelos ficam em silêncio no início do julgamento - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdTNjdndGdllCYzliODJXSlcwOFlWc2wtQk01V2gzZ2VGZkcyWHdsNHRNQ25lTWYyOUNCc3VkN2d4RXVLYkVCUVJUS1hCVENFVHhrM29OLTNqYkpCNWNQdVZqQ0ZvbEtEOFlWNDdiSUY3SEdqV2NKUnAxZWxNTjA5SkYxdVBFb3djV3hMaVlZdzJiSDZIWE1fZ1JSR0ppS2tOY1F3TTBEMmN4Z3J3T2FEdm5SWUhrbkdjbldDNXdBRmnSAbsBQVVfeXFMT3R5TVFjb0twUFNYTmVDQ2NZeGM4d3A5a3owZHJjVC1hNm1ad1VyT091NUVvbjNiR2JZN01sUzQ1cEptdWNoOWxjNVlNcUJRTThhMm81NmdVSVp1QmRPbzY4WVpCYUNEeURBaFlnNk9wTWRhQU1fMzhNRTBiSWdKTEtjdl90Uy1jS3k0SDg0UVN3a1VYQ1M1ckc1VVFwMDh4UnhfdE01OGxjRXdqRUFmX1czdlZPWnJDd3FRQQ?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1789473035
    },
    {
     "title": "1.º Biatlo Aventura Barcelos–Esposende reuniu centenas de atletas - Diário do Minho",
@@ -1650,25 +1662,25 @@
     "ts": 1789398300
    },
    {
-    "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFpPNlBhVFZoOXNBNDh1dll0cWJBRjRnVXd4VUdrVVAtV1dMMGo1bzA2Zk1NWWRodk8wdzMwd0VNV2FxYzRnTnRfYUNhcFNSUFNncHRMVklCNHVKakdhcXRubHZnc0oxY0djcjEydURZcWpzWVNPYUtZYzlGMHJXaFNJUmVwb3ZrcW9iRkRfZXhBU0Zs?oc=5",
-    "source": "O MINHO",
-    "ts": 1789317404
-   },
-   {
     "title": "Ciclista atropelada em Barcelos. Condutor foge sem prestar assistência - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQclBQbVFBeGQtSFUxOVBqRi1fdnRUTTBqMHRfWDdhY29hT2Y0MFF4S1N0elBuZzhHaFQzMks2Ml8waXJKaVlsdGxnaTlPSm8wWFh1NUV3N09wbEdfLUJzeHZ1dHNOaVV2TkFDZ3ZNT291R1RoM0JhOVRiSXRMaWVHYkRjM0JfRjk1TjBnc2RLTC1FTEwtYkg1MWZVSzZoaTQ5RzVFdzZXZ1F6R0lQ0gGiAUFVX3lxTE11WUVFNWJ5S2R5dWpyNDFRWkRoSVRMV1F5WlhKWlM4M29VZWh0c0xZNC1ieFFlR0lyb0g1cC13czFpY1R0bzFLNmNCOVo5N3B4dGRieGtieW9aTG1rWWhCUFFQSWZFa3NOV2Y1anRaUF9DNzBRWUxDb0diSm1qbXV4aUZKR1BFMFFMZ21ScF9mN0FuU3A2SUptZzYzbFF2TWVBdw?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1789341060
-   },
-   {
-    "title": "Motociclista em estado grave numa colisão com carro em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONHpvakExUGVBTEZJY2c2WjlSbEs2N0c2Q3dXMXlCQ0pJSVdNTnU4LTFldG1VZjM0RUd2YzFSRmtKOXlkRExhcjh1ZjdocXFtY3pzWDdzUGlZa0UtY0FRaTFuSHJRMkNwSEhZdldfcUFwM2RSWnhObzVWalpPVTVRa2JVTHhnMEJueGtmelQyN1JNQmtzdmJMRmRzTmNLbC0wMkVpOdIBmgFBVV95cUxONTJqUG5qQ3NvQzdGa0Y0OVNmc2pyRURIeGZZN3M1V3R6anE0NGZNV3QyRENHMTloMWJWWjRjdTJFQzU4VlB4US1DcDVvQi1jZ1JFQW9rcjRaZXBkdW5FUDVMX1RVTU9TU2FkdUMzNjlpbkxmbW94MXY3VGV4TnBrdlpwcmM5UlVvWFFjZVBJVlJzNENXeXNoLXFB?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789325460
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Mais de 600 participantes na primeira edição do \"Traj’a Norte\" - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN3VCaE14SGpSZ0IwWGdndExraU5Xc3BUNllFSHFPZnlzLUxpSFEyNDRvYV94b0JQaHlPNHBlX2Zld20ybWxKTkNkS3NvRjFEYmtVbDR2X29PckE1TzFyM1lmTUdiZWduaGFwR01HT3RtLVN4Mm9XNEtHd3drSFlHcDI2b1pQYTdqTDNBTW1B?oc=5",
+    "source": "e24.pt",
+    "ts": 1789478522
+   },
+   {
+    "title": "Município de Esposende aposta no apoio à educação - Rádio Onda Viva",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2liYXQxUFRlMWtDWEN2VVBVcU1QRy1ydFJrcC0xUlhDTVJ5UDNYc0gtYXEyUENIQVV6SWszVUt0REdhVUF5WGR3MkVHNlNrWHozVG1HVUNPRnVfQWlFem4yRi1ZeUxURDBzM0xlU0pJdWR5QXViMFZtM1hzTlNoakpTMTktdno0dTJUVzAtU29XQW8?oc=5",
+    "source": "Rádio Onda Viva",
+    "ts": 1789452000
+   },
    {
     "title": "Esposende transforma-se este sábado num palco da tradição do Norte - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWENaWHBjQXdMOVFDSUR4SFNpWXdkeG43YW54aTFFazhxcERwYTdTT2hxLTNIMU8zUzNjMTd5ZGR6a2U3UW12cERxd1ZMUTNBYnppLVlDSmQwdUdzY0MyZjhGZ3Ixa1htd3FhUmFnbnRXVTlNYlA5VTN4QVduWFdpZU9tWXFwQ2hFR0pBeG1rTXhkT0QycFVVT29pOEtEMmVMVi1qNjlNR1LSAZ4BQVVfeXFMUE11Um9wY2o4ZjV3aVk4Zkg0eHdYLTBSQU5YYnVhX21TNGZPSk5TYUJiekd1UFRZOEFsVjJHamFKbjN2QUZLVmtpdkp2ajJWVzU4TUU2Sk9VSjZiTUsyVW9hZ1ctdUJBWHdUd1JlR3hHUHJJYVFyLTVnZUFpV3hqaDBnM2NacHdLcmN3Y2pRM1VuT2wtZnBUamtlUkVqQ2c?oc=5",
@@ -1676,42 +1688,48 @@
     "ts": 1789412820
    },
    {
-    "title": "Município de Esposende aposta no apoio à educação - radioondaviva.pt",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2liYXQxUFRlMWtDWEN2VVBVcU1QRy1ydFJrcC0xUlhDTVJ5UDNYc0gtYXEyUENIQVV6SWszVUt0REdhVUF5WGR3MkVHNlNrWHozVG1HVUNPRnVfQWlFem4yRi1ZeUxURDBzM0xlU0pJdWR5QXViMFZtM1hzTlNoakpTMTktdno0dTJUVzAtU29XQW8?oc=5",
-    "source": "radioondaviva.pt",
-    "ts": 1789452000
+    "title": "Motociclista em estado grave após colisão na estrada Barcelos-Esposende - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQOFpPNlBhVFZoOXNBNDh1dll0cWJBRjRnVXd4VUdrVVAtV1dMMGo1bzA2Zk1NWWRodk8wdzMwd0VNV2FxYzRnTnRfYUNhcFNSUFNncHRMVklCNHVKakdhcXRubHZnc0oxY0djcjEydURZcWpzWVNPYUtZYzlGMHJXaFNJUmVwb3ZrcW9iRkRfZXhBU0Zs?oc=5",
+    "source": "O MINHO",
+    "ts": 1789317404
+   },
+   {
+    "title": "PSD vence eleições intercalares em Belinho e conquista maioria absoluta - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSEFidmhLdkIxYnBES3YzNEdrMWZrX1lPZ2FYRGNWSUhIYXZ4OGVncndZNzBXa2FhQVc0cGl1dTRYQU5fdmdhNXo1MU1EVVctNmVIMmRTRXE2SHJ5U2lIRVZ3VlZDNzdSNWpNYk1GakVZX1FKV2lfQ1h4LTl3UF95TS1NNl9peHJPOVhweVZmazhfbkYyX182N2pvbW1reTdfRlE?oc=5",
+    "source": "TV Esposende",
+    "ts": 1789327541
    }
   ],
   "mundo": [
    {
-    "title": "Aliados de Kiev \"sem medo\" após ataque russo a comboio na fronteira polaca - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQU1XVGVETE9tYlhGWW16YnNDMFlBXzJ2a1hKRk5rdG95R1hLQW4xOG5Gb0dKTHNXaGtXNjBQMDVrbUJZQW1vNWFfN0F0TTBXNk5LN2xJb0czSGFrM2t4X1R6T2l5S1FLQWF6UTRScnpEUXpfbU45RUpuRlFFaDc4bk9PQ1o3YTBNSjE1ejhGOEpxZTVEVEkxNWxHYm84V19JcHUwXzZQcWdONDVaZnRlRDFzS3A0STZsN2VNSE5Xb3UydjdMUEhMUG5TSkRHS09NbGpfSXZtNNIB0gFBVV95cUxQSGo1ZkxWQkFOb3F3ajV5U0hfaUgzbHkyaUR1T3NkWU9hVV9CejY3dlpjdjFGSGYxMU03bURwVDR6R21KSllfb3Z4ZlExOU5FU0VrWU5mWGlfbkd6TDVnNk40R25iZkd0N1pKdUhYWkNJN3FHRzRTcjFBVlM5WUhEanl6THI0eFN5RW1CR2oxT0Z1UFJkSEZiNmhwVlUxY3hqMEwwMUxfX2YxSTBTQ1M1VHdhY2tJbnNPSUlmQV9xcUZMeUFzY2RadWlGNnhoanhwY0E?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1789432200
+    "title": "Catar avisa que bloqueio do estreito de Bab el-Mandeb seria \"catastrófico\" para o mundo - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGtaaDBIRkpybFB0YWFVNng5QUM5bV95NnNpLVJ5dF95cmNYQlM1RjBCSHJjUFFNOFBTMWdqYkJ4RnZPVzY1LVpYZmE4anczX1ZzUzJTSkRLT2VCbnBRSnN3ZkF0NmZDTmpuZDg0TTg1S0tFN1VDRTBHUjY0NDlDNjc0VlB1SURUWXNWMGVKcVM1UUJNcjBKMzQ5N1BmTkx3MVhpWUx0YkFEeFFjeG9zb0JscWhSWFkwaXB3bFFaQVg1SHpaMEVkQXh4UGJUaTFLUWZFbHk0clRYNnlDSWfSAdgBQVVfeXFMTVJfWVdBOW9kbF9SX0JqdC1VVHBVVFVKRXFzeWFGLVIwMlJLRTdsZG9NeWJ2MUNmZFMyeWtXeDVjWUlGME1MSEhVcnlNSDZJaGhXLTdzcTBqX2tCb1dhUjVaRno4OVV0UG9wTnpvSXlER1ZQZjVtSUpBMFI4M0FJMXNsQkVMUWJXbk1oMjhxYnhlQzQ0RXJVQTA5WGlRb2hKNUJ3cDNpZlZRcjRrbTlfOVcxajFvQWlLU2hjRlYyS19jV2thSHQyNmc3T3RjQkl1V2tER3owMmRW?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1789473001
    },
    {
-    "title": "Drone abatido na Lituânia após mobilização de caças da NATO - Observador",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZTgzTlBGTVJuWkVKTlNmdU5DVFRaRW55dkkxelhQNEhYRFpzeThXa3VDUjRFNmZ3R2xYNndlYjlVUTF4NFRTaDNNQmdzN1NkN1prX05RZjduMXVjdXAzLVk3X0tpbl9wdmJjZmgwcVJ2bUN4VmpGOWZjdnNGak1KdlM1MFVLak5PQndFYzdRWWRXdHcyOVhESA?oc=5",
-    "source": "Observador",
-    "ts": 1789453378
+    "title": "Lituânia em alerta após deteção de drone abatido por caças da NATO - rtp.pt",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPV1NBbWJUWVRGYVlLLWxIX2JMMnU0RDdvcFNfQjZmV2RCSURsSS01ci1DU1FJT3kyaHRobFVoek1uZV8xTkNqRWxUamZVSVU2ZXFyelN1Nk50MEpCMDF4N2REYWxYdnN4QTBGZnB3dGJvbzNHd1NkZ3RwMFJaTjNoQmZ2WVV0UndYZDVKM0RSNUZmdS0yZTZTZnpRVmJneVNMbXFCR09mRFdPOUlzdEE?oc=5",
+    "source": "rtp.pt",
+    "ts": 1789479841
    },
    {
-    "title": "Estudo: Portugal recua nas liberdades civis e de expressão desde 2020 - Público",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVm1DV01KREpJZTZER0o0aWphZ0VxUW9odlpJRUc2Qm1FbU9LV09NYVQ0czFmQXR5YkJlTElYYXJxN0x4c0IwanFDMDNsTHluaXU3Y2hNc0FsRlB3VkZaV3FBNEl6LWJNNUN6Zi0ySkpUMG0wVVRUMTFuTnl3RUxrY3BjS1JWcGJXbHZ0OUFIdlZCTUQtRF90eFIzVENDTzhiaUFNMEwwdEplWGxZWU1pYUl4VDVyUzFBWFE?oc=5",
-    "source": "Público",
-    "ts": 1789423260
+    "title": "Portugal entre os países europeus com mais recuos democráticos - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaXRhSnV1VnZvaUgwMEszQnFaOWQ1TjVPV3dUUUJEZ1dwUlY0M0JCM3VqdFpCLXduWm96azFueTB5OTMyNl9tT3p2ekpkSkZyMjBoNUpMZF9lYjV2Y2FDMFl4blg4YndYeUE5eGpaWjlkTUJ5cGF6RU1jMkh6bDRRNkY5d2hHdnktU2JrUHlDaVdPeGstV01J?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1789426871
    },
    {
-    "title": "Suécia no fio da navalha e à beira de longas negociações após legislativas renhidas - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPaXlGYjNJU3lTalZneXZPZWVUSUk3SHNKQTd6THEyQXFJQWx2aU1Zb3ZsOHY3YjNaYTAyS3BueXNPM2h3NElpTXVaV1FWZmx5cFZ5VEhDY0hKdWo3QXVTbUdWNFdRWVNXV0pkbXpUaW5BSGhGOHdqTGdtWHc2bHhxUGtZeXphSGNVRm5NWHZGMTFjdE50MEJlMmVndlYtM2JKWlhReGZkeG5SVUJETlU1X3FWVEFUTnllVk5JYWxTVjJZZGk5YTNKZVNESXVzOEJMWndR?oc=5",
-    "source": "Expresso",
-    "ts": 1789385043
+    "title": "Trump anuncia que Ucrânia e Rússia aceitaram parar ataques a infraestruturas energéticas - TSF",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYjMxYVR4c1ZsZTFxUXJhNkZGem50czZjRUFoQkVwaFB1OUxIbkkxOFNnejdqZEZIVGxFWmsxcWktYjZuZ1R3a2VIUU1NbXo4Z254Smt1ODJ1Y2tWMnltTE9aZmRaVk10b2F3UXZNOEFtX2FnNEFWaU1INnlLbnhKWWxySXJJaUQ5WGd1bW1lLVVTMjFwUUtWUGZNNVZUTnk3NTBpNl84cjJ5MDV6VDhGMHpZNnVIaG1SVHd2RHo1MnNKLVV2VkN1TdIBvAFBVV95cUxQU1pxMWFPTHM2b0RZZXBlYWNITlNoNG9ZMzF6RHVqTk9MR1puakljSEdQVGFNQ3U3QmlaVU9BRHF4Zkc4Ym4wVDFUZFBlQU53WmpvOHhVeTc4eTdmQjNKOU5uZUFXSzFOX0xOODFRMnlwQW5LY0t3RC1sVFFsaG81SXJPbDdfdDdzNm9WUXhueUtyTzl3OU9UMXI2bW1KOXU2VE9HR3BpbERXMzlKMHZSbHBHUFJJUjl2VXJWVQ?oc=5",
+    "source": "TSF",
+    "ts": 1789401180
    },
    {
-    "title": "Trump anuncia que Kiev e Moscovo aceitaram parar ataques a infraestruturas energéticas - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmJ3SkRydlUxV1lzcU9UVnhKOVNxOTlNbkdZeWdBdkdzay1qOERza2s4YzEtMHJIY0lGSTVyaHdrXzFOeV9wOFBBN3kzNTBYbFNjZnhVNFJMak94dFluOFJpUkpZMmlqREx3N3Uwdzdta1BuQXZWZlozTkVuVnA0OHdkN1NIM0hVbC1hT05tWER4ZXJuNnJQbGhhS0JaR3diMnJwNG9xSEpFWUZidW95ZmtOZzJObkV4SllZNnhNRmdqQlNX0gG4AUFVX3lxTE5od2RGcmFldWR1RnUwbDRpMnZYaTdmdWROczViMVlRZEI3bTUwZlczci1pbGM3bTVBZVBRMXI2RWVrMUFyR2tpNl8yLWUxVGxXRjNqWENON3BIaFJJWUZ6bnR0d3l0a05KbzFIY0JjQkV5MnBhSlk4NTJQMG41YVF6VjdsX2EzeHZBTTBOVm5iWUhSdDBtdHBUSzZPcFhLOG9fMVZrc1M2Ri15RENVY2o0X2xmUlk0Sng?oc=5",
+    "title": "Boris Johnson e ex-diretor da CIA escapam a ataque russo contra comboio ucraniano - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU3p6RUQ0N1NCdUJGVXl4S1dhR1Y2RlU2QnBXYkxOODVCWlY0ZnF6eWpNeGZiN0Q2Wmk5V2hrbzJ1OGlSV2hpU0N1ZW5BdEZ5R3dfbS0zYU9ZVUtZMzNGdndYZHM0aFRObnhqSzV2eWhUTkNZQTJwS1ZpMVQwSng2R3M5UTRuX1VGUzJqYTdYd1VtUnZkTWxYQTIybzJadFZBVUROOTZZaHNIel93NzdZVUhEcVBPNTRCUGU1NXh30gGyAUFVX3lxTE1Mbm5IYnF6aUlWeW5rUldyblhIczYweWw4TXU5RWNkNVByTWxDQlM0VjlFNlBEZjRLOU4wMndPbTduR0V2Y2hJX0VUMWhaano0U0V5TGpkNXFZMmJnbW5EQnoweklJTDAtZUNnNVRyT3FldFE5UUI1S0E1QXZQVUdPT29SX3NLdTdfOTVlSWRLaGVpQ3Fzb0FXNGQ1NEN4eEZhcVN4T0VPYVFuZE5kTzFLWEE?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1789401780
+    "ts": 1789393740
    }
   ]
  }
