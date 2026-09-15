@@ -97,6 +97,23 @@ def news_google(q, n=5, topic=False):
             break
     return items
 
+def dedup_categories(categories):
+    """Remove a mesma notícia entre categorias, preservando a primeira ocorrência."""
+    seen_links = set()
+    seen_titles = set()
+    for category in categories:
+        unique = []
+        for it in category:
+            title = ' '.join((it.get('title') or '').lower().split())
+            title_key = ''.join(ch for ch in title if ch.isalnum())
+            link = (it.get('link') or '').split('&')[0]
+            if (link and link in seen_links) or (title_key and title_key in seen_titles):
+                continue
+            if link: seen_links.add(link)
+            if title_key: seen_titles.add(title_key)
+            unique.append(it)
+        category[:] = unique
+
 def ipma_ofir():
     """Busca a previsão marítima horária da Praia de Ofir (IPMA local 247)."""
     try:
@@ -116,6 +133,11 @@ out = {
         'mundo':     news_google('Mundo', n=5, topic=True),
     }
 }
+dedup_categories([
+    out['noticias']['barcelos'],
+    out['noticias']['esposende'],
+    out['noticias']['mundo'],
+])
 with open('dados.json', 'w', encoding='utf-8') as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
 print(f'OK: Barcelos={len(out["noticias"]["barcelos"])} Esposende={len(out["noticias"]["esposende"])} Mundo={len(out["noticias"]["mundo"])}')

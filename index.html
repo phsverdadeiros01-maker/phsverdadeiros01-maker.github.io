@@ -1069,6 +1069,13 @@ async function carregarNoticias(){
       ['Esposende', d.noticias?.esposende || []],
       ['Mundo', d.noticias?.mundo || []]
     ];
+    const vistos = new Set();
+    blocos.forEach(([, items]) => {
+      for (let i = items.length - 1; i >= 0; i--) {
+        const chave = (items[i].link || items[i].title || '').split('&')[0];
+        if (vistos.has(chave)) items.splice(i, 1); else vistos.add(chave);
+      }
+    });
     if (!blocos.some(([, it]) => it.length)) throw new Error('dados.json vazio');
     lista.innerHTML = blocos.map(([nome, items]) =>
       cab(nome) + (items.length ? items.map(itemHTML).join('') : '<li class="skeleton">sem notícias de momento.</li>')
