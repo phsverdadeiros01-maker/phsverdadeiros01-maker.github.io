@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-16T11:00:01Z",
+ "atualizado_em": "2026-09-16T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-16T11:00:03Z",
+  "atualizado_em": "2026-09-16T17:00:03Z",
   "dias": [
    {
     "data": "2026-09-16",
@@ -1632,53 +1632,47 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Três pessoas hospitalizadas após ataques de cães vadios na zona industrial de Tamel São Veríssimo",
-    "link": "https://e24.pt/barcelos-tres-pessoas-hospitalizadas-ataques-caes-vadios-tamel-sao-verissimo/",
+    "title": "Em Barcelos, a depressão também se cuida com caminhadas, piscina e animais",
+    "link": "https://ominho.pt/em-barcelos-a-depressao-tambem-se-cuida-com-caminhadas-piscina-e-animais/",
+    "source": "O MINHO",
+    "ts": 1789575764
+   },
+   {
+    "title": "Barcelos: Vítor Rodrigues, Toy e Quim dos Apitos dão música à Festa de Nossa Senhora do Alívio em Perelhal",
+    "link": "https://e24.pt/barcelos-toy-e-quim-dos-apitos-festa-nossa-senhora-alivio-perelhal/",
     "source": "E24",
-    "ts": 1789552954
+    "ts": 1789570465
    },
    {
-    "title": "Esta Junta em Barcelos está a ferro e fogo: Secretário acusa presidente de agressão",
-    "link": "https://ominho.pt/esta-junta-em-barcelos-esta-a-ferro-e-fogo-secretario-acusa-presidente-de-agressao/",
-    "source": "O MINHO",
-    "ts": 1789551354
+    "title": "Mulher de 46 anos morre atropelada após despiste de carro em Barcelos - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE9yVnllYTNmeURUaFVPbmxRUkp4UFZSc0tMdTRINzZvYTQtTm1rZWRUcGMzUlRBbXRRWG4tbWd4SUlFSjJuaklZN2h5bTNmUTM3c0ttQ1NsMGc5eGh3NE4xUWhEcGgwbGhnMlVKLWV4Wkl6dHFwUmJnVkZWN2IyODRvSTVWVks5eTVhZHY3WXZ0d3Q5U3NvbldSV21nVmtuNU5XaVFjcFRLZUFX0gGiAUFVX3lxTFB4RG5VS2tndmxVVUxYVzA1d0QxeUxQYUc3RTRzYm16N3ZoamxKWkNXODNBa2hPczZRS2tnbjFTb3U1aUhHaEpDcW1WYm9QcTVFVjRLU3hVRW03MXlKX29PN0k0dzFPcGxPczdQUGFudnRZRnBETS10NXhBeDY3QlBmRGVZUjYyZFBzZlZIVy1lYTY3akVfRUhTNGRzMFFFUzhuQQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1789498740
    },
    {
-    "title": "Ana morreu atropelada à porta de casa em Barcelos. Tragédia deixou a comunidade em choque",
-    "link": "https://ominho.pt/ana-morreu-atropelada-a-porta-de-casa-em-barcelos-tragedia-deixou-a-comunidade-em-choque/",
-    "source": "O MINHO",
-    "ts": 1789547206
+    "title": "Mulher morre atropelada à porta de casa em Barcelos - observador.pt",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQREJFVmh6RnN4dERvVkZidnE3cElOSDQzcm94eHk4Zk5iSDU0Wmh1M3RCUU1XeGZiSDU1TFpHZ2dxbUVQbXZZMXpfcTdPWEtkYXNubFg4c0xkV2NadlBkS0tOaTRLY0Q4RUZqOVFlaDdONnhXRnJ3VjZTUUxDNHQtanp2NjNlTV9PTXdPZUtPZG1NYVE5cEtXNXBZZ2c?oc=5",
+    "source": "observador.pt",
+    "ts": 1789506417
    },
    {
-    "title": "Barcelos e Esposende com formação gratuita em Suporte Básico de Vida Pediátrico",
-    "link": "https://ominho.pt/barcelos-e-esposende-com-formacao-gratuita-em-suporte-basico-de-vida-pediatrico/",
-    "source": "O MINHO",
-    "ts": 1789510604
-   },
-   {
-    "title": "Barcelos: Conhecida identidade da vítima mortal atropelada em Fragoso",
-    "link": "https://e24.pt/barcelos-conhecida-vitima-mortal-atropelamento-em-fragoso/",
-    "source": "E24",
+    "title": "Barcelos: Conhecida identidade da vítima mortal atropelada em Fragoso - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNWl1SHgxZngwR1prSzZtTEUwdndvMF9zdElsZXhpdHBrNDVZLXJ6RDZnRkllbXBCY1lYTkhRdE56OVprd2VmOTVfWXdZaGVvOXgwczJVOW5LOVhQQW1qZVB0UkNQa1J3UDhzX2Qzemk5QXp0ZzRuME9pRkhxZw?oc=5",
+    "source": "e24.pt",
     "ts": 1789508182
    },
    {
-    "title": "Mulher de 46 anos morre atropelada após despiste de carro em Barcelos - jn.pt",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE9yVnllYTNmeURUaFVPbmxRUkp4UFZSc0tMdTRINzZvYTQtTm1rZWRUcGMzUlRBbXRRWG4tbWd4SUlFSjJuaklZN2h5bTNmUTM3c0ttQ1NsMGc5eGh3NE4xUWhEcGgwbGhnMlVKLWV4Wkl6dHFwUmJnVkZWN2IyODRvSTVWVks5eTVhZHY3WXZ0d3Q5U3NvbldSV21nVmtuNU5XaVFjcFRLZUFX0gGiAUFVX3lxTFB4RG5VS2tndmxVVUxYVzA1d0QxeUxQYUc3RTRzYm16N3ZoamxKWkNXODNBa2hPczZRS2tnbjFTb3U1aUhHaEpDcW1WYm9QcTVFVjRLU3hVRW03MXlKX29PN0k0dzFPcGxPczdQUGFudnRZRnBETS10NXhBeDY3QlBmRGVZUjYyZFBzZlZIVy1lYTY3akVfRUhTNGRzMFFFUzhuQQ?oc=5",
-    "source": "jn.pt",
-    "ts": 1789498740
+    "title": "Barcelos e Esposende com formação gratuita em Suporte Básico de Vida Pediátrico - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWGJFUWczb3FOZDVtcVFoa21ESGM1NEcwQnBFaWlTRVpfVVpaa01femZsbU12cGptbGliOWxyN1hWWHRiWXFiUUdXV3lLMGV3T3FmaUQxUXRCMzlISUlHcjY5NWFLVU0yUVB0TnJIbVdaWkYtQ3FPQ2lqNXktNVFFN2lWY21Ycm05ekhPQlhJOXdhTERDNUgyeXVKZHRfQ0E?oc=5",
+    "source": "O MINHO",
+    "ts": 1789510604
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Confirmado. Luís Montenegro preside homenagem póstuma a João Maria de Oliveira Martins e Couto dos Santos",
-    "link": "https://e24.pt/esposende-luis-montenegro-oliveira-martins-couto-santos/",
-    "source": "E24",
-    "ts": 1789510173
-   },
-   {
-    "title": "Pais de Barcelos e Esposende vão aprender a salvar crianças em emergência - jn.pt",
+    "title": "Pais de Barcelos e Esposende vão aprender a salvar crianças em emergência - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd0x0SEtEaGZNTHBtRWMwOGlvZmFaTW1CTDhvTEVMeTNDQ0FwaWxjSzFSNGd2ZmthQlZYMGd5YThzSHRoU05Fc2xlZktQNUZBcmhSMldVLS01WjVvS2lQN1ZvYWhpOUc3LWl1YkZnZmdyb215WnV1NllxM1RFMjh0X3h2ZGdrLXJpRnhLM1lKX29pb1lCY0FvTUxicnJacHRJT0V4U2pTZU9mMWhDQ1JjbnpR0gGnAUFVX3lxTE4tTE80NjRHY1dpaWhseG1WNDBsRkRHQkJkUzQyX3UtbmVtdFhMOVFucDdWVTcxUUlvM0M1RzlOeXcwZ1VZakdGSklWRzNPME1wa050V0lBbmxVTS0zSGluZUt2eG1fNWYzRTFxWjY5TUZPTzM0aWxhV0VzWk5WQ2FmR1ZSeXZnVWZIRlpIWUlFaE9qNTNCNkRJZko1Z1hCRm9DRUVpbTY0?oc=5",
-    "source": "jn.pt",
+    "source": "Jornal de Notícias",
     "ts": 1789546020
    },
    {
@@ -1698,14 +1692,26 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjV4RGtZRXZNajc4MFZxOXEwemlRSWl3RnJkLWQwZ1VvT0I1WV8yRnMxbUpadFRkdVNPcEZmNjRmdjl4dDBMcE04MmZoclNVX2l3dkNyRENSdjhtT051NGtONEI5TXJpbExUMGFkRTVBQU5ZTXBTMFB1OWF2cllzRGVMOWtiWk5pV2NLcXVVUFlPZ2ZxdDQydy12Y3dsYTUzU2NZLUc5WHozZw?oc=5",
     "source": "Braga TV",
     "ts": 1789513052
+   },
+   {
+    "title": "Marinhas vence dérbi em Esposende e Forjães empata em casa - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVGE5cXJnVHI1Y3o0S2FmOG9nZmF1UmdVWTg1eW5seFFkdnd4R2ZwLW85ZHlKY3VYVUlkdWFPUExEanVxSHR5dGhRWVdXNURRYlpoRDN2SVhZT21kbFBhYVhhaEE3T0xuaXd6RGRXUnNCazdJdk5WdF9kbTJWa0tEVXhOY25tQS1sWjdEXzdxeEpUM0VzUUhvUG5QWFNXMENMOWFWVTdpT3lxdw?oc=5",
+    "source": "SAPO",
+    "ts": 1789323322
    }
   ],
   "mundo": [
    {
-    "title": "Von der Leyen propõe novo Conselho Europeu de Segurança para responder às ameaças sobre o continente - Público",
+    "title": "Von der Leyen propõe novo Conselho Europeu de Segurança, também com o Canadá - Público",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMGs1V1VIc05Ebmc4X1RlVjNqRDNhdWMyVmZRdDFZcnVVYUVOQ2hLMFR1NE8xSlRrMW5RelAwb1BtUzYyazdnMUNRMFBIVzFzWENNY0dqX1ROWEFtTUJGNG1XLUxaUDRYY1h0eFNHMzBURWczMHhzMDVPUkUxLXlHSnRfZDdGOEk4NktkMkdaQmVZQnQ1OXVIXzYySkFMdm9NbzhFRmxvaXFPS21XTTJVNVlRVXBoRVdoQ0p6OC1oNXd2aFRuRzM2QUNfY3BPRlI2eVVF?oc=5",
     "source": "Público",
     "ts": 1789547792
+   },
+   {
+    "title": "Comissão Europeia vai proibir redes sociais a menores de 13 anos e limitar acesso até aos 15 - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEItMjBJdEpTdFRQYU5qc2xBY3ZHaUdWTENYdFVoa1V1LUc4TWQxQm5BRnhfRHRwb1V4bFZMU1gySktET0Jsd1Fzb1U3MDg2UVZxQ0dkX1lHSXpfMnNhUHV3ZU9MR3FXdXNjcFJIMUJpMk1mN21vbkQ0RDFjcDI5R1h2YThrc3dtSWVNTXAzcklLa2Q3ejhESDJDYkpraEJZYWdlLU5B?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1789561260
    },
    {
     "title": "Prémio Champalimaud distingue investigação que devolveu visão a cegos - RTP",
@@ -1714,22 +1720,16 @@
     "ts": 1789543104
    },
    {
-    "title": "Von der Leyen propõe ao Canadá estatuto de \"membro associado\" da UE - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOFpabUtUMHhYSmVWQWdXZ0doMjF1YjhKaW1iZTJXNWhUa2VxdHo2akwzaFo0cXZHT0tvak1LcUd0T01VNktleDZfd010d29XZkJwOF9iODJyLXR4NUxBV3p1YTl0dTJDWnU5VjN2d3ZCbENkQlp6Wkt5eUYtVHg3cUJBOVB0eU9yLUg0S3ZnSTFRUzVkaE93VUkwaXpjc3BsVC1kdjQ5Sm9Pc1pfWlo3QmY5SEk2R1o2cVlvZUNoZm5wSmxiaXVCdUUybG8xU0tUNWfSAcwBQVVfeXFMTUdXN1ZpelVRTDZLM0NaMlVWTG9XdUJ1ZHBqQmlqejhKeXJselhYd2VxdHE0TUpXckNMal80VHMzMnNkMlBOaG1SYWFaLUxnQVJ3eU9EeVZOQWFwbUpjejQyQzFSdnVqNjdRRDdvMVNJVE1QSFVoZTAwWjl0dW9FMW4zaFZjT1Rid2FsYjdpbDhjSlpPalp5SFhZcGFQZGluTFNOTzJuSkhaVzM0bFAyX1BndHVwd3NsXzhEZzhwTGJJeEJaSHJlUjJUanRl?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1789546469
-   },
-   {
     "title": "Catar avisa que bloqueio do estreito de Bab el-Mandeb seria \"catastrófico\" para o mundo - Jornal de Negócios",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQRGtaaDBIRkpybFB0YWFVNng5QUM5bV95NnNpLVJ5dF95cmNYQlM1RjBCSHJjUFFNOFBTMWdqYkJ4RnZPVzY1LVpYZmE4anczX1ZzUzJTSkRLT2VCbnBRSnN3ZkF0NmZDTmpuZDg0TTg1S0tFN1VDRTBHUjY0NDlDNjc0VlB1SURUWXNWMGVKcVM1UUJNcjBKMzQ5N1BmTkx3MVhpWUx0YkFEeFFjeG9zb0JscWhSWFkwaXB3bFFaQVg1SHpaMEVkQXh4UGJUaTFLUWZFbHk0clRYNnlDSWfSAdgBQVVfeXFMTVJfWVdBOW9kbF9SX0JqdC1VVHBVVFVKRXFzeWFGLVIwMlJLRTdsZG9NeWJ2MUNmZFMyeWtXeDVjWUlGME1MSEhVcnlNSDZJaGhXLTdzcTBqX2tCb1dhUjVaRno4OVV0UG9wTnpvSXlER1ZQZjVtSUpBMFI4M0FJMXNsQkVMUWJXbk1oMjhxYnhlQzQ0RXJVQTA5WGlRb2hKNUJ3cDNpZlZRcjRrbTlfOVcxajFvQWlLU2hjRlYyS19jV2thSHQyNmc3T3RjQkl1V2tER3owMmRW?oc=5",
     "source": "Jornal de Negócios",
     "ts": 1789473001
    },
    {
-    "title": "Tensão alta no Báltico. Drone abatido na Lituânia, foguetes disparados contra helicóptero dinamarquês - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNFMzUjhnYkFWd2hiWmpDcWg2Z09LUUkyUDlmVi1UZEtWd3gwUnlBUUdsalhKOXNZOEMwYXFJYm50dXQ4TzFFbWM1VkpxamUwX0V3U05LZmk4dGszLVpGWlpEQ25zdTlnanBPMHpMUWlBdkJMWGxTUkw0VjVLRUtlZHk5VGM3R09oVDl5dS1ndU5SVHc4OEhkWFI5dU85YVdaTGd4Vk1MNm1tV3hlTDR2MDAxdEEyRTFkOFVYZG9meUtSbDBn?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1789478185
+    "title": "Hashim Thaçi, ex-Presidente do Kosovo, condenado a 25 anos de prisão por crimes de guerra - Público",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPclpCbWlUOHd4LVoyQTdxSkctYmRDT3p4V2FJUWtXR2RGREQ4SVpvSnhHSGZrX1Y5WEhvRkhUM1J6LUs3ZHpxc29iUE9KUVl6UHJVaUJmTVhqdGVJQmVuclpaQXJxS05pQjh6ajNKTUFnaklkMmYzVXdsQjNZS1RvdXBqSWFQVjUxa1FnNmYyY0hzX082REFEczlJdE5wOUJUSm5uMVJYY3RmQ3hmNGNySy1uQUUwTmZNZ1QxSDNzeHRibkVWNnc?oc=5",
+    "source": "Público",
+    "ts": 1789574220
    }
   ]
  }
