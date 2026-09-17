@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-17T11:00:03Z",
+ "atualizado_em": "2026-09-17T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-17T11:00:04Z",
+  "atualizado_em": "2026-09-17T17:00:04Z",
   "dias": [
    {
     "data": "2026-09-17",
@@ -1632,16 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Vítor Rodrigues, Toy e Quim dos Apitos dão música à Festa de Nossa Senhora do Alívio em Perelhal",
-    "link": "https://e24.pt/barcelos-toy-e-quim-dos-apitos-festa-nossa-senhora-alivio-perelhal/",
-    "source": "E24",
-    "ts": 1789570465
+    "title": "Perigoso cruzamento na estrada Barcelos-Viana ganha placas de limitação de velocidade a 50 km/h",
+    "link": "https://ominho.pt/perigoso-cruzamento-na-estrada-barcelos-viana-ganha-placas-de-limitacao-de-velocidade-a-50-km-h/",
+    "source": "O MINHO",
+    "ts": 1789657109
    },
    {
-    "title": "Mulher de 46 anos morre atropelada após despiste de carro em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZE9yVnllYTNmeURUaFVPbmxRUkp4UFZSc0tMdTRINzZvYTQtTm1rZWRUcGMzUlRBbXRRWG4tbWd4SUlFSjJuaklZN2h5bTNmUTM3c0ttQ1NsMGc5eGh3NE4xUWhEcGgwbGhnMlVKLWV4Wkl6dHFwUmJnVkZWN2IyODRvSTVWVks5eTVhZHY3WXZ0d3Q5U3NvbldSV21nVmtuNU5XaVFjcFRLZUFX0gGiAUFVX3lxTFB4RG5VS2tndmxVVUxYVzA1d0QxeUxQYUc3RTRzYm16N3ZoamxKWkNXODNBa2hPczZRS2tnbjFTb3U1aUhHaEpDcW1WYm9QcTVFVjRLU3hVRW03MXlKX29PN0k0dzFPcGxPczdQUGFudnRZRnBETS10NXhBeDY3QlBmRGVZUjYyZFBzZlZIVy1lYTY3akVfRUhTNGRzMFFFUzhuQQ?oc=5",
+    "title": "Onde Verde-Rubra ruma a Barcelos - dnoticias.pt",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNeVB1SUdHNTVaNUlUMDBvcnlXeU1JQ1BFRGxxVGwtNXp3bDN4TF9vOG9mUWVGNWlOTzZhc1ZvamNaV3ZZeTVJZHlxelo4bWFWWDZBYnpSTmNyOHhzMkpSSW9pLWxVN09XNXQ5TnlGWmJVT1NvWEJXbEFNTWZQRjNEZg?oc=5",
+    "source": "dnoticias.pt",
+    "ts": 1789656960
+   },
+   {
+    "title": "Marítimo oferece bilhetes para jogo em Barcelos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMmt6T2hoSU5SMkU2LV9ZY0RVRzBVVDhqMS1ncDA4VEFBWDZWazh6QUVjZ2ZGbFJIRm9qcWtYUFc4b1pvMjJWcFp1SEctLWYweU9mRHRFdHJBaVNNYnFXanY2SndXV1FVUWtHVzZpTUd0SFZzR2MtWEZjRHJzUUwtQ2JhX3RzaVFKUUFXYnlVZjRxU0ZFNGJjZWtlbw?oc=5",
+    "source": "SAPO",
+    "ts": 1789657132
+   },
+   {
+    "title": "Freguesia de Barcelos em choque com morte de antiga atleta atropelada à porta de casa - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPR2k4UGZNNUJsa3U1aWpaX254NFEyaFlDN1RJYjZSZ2RQQVI2bGpLalg2Uzk1NWFHUEMtQlVrNXFEenQyVVRLemxHNi01VEpRYmxvTjIxbXdXTjZnT0RvWUVmaVVmOVVsU24xRVN5YUJBbnpxWkxMNUphZGZ4RlQxUVhtVWRpTnEybnVVa3BZNFJON3J3a0hxRzVsQ09Vb29zM2tZWU1vc0xnWktEUHA0M05TVy14M0RZVjFQTUFGVVB6d9IBtwFBVV95cUxPamVMeU5XWlhvTlJoQ3MwczBJdU00bjhBUlo1RFhmYm9qX3NoSm11RnFUcGJuaXBwYUV3X0tQRDJxVTVRYzcxcTZfNTMwR1pHQWpGWnU3X1prZDJ5eXUybkZxeDA3RG42dVQ5OXg2endOVFNEQTk1QmVrb0gtaTZ5WE5yQnQxY0U2QzZ1SDFpSk02RTUtbVBITW00emwtNnpLdWYzTW5HNERVaFpMSFFicnBKYTBXMm8?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1789498740
+    "ts": 1789564860
    },
    {
     "title": "Mulher morre atropelada à porta de casa em Barcelos - Observador",
@@ -1650,30 +1662,24 @@
     "ts": 1789506417
    },
    {
-    "title": "Barcelos: Conhecida identidade da vítima mortal atropelada em Fragoso - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0yNWl1SHgxZngwR1prSzZtTEUwdndvMF9zdElsZXhpdHBrNDVZLXJ6RDZnRkllbXBCY1lYTkhRdE56OVprd2VmOTVfWXdZaGVvOXgwczJVOW5LOVhQQW1qZVB0UkNQa1J3UDhzX2Qzemk5QXp0ZzRuME9pRkhxZw?oc=5",
-    "source": "e24.pt",
-    "ts": 1789508182
-   },
-   {
-    "title": "Empresa de Barcelos investe quase 1 milhão em estamparia digital - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY3dsaUpzajl1UlpqTVBGUVFFTE80R3dUWkFVa3FYd05TQ25jY25kYlhvenlXcmNhRzl2Zy1fWU1BUVlfZmdZc2thajRrNnhGOE9GdUYtYlVOSFBqRmk5bng2YnZZblZTTHBRek5sLWNXR3hoUUxRNnNPTkwxMGpHQXNybXU1SFk5V0xV?oc=5",
+    "title": "Último adeus à assistente social que morreu atropelada à porta de casa em Barcelos é no sábado - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVlFrY096ODN0YmlWOWxSSkdFVW9EY1o4MnFOTHVZY05lMzRlZE5oQm1KeHloeE1ZTVdtOFJYZE5OaFVQSnRicUNIaTM1c2E1M3BWbzhmMnBqNW9oTlpwX2Z5eGk5WFpHU2ZMYk1XendpRDFGMTRCRmFmWTZjaGxOWkpBa05MRVVHaFdOXzRqdkRaQi1VR2NCN19lN3V0UHp6eGtQMF9tOGp3R21PcWNER2Nubw?oc=5",
     "source": "O MINHO",
-    "ts": 1789557703
-   },
-   {
-    "title": "Barcelos: ACIB dá início ao ano letivo com cursos profissionais alinhados com o tecido empresarial - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2J4WEZnT0RTY3U2elp2bm1TZmRfMDFUVWlkVWVieDR2VmlJeEZybU52ZVZpWVhSUE5oT3JVTm9WSlI1TDZpWlp6bjVRMFVINzdHd1FtV18yeUlrWFdaeFd2VkhYOHFHenBPbDFCMHhtNHVHeWpFUURpR0UxVVN6RXh2aHh2QVBJUzhtV2ZLRU42dDNFekhJZS1odlFRQQ?oc=5",
-    "source": "e24.pt",
-    "ts": 1789396301
+    "ts": 1789651563
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Incêndio urbano mobiliza bombeiros",
-    "link": "https://e24.pt/esposende-incendio-urbano-mobiliza-bombeiros/",
+    "title": "Mais de 2.000 idosos de Esposende foram a Fátima",
+    "link": "https://ominho.pt/mais-de-2-000-idosos-de-esposende-foram-a-fatima/",
+    "source": "O MINHO",
+    "ts": 1789658565
+   },
+   {
+    "title": "Esposende: Funcionário da Junta de Fonte Boa e Rio Tinto morre no centro de compostagem",
+    "link": "https://e24.pt/esposende-funcionario-da-junta-de-fonte-boa-e-rio-tinto-morre-durante-trabalho/",
     "source": "E24",
-    "ts": 1789599692
+    "ts": 1789658524
    },
    {
     "title": "Pais de Barcelos e Esposende vão aprender a salvar crianças em emergência - Jornal de Notícias",
@@ -1688,54 +1694,48 @@
     "ts": 1789599692
    },
    {
+    "title": "Esposende reforça defesa florestal com novo trator para gestão de combustível - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1RDRmpBNnpneElKeWNRSkFac3Z0Mk50eGgxVGRqSEVDMWk2VzJLeFVpa3hmUDV0Wks1c3VrR3hMQTFzNHF2WjJIUWZsUW5YVDQyOFFON2pnZUZ4a0xPbm8xVEhFTkZqUTd2R2U1cTQ5UUhfM0t0UGczLW5uVVQtVDAwd21ybENnQ3NSMmYyb1BON0ZqUEs2S2NpUURxZEly?oc=5",
+    "source": "SAPO",
+    "ts": 1789663560
+   },
+   {
     "title": "Esposende: Tela de isolamento começa a arder num prédio em construção - O MINHO",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX0dGUldaSllza0xFSjl4elBpdHN0amJKZ0U3V01jQ3pxbzRTb255bzZiQjRqc0tXLXloSVhqUFROVE5PRE5yVC1PR0hDQWlYTkQ2QUszR3BFT3NNMjdlUG9KdDZYMlkxV3kta0VuLTVmZUJqRUpjLU5aR0NPNVVtTmgxYnJMOUJQRElzTFNDeHI?oc=5",
     "source": "O MINHO",
     "ts": 1789595145
-   },
-   {
-    "title": "Primeiro-ministro preside no sábado a homenagem póstuma em Esposende - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaFVtQmV3WFl3Vmxkci1wbVBJU3FTdTRjT0h6OFJHa2UzbjVoTldSaVp3QVF3cW1rZ3VrVXA4MkI3aHo4dUlmclFpNUw3MXhoTlZNWVpKWEdUWENjakdYVlMxaXFmaTNHek1zU0FDWDRpSmtpZzhndXl3TTdYSlRNT2paYWhSRUhxdkxGLTBfUmMzZw?oc=5",
-    "source": "Braga TV",
-    "ts": 1789515433
-   },
-   {
-    "title": "Barcelos e Esposende: 1.º Biatlo Aventura une dois concelhos ao longo do rio Cávado - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdlNQZjJ3b0VzTzh2MG9YN190VFhVdUw3WnVFY3lRUE1ROW5KcVFNVG9hRG1tN3BWeXpuUjNmYjNiMG9ycjhIQ2d6MFJ0ZTRnSkt0cjJWZkluYlZqZXhuZEh4YjZEVFprX3pGbDlzb2wyNF82clk5QkxwNHhtOEMxSGd2V2RySkFUYmRzYlZkQ2xlbklHeTU3QjNmTDU4SGs?oc=5",
-    "source": "e24.pt",
-    "ts": 1789478172
    }
   ],
   "mundo": [
    {
-    "title": "Trump ameaça UE com tarifas se admitir Canadá como membro associado - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTG5kZHFFSXhWd29lUVJPcWdfbzF3UXp2ei0yRC1Ya1NGaDZwUkl2NXlxZk5ZUGJrUVN1YzlrSklzdzFidm13amd4ekpyU21jMXlMZWl2RHhfWG1KcGlkaWtWRmJKMlRCb0dTMjhydGg5VkNXVHlickxULVpJMVVJME5tbVJfR3ZOVU5uM0hvSjhQLXdyTFBvUHdRdVBEUlV2OXo5TzY2WDNiYVHSAZ8BQVVfeXFMTUM1bGFhLTI4TTNqVTZyZzZPQUY5aGFQU0NaR3Q3Z3R2a1RHU2Q4bkxnaXFYRVVyS1VrVllVS0tPcmc0Qk9LamdqWGFnWkpsMUFYcUtqdWFVZ1ZsT0puZURUOUFsTnV0a3pYb3RaMTZDaF9CX2NCTFE0cXU5M1dramF1c2U4RU9NdUVUc1JxWjdOZDB4MGtpajFOSjNjWExJ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789603740
+    "title": "Carney ignora ideia de Von der Leyen e defende “aliança para o futuro” com a UE | União Europeia - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWXZET2JsRG5rX19iWGJIU1ZwaWoxNEN0cFdDdjFod2dfazAzNFpyNEhIejhHOVp6R2xQU1BkNl84VjBSRlBJYk4taFR4czViRWp6WVJNZ0dqYmhBTjFmelRIbm92TGdBVDlYeUpCNHdUMVRBeWhTM0gtVG9NaE5KZ0NQbEJZclZ1YkZ2MGoyejg2Rm1lbk9DalREZng4YUpDZkZEa0NLMGxITHY0NzBaOEt0ZlV2WVdScmZmelpGeldvOVE?oc=5",
+    "source": "Público",
+    "ts": 1789647242
    },
    {
-    "title": "O discurso de Von der Leyen nas entrelinhas - Observador",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPeUZIY3I2cHVjeW5VSEdCTzdNekszcE55Rl9lV3NlbVVDN3NqSVNncGNVQzFobnBNUUUtaUpMajZfeTR6eHZkZ2R5UTl4RzExUGxmUHdqdlRkdXhKaGVOenREMUVTSE1vODl1QzkxOHhOdVFCWjQ0a3p0d3lkS21kU3dpVGZVUjE2bmdIdnh3T1ZSM0lKd053emNxQkFLRWZpWFVUWXBNQnpqZ2E2RlZNZUtpSUJPR1pnTGlCTlU0amVTbno5VUVzbjd6OGNLQWxDT3hqSFVXcmZZM3otM2VqalZibVdJdEZ2ZFRKRlhVQ0E3a1ZZakdmNmtR?oc=5",
+    "title": "Trump não quer outra guerra. Os hutis acabam de colocar o seu maior aliado árabe (e a economia) numa posição impossível - expresso.pt",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOUzFDbXh6QXJxR2FPMThxWkpaZUxfa2RPVXlpYlV3UGc1UnA4ZkxqVmtxcmt3UVliYTRaWEg1ZUxjbFRiMmx4SnJxdkhPNnFCLVgwcnFsb3IxdDlTZ2ZOVFlMU1JGYnNqcWZCR093emI4THQ5eVhKSF9JazI4TmtBQ2xkTUc1M1JNaERzYnhsalBJYWl4TmVscjhRbjRVRk1mRWkxMjE4QU4zVWFBRDlTOXdvV0RnaEQ4dnRSSmdBTVBqaG9LMFJNeGdaTDVpMHRmeWh4dTNmSkxsa21IVDQ3dmFwVV9pTnNidURiR2hWWXBuY0lib2Q5TTVrUERDamlqMVp0Q1hSbEF4RFVOWjRz?oc=5",
+    "source": "expresso.pt",
+    "ts": 1789652643
+   },
+   {
+    "title": "Primeiro-ministro sueco demite-se para não atrapalhar negociações de formação do novo Governo - Observador",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTV1R0E4MEZsUUJ3UzhOM0tPUW5KX3VudFozNmJ3MU11SVBmUkxZWEZuaHJrWV8tcTFVWjJBSEZfckZXbl9LZ2RWWGlLOHpxOXJ1XzlkVTVYenBNNTBXd2R4Snl6ZjdRMHpmVEZETjVlSHVJZTM3bmlya3BUUTJ1VGZ0LWMtNTJqbGctVUhrSVludFFGZVh0WmtPX3hFQXBvN2taRGRMTDVoV3lNNDIwSEV0V09ndHF2Z0Jnd2xHMl9PVmgwMGc?oc=5",
     "source": "Observador",
-    "ts": 1789563834
+    "ts": 1789647933
    },
    {
-    "title": "\"Linha vermelha\". Drone abatido próximo de Meca - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTnpYUlpBRFpWX3YzVElVR2R4eDlhQWlhZFM3Tmh5ckxqdGVLUnctU0FiOUdMYThWdnYwNlMzUjE5MzVWNnppWVFqODRHOUowd2xCWGRQcVFOQi1YQU0wNkkxOFhGckVvaTNJRzVHUkNYd1ZEYXpLTTMwY3lMOS1vM0xkRzNhVnlWQV92WUhobU80MXdMS1RXUUc5TXpkN25nYkNCSFY5NzE?oc=5",
-    "source": "RTP",
-    "ts": 1789547532
+    "title": "Carro é arrastado pelas águas em Barcelona. Condutor é encontrado morto 500 metros mais à frente - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb0djMGdJZWNTNncwX1Nza2JFWVBEbGN5bERHcmg2Q1RWZUVlNjN6Mjg5QTdxSEVJVENDVW9Tdkd6cEp0VW9fUWN5a04xWllneUY3Y3JWTUJYbHIzdjN0TDZZT0RzVko1cThXZTR4T2djUkNzUGJWMnZ3Y3RwWmpuRjgtcWpiWGsyd0pxTVpPX0N2Q1FCUERNOWJTY1h5MW5nVDVGRGZiU2N2eWZVSm1ra1R2SXY5N3E5amFuWTFERWl2dDNJYWM3ejlRZERHTFhDTjd3TEVQWHVZSFBvTW91YmV0am9PT0dqalZDcWxZUklVbUMzc3RLU1BUYlF5eGE0T3JGVA?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1789630331
    },
    {
     "title": "Comissão Europeia vai proibir redes sociais a menores de 13 anos e limitar acesso até aos 15 - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcEItMjBJdEpTdFRQYU5qc2xBY3ZHaUdWTENYdFVoa1V1LUc4TWQxQm5BRnhfRHRwb1V4bFZMU1gySktET0Jsd1Fzb1U3MDg2UVZxQ0dkX1lHSXpfMnNhUHV3ZU9MR3FXdXNjcFJIMUJpMk1mN21vbkQ0RDFjcDI5R1h2YThrc3dtSWVNTXAzcklLa2Q3ejhESDJDYkpraEJZYWdlLU5B?oc=5",
     "source": "Correio da Manhã",
     "ts": 1789549920
-   },
-   {
-    "title": "Voos cancelados, alerta, inundações: Imagens da chuva forte em Valência - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMndXaTEtM0VoMU9vUlQ1RUxNZURadkNjSzd5N0d2TXB1SDhwcGhoOG5mU1U0OVoxbWVfVXRnYTNYU2ZmbUZWb0c2cDlScFg2MzBtMjBDeTN4Y0tjT19UcW42WVhWekkwSzBiLXhNNWRucTF5S1h0MEUyQ3dCQ2ZGaFh4LTQxSnI5bFRzSjhlMm5wa1hnanptWXlVVHNnemk1alZ3c3BVTzgtc0ZfTEN2YVBCNnRWQQ?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1789599155
    }
   ]
  }
