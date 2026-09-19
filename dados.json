@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-19T11:00:04Z",
+ "atualizado_em": "2026-09-19T17:00:08Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-19T11:00:05Z",
+  "atualizado_em": "2026-09-19T17:00:10Z",
   "dias": [
    {
     "data": "2026-09-19",
@@ -1632,10 +1632,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Fábrica de peúgas de Barcelos vai a leilão por 845 mil euros",
-    "link": "https://ominho.pt/fabrica-de-peugas-de-barcelos-vai-a-leilao-por-845-mil-euros/",
+    "title": "Gil Vicente empata em Barcelos com o Marítimo",
+    "link": "https://ominho.pt/gil-vicente-empata-em-barcelos-com-o-maritimo/",
     "source": "O MINHO",
-    "ts": 1789814765
+    "ts": 1789835555
    },
    {
     "title": "Barcelos prepara Plano de Mobilidade com mais estacionamento pago e transporte público",
@@ -1650,25 +1650,31 @@
     "ts": 1789739193
    },
    {
-    "title": "Barcelos quer mais estacionamento pago e transporte público - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVlSYmRKczN1TUx3T3ctaXctYThIVTJxdXFCbXBrMTdHb3ZJZmlrVXdKd29wQm9EN0NBekkxYnBoV01PeUxvSzh4ZHpucllSU1BPNXBvU2ZWdlV4ajd5SFItd295N3RyQzM3S3pBbmQ5WG1SZWE5alQ3TEdUUUtoLVExbUotVW5hQTlzd2Y2VlQ1RjBpYWxVQUU5aGFfS2vSAZQBQVVfeXFMUGhFSmQ3WlhHRXg1SmZkTkxVV1AtNXAzTXhBaTFzOEJBNG5DYVAzcE83T3MyVmFZMWpIY2t3bFNtYXQ0T1ZsdF9TU0JJbnF4UE5BQi1ubE9nVld5LWhSZWstMkJ1MlNCeHFGNURXdHFiUGtfSEVzTDBNMzRNWl9mMlpMWmdpM0tGbXhXN29wYmFaRTI0Zw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789763280
+    "title": "Verde-rubros com duas novidades no onze para Barcelos - dnoticias.pt",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJZS3FjX2hiU2xhR293Q2kwb2pWY2RkaVNtLXBEeGozdXBKT2VrdWxaUDBWSkJFaW9jb2ZyNUF5bGR5WDlTazg3TUtIdUdTeXVJX1NTVVBzYUlyWkgwOWRiV2Y2MkR4Y21FdTh3dU45UFlqMGxVVTNXNVFOQ0ZEam1IdTh2LS1HbTFEaVpWNTZScUQ2U1BDMjBNLTg?oc=5",
+    "source": "dnoticias.pt",
+    "ts": 1789825200
    },
    {
-    "title": "Barcelos assinala Mês da Igualdade com programa focado na inclusão - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHNUXzBJc19YUWg3SFBIQldUM2hSVHhJdFlJQkJWcGJEb2VkaW5qc0laSm10LXpoWmI4cFFQcGwwc3U0RjFaMFdnY0dFbV9PcFhnYU51RG9oUGVKMkVid09hQjNXeGJFUEVpOFp1aS1OSUQ3THExTDdIdXdYaWY2RklWdVczbmdjbVg4OUp1R3RUMl9MODlXMy1wMm9lM3FWYnlkVWl4YjAxNy00VGIxaVlad1M?oc=5",
-    "source": "SAPO",
-    "ts": 1789801200
+    "title": "Gil Vicente e Marítimo empatam a um golo em Barcelos - RTP",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb01ERjh1MmoyRTJRT3U5RzJ4ajNtdFFHcHUyRjhqeEJKTnNZcWtiWWI2ODhHV1lXZ1pqMFNKM0tnTmZnRW1WZHVTNmFkZE5hN0R1WEY3d1hnWmJ2M0JoT2JyMWRmT0hIdGNVZXZSWFI4ZlRSb2dGMGVxMEY4eWhBckF5cExaM3Vybl9CeG9LaTd2U1BOZVFiQmNmcw?oc=5",
+    "source": "RTP",
+    "ts": 1789835904
    },
    {
-    "title": "Marítimo quer quebrar ciclo negativo em Barcelos (vídeo) - RTP Madeira",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzNlRXQ0eWZDUGpvWTRzVEtxVjR5MVhnenljcUtTU08zRTJKNmFnSXhJYzBJTXRMcUJ0cjUtbF8ySFRBU0M5WmVvalRlNU9ENVNOektYSnZhRjNGOEVxMVZmbUR3cXF6OHFjYVBseGNKZUVHMmgxaDdZQ3NzU1hyWks2UTA2ajVSNkVXZkF6dTc?oc=5",
-    "source": "RTP Madeira",
-    "ts": 1789681920
+    "title": "Marítimo perde ao intervalo em Barcelos - JM Madeira",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTWI1TVJjb2ZMUzc0WjRxdFU0SnZHY2VnZnhGc01CVVNtVl9jbUZBRmRUcFo2akRzQk5EUi1LZnZudk9hazhXd2NtOGNpUGE3SWNtSk1ubmp5R24zZVlNX1BmQXIxZWZWakE0VEdjQ1o4MW8zVEt6OUE2cEs5ZC1SOXhfTUhwREJKenViS3V5eV8za3NXa2ZSY3FSNk85ZF9ZdUE?oc=5",
+    "source": "JM Madeira",
+    "ts": 1789831231
    }
   ],
   "esposende": [
+   {
+    "title": "Luís Montenegro veio a Esposende e disse: “Eu não vou ser o pai da austeridade”",
+    "link": "https://ominho.pt/luis-montenegro-veio-a-esposende-e-disse-eu-nao-vou-ser-o-pai-da-austeridade/",
+    "source": "O MINHO",
+    "ts": 1789823774
+   },
    {
     "title": "PSD de Esposende reivindica legado de Oliveira Martins e Couto dos Santos:”Representam um modelo a seguir”",
     "link": "https://e24.pt/psd-esposende-reivindica-legado-oliveira-martins-couto-santosrepresentam-modelo-seguir/",
@@ -1676,54 +1682,48 @@
     "ts": 1789740649
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Sul - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX3hOeHdDRTE1QkIxeTN1Um91RGFWOVpySFlJN29qX0g4d0NnU3ZZdFB0NGxpX19Ycl9zNlQ0S01JeUJZY1kxeGNkcXpTOTBBZnFwT3FhMG1vQzl2YlhDZkxDU0dwbTV5MXlBaUgwaGVZQVVoTU1wQmxiTkJ2akF6elU4b25FZWszQlJqZnJVdw?oc=5",
-    "source": "SAPO",
-    "ts": 1789810591
-   },
-   {
-    "title": "Boletim Unidade Pastoral Esposende Centro - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcVlXRWRDcGFDZ3NWRXM2RU0zRGE2NnhlQ1RXT21TMGh6Q1dwU0F0T2g1OWY2VWtiMUhmR2FGUHRDX3FNTm5fQzMtbklSUkJzQjBPbG9fUzI5d2lGeEN6MnFFY0l0T3MwNWExNnEyb0tNdk9vcC00V3BfcTliUExWd3A4V1BDN1h4dzhuc29pZWYxV0k?oc=5",
-    "source": "SAPO",
-    "ts": 1789810610
-   },
-   {
-    "title": "Esposende: Funcionário da Junta de Fonte Boa e Rio Tinto morre no centro de compostagem - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWRhT09ZMVVSbENyQmlLWU1LMS15WjBmenpETy1ncjFmaTJBVUVIVTZ5MkV2bXlUZk1Gc0d2dFY2X3Q0QnNVdjNwOWhleVRqLXVzYlVxYzhzS052MnZ2Nm9PZ2M5bUljRVhJTXJwNUVDbUVxdVJGc2NRMjJxdDcwMURiS3ZjSmtWZDBqRUhqdkJuWkZuVXF3U09n?oc=5",
-    "source": "e24.pt",
-    "ts": 1789658524
-   },
-   {
-    "title": "Esposende recebe \"peso pesado\" para travar incêndios antes de chegarem - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdjdUUUpGN203bS1TTTBNeEEwY3U3dXRpS1NUZGxuMnptS3NBNU9jRWZUNGRtby1KVDUyTUkzUm9sdjFtVEg3RTFUS1cwcWxxS0RlaDZIN2w0V3QzQU5PU01CMGRWUXNZMVhnVXhVR09pR1NocmswbUtPRWoxdnM1dFZsOXkxMlRpZHFJN1FFVEY3cVpNckozVjJ3UEJGbVJMNWVmWXdxYlhkd1nSAaABQVVfeXFMTmZGb0JjVlYwcjc3aHFZeElZajQ1Y3RxTUVSazBaVGQwM1VSU1FLSGliSnhkWDAxd29TeTJQLW9yczR1V3NBN1ZRcElZelFYT0VrZUg3NFZoX2FRT0lyOTRYcmRITFl0eVpfTkNVUFhNRlk3aU1MMXFZVHR5d2pDU05IWjgxWVAxYmF5UGlEb1UzMk9VcW5XNGlVVnJMQ01rOA?oc=5",
+    "title": "Esposende leva mais de dois mil idosos a Fátima para um dia de convívio - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRG91VnpxeFFkdFF1R0xlSkliUUU4UFRyZnFQTHg5cVN5WGZSWXU0b3J0TXhsWE5KT0JkSzJTX0U4RG5sLW1EbXBabFJJaW9HMEpJdGJwUFlCME9WWHhBUDlGZ2N0VE5HZ3hGZFhxckNrY1phV0kxZnhmLTg3eVpKd2V5eVA2MXZjbFktWF9VOFZfVFRyblNINlBZQWE2a3gxb1VJTEt1MzhWTFJWdVRr0gGkAUFVX3lxTFBmUXE5M3pIT3FLNVhudHZwRGJhVGgxc050U3JRa1lhU3hNYUd0LWNGZlBwc2lkRWczTElTQ21FQjJEaWxnZ0QxOS1oVjRVODN0Rndubm1WUzJxbmt5ZndZR2xIYlM5Y3JVNnhYMFV0M3pEZGJpS01CaC13SGFySFVqWHoyWDZCLUJtT0dPVGJ6ZVhwTmRwUHBEaHI0bHU1blJjNWpD?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1789660860
+    "ts": 1789811280
    },
    {
-    "title": "Funcionário da junta morre durante trabalho em centro de compostagem em Esposende - Jornal SOL",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVWY1UzJmY0xDRVdQbHhzSk5VdHBFNVJYbHZQeUd6aVFOWG53c200TUQ5SU9QM1BpR2xfV09MR1Z0MUhDQ3B3eU5CS1ZQR2ZhRzVEeGVBODdIR29BS0FZamQ1ckFGYWlCdGYwOEVacU9zT3FmVDZLQTBsRGkyeUJ5aVNfd1hOUDV6dEFZa2xtTE9sWXdIUFZfMVdLa3phZ3RDZ3hZVEhvRGpXOElFUk9raW5jOU9kbXFWZW9tc0hUSkpKZXpkRFRzcFV5WlpXWGtZbHFETG03bk1JeVRJLUVzeldmeGlSN0tV?oc=5",
-    "source": "Jornal SOL",
-    "ts": 1789742859
+    "title": "Esposende: 28.ª Festa do Idoso reuniu mais de 2.000 pessoas de todo o concelho no Santuário de Fátima - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHVkb0pla3FVUmJ1TWNlM1FZSTYwUkhKbmgtY1lQTTdMaGRsaGtzSUtjajVMZEVCcWljckFPVHg2bkI4bGVXRU02ZlpDWHpXY2liTDg4SXk5UHYwLXhMVTBEZDA1MEt5NkxidGZucmxvZGJrWXp0aUxjS3hXZVFLaFlYYnFERmdnN2ZxWGh5XzdkMzdMcVRFeEpnUVlsekdHQjM4TDhKZzFvUWlHNE5fWkxWbFdXeW8?oc=5",
+    "source": "e24.pt",
+    "ts": 1789721776
+   },
+   {
+    "title": "28.ª Festa do Idoso reuniu mais de 2000 pessoas de todo o concelho em Fátima - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcUwweGZ6UVVXNWhrc3lWdzN2Q01ITUFvU2k0a2MyU1ZiZktxQkJES01fRDZhdGtrSzNRbUlNTjg2d2ZYcVVKT2dlNGh1cU5UN2daMng0WVdTOWhQZzYxc2FyTmZ0QmhTT3VLcFFrNUdHMUgxQlFIcjRGbXI5cVk2WGhsWXA3ZF9SMm1tZ2UyNll1MDhXaGxrbFR6Y0kxdlk3dnJJSXJaSC1pTDgtR2ZBOHE1NHE5VEp2Sk5vT0hrQQ?oc=5",
+    "source": "SAPO",
+    "ts": 1789659261
+   },
+   {
+    "title": "Esposende perpetua herança política de Couto dos Santos e Oliveira Martins - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeGlqS2xRQnU1QlFnQ3FsbVVPdTRjZkJwcnBHSU1VeDBONV9kMzkwbG9adEQ5OHhHdEZ4Q3lFaWM4QWxvSV9NV1NnTXhVaTJDZHVLbHY0U2MxQ0x6TWY2eXpQT1FueFJHSlpJanN6UXowdEtPejdMaFotTVg3dE9DM24wRkJBZ2x1bllYNi1TalFfOGhVbDVNZWlRbEtpc25GSHRnOUZpdENxY1JmVG40bEp4eHdyb0tpRTNLZWVTZWpCR3FWNkpENXQ0R3FMWTBqa2lzUGg3VjlsSVXSAeABQVVfeXFMTlRxa2R1d2VSTTJJcEROODhpaWNUOEhyR1FONUw5aG9hUVZsY0RlOVRxYjlwMGg2cXA2b2JwbHVTZjJHOGJzU3NsZndTdklyQjg1ZXBBVS15anBzTUk2cjZUTk1zN3d1MnpxYW9RUmlDQ3lVbnRWU05jQ2Nob0ZjbXJJRFZnenNpRlBBZmljT25Mc1djeGlxXzVwU3Yya3RGWXJyaFVWS2ZMbERQUFNKX0J5RjBIckVtVEJ2WXhkYWVUMmdXNHZPTzVEN0Yyd2t2QzZTUnlpZU1xS1Rvd05YTjA?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1789830660
    }
   ],
   "mundo": [
+   {
+    "title": "Depósito de combustível em chamas perto do aeroporto de Riade, na Arábia Saudita - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWXNtdUNwSzNueE5EZnV3TV9xNWJLdjFNZGVBdV9FT0FQRUZpQmpvcUdMUTk4TkE2UUh6OWRhUVNIQjAydGwzR19jV1l6aElSVG9zOU5NQ0x1OW1CWVdJdHg3bVZqU1l0eVB3UDJVYjBGU0JKNkdxS3ZEcVpINTcxd092NF93ZVhJWGJvdUFKbW56TU9lXzVDNTFrNlh5WS16QzR0bGw4OE1zRjd0Z3lORC1VN2ZoMVVE?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1789825653
+   },
+   {
+    "title": "Trump anuncia acordo com a Dinamarca e a Gronelândia sobre segurança, investimento e defesa - Público",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUM5WWxOME5GWWZJT0tCRDRMMnJJNWt5RV9BY1kxWFl1b1BaejF0LWF6UVZOZGxodnUtWjJJem94eXZEaWJYWUIyRUtpYzd4eXNTMEJGYUt2TlpwczhQUXBuNVVkVjU4ZXpKOXhaN2tsaDhNeWI5cUt0OUdVVFBfMUlHUVAxMDR5YkpNYkhWM0VCX3Exd3o2WGxiSTU1TmlGSU1JZmZOQUJvWExXVHEzOFp0Yy1WMW1JWkQ4NEk5UGJQQ0JlUHlB?oc=5",
+    "source": "Público",
+    "ts": 1789822020
+   },
    {
     "title": "Rússia: a guerra como pano de fundo nas primeiras legislativas desde a invasão da Ucrânia - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemJqNzUyY3BkbDRHVTdkLXZpek0zMmVKZHY4WkpuUzZEQU9JWHJhaE9OQzktV3VtUEVJbWRzbElJWjV5bTBZcU8yQ1FxVzlKNHYtMlRkc2tRX253aGhQeGF3MnlkMmhJMDR2clNvVzhVSkduNWw4MW0tTXlveVZUNDRubWh0TVJKbzM2NGN0WlU2azlna1RUTXJXbXg1WllSdlBHYWJVVGxrRU1yV3N0Q1hLY1o5MXoy?oc=5",
     "source": "Diário de Notícias",
     "ts": 1789762920
-   },
-   {
-    "title": "Trump anuncia acordo com a Dinamarca e a Gronelândia sobre segurança e defesa | Estados Unidos - Público",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUM5WWxOME5GWWZJT0tCRDRMMnJJNWt5RV9BY1kxWFl1b1BaejF0LWF6UVZOZGxodnUtWjJJem94eXZEaWJYWUIyRUtpYzd4eXNTMEJGYUt2TlpwczhQUXBuNVVkVjU4ZXpKOXhaN2tsaDhNeWI5cUt0OUdVVFBfMUlHUVAxMDR5YkpNYkhWM0VCX3Exd3o2WGxiSTU1TmlGSU1JZmZOQUJvWExXVHEzOFp0Yy1WMW1JWkQ4NEk5UGJQQ0JlUHlB?oc=5",
-    "source": "Público",
-    "ts": 1789811671
-   },
-   {
-    "title": "Ucrânia: dois mortos em Sumy, ataques contra infraestruturas logísticas em Kiev - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZUtkYnFpcFd2M3N3d2ZaLVI5VWtDV1RxNjhDZ2lrcHI2c0ZSVnlOMVFGVXlCeWxUMFJKc0hfZGkzejVjaVRuZ0VNUmxzOEd3WEdfaXBZMDFjejB0ZWMycE04VThIbE9mMTRFNE5CeFVyZ2xrYjU2cHo3T3dzUGR6ODVUUExLa0hJbzYyVXN5aldtUTd1b1BQUHdqOFo1U3JpQUliMDFPbTVqOXlSWVBPeWpjRWFfSy1KaUwzbA?oc=5",
-    "source": "RTP",
-    "ts": 1789765982
    },
    {
     "title": "Transferência de migrantes para o porto de Ceuta marcada por momentos de tensão e tiros de aviso - Correio da Manhã",
@@ -1732,10 +1732,10 @@
     "ts": 1789722980
    },
    {
-    "title": "Palavras Cruzadas - Público",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWEtQTmRsdjNrdkpIZWE1OENRVWxpVGgtejg0dUk2N09OZ2JQV0xNS1lhNHJBa3pDenJ0bTQ5YnRiSWg4c0pzaHk3Skt6Mm1qc2M3R1ZXTVA5dkdHQl9Ybkk1YWVWT3MzVEtB?oc=5",
-    "source": "Público",
-    "ts": 1789770895
+    "title": "Sondagens antecipam novas derrotas da CDU em eleições regionais e Merz prepara-se para o combate pós-eleitoral - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNY3R2NGUweWQ3SWRmRHlZVkQ4elEtb3V6NUQxNWZQcFNQUVJxc0xiNFUtTDV3Znk4MkpsOWE2VXFFU3NOam1xZTN1cWdsU3VCV2dsRXRraWQzeXhheWFxTVdRSlJwUHVTUnVFNjlIOGZvWlRJMTdQcWhQZE9WREdNd3AxcGQtTFEtMmFBTjVMQ01MNDBQU2tpTFRZZVBaUUM5dzRmV2g0MjVGRkpMT0RzUjVtd3puUmRCNnN0aDExSE84QmZYRGFKMFg4UVA3NDV4MU5CLXh5XzlHSFU?oc=5",
+    "source": "Observador",
+    "ts": 1789765282
    }
   ]
  }
