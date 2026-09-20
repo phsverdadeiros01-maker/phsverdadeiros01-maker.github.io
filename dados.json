@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-20T11:00:05Z",
+ "atualizado_em": "2026-09-20T17:00:44Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-20T11:00:06Z",
+  "atualizado_em": "2026-09-20T17:00:51Z",
   "dias": [
    {
     "data": "2026-09-20",
@@ -1638,22 +1638,10 @@
     "ts": 1789843047
    },
    {
-    "title": "Barcelos prepara Plano de Mobilidade com mais estacionamento pago e transporte público",
-    "link": "https://e24.pt/barcelos-mobilidade-estacionamento-transporte-publico/",
-    "source": "E24",
-    "ts": 1789771090
-   },
-   {
     "title": "Gil Vicente e Marítimo empatam com golo nos descontos em Barcelos - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnE4TllZY0VUcTl4cWlQZmY4d3N4aFJqRnF5bXlMVGhBZ0FNdUZucjltcnNxa1VSVWFMc2FrWlRpMnItcnQ0WG5CT0pvZzZEWWRqSXBLLTVWck82dG1XYUJOeFl5UmdJNjVOekJ1SVNWaVNMekRqdGxaM0pkd2E4RUpvS0pMUGI1cE80MWUtMjd4VXo3SXc?oc=5",
     "source": "Diário de Notícias",
     "ts": 1789838178
-   },
-   {
-    "title": "Gil Vicente e Marítimo empatam a um golo em Barcelos - RTP",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb01ERjh1MmoyRTJRT3U5RzJ4ajNtdFFHcHUyRjhqeEJKTnNZcWtiWWI2ODhHV1lXZ1pqMFNKM0tnTmZnRW1WZHVTNmFkZE5hN0R1WEY3d1hnWmJ2M0JoT2JyMWRmT0hIdGNVZXZSWFI4ZlRSb2dGMGVxMEY4eWhBckF5cExaM3Vybl9CeG9LaTd2U1BOZVFiQmNmcw?oc=5",
-    "source": "RTP",
-    "ts": 1789844796
    },
    {
     "title": "Verde-rubros com três novidades no onze para Barcelos - dnoticias.pt",
@@ -1662,10 +1650,22 @@
     "ts": 1789825200
    },
    {
+    "title": "Gil Vicente e Marítimo empatam a um golo em Barcelos - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0NRTTVYenpPX2lvdVBGUGFIaG9WdlR3QV9LTldKdG5NamluV3VzWGszVTlYSGY2Yng3bkU1VElCY0dxMGZyODQxZ2VjQlViOHN0RjB2SFFBREtHZEhFenMweGF3bWNPdTVVWFFRLXZ3a2NKLTBpbjVvY2pnTV9lV3M4WDdVR3QteEFMZ0czVHQ2YnBWM0tjMTNwOA?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1789837980
+   },
+   {
     "title": "Barcelos quer mais estacionamento pago e transporte público - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZVlSYmRKczN1TUx3T3ctaXctYThIVTJxdXFCbXBrMTdHb3ZJZmlrVXdKd29wQm9EN0NBekkxYnBoV01PeUxvSzh4ZHpucllSU1BPNXBvU2ZWdlV4ajd5SFItd295N3RyQzM3S3pBbmQ5WG1SZWE5alQ3TEdUUUtoLVExbUotVW5hQTlzd2Y2VlQ1RjBpYWxVQUU5aGFfS2vSAZQBQVVfeXFMUGhFSmQ3WlhHRXg1SmZkTkxVV1AtNXAzTXhBaTFzOEJBNG5DYVAzcE83T3MyVmFZMWpIY2t3bFNtYXQ0T1ZsdF9TU0JJbnF4UE5BQi1ubE9nVld5LWhSZWstMkJ1MlNCeHFGNURXdHFiUGtfSEVzTDBNMzRNWl9mMlpMWmdpM0tGbXhXN29wYmFaRTI0Zw?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1789763280
+   },
+   {
+    "title": "Barcelos vai ter plano de mobilidade inclusivo e preparado para usufruto das pessoas - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPRlRQYzl5Vy1UdXFFZTZqSTZOTWFqUC0tS1hWWFhXUjBLUzJTR1pGajdmN3c0bHdjcVlDQUE1czhmN1RWWmo3MXptQmdwWWVvQ05lYlhEMnZGYTdMXzQyMGdjSGJINGpJTXhVclVMVGs1T1FwMDdBTDhZaDJ3SnFrRnpjS010TFltZVRuOEo4RkZYS0RydXQ3T2JfWUowWEdPM2d0VnFuYUJreWtHcXh5UDhEYUtfdjRLMTJsS2N5d0c2blExSnYzTjdwUGJjOGZFMS14OGZBRkFLUUkxVjJzQnNfanV4Uzh0enfSAe8BQVVfeXFMT3pqNTRuZHJtUE1GOVA2RGRSaUhJYVVZak9QYkg5LWduWFpVd2wwNlJZT2ZYc3gzdGRQUjE3Q0g3TWFoTVkycDh3cEFJT1RNUnlSSUNRTFVxYjhBNGpBSGd5ZjRjd3k3bGlRVzByVWdnbzBEcHRTeHZ2MDhxU1B3OXNHZXhiOEU0UFp2cU5zOEVOSFJnZm5ISm1yU2RjRTBORVppMWdSWUhKZVdXVWM5dkVVdUFmYVdwU1VXaktBZmZYUE5FVlJEU1YxRUViZl9sNlNqZmJxZWpTRHFJS0o2My1xb25rZ29mdEJNVFNJREE?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1789758120
    }
   ],
   "esposende": [
@@ -1676,16 +1676,16 @@
     "ts": 1789811280
    },
    {
-    "title": "Esposende: 28.ª Festa do Idoso reuniu mais de 2.000 pessoas de todo o concelho no Santuário de Fátima - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPMHVkb0pla3FVUmJ1TWNlM1FZSTYwUkhKbmgtY1lQTTdMaGRsaGtzSUtjajVMZEVCcWljckFPVHg2bkI4bGVXRU02ZlpDWHpXY2liTDg4SXk5UHYwLXhMVTBEZDA1MEt5NkxidGZucmxvZGJrWXp0aUxjS3hXZVFLaFlYYnFERmdnN2ZxWGh5XzdkMzdMcVRFeEpnUVlsekdHQjM4TDhKZzFvUWlHNE5fWkxWbFdXeW8?oc=5",
-    "source": "e24.pt",
-    "ts": 1789721776
+    "title": "Esposende homenageia a título póstumo Oliveira Martins e Couto dos Santos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVFFIZmtxU0hJTEVrM1pCa1BKa296VUExcjR1Mmdib2JzZGx2SXJBRV9mbllBUEMyaTQxTnJfUnhZeEVnZXV6Rmc2ZHZRWmp5VjZoY0lEX21uTE9BUlJFWVRHLUxSMTExa3VlTkhkbzJ3M0J0ZWFVUXlkdWVHcHpnTHl6dHBYQ0duWVh0cF9WWUhGUG1obTZmRVBodHlyS3hXSDhyTzI3WGpEMDYyakZ4alFhck8yWnVtNkhhaUdB?oc=5",
+    "source": "SAPO",
+    "ts": 1789824968
    },
    {
-    "title": "Mais de 2.000 idosos de Esposende foram a Fátima - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBudXQ3d2dZekxER0RVa003Wl9iR0NlWl9lVVExbXVQUjF5M0JaUUVHTE84ZGdTWmh1SWF6cy02Tl9mVHRZenNnNnoyd1NrdDRmZlNoY1BEa24xSTRvQkExSERfNnlPOG5samdIakZlaHdqRjQyZ2c?oc=5",
-    "source": "O MINHO",
-    "ts": 1789658565
+    "title": "Luís Montenegro veio a Esposende e disse: \"Eu não vou ser o pai da austeridade\" - ominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFQ3b3YyemVWNzViVE9pZ2FYSWdCYkl3QTFkdHpid19RTkhfcmVXdWl1QTd0MFNKWDVpdXZqdHU0YXlLeG1MUzhlQjlEczNWWExLWGlPSzg0aHNwNXJseTZqVTZrcnlPVTk4SjZxWmh1Umc2QnBDaVVNVkZ2X2RYMHkycmJFc2V1cXJVekVJdFVyZDZoc0E3NDEyVQ?oc=5",
+    "source": "ominho.pt",
+    "ts": 1789823774
    },
    {
     "title": "Esposende perpetua herança política de Couto dos Santos e Oliveira Martins - Diário do Minho",
@@ -1694,30 +1694,24 @@
     "ts": 1789830660
    },
    {
-    "title": "Luís Montenegro veio a Esposende e disse: \"Eu não vou ser o pai da austeridade\" - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeFQ3b3YyemVWNzViVE9pZ2FYSWdCYkl3QTFkdHpid19RTkhfcmVXdWl1QTd0MFNKWDVpdXZqdHU0YXlLeG1MUzhlQjlEczNWWExLWGlPSzg0aHNwNXJseTZqVTZrcnlPVTk4SjZxWmh1Umc2QnBDaVVNVkZ2X2RYMHkycmJFc2V1cXJVekVJdFVyZDZoc0E3NDEyVQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1789823774
-   },
-   {
-    "title": "Montenegro elogia antigos autarcas de Esposende e critica quem cede ao populismo - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWVRGZk5kdjQ5TUhVZGJoeUxFd2dOMTFnSEJRaW1lVWRLQnh0QWQ2dC1DWHVIbDA5akt4X3AxRHFmWnpCdlBPSW9BeG90cTBhd3FjUnZDN1M5VGxYVEpCTUZzYzVpNHJlejd0VGVnVERXNjgxMnA5RndVckRINFd0WUxrVlFCT1lnMUtiempQdG13Wll2UENiTFJWdDJ4X1p5?oc=5",
-    "source": "O MINHO",
-    "ts": 1789846479
+    "title": "Jovem que faleceu na Bélgica vai a sepultar este sábado em Esposende - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcFRaSG1ySWx1aGpmdVQzYkk3cFRGTzBnLXhudnpxYUw0YlNpVWtRaEZ6RVlJbDNueXFna0xEVzVlY3dXaFBQTV9hWUt5dEo0Z2ZGUHJrZVlRV0JUUWhVUVR2aDJxRmhPVlpjY0E2ZTlUeW9OWktqSkhXb3p4TVF2UFJ4YUR4ZWlwQjZFZkU0NF9tUQ?oc=5",
+    "source": "Braga TV",
+    "ts": 1789733697
    }
   ],
   "mundo": [
    {
-    "title": "Alemanha: Elif Eralp pode fazer história em Berlim e AfD quer outro resultado histórico no leste do país - Público",
+    "title": "Centenas de drones da Ucrânia abatem-se sobre a Rússia no último dia de legislativas - RTP",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWpLcnJEV3dpN0NYWEVfM1VyMnJSaWhrQUJSMVRhdGV5MTBjN2tKTzROUGx4RWdhODZEbWhIWjZOQ1BqbU1FM2dHcVloQnF4NnpLeEozaGRuSzUxMDUtZVdZNVJOYXVmR3JEeGVEZE45eDlmTjNsbTVQOUtCNGZ4UDNCZ051djB3WGlJQjVLWUF2WmQ4eUl1TVVTUWYxYjdoZWgyVWtyOVVvamlCQXo3NGZLd2E2cGhGbFppZm9nSEFRbk9FMmc?oc=5",
+    "source": "RTP",
+    "ts": 1789908354
+   },
+   {
+    "title": "Elif Eralp pode fazer história em Berlim e AfD quer novo resultado histórico no Leste | Alemanha - Público",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDgzQmREemRVVGZDMzVFMzFZTFBZbGVJTXI0VHpFRjNGNllqQ05kS0tQT0lDMFUwZm1hdTc3bGRUN2dMa0dEdzFPZFlYcmxNWnNOTGZ3TXJaYVBSd3JkMDA4eHZnS2M1TWFDd1NCc1pDSXNPWUpOa2ZkbThBWVZqYVAyUDlmTElaTkszZko1MkJWemdxZTNTUkw4amIycUFHUXFjbVhPbjV6ZE1IaklUc0F0N2hmZlRYYlpZRkoxd09ReHJLeU53ZVhDMA?oc=5",
     "source": "Público",
     "ts": 1789884000
-   },
-   {
-    "title": "Rússia denuncia “grande ciberataque” ao seu sistema de votação electrónica - Público",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUVTeVgxeVQ4dU9yck91U045NmxMM3ptejFYMkNxdHprYkp3OW5NM1ZLLXJUb0U2LVVrdkxuV1JTT1ZzSVRobTJneGVqc3dkRkh2ZTZyQzUtZWllcWJBQ1lOMFlyV1RDODEzMmwxUmZXZ1QtYjdieVdXSGJHeXl5cFc2T2wwNVNpaENmc28zRmt3dHVfYVRVdXhXdGJqUVBNd2FYVGxLWkl1eVNuRUlBbQ?oc=5",
-    "source": "Público",
-    "ts": 1789856220
    },
    {
     "title": "Médio Oriente: Depósito de combustível em chamas perto do aeroporto de Riade - Jornal de Negócios",
@@ -1726,16 +1720,16 @@
     "ts": 1789827360
    },
    {
-    "title": "NATO saúda acordo dos EUA com Dinamarca e Gronelândia - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTlOQWFmM1lDcmU3TGx5Um01OEV0dllOVFJEMWRQUFZRdURnZlFFaXJ5YVFKWi1jV0R3OWtMVTdLM1FERTJQRkJyYUNLUm53ZUFKLWVjTTlrNnZtUzdkc055Nzh3Q25LMXNTRUtNMFRSWVNPbng4NkJ4bWlVdkkzdzl1U1FOQUJOT2duMldpV1hIZWl3VFp1WNIBjAFBVV95cUxNZVY0LTh2M1ZDcFNscEVHSlJVS0lfVVN5RTliY0ZNVmVuYVdINGJhLTN6MndYYmJ5eVByOUZVRnRNaTl5b0d3OC1ZU0x5WHlacWRlazNLcVctdktLbjl4dzJGOEFpVGI3eVBQMEpDTVRLZi0tUk82WlFEeVpoNzYxd2k0X19GaWRRT0JxTA?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789850940
+    "title": "Santos Silva considera uma “vergonha” a posição da União Europeia sobre Israel - Público",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRUNCTWhnMk5PX29oSWxxa01RZDFfQl9kemUzRmZOWkhFcGlTTVFCSmdVOFphUGRNbzZZZ1JOTHI0cUtjV211cHlZM0hkX2NKWmFQX0hsZm00S3FhUmRVR3FKYUNIU3NvS1RqUXpHZU4wcXZhTmUxRlc2akMwVUU1WlAtZHEtTFlzSTVjaEpHdmREdWxrX2hDUXlDdS0xSkp1LWctWHlraVRTVjJsNm9wSUJIRXpXb1Y0ci1xYQ?oc=5",
+    "source": "Público",
+    "ts": 1789912968
    },
    {
-    "title": "Michelle Bachelet retirou candidatura ao cargo de secretária-geral da ONU - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMEZVV3JHYXBOcUFBQ2QxYzZsX09ld1ZiZWdqRE94TDNwR18xcWxRcjdQaE85LWljYnBmSnVDQUViR1RULTlxVnR1LUNjWnNvNGhEZWtybWJiTms2blJ6LUU3ZkRBWWJIUFVsVUg4S2hxQnA1NjJMQVNKN1pnUkhzOFhsR3o0NTRMRFdHVTV4X0FvU2lhSUJuamhnTWUxOEtycENfcWRURnZYTktNYjAwWWtNWdIBpwFBVV95cUxPWHl2eGpvWUZSU3RDMk1TOF81OVZLakpFcFdGMnpOU0x0a0huNnNyLTNmQ3ZnU2ktaGEyTXFMN0NRXzV3VHJtSW9PQnRWenFkanpWVE5CSEpvc2NXZThkOGVQbXV1VFR5cXFHWmcwSmdiZzZmSk5xWUxaV3dyOHYzT0F2Q3JaenNxOG1WdFJTNHNhYllvUnFjZ3hCVktUQlVtbWJhNkhubw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1789850700
+    "title": "Carney “saúda” ideia de \"membro associado\" da UE e responde a Trump: “não procuramos o poder para dominar os outros” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPMXdlMlJZWGhlc3pTMnd3N2dpT2pKaDgzNGh1RHdsMHdoLVdIWlEtUm1PaVVqdlJLMUNkYjJoTDZ3LVVpN3g0UUYxWlRUaEYxTkprRVBuVUw2dloxRlRXSE00ZlhTUkZjbTMyVWRhU1BzUGd1OXlDMDdid1NWU3BhdFpzOVVtTXNFdXVnejRTSllpN1NyZ3pnN0tLY0RpdlFNY19EVEpJVVJqYVpwY0p1RklOYnZMNmN6Sl9qR2g4MEp4Ny1MY3B3eHQ4eTk4c0UyWjItLXp5RnpnRTg1ano1bjhXbEtSRVFjVVFCQ0NPUGJQT3gtQmxR?oc=5",
+    "source": "Expresso",
+    "ts": 1789642847
    }
   ]
  }
