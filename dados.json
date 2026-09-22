@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-22T11:00:10Z",
+ "atualizado_em": "2026-09-22T17:00:04Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-22T11:00:11Z",
+  "atualizado_em": "2026-09-22T17:00:06Z",
   "dias": [
    {
     "data": "2026-09-22",
@@ -1632,54 +1632,54 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Três feridos em colisão entre automóvel e camião em Barcelos",
-    "link": "https://ominho.pt/tres-feridos-em-colisao-entre-automovel-e-camiao-em-barcelos/",
+    "title": "1.300 ciclistas vão subir ao ponto mais alto de Barcelos",
+    "link": "https://ominho.pt/1-300-ciclistas-vao-subir-ao-ponto-mais-alto-de-barcelos/",
     "source": "O MINHO",
-    "ts": 1790074043
+    "ts": 1790093011
    },
    {
-    "title": "Barcelos: Obras na EM543 condicionam trânsito e alteram percursos em oito linhas de autocarros TUBA entre Lijó e Tamel",
-    "link": "https://e24.pt/barcelos-obras-na-em543-condicionam-transito-e-alteram-percursos-em-oito-linhas-de-autocarros-tuba-entre-lijo-e-tamel/",
-    "source": "E24",
+    "title": "Atleta pontapeado por outro durante confrontos num jogo em Barcelos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXR5VlF6QVlmb3hIem5sQ0RxTXRHM2dXZXItdkZQUV9PTWRRbHg3MExUMEphOE5ONWJiVnB0Sk1Rd3B0Yy1KYkZMREJ2V0NtNDQ4c1ZZV0txQnBONUo1bkhlc3lFQ3JfZ2xOTzlISTk5eXNqYTVoaXY3aEdpZ3lzcTF0c2k2b2FsS0pWY0lIVXBFNFowUGc3bHlxMVBxWEhhSUdXQmNuYTk1SlRlNzU4RWRkQTNZSzBN?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1790091480
+   },
+   {
+    "title": "Barcelos: Obras na EM543 condicionam trânsito e alteram percursos em oito linhas de autocarros TUBA entre Lijó e Tamel - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZWV0SHNTLVhFcl96SWwyS29CUDdlS2JNMmpuQ0s2RFZTYjV1WGNPZjUtMkNpMWYzMHdMRGp1UGVlZVRVV3lISUFiTFlmdzNYRkZ5SnJISDFmNFR0X3hBNVJibkRubHRyUFNHUVpoUEJIX1R2cDRkY3JXUnA4WnBPMXFaMm1yX2JPSEhNdWJQbUhrcDdvMTN2a0liWlJ3YjAtRXF2WjZ3a044QnR4bk12cVpGOG9Ea05Xd0tTRVZ5TjduQ0NxNEpRN092cTlQQQ?oc=5",
+    "source": "e24.pt",
     "ts": 1790070774
    },
    {
-    "title": "Vila do Conde e Barcelos: Faleceu o monsenhor Domingos Ferreira de Araújo, antigo pároco das Caxinas e natural de Barcelos - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSHdQaDZnX0c3TXVxdWhjbUhCR3NncGpGNm5VQnkxVm00ci1UWTlMS01zQThvWVEwVnk2VXpmTk9aLU1rN241WUc0cDRyeG1nVHpyTU1uY3VNend0aWw2YXNrMF9FMnJvWTlIaG5jT2M5eGtvUlR2Q1lWdDB4c1JrNkNOaEw4MlhlZXR3Q1NMUlZZUU85X1pPWndzb3pKN2pwR0VxX09VS0lIT051RGtEMVpPNG1GeW1HMDJYbGlhVEt5NkM4YmhqajdSNF9qeW9DSkE?oc=5",
-    "source": "e24.pt",
-    "ts": 1790001906
+    "title": "Três feridos em colisão entre automóvel e camião em Barcelos - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjhlNUlQWDBnOGRxa2FwOUlmdV8yeVZFUVU5YWx0N2tqVC1TY01QQW1JRFkwa1A3SjFmMjVSbm45X2RIM3JKUWtSVUZnalRWdm9Rdks4WjBwNVZDQnZhT1J0RGl6QVI1WThIemtvYTljYTByTlZ0cXBGUHRNTXkwc29xT3R6Zw?oc=5",
+    "source": "O MINHO",
+    "ts": 1790074043
    },
    {
     "title": "Médicos em Barcelos vão 'prescrever' caminhadas, piscina e animais para cuidar da depressão - SIC Notícias",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbnJmT3ZwakJReUl1VnBRejJpMTVOSm5meGVkNFJ3dHFFbUJ1d3pMSGJtNHdBWElySHF0b2ZVQnZFdHpkNFlfSWlSNEFyeFZzVFIyc3ltUDMzMDNTQUFjR1FKcldkWlAxSm5HNExFVy1vUWZfTHo5OTdzdkc2cWNwRWRLSklsRkhlM3VXMG9BVXF1NE5uV0tWdEp6OEhDeXgwODR0WmZyMThHTC10dzBlT1ZLVzJ0bzVKeHVRWEtFX1RFR3JTcGd0amdrYmxHcndqdEp0RkpfR1Z2SWpCWGhvaUFMUEp0ZE9nSUE?oc=5",
     "source": "SIC Notícias",
     "ts": 1789905600
-   },
-   {
-    "title": "Sexto disco de Glockenwise aproveita histórica guerra do caulino em Barcelos para olhar o presente - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSi1odDZhbE9kZVRlMkQtaEt6N1UxbTJCLWVIQmd1NVBmd1lxaFBxVnVKSWhscjFST0hsWEVIa0JySFI4YnkweGpMWF9ZbnZjRUpRdjRTUGotejNUS2MwNVdMdldzSF9GVHZjcmRSOTJIQzROaWM1dE92MjktazlBSHpsZkk5N1dxUlUyTWdwZlpuQUpVOG8zcmVPMDFjc3h6b19pblgxMC1mcUFnN0ZMMTdLXzdLSFlv?oc=5",
-    "source": "O MINHO",
-    "ts": 1789976516
-   },
-   {
-    "title": "Verde-rubros com três novidades no onze para Barcelos - dnoticias.pt",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbDJZS3FjX2hiU2xhR293Q2kwb2pWY2RkaVNtLXBEeGozdXBKT2VrdWxaUDBWSkJFaW9jb2ZyNUF5bGR5WDlTazg3TUtIdUdTeXVJX1NTVVBzYUlyWkgwOWRiV2Y2MkR4Y21FdTh3dU45UFlqMGxVVTNXNVFOQ0ZEam1IdTh2LS1HbTFEaVpWNTZScUQ2U1BDMjBNLTg?oc=5",
-    "source": "dnoticias.pt",
-    "ts": 1789825200
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Cerca de 200 idosos reuniram-se no Monte de São Lourenço para o XX Torneio de Malha Sénior",
-    "link": "https://e24.pt/esposende-cerca-de-200-idosos-reuniram-se-no-monte-de-sao-lourenco-para-o-xx-torneio-de-malha-senior/",
+    "title": "Esposende: Guardiões do Cávado promovem ação de limpeza no estuário do rio no âmbito do Dia Internacional de Limpeza Costeira",
+    "link": "https://e24.pt/esposende-guardioes-cavado-promovem-acao-dia-internacional-limpeza-costeira/",
     "source": "E24",
+    "ts": 1790090968
+   },
+   {
+    "title": "Esposende: Cerca de 200 idosos reuniram-se no Monte de São Lourenço para o XX Torneio de Malha Sénior - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzMxQUV3U29ZZG5XVVBCZ3ZEeWFyN1hJQk9uZ1hsS3JaRmhoYmx5aGlabC1EYXpDZGtLcE5SSkkwLXRpcWVxRDVlTnJpc2NPTjZWZHFROFVtSGk2TTRzVjUyb25jaUd4SHIyMFVLMjJaQnRZV0hDdHVTUjNIR25UV0NGZzdyMXFCNW9JeURaajY1MFJCaGNhcXpsUVphY2RHOEdiUVRQQVdqcjVFVGR2Wi1OdDJvbWM?oc=5",
+    "source": "e24.pt",
     "ts": 1790070853
    },
    {
-    "title": "Esposende debate inovação e sustentabilidade na indústria - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmlYem5SSE9Zd29fRUxYZTl0clZfSlhJVGRqdGJkQkNaajFFaXFXOXYwOVBWQWVZZ3VSbUpndU41WW9RajE2VjBySE9neWdTa2NUU1JaM25SNks2WThvVllKeVpHRXU0RjZoUDZyeHE5TWstajZFWmJlclRrT091T2loVQ?oc=5",
-    "source": "Braga TV",
-    "ts": 1790071004
+    "title": "Esposende juntou idosos em torneio de malha - Rádio Onda Viva",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTm1XMGFDdzdwcjdVZ0MteXpjOEtXLXdlSW4wNFNfVENMMEVjZmM5MjVHRGNyMkhoOEhaZy01QlVQdnN2YkRFekhQVFVtMDdjcjRTbHBzWkNzSjBQeXQwTGJkaGtrX3Foc3hMNkdoLWZfcjZETldsVXdKS0VFVHFyZmZLM0FEWUhxckhV?oc=5",
+    "source": "Rádio Onda Viva",
+    "ts": 1790082000
    },
    {
     "title": "Montenegro elogia antigos autarcas de Esposende e critica quem cede ao populismo - O MINHO",
@@ -1688,42 +1688,42 @@
     "ts": 1789846479
    },
    {
-    "title": "Está difícil a Nortada: Esposende adia o mesmo evento duas vezes - ZAP Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1CQWZSQmtZNW9nZGZCWTNHUm5BSURMUkVhdWhMWFZYWUd3Zk5pRVdJcUlTb0h6MXNoTnNXZF8ydkN1b1hnSEFfVEF2UUV2bURIN1p4WVlJUDE0dngyUi1NUDlWZTZCdw?oc=5",
-    "source": "ZAP Notícias",
-    "ts": 1790029829
+    "title": "Esposende debate inovação e sustentabilidade na indústria - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRmlYem5SSE9Zd29fRUxYZTl0clZfSlhJVGRqdGJkQkNaajFFaXFXOXYwOVBWQWVZZ3VSbUpndU41WW9RajE2VjBySE9neWdTa2NUU1JaM25SNks2WThvVllKeVpHRXU0RjZoUDZyeHE5TWstajZFWmJlclRrT091T2loVQ?oc=5",
+    "source": "Braga TV",
+    "ts": 1790071004
    }
   ],
   "mundo": [
    {
-    "title": "Chanceler alemão assume \"desastre\" eleitoral mas recusa demitir-se - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNc3ljaWdlWnhYNThNZklHT0NMVG50czg1QlpSczFGMW4yMmRSYUFOQ3pLZkV4V2plVFJVR0ZaMTVfY2lYT3h4Y2Jad3RrWDBmbjhTclVFUEp0RHh1UlVQSUdLOGxsMm11bVN5dHJGTFpwTmdNdWFnN0dRNDNNZzEwbG9TaVRVZHFzaV9hZURMUEFBLTAzSWN5c29rdWlLYmFnZ2dnbtIBnwFBVV95cUxOTEU1Z05JX3did0lMVG5jcmQ2Tm9fclVxOE1ENkVqWVZ0R25VMVRMMm9SMnktY3NLR0hDTzFMZS04VjVzV2oxdWhsZ3gza19jWFF1bHN2UXQtSlNlUTRrVUdpR2ZOVTRNUXBwRDh1QWZUV1RZMGJKTEpKdmJiSmdKNTlPQkYwMXZxd29uTjlSRkt5QUM5NlZXdy1wc1dCU1E?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1790037000
-   },
-   {
-    "title": "Trump quis calar os media e acabou silenciado em inauguração oficial - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0VKZTVxQjQzdVh5d3V5RENSc25ZZXRrSkFqc2NnRlVOY3phbWVxNVNmYTdpZkUwbjloSHQwaWNnZDNzQ3JCak5LQm1INVFhNURadXhWT2p6ajl3RDNlQllyRXlVbHBXYWJjZnhXVFVsbE14SjhMNFN5NU9wcEUxUEhFQUJJLURGY2U1cHZBNG84c1ZqSUVDZFl6UFJzN0RFa2ZTaTFYclZyRXgySlVqTnNR?oc=5",
-    "source": "Expresso",
-    "ts": 1790024703
+    "title": "Trump TV já está no ar: Casa Branca lança canal de streaming no YouTube - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWEhYTU1TcTAxcExZWTk1ZWJvUW1GdlFsNE84c1ZseDZXeHZva1ZHdGFod1l1SXkxT3ZmVjhWZmFaNUtkNkVNRmZCbkMxNEFFSmJZbXpyVktmVWc1Rnd1YjFKbTVSTWIzQlBiMlBEYVg3VHB4RmJQVE9jb21fMzQ1RFN0YXM2cU5Pb1ZKWS15Y0RRSkpVUjdtWmVVRVN4SXVqX0h4X0VEaTdoc3J2SjF4RFhRZElqMG5pU2FlOE96TllvSHFiUndQeQ?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1790073588
    },
    {
     "title": "Última Assembleia Geral de Guterres na ONU junta líderes mundiais em Nova Iorque - RTP",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZkFkUXFBc0k4N1ZoajZJM05SU0s1ZHpYTEt4d2RjcjlqYnBkRUF4RmsybHdEbHhqTE51eWRvdFZCX0pDQWVWZVQtTy02RU9nQVJlNzNDWmJ3OWdjMnJCLS10c2RQSWt2X0ZESUwtcnVaNWJhVUVFOFlqQXlzZGo5OFRSc1Ayam5UaVBRdUNFSmMwc1daMUhROHU1YWVDVmZ5NUVGZjRZT1k0Z2pyR0tvTmgyZVVrb1BLMjVPRW5ZRFI?oc=5",
     "source": "RTP",
-    "ts": 1790066283
+    "ts": 1790093725
    },
    {
-    "title": "Montenegro será o pai, a mãe e a tia da austeridade - Público",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWHE1NVFPYjRiTzFIOVRIbF85aHVYTjh2TjR5ZkpvclB2bXBXMzFBcjlrbkwxeFBrUVlPc3lLdHBIcnZnOWZOZ09hX1pkV3hwblJaQ2F6Y1NTeTk4a3NXRVNEejM0S2xwUHk1SF9KMS12eGVyYlk2UmJmZnVrQk1BM25wQ0Z1VFlOZmtvYkw1SkRabTd6bEhrRFQySTBtRkE?oc=5",
-    "source": "Público",
-    "ts": 1789941600
-   },
-   {
-    "title": "Porque é que Trump recuou no ataque aos hutis que a Arábia Saudita pediu? Um explicador em dez perguntas e respostas - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQV3IxZXFCcExPVTRtZW9QNDZrdWlrSVFCTGloVFVWM3J3S0VJMHctdjdpT2R1N1hRRVRqbnA5ak4tTEtCWUJsUmU1VXYySk80X3hZOTFoNWhRaldlcUczN05MYlBEWVYzcE53RWFrUHZZTDRDNVo5ekhiZFlLTUNGSmhXUXYxUkNJRkk5SEhnT3REMjVIWk9ndHZMYVN5SlBtb3FfX0toUUhtWEMwMHJjTGtxN3NwMzdfaUp2MXVMb1Q1cTZab2pKTmdzbjVhQWp1elRVV2p6Sll4cDNldWN6U3h4TmpTanNtODlDdDhiVkhkQUJha3lSYnVzLVFRN3FuQkp2bUdTM3c2X3M?oc=5",
+    "title": "Extrema-esquerda e extrema-direita alimentam-se mutuamente ou competem pelo mesmo eleitorado? - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQi1KRFFNeE5RWHJBZ1pYMFpRWHpyNHVEOEF6Zm1ndVhTRHBRQjZabnVlejd6Yzd3SjQ4SkJXQWJ1a0FIeUhLQ2lOazQ4TjNtQnV4YW5qeGNDUEl4Z3dtMmdPaEJmY1pxUlFoUWlXQW5XMDBHbDh6d19NaXBkOGU0UE16TS1CWElhdnRKNjJnb2hMZ0hHR2xEbWNzbnBibUhZZldQa2ZqUWF4ZjhPNlR3Z1JkTE9HV0pPejlLMFpQeTg2SVhPdlZ1VGUySUVUQzZNUzRvM3hraU5hdmpTcVJ4a0syYjlNUXVaN1NVaHAtR0UtQQ?oc=5",
     "source": "Expresso",
-    "ts": 1790007415
+    "ts": 1790055000
+   },
+   {
+    "title": "Um em cada cinco postos de abastecimento em França já está sem gasóleo ou gasolina - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcTJJMGFIcThNWDlocFBLcVJ5QnBZaHFTSnU4ZXNCc0Foa1c4SFktSkltbjVQbmtwOWVtNUR2UVRfeUdOTmtUWVlFOFlWRXNsZGRZTjVUdzR0ekJCNlhJcGYtMWdYTFYwSTllUHVoNW8wSHlYSldMWGh2eFNHSVZqVlBoTlJpM0ZkeDR4UUFMMVlKeFR4akpzbVpRaXRDdmFCNzFJczFVZmJ5dkJIZ2tPVmI0TkRUUHpSLXpLdl85QWVQMEtGZUhKZ1ZlNEZkZGdWdVhfZUluN2RDU3hGSkh4OXgwUTVrSWRrSTlscg?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1790072039
+   },
+   {
+    "title": "A dupla vitória de Vladimir Putin - Público",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBRYzN1MHNpVjlPTnk4QWlfdGRaRDFySGY0MzRoWGc5UHJxaE9GUWtIVTQ3ckw4dXlRWFA3WVM2bzVmUHBEOFMyNkNNWS1rRW1oQXV4TDVfYWZGUGQyYjBkWFVvV0VLQQ?oc=5",
+    "source": "Público",
+    "ts": 1790083972
    }
   ]
  }
