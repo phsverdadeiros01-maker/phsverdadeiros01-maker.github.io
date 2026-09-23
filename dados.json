@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-23T11:00:02Z",
+ "atualizado_em": "2026-09-23T17:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-23T11:00:04Z",
+  "atualizado_em": "2026-09-23T17:00:04Z",
   "dias": [
    {
     "data": "2026-09-23",
@@ -1632,54 +1632,72 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Jogador do FC Roriz gravemente ferido em jogo de apresentação após agressão de atleta do GD Louro",
-    "link": "https://e24.pt/barcelos-jogador-do-fc-roriz-gravemente-ferido-em-jogo-de-apresentacao-apos-agressao-de-atleta-do-gd-louro/",
-    "source": "E24",
-    "ts": 1790098113
-   },
-   {
-    "title": "Barcelos: Theatro Gil Vicente apresenta programação eclética para o mês de outubro",
-    "link": "https://e24.pt/barcelos-theatro-gil-vicente-apresenta-programacao-ecletica-para-o-mes-de-outubro/",
-    "source": "E24",
-    "ts": 1790096910
-   },
-   {
-    "title": "Jogador fica inconsciente após pontapé na cabeça num jogo amigável em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNzI2Q1JteTE4Z1E5bXJqQ2NUSEJCR0RheWpnb2VLaVM2VjBIS0ZSZVhBb3IzRzI1bV9HVVRYeGNudHRBNldPMGdaZ0xyU2VVaFNiMDZ1RTRiVkVXREVfMVFfRTZ4MWk1RTRrQy1iMHFUNjFZODNSQXdncW9NaWc2SVE5S3BCNWRoeEJfQXVGNTAwNVgzSldtSEE3VDNhd3k0RncydHp5c1EyWUFJQWRFeGQ3RlM3Z3k1YzZSX25n?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1790150400
-   },
-   {
-    "title": "Jogador deixa adversário inconsciente em particular em Barcelos e é detido - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZGYwQzI5anlzbmFmRXM1bm8xNnJzempuMGdjNm1RNndGa05aUUJjempkeVZqUC1WZ0poMXRKeFJWbnpjejJmbkZxUWlMb3hKQzF6blVDX3UzY2ExeUlUZmgzMFhESUxYYVZ6Ty1qcFBKOVNvZ1ZLdGNpd1N6YjJxdzNxbnlPUE9kek9Xem9YZkw2UHBfZTNsN3dIZ05tZm1YODV5LTBjZ2h4Uk5xQjVQcl8zcG05dFR6VlV4bWN2aG94UQ?oc=5",
-    "source": "A Bola",
-    "ts": 1790159460
-   },
-   {
-    "title": "Atleta pontapeado por outro durante confrontos num jogo em Barcelos - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeXR5VlF6QVlmb3hIem5sQ0RxTXRHM2dXZXItdkZQUV9PTWRRbHg3MExUMEphOE5ONWJiVnB0Sk1Rd3B0Yy1KYkZMREJ2V0NtNDQ4c1ZZV0txQnBONUo1bkhlc3lFQ3JfZ2xOTzlISTk5eXNqYTVoaXY3aEdpZ3lzcTF0c2k2b2FsS0pWY0lIVXBFNFowUGc3bHlxMVBxWEhhSUdXQmNuYTk1SlRlNzU4RWRkQTNZSzBN0gGzAUFVX3lxTFAtbDdNWXdRWHo5bWdXSm1vdS1OTDVORzQya1VXRFpudHBlNzN0MEExQ1REQzZhRks3cDNOOUtaWUZYeU5XQkFBa2twdHNBVUJDRnFMTXZHNXNCTXB6a2I3SVY4aUNPYWIxY040WVJCRW1GZjNOZGstQmFCdWtsSWJodVcxMHpwSkRMT1dLeUcxd1pVVVpYbFo5TjI1dUdMZkt5YUx5V1c5Yk1CZUZfbjJzVTFB?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1790091480
-   },
-   {
-    "title": "Três feridos em colisão entre automóvel e camião em Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMjhlNUlQWDBnOGRxa2FwOUlmdV8yeVZFUVU5YWx0N2tqVC1TY01QQW1JRFkwa1A3SjFmMjVSbm45X2RIM3JKUWtSVUZnalRWdm9Rdks4WjBwNVZDQnZhT1J0RGl6QVI1WThIemtvYTljYTByTlZ0cXBGUHRNTXkwc29xT3R6Zw?oc=5",
+    "title": "Barcelos: Projeto “inovador” já oferece apoio psicológico gratuito a 200 jovens",
+    "link": "https://ominho.pt/barcelos-projeto-inovador-ja-oferece-apoio-psicologico-gratuito-a-200-jovens/",
     "source": "O MINHO",
-    "ts": 1790074043
+    "ts": 1790181476
+   },
+   {
+    "title": "Barcelos: Município adquire antigo Quartel dos Bombeiros de Barcelinhos por 1,1 milhões de euros para serviços municipais e juventude",
+    "link": "https://e24.pt/barcelos-municipio-adquire-quartel-bombeiros-barcelinhos-11-milhoes-de-euros/",
+    "source": "E24",
+    "ts": 1790178092
+   },
+   {
+    "title": "Câmara de Barcelos compra antigo quartel dos bombeiros por 1,1 milhões",
+    "link": "https://ominho.pt/camara-de-barcelos-compra-antigo-quartel-dos-bombeiros-por-11-milhoes/",
+    "source": "O MINHO",
+    "ts": 1790176668
+   },
+   {
+    "title": "Jogador detido por violenta agressão em Barcelos deixa o futebol. Clube fala em “racismo e xenofobia”",
+    "link": "https://ominho.pt/jogador-detido-por-violenta-agressao-em-barcelos-deixa-o-futebol-clube-fala-em-racismo-e-xenofobia/",
+    "source": "O MINHO",
+    "ts": 1790171723
+   },
+   {
+    "title": "Barcelos celebra Dia Mundial do Turismo com programa dedicado ao território, cultura e tradições - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMnhWQ1U2NnZLQ2VVdXQzUzJaRmFnY3RsaGwtbHV1T1ZnMFlod003TlVBSklGYUxLNHV1U3lzNW4ySUUxRC1MU0RvMXNIek9ETV9CR0EwWVRSQ1FPaDlfUmFmVUUwY2V1VTQ4UFA1TnBwcVdRRFpvcHFpS2RoNlNRQ1huampFRnhJa1F6MkVoV3RqeENOOXZYeDBXd2ZzekYxZmdXVmdTZjhlNi1KRVBfTDVpV3Q0cml4Ym4yQUowODZaVzhEM3Vaa3pTbm5QRE9FaER6NW9ZV1J1ajA?oc=5",
+    "source": "SAPO",
+    "ts": 1790179220
+   },
+   {
+    "title": "Barcelos espera este domingo 1300 atletas para a GIVEC Maratona BTT 5 Cumes - diariodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQekxXSnhVcW9JU0liM2FIeWJBUVRDVkRJSWNXdEdZTzUxUUdjZ3QyWjBLRGRReHVYYlJFN0FUTERMMGJsMC1sN2FQVHlKZnNkX0VvZHZwNU43b0tZUjVsRnB5N3VRSlZXQ3pJalBENkJvMWVtdjFZZko1SHhVRndrT19nYkJkbzRNcU9ralhmT2NBUG9nLUtQVHNrUkFJZkZUd0s3Mm0zOVk5ZENSSXFrdmluZlF6UnRhR1ZOdTBfUmRyYWlqNEQ4eWhaR19FUC03bHVpT0w1S2E1NlRZUjBiTdIB5gFBVV95cUxOcS1tT3J4LVA0QmdCa3R5N2prNF91NmZDOUVlclhXV1djTDdYX0gzNllCQklvNXl0cmNvVGl6V3IxRzQyTUtuSWpzM2F6VTJDUUtsOTJaM3VGMlhtYkVlZE5jUFRwS2hGaEo2QTQ3NmV3S0E4ODJIcGh6aTltUGhMOHlfbjluT0pVYWpDdjZEOThGZEVhMnhjemJSaEktWnVST2dVUFMyUUMyY1ZzVzd6XzMwOXJzZlRkUHlxamg4WnppbHMxRWFjbnp3djFMMzZ0S2tjV0Fyc3ZBSU1nS2ZTaWExcjRvdw?oc=5",
+    "source": "diariodominho.pt",
+    "ts": 1790172780
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Professora ferida em acidente a envolver trotinete e carro faz um ferido",
-    "link": "https://e24.pt/esposende-professora-ferida-em-acidente-a-envolver-trotinete-e-carro-faz-um-ferido/",
+    "title": "Esposende: Incêndio em indústria de bobines mobiliza bombeiros",
+    "link": "https://e24.pt/esposende-incendio-em-industria-de-bobines-mobiliza-bombeiros/",
     "source": "E24",
-    "ts": 1790153487
+    "ts": 1790177785
    },
    {
-    "title": "Esposende inaugura novo Parque da Cidade neste sábado - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9SSzlQcFpQWk5NLWhCZE5qWXQ5eGM1dG92ZXBfM3FqZmk2aHVYRDZZNVExZmdlOTNYbTdOeVFMbmpfeklKN3ZBcTRR?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1790148060
+    "title": "Esposende acolheu primeira edição do desfile etnográfico dedicado à indumentária tradicional do Douro ao Minho - diariodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNaW1pUUhEUmtMRTZiU1JJUGlqLVdFSDRYSkVuWl9hMDNWeGh5UmpGdk1EVkljUWU0Tmk1Z3hUVUhEdV9KUjdERk8xekg1M25aa2UxbnJHdmRHSVRxNTRxVDllV3hseDFsaWtWeGZNcWdJSzh1V2Y0RkJlZE9UTVpIeHJtcEJ4bWxhcEF5LThYbFVTdEtHNkYxWGRXMFVnSFBKVHdUcmdnT1ZXUTJ6TGl5Wkc1M3lJR2dMNDUyWVd2VWQ3d1ZrLWFacnJKRzJsaFZRWDRDNXE5ZVBtZ0ptTEdhWGZFdkQybTVtSWcyeTlDNWRIMXJWWFQ3RWl3WlFCT1dMWU1CWWxpSGx1U19K0gGSAkFVX3lxTE91MVZMY240Qm5jU3NwY1JKOGw1ZS1vSkJMVGVKWlBSbDc3Y1k2WmcxU2gzbWwwb2s3a1NOckxDazlaQUhJRFJVNlJpTERuOU12X1RWeXdYbnl0cEhtTDNscVB2eFBjZW9RNUtlRnJ4SFVRal94dGxUY1RWUFdLaDBmeFByUnZzTGlyb0FyZ2lQczhaMmpnRGRURV9kNzZJT21GWmZ3cGxZd1lzQ2VzaTlZS3lXWW5aNDhRRmFyNlVwWjVKbW1mMTJoWnloUjk5bUd3WXNRVFZ5dWI3ZFFhakNqM2ZvbmVMVDhYdGZuVExjS3N5eWVmaWRWcVVaQW1SNmxadkJ2R3p2SnRtX0s5OTFaRlE?oc=5",
+    "source": "diariodominho.pt",
+    "ts": 1790167200
+   },
+   {
+    "title": "Incêndio deflagra em indústria de bobines de madeira em Marinhas, Esposende - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSXJEQ1V0M3I4d1RGNXp5blVYOGdZTlNtekVzWDMwdVJIXzhzekpWTmp3RzBFMzZoLVpHNFpFczZaX0xlRmdwOUxOLXpVazVmNlVlM1RxOUd3cU5rVGpfRGp2eFhlWUJTaGVZbFlndjRCT0I5dzVuT19uSmczQ3dITlg0eDU0UHJhRjk3ZUhxT0RxTndJRFE2em8tMkdGVERmcS1EWS1lZEdpdHJkUzZCX2hsVHdFRzVtUDNrVXJRQQ?oc=5",
+    "source": "SAPO",
+    "ts": 1790174127
+   },
+   {
+    "title": "Esposende inaugura Parque da Cidade este sábado - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OVFRlMTZ4Ui1xM3FRbVBVcHJvZXc3dFYtYjRSOE1ZVGV5UHJqR0l6dmhQT1Y0VTFrWEhSLVJoU2NERkRoa0QwVGR2aGd5VDFVZm5WdG9raWZFMFZndEtrQlNmMXRNUmJsNDdXanRPamJka0VY?oc=5",
+    "source": "O MINHO",
+    "ts": 1790165230
+   },
+   {
+    "title": "Esposende: Cerca de 200 idosos reuniram-se no Monte de São Lourenço para o XX Torneio de Malha Sénior - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPXzMxQUV3U29ZZG5XVVBCZ3ZEeWFyN1hJQk9uZ1hsS3JaRmhoYmx5aGlabC1EYXpDZGtLcE5SSkkwLXRpcWVxRDVlTnJpc2NPTjZWZHFROFVtSGk2TTRzVjUyb25jaUd4SHIyMFVLMjJaQnRZV0hDdHVTUjNIR25UV0NGZzdyMXFCNW9JeURaajY1MFJCaGNhcXpsUVphY2RHOEdiUVRQQVdqcjVFVGR2Wi1OdDJvbWM?oc=5",
+    "source": "e24.pt",
+    "ts": 1790070853
    },
    {
     "title": "Esposende inaugura Parque da Cidade com novo miradouro - Braga TV",
@@ -1690,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Na ONU, Guterres pede cooperação e Trump rejeita limites: do Irão à inteligência artificial, duas visões do mundo - expresso.pt",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOWWRySXI5Y1ZJUWo5cU5oY2wtYk1lUlJVbzFxaXB4T1ZROU5CeVpnTmFEZUwxRXdlTWppM1I0ckJiM3hTTzRWQW5zeklONUEyaUh0ZnpTcjl0MFc4dEVvaEZUREFNM3hXTmFlSmlBUGJUX1dldEpianVfWGN4MVVHd055UXZZM0plSDdrX1F0dnNKX0QtbnZ4akVvd3pnZzJqaWhZcTFabXNSakxtQ1Y4RC0wRFVPZnByY3E5MG5yWWJnTndlUWo0SHFaV2V6NHEwX2NHOGduQmhjMmlfTnJrYm5CcFVCdV84YVNhcGFvN0paU1VY?oc=5",
-    "source": "expresso.pt",
-    "ts": 1790109557
-   },
-   {
-    "title": "Quem governa, qual o futuro de Merz e onde parará a AfD após as eleições regionais na Alemanha? - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1lhOXVnN3FoWnFfSW9xeHVEd0t5MWs3MEZfb2JoRURxQkw3NENCVUU4TnZtWE5maTd5aUVvbVRfTjN3cVRpWmJRbVFQbE1xWmU0VHVzeWRDTzd0NWRqSTRvX2Q2ODhlQTljdDVmczFXNnhMRXlDd1hCbDJjU1pMcFJ6ZG5HbkF4S2ZtMGdhdkJJS1JCX0tYaGpBcXhjdkM2elBlR3h3RElYMlEtRkM5YmZRQTdqVHl0U2dPWkN1V1V1UQ?oc=5",
-    "source": "Público",
-    "ts": 1790105138
-   },
-   {
-    "title": "Corrida aos preços fixos (mais baixos) da Total secou muitos postos em França. E em Portugal há riscos? - Observador",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTXp4NG1MM1FqYkNYSS1veVRKang0S2h0SkxXNVhnUDZ3MFRCdjJXOWtsUGJjc3BOeC1VbkJKTGYxaFBXNXNud3NLN211WlFIbWczdGtUT09oaUJLeUY2S1FPY25nNFJsRTdiX1RuNFBjUHJCZnlJaEl0SGlDNkxoSi1EVk1ic3M0T3owUVV4WDdCYXdHdHVKdXJubUpUX0xKOWNUNzBUV084bVZpZ215b2ZmMXJabWo2dllYVFk0LUE5dUdYYXhmM0lJaXBudw?oc=5",
+    "title": "Trump questiona presença da CNN em Assembleia-geral da ONU: \"Não devia estar aqui a fazer a minha cobertura\" - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS0JWcF9aR2NUa2ZvS0lBcEw5eEF6eHB4RjNGbkctOHJiTGlJQWh4OWdWdEhsdUdVNHNTbjJ6Z2p3NU44UkdnekhmdDdQejExX1E5QzRFYVRta2lEa0VDemVwc2p5bXUyRGNMRkp2djBMVzg5U2JDOUlGczN6VjJFZE5NeklralNYalZ6aWNxTW1FRV9FZWZLczFMckR3MlBBbERfbDhQVWJDOHc4R2NteE04NFdycGNHUlgzaENhaDFBVXFSOFc1U2RmMDMzb0pZRVRmOHBR?oc=5",
     "source": "Observador",
-    "ts": 1790103733
+    "ts": 1790157170
    },
    {
-    "title": "Trump assina acordo de segurança com Gronelândia e Dinamarca na ONU - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDNCbTB1Ymt5aUpvRDVENUtsTWs2S1V6eDJ4TGdvUS1lazJCYnhPSUpCdE16ZE5KdVFvWXZXMWNHUXMzXzc4MmFJLTh6Z2VkSjdRdDdwc0lVSTExZGV3UG1JUHdxbk5uSUF3LVdGb1lDWUotZ2YxMHExcDc5Sng4QlVBbXdsSFJ4LVJZald0M0tjM2l0VVpwR2RLaGNRZHVPWkJPTXVMV1hoeTTSAZ8BQVVfeXFMTkV6OXBBMHVVTHZXLUoxT3E2VFVkTjd6RV9kQm9TU2ZhNWRWYkhabF9PS2RDdkZ1Sy1jRHlyU2dDWGM3QWtvMVNIVXJhdlNXWVdxbElEZFFmMlN1XzFRVWNIQU5tUDNMcFdnbGo1UzhRT09IZWt4UEdBTy0wQk1lMVZYSTFhUVF1bWRJcDJodUhnUG5YYVVDMGtKVk12OTJz?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1790113500
+    "title": "\"As linhas de falha do mundo estão a alargar-se\": O 'adeus' incisivo de Guterres no último discurso como líder da ONU - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOV2NTVXYxVjZ3NW4zZF94UVIyOHV2MHdETVlNSG5CWEJUSXNyOEc3bklaZ3R4TUgtX2lLY1RmeDZHV2RIOUU4eGRyN0pCejJaOHVkdnI0eUNrLTlYakNmdW5VR1RWcTNHUjJGMXVyQkVOZVNpVGtHaHRMVXJLVmk4N2JKWXhueUtUemItME9xWVZfRzJ2NGxLck5OdjFDV2NfZm4wT3lBUnNkU1E5c3ZBRkJtUkdNLWpRRHczNHd1ajMtcHpXNXZST25udXNtQlBIdkFRWHRsX25NSDUtUjZzdjUwYy0?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1790092320
+   },
+   {
+    "title": "El Niño poderá provocar mais de 450 mil mortes nos próximos seis meses - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQzhrOHlCN3ozRklaZDQ5bzJCclJyRzQ5OHJoWHUxLVg1UFNQS2h6SEF2empVcUxBbHhiaVJHUUZOMkpXQXdDaEI0aVl1RC1IaVNVODduZUdmM0UySnV4UmtERm1tbTZIYUdDVWNrSTNOTlZfeEdPMXZzd0wwWkI1TkhYTG84U0lFUkdNN3lqeVkwSVJKVHhPUV81WXZlM296cHBMcmhHNWJlYUFETThRV3VrNFpEaVZHajJUOVNZc3h1TUN5UW94WTJZUkQ3UFphLUNxYkh0aGFlTHZ1ZzQtOFltbUFodw?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1790151125
    },
    {
     "title": "Trump recebe Xi para manter a competição entre EUA e China em lume brando - Público",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY2VFazBYdlh0cnJWUlNRcTBVZmFaMGpZZ0R6VnNSOUh1Tm0wSWJjMjdyNnFmX0swQkt1S3ZKQlFHam11ZDU1dGR3ZnpXZWc4NW9ZYWgxOG5YejJsTzNuZmVRa0Q3cndObXN2N2pmaWNUb2hVcERkMGhEakdfSENhZlBsLTFLalpsNHVFblhZVkJFWENOSEtvaEtKRmlNU0xTXzJ3VUhfZ0VncjNmejlNdA?oc=5",
     "source": "Público",
     "ts": 1790107200
+   },
+   {
+    "title": "Um em cada cinco postos de abastecimento em França já está sem gasóleo ou gasolina - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcTJJMGFIcThNWDlocFBLcVJ5QnBZaHFTSnU4ZXNCc0Foa1c4SFktSkltbjVQbmtwOWVtNUR2UVRfeUdOTmtUWVlFOFlWRXNsZGRZTjVUdzR0ekJCNlhJcGYtMWdYTFYwSTllUHVoNW8wSHlYSldMWGh2eFNHSVZqVlBoTlJpM0ZkeDR4UUFMMVlKeFR4akpzbVpRaXRDdmFCNzFJczFVZmJ5dkJIZ2tPVmI0TkRUUHpSLXpLdl85QWVQMEtGZUhKZ1ZlNEZkZGdWdVhfZUluN2RDU3hGSkh4OXgwUTVrSWRrSTlscg?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1790071980
    }
   ]
  }
