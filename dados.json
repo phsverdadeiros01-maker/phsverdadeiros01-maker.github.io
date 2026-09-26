@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-26T16:40:43Z",
+ "atualizado_em": "2026-09-26T17:00:57Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-26T16:40:43Z",
+  "atualizado_em": "2026-09-26T17:00:58Z",
   "dias": [
    {
     "data": "2026-09-26",
@@ -1682,9 +1682,9 @@
     "ts": 1790429160
    },
    {
-    "title": "Câmara de Esposende apoia restauro do Salão Pastoral de Palmeira de Faro - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzRobE5HWlVaUEo4YTgyT08zRkhjUnJDMVU1czd5UHloM0FNUC1BYVV6aXMwY3RpMlNoaGNtRjZFdmJMQXQzeEl4S0FtWDRtdDd4dzFhOTMtRXQtOHViOTAwUnZoOU5EUGIwTVpLWEtDRGxVQUpmZmh6MDBfYjRONm5CVEk0aC1zdnRZZWZLSDFCa2Y3MTBYemFFaHhaTjR0cWVqbHA2RFRtVUNvSTdVRU13V2c?oc=5",
-    "source": "Correio do Minho",
+    "title": "Câmara de Esposende apoia restauro do Salão Pastoral de Palmeira de Faro - correiodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUQweHhxbk1YalFGdXNCa2ZMM3FRbExROENCbUNJZ0MzR254ZUl3ZzlOM01QeUhhZDVycGFwNWhRaHlQNUlYa0VBd2dWRHdfd1dGWEp4TUpDV3E2TUNnamlpZHJiVldITzdqRUxoYWVTa01kZlpQQlRJN1BScmdqUk1kN21xOXhrejZPczJJa01UUW1zT2xFSHFvSW1wVmVfSjZGeHl1OEw5RmFpTFdlSnpadlh3M1g1a2c?oc=5",
+    "source": "correiodominho.pt",
     "ts": 1790422260
    },
    {
@@ -1708,10 +1708,16 @@
   ],
   "mundo": [
    {
-    "title": "Lula anuncia proibição das bets no Brasil a poucos dias das eleições - RTP",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRUdVM2N4NXJiS0s2SzlhajNsRnZ5N2hCblNubV9IdXlvZUtwZ3RzSnJpOUl5Ump4S3ZtaFhvSUdvUmdQbEJnVVBRbnZJeE9qZmRHbW1zeE9tekJIcUpka3E3N3pXQVZZMXNqSWxiM0d0NVVGQXhkT1ZKZXN1ajk3dnhQcjZjVlRfcG1Xb3lncjRvcndKbUV3amRVc2FCd21TQTFzdXVYNW04ZURNU0pVQw?oc=5",
+    "title": "Erupção do vulcão Etna encerra aeroporto de Catânia - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTJRR2lGS1R6RTJ5QlRPNWR0cEZOb19vQ0F3VzI2VDRmWUJhZUxQWFBLN2ZEaFFqcV90c0FYZkJfRFhXbjJfT1JFS1dHV0RBeS1IRkRINDJabC1oVlB0bnA4cUoxd2VRTDNzMDhGOXB5N0U2dlhfUUVtbDhQMXFmcF81dENHYld5VTR2OWx5czRaVm51TDVUMnJNbnpOR2dV?oc=5",
+    "source": "SAPO",
+    "ts": 1790430902
+   },
+   {
+    "title": "\"Exagero deliberado\". Putin garante que não pretende atacar países da Europa - RTP",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeF9OTDNWd0xtUmYxel8yMXF0MEVWeVp4OE9BOEFFRnZOdEQxcTRIMlpsV2dmLURoSzY5d1R5bmdQOUhNVDFHZVZaUXFQUS1mS1FzM3lyT20tczdpTUl4WWRJcWFxVzBxWXByeVd6VFU5RjY1dkpvVWpLWWs1QjlQSFpQQTJfVzhOSU1GQnN2ZnliaHk3S3p4UHk4TXBWZw?oc=5",
     "source": "RTP",
-    "ts": 1790430444
+    "ts": 1790430469
    },
    {
     "title": "Seis corpos recuperados após explosão em zona turística de Atenas - Jornal de Notícias",
@@ -1726,16 +1732,10 @@
     "ts": 1790419658
    },
    {
-    "title": "Trump confirma que rejeitou plano do Irão para reabrir Ormuz em sete dias - dn.pt",
+    "title": "Trump confirma que rejeitou plano do Irão para reabrir Ormuz em sete dias - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa2V5SHhFMlFvT243U1RUZ1c5NGtyMW5yelN2X2FnT2UwVnJUU21LMXdydVZDVWhoc0FOa0dQMFUtRzdodXFScGdxR29SaGtOektVUEJLVkFRZ1JJUmRNaWlLVExCSDI3Qzl3NGpEc3lGWHZuZklTaC00VXVkYmZZcl8tcG5fWUhSMkpXd0xLamdhTnlUR2h5ZnRoV0R3LXpObDNUZDM5RQ?oc=5",
-    "source": "dn.pt",
+    "source": "Diário de Notícias",
     "ts": 1790417437
-   },
-   {
-    "title": "Casa Branca proíbe CNN de viajar a bordo do Air Force One - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR01jckk1aTA2cFR0cTdJUHNLUllvT2JqMlo0OVhMQjRqT19VZkg0Nm9XQVFMQzFyTi1DTm1ocF9wVlNhNV9tVGgwSHNDWENNVjVsV19MbExpTXRHRFNHdFVnelpDZDY5WFl1RERMRmRPUDk5VE80TDNOSHBsS2oxRl96UzYzbTA5V0pYallUdFZTYkllMmFJdmk0TGxKY1I0RUM0?oc=5",
-    "source": "Expresso",
-    "ts": 1790410630
    }
   ]
  }
