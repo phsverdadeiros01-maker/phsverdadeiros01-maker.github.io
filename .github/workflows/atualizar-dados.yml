@@ -1,0 +1,71 @@
+name: Atualizar dados do site
+
+on:
+  schedule:
+    # O GitHub usa UTC. Executamos nas duas variantes possíveis e o passo
+    # abaixo seleciona 08:00, 12:00 e 18:00 em Europe/Lisbon.
+    - cron: "0 7,8,11,12,17,18 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Verificar horário de Lisboa
+        id: horario
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          hora="$(TZ=Europe/Lisbon date +%H)"
+          if [[ "$EVENT_NAME" != "schedule" || "$hora" =~ ^(08|12|18)$ ]]; then
+            echo "executar=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "executar=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Obter repositório
+        if: steps.horario.outputs.executar == 'true'
+        uses: actions/checkout@v4
+
+      - name: Atualizar notícias e IPMA
+        if: steps.horario.outputs.executar == 'true'
+        run: ./atualizar_dados.sh
+
+      - name: Validar dados gerados
+        if: steps.horario.outputs.executar == 'true'
+        run: |
+          python3 - <<'PY'
+          import json
+          with open('dados.json', encoding='utf-8') as f:
+              dados = json.load(f)
+          noticias = dados.get('noticias', {})
+          for categoria in ('barcelos', 'esposende', 'mundo'):
+              if not noticias.get(categoria):
+                  raise SystemExit(f'categoria sem notícias: {categoria}')
+          if len(dados.get('mar', {}).get('dias', [])) < 3:
+              raise SystemExit('previsão marítima insuficiente')
+          print('dados.json válido')
+          PY
+
+      - name: Publicar alteração
+        if: steps.horario.outputs.executar == 'true'
+        env:
+          TZ: Europe/Lisbon
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dados.json
+          if git diff --cached --quiet; then
+            echo "Sem alterações para publicar"
+            exit 0
+          fi
+          git commit -m "Atualização automática dados $(date '+%d/%m %H:%M')"
+          git push

@@ -1,13 +1,15 @@
 #!/bin/bash
+set -euo pipefail
 # Atualização automática do site Barcelos Hoje — 3x/dia (08:00, 12:00 e 18:00)
 # - Notícias locais (Barcelos/Esposende): O MINHO + E24 (filtro por keyword) → fallback Google News
 # - Notícias Mundo: Google News direto
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
-# Publica dados.json no GitHub Pages; o site lê este ficheiro.
-cd /home/jo/barcelos-hoje-site || exit 1
+# Gera dados.json; com --publish também cria commit e publica.
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+cd "$SCRIPT_DIR"
 
 python3 - <<'PY'
-import json, sys, urllib.request, xml.etree.ElementTree as ET, datetime
+import json, os, sys, urllib.request, xml.etree.ElementTree as ET, datetime
 from email.utils import parsedate_to_datetime
 
 def fetch(url, as_json=False):
@@ -118,7 +120,7 @@ def ipma_ofir():
     """Busca a previsão marítima horária da Praia de Ofir (IPMA local 247)."""
     try:
         import subprocess
-        out = subprocess.check_output([sys.executable, 'ipma_ofir.py'], cwd='/home/jo/barcelos-hoje-site', text=True, timeout=45)
+        out = subprocess.check_output([sys.executable, 'ipma_ofir.py'], cwd=os.getcwd(), text=True, timeout=45)
         return json.loads(out)
     except Exception as e:
         print(f'aviso: ipma_ofir: {e}')
@@ -138,8 +140,9 @@ dedup_categories([
     out['noticias']['esposende'],
     out['noticias']['mundo'],
 ])
-with open('dados.json', 'w', encoding='utf-8') as f:
+with open('dados.json.tmp', 'w', encoding='utf-8') as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
+os.replace('dados.json.tmp', 'dados.json')
 print(f'OK: Barcelos={len(out["noticias"]["barcelos"])} Esposende={len(out["noticias"]["esposende"])} Mundo={len(out["noticias"]["mundo"])}')
 
 # Reportar fontes usadas
@@ -152,5 +155,11 @@ for cat, items in out['noticias'].items():
 print(f'Mar: {len(out["mar"]["dias"])} dias · fonte: {out["mar"]["fonte"]}')
 PY
 
-git add dados.json
-git diff --cached --quiet || { git commit -q -m "Atualização automática dados $(date '+%d/%m %H:%M')" && git push -q origin main && echo "publicado $(date '+%F %T')"; }
+if [[ "${1:-}" == "--publish" ]]; then
+  git add dados.json
+  git diff --cached --quiet || {
+    git commit -q -m "Atualização automática dados $(TZ=Europe/Lisbon date '+%d/%m %H:%M')"
+    git push -q origin main
+    echo "publicado $(TZ=Europe/Lisbon date '+%F %T')"
+  }
+fi

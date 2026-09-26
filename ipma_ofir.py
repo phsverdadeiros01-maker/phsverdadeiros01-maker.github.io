@@ -25,8 +25,6 @@ def dir_icono(img):
 
 def parse(html):
     tabs = re.findall(r'<table[^>]*>.*?</table>', html, re.S)
-    # datas: extrair "31 Ago", "1 Set"... das ocorrências getShortDayOfWeekFromArray
-    dias_txt = re.findall(r'(\d{1,2})\s*([A-Za-zç]+)', html)
     # melhor: procurar padrão "31 Ago, document.write" — construir lista de datas
     meses = {'jan':1,'fev':2,'mar':3,'abr':4,'mai':5,'jun':6,'jul':7,'ago':8,'set':9,'out':10,'nov':11,'dez':12}
     datas = []
@@ -65,7 +63,15 @@ def parse(html):
         data = None
         if i < len(datas):
             dd, mm = datas[i]
-            data = f'2026-{mm:02d}-{dd:02d}'
+            hoje = datetime.datetime.now(datetime.timezone.utc).date()
+            candidato = datetime.date(hoje.year, mm, dd)
+            # A previsão pode atravessar dezembro/janeiro. Escolher o ano
+            # mais próximo do presente em vez de fixar 2026.
+            if candidato < hoje - datetime.timedelta(days=30):
+                candidato = datetime.date(hoje.year + 1, mm, dd)
+            elif candidato > hoje + datetime.timedelta(days=335):
+                candidato = datetime.date(hoje.year - 1, mm, dd)
+            data = candidato.isoformat()
         res.append({'data': data, 'horas': horas})
     return res
 
