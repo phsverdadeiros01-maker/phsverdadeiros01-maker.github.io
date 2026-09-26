@@ -1,1 +1,1 @@
-https://decrease-devel-watt-hint.trycloudflare.com
+http://100.80.62.96:8765/
