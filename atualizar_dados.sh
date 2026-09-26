@@ -9,7 +9,8 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 python3 - <<'PY'
-import json, os, sys, urllib.request, xml.etree.ElementTree as ET, datetime
+import json, os, sys, urllib.request, urllib.parse, xml.etree.ElementTree as ET, datetime
+import difflib, html, re, unicodedata
 from email.utils import parsedate_to_datetime
 
 def fetch(url, as_json=False):
@@ -17,6 +18,101 @@ def fetch(url, as_json=False):
     with urllib.request.urlopen(req, timeout=25) as r:
         data = r.read()
     return json.loads(data) if as_json else data
+
+def normalized_title(item):
+    """Normaliza a manchete e remove o sufixo com o nome da fonte."""
+    title = html.unescape(str(item.get('title') or '')).strip()
+    source = html.unescape(str(item.get('source') or '')).strip()
+    if source:
+        title = re.sub(r'\s+[-–—|]\s+' + re.escape(source) + r'\s*$', '', title, flags=re.I)
+    title = unicodedata.normalize('NFKD', title).encode('ascii', 'ignore').decode().lower()
+    return ' '.join(re.findall(r'[a-z0-9]+', title))
+
+def canonical_link(item):
+    link = str(item.get('link') or '').strip()
+    if not link or link == '#':
+        return ''
+    try:
+        parsed = urllib.parse.urlsplit(link)
+        return urllib.parse.urlunsplit((parsed.scheme.lower(), parsed.netloc.lower(), parsed.path.rstrip('/'), '', ''))
+    except Exception:
+        return link.split('?', 1)[0].split('#', 1)[0].rstrip('/')
+
+STOPWORDS = {
+    'a','ao','aos','as','com','da','das','de','do','dos','e','em','na','nas','no','nos',
+    'o','os','para','por','que','se','um','uma','uns','umas','ate','apos','mais','novo','nova'
+}
+
+EVENT_PATTERNS = {
+    'furto': ('furt', 'assalt', 'roub'),
+    'veiculo': ('carro', 'automovel', 'viatura', 'mota'),
+    'droga': ('droga', 'haxixe', 'estupefac', 'trafic', 'dose'),
+    'detencao': ('detid', 'retid', 'gnr', 'polic'),
+    'violencia': ('agress', 'pontape', 'inconsciente', 'ferid'),
+    'desporto': ('jogador', 'futebol', 'jogo', 'clube'),
+    'incendio': ('incend', 'fogo', 'chamas'),
+    'acidente': ('acidente', 'colis', 'despist', 'atropel'),
+}
+
+def meaningful_words(item):
+    return {word for word in normalized_title(item).split() if word not in STOPWORDS and len(word) > 2}
+
+def event_tags(item):
+    words = meaningful_words(item)
+    return {tag for tag, patterns in EVENT_PATTERNS.items()
+            if any(any(word.startswith(pattern) for pattern in patterns) for word in words)}
+
+def same_story(a, b):
+    """Deteta o mesmo artigo e manchetes muito semelhantes entre fontes."""
+    link_a, link_b = canonical_link(a), canonical_link(b)
+    if link_a and link_b and link_a == link_b:
+        return True
+    title_a, title_b = normalized_title(a), normalized_title(b)
+    if not title_a or not title_b:
+        return False
+    if title_a == title_b:
+        return True
+    if difflib.SequenceMatcher(None, title_a, title_b).ratio() >= 0.88:
+        return True
+    words_a, words_b = meaningful_words(a), meaningful_words(b)
+    if words_a == words_b and len(words_a) >= 2:
+        return True
+    common = len(words_a & words_b)
+    overlap = common / max(1, min(len(words_a), len(words_b)))
+    ts_a, ts_b = a.get('ts'), b.get('ts')
+    close_in_time = not ts_a or not ts_b or abs(ts_a - ts_b) <= 48 * 3600
+    if close_in_time and common >= 3 and overlap >= 0.35:
+        return True
+    locations_a = words_a & {'barcelos', 'esposende'}
+    locations_b = words_b & {'barcelos', 'esposende'}
+    shared_events = event_tags(a) & event_tags(b)
+    return close_in_time and bool(locations_a & locations_b) and len(shared_events) >= 2
+
+def dedupe_items(items):
+    ordered = sorted(items, key=lambda x: x.get('ts') or 0, reverse=True)
+    parents = list(range(len(ordered)))
+    def find(index):
+        while parents[index] != index:
+            parents[index] = parents[parents[index]]
+            index = parents[index]
+        return index
+    def union(a, b):
+        root_a, root_b = find(a), find(b)
+        if root_a != root_b:
+            parents[root_b] = root_a
+    for i, item in enumerate(ordered):
+        for j in range(i):
+            if same_story(item, ordered[j]):
+                union(i, j)
+    chosen = set()
+    unique = []
+    for i, item in enumerate(ordered):
+        root = find(i)
+        if root in chosen:
+            continue
+        chosen.add(root)
+        unique.append(item)
+    return unique
 
 def parse_feed(url, source_name, q, n=20):
     """Parse RSS feed, returns list of items matching keyword q (case-insensitive)."""
@@ -49,23 +145,10 @@ def news_local(q, n=6, max_age_h=72):
     ]
     for name, url in sources:
         all_items.extend(parse_feed(url, name, q, n=10))
-    # Dedup por título
-    seen = set()
-    deduped = []
-    for it in all_items:
-        key = it['title'].lower()[:80]
-        if key in seen: continue
-        seen.add(key)
-        deduped.append(it)
-    deduped.sort(key=lambda x: x.get('ts') or 0, reverse=True)
+    deduped = dedupe_items(all_items)
     # Fallback Google News se locais não chegam a n
     if len(deduped) < n:
-        gn = news_google(q, n - len(deduped))
-        for it in gn:
-            key = it['title'].lower()[:80]
-            if key not in seen:
-                seen.add(key)
-                deduped.append(it)
+        deduped = dedupe_items(deduped + news_google(q, max(30, n * 5)))
     # Cortar por idade (default 72h para locais)
     now = datetime.datetime.now(datetime.timezone.utc).timestamp()
     deduped = [it for it in deduped if (not it.get('ts')) or (now - it['ts']) <= max_age_h*3600]
@@ -101,18 +184,13 @@ def news_google(q, n=5, topic=False):
 
 def dedup_categories(categories):
     """Remove a mesma notícia entre categorias, preservando a primeira ocorrência."""
-    seen_links = set()
-    seen_titles = set()
+    seen = []
     for category in categories:
         unique = []
         for it in category:
-            title = ' '.join((it.get('title') or '').lower().split())
-            title_key = ''.join(ch for ch in title if ch.isalnum())
-            link = (it.get('link') or '').split('&')[0]
-            if (link and link in seen_links) or (title_key and title_key in seen_titles):
+            if any(same_story(it, previous) for previous in seen):
                 continue
-            if link: seen_links.add(link)
-            if title_key: seen_titles.add(title_key)
+            seen.append(it)
             unique.append(it)
         category[:] = unique
 
@@ -132,7 +210,7 @@ out = {
     'noticias': {
         'barcelos':  news_local('Barcelos',  n=6, max_age_h=72),
         'esposende': news_local('Esposende', n=6, max_age_h=72),
-        'mundo':     news_google('Mundo', n=5, topic=True),
+        'mundo':     dedupe_items(news_google('Mundo', n=15, topic=True))[:5],
     }
 }
 dedup_categories([
