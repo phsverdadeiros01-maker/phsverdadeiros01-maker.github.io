@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-27T17:00:18Z",
+ "atualizado_em": "2026-09-27T17:08:23Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-27T17:00:19Z",
+  "atualizado_em": "2026-09-27T17:08:24Z",
   "dias": [
    {
     "data": "2026-09-27",
@@ -1650,9 +1650,9 @@
     "ts": 1790522100
    },
    {
-    "title": "Barcelos promove encontro participativo para criar Plano de Inclusão da Comunidade Cigana até 2030 - Braga TV",
+    "title": "Barcelos promove encontro participativo para criar Plano de Inclusão da Comunidade Cigana até 2030 - bragatv.pt",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWRmcXYzc1JqN2pFMjQ4dlRsS2xBd0VXYWdmb0pfbHVURmtyRmFvTDQ3MzFaLUtwck1OU3JPdEFJM1gzVXRSQmpJZ1NoNzhGb0hiR0QtcGh2SHZGNG9qeGEyTmxnNTJwRUViWVp3dm9uT1NON01IZGdPdUQ5TEhhaXVUUldhTUQwa1U1bERIRU9UMVZJZXJoQU5TaklvMFhDUjB1Y0M5d3dKc1RjcXlXOVY4MndYdmZFQ0E?oc=5",
-    "source": "Braga TV",
+    "source": "bragatv.pt",
     "ts": 1790505815
    },
    {
@@ -1676,16 +1676,10 @@
     "ts": 1790522160
    },
    {
-    "title": "Arquivo Municipal de Esposende debate riscos de inundação e resiliência hídrica no concelho - Braga TV",
+    "title": "Arquivo Municipal de Esposende debate riscos de inundação e resiliência hídrica no concelho - bragatv.pt",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSHhQTnQwV3FURldHNXE4ZHhwOFg4LWRMQ0c4SGFQUEdSTi03elhqZ3RzTnhrc1gyZGlmNV8yeDBQU0U5RFU1RGN0a2tCcWJoTHlFZ2laSEI5aVRsNVN6UWZNdUlER3FoU05ycUtueU1HYjMtMGNwby13R1NWaVBEMTFHai1zWDVHY3Bqb2o2cVRSQzZSVFoyMTgyTFVabDdHLWhqakF0NWZ6ejZ5M2d2cw?oc=5",
-    "source": "Braga TV",
+    "source": "bragatv.pt",
     "ts": 1790516301
-   },
-   {
-    "title": "Gallery of Marginal de Esposende Redevelopment / Victor Neves Arquitectura e Urbanismo - 11 - ArchDaily",
-    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQX1BzSzM4YTVGWEx4YzlaTXU0VV9udmwtY3ZaNlV6Rm5wbk9MSzZqakNvcmVXTlBseEFtR3c4Vl9sMTV3eGRjWkU5WU5mZFBIS1ZVMEdLSl9objVGazJFbGV0aWRHa1NnaHdUWlFaZGZOTW1Vb2V2T2RJeUhGa1ptQ3YzUWxWRERnMTlQUVJGdTVtMVQtemw1eVUzd2I0SG05ZUpkSXNxNmxrQ0J3bW5YNEpaRnBRdlNvTEZYZFNVbU5ESjJnVmJkWXl5WEpFelVFek9WMXpWaHVmSmYzY19HOWVUMUVDZ0FzRVFCQkVteG15d1BjZzdVdEVNa3dqazRhYnJpUTczTTViQnIzU2RZakFJRmpwd3g4QTJGM2pzSUNKb19lZHViUEN6WXBJZkpLbG9ucXFWMA?oc=5",
-    "source": "ArchDaily",
-    "ts": 1790511011
    },
    {
     "title": "Esposende junta especialistas para repensar a proteção das crianças e jovens - Rádio Festival",
@@ -1704,6 +1698,12 @@
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GTWFFdmstVElfUmdHUW1NZC0zVnhOQW9JZkJiY25LWFlUMEJHSzI3N1MtbFYxQWJkVVBXdV9zQlNpUk5Hb2w5N3NYSW51SldZX1BUUlV0LW4tVkxMZTVHbHItLVBQYWtSeFdpeGJGODJhaThxZ3c?oc=5",
     "source": "e24.pt",
     "ts": 1790473142
+   },
+   {
+    "title": "Boletim Unidade Pastoral Esposende Nascente - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUpma3ZMdGY1d0ZMSUkxVTBscTNRQVhZVEhEdGlSMGthWVBqN1RnRGc5U25uSmc3eFVibEZiOHBmcDM4c3cxZmVUdzRVaWVDcDhJOUVrbkw5UjM0VjFGZzRPSzZLYkluUkJ2R0ZOQXhpS2cxNFI2T0g4dm02SWJzRXlIUDBYbllDNkFHbDZ4YlM3RmR6S1E?oc=5",
+    "source": "SAPO",
+    "ts": 1790407437
    }
   ],
   "mundo": [
@@ -1714,15 +1714,15 @@
     "ts": 1790526616
    },
    {
-    "title": "Sob pressão, Sánchez promete trabalhar \"em contrarrelógio\" para resolver crise na habitação - RTP",
+    "title": "Sob pressão, Sánchez promete trabalhar \"em contrarrelógio\" para resolver crise na habitação - rtp.pt",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTAtbExXcTFCcFQ3VkpWbXIyUnNEYzNYV0NzcU4teThEeG5JLV9pT0ZWNEVnSGJUVE9TbWpJNkVTa3JpdGJMUjhNRGdUdnZuMTVNcXQ0cDZhYzczY2FSdG1IcHkweDNPcjJzV2FZTnlTZ3lONDZQMlpTM2lqeExSaVZLUXZqV3oyVGZTbUN6Tm85QXN6TG1vdm1hWkpZb3dtQ2Zkb3RPTHV3U04tUENuTFZEbjNNTXMyTWhHYkxRamE0Tzgtb196bGZUQQ?oc=5",
-    "source": "RTP",
+    "source": "rtp.pt",
     "ts": 1790518867
    },
    {
-    "title": "África do Sul. Dois tiroteios em Joanesburgo e no Cabo fazem 27 mortes no total - RTP",
+    "title": "África do Sul. Dois tiroteios em Joanesburgo e no Cabo fazem 27 mortes no total - rtp.pt",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObV9xNXVWeWJyNjhNbXRTZjVkcGx2aFVhQ1pEYTRXNlRaZVBOMTJaQ0I2X3BNbHNSbExCZ19SYmxqVVduX1YzMm9hVkkwNTJtRTdZUjFma3hqd0FEaGwxb2Y2Wmk3b3N6dWlDU1VCbWQweVQ4RmVuZlRiaDJrWmJ5Rm9BcDlHWG4zLUJSSUNWUXlEM2hrbTl1M3RTMlVCWTVLeWlTVUFmUWpDaWluZVMyODBhZEthejQ3cDE3U0t3?oc=5",
-    "source": "RTP",
+    "source": "rtp.pt",
     "ts": 1790518837
    },
    {
