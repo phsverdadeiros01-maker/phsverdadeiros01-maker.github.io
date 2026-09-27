@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-27T11:00:17Z",
+ "atualizado_em": "2026-09-27T11:09:25Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-27T11:00:18Z",
+  "atualizado_em": "2026-09-27T11:09:27Z",
   "dias": [
    {
     "data": "2026-09-27",
@@ -1650,9 +1650,9 @@
     "ts": 1790479997
    },
    {
-    "title": "UFC: Raoni Barcellos sai de maca depois de luta acirrada contra Raul Rosas Jr. - ge",
+    "title": "UFC: Raoni Barcellos sai de maca depois de luta acirrada contra Raul Rosas Jr. - ge.globo.com",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFNKcVBwV3ktM1VoRzdhbVA3U2o5QmhkMDd6UmZzOHJHdUlVak9oWVZrRGQyV2FFMk9nb3k5TkdPUk4xdHZfQmFLOXItcUdDSjdtQUF4VkxreHhGcDUxRmc0d1QzYWZjN2QyWmY3QUNyZHk1VHNoaUg5am50dDhtSjdiOHJrUUxqMVlyZTFKeTJrQldpdVFZUEl2cDd6M0RUUnd0TmhvWmE1T2JfZDhSZ3ZkR05KbnhfSnR0LUVNNXk2Qi1KWFFCWmxOTjRub1NLQ0dr0gHiAUFVX3lxTE9YSFVzWEhORm9RWFVsODBBYmg4Z21ITVRIRFUwbmxiMTVoSjNjbTdjVmhpZ3J1dUs2MEY1OXREMXpObFVrMDQtdjRnUDNhLVoyZk51TnNqMEZjSWNoTlJZZ1ZGN2tpWGtpY3FmdDNhQm5EUE05VWFjdElVdHNWQks4QkFqUURKYVFfM0Zvd3FaaTVuMFJTd01XMmdYSnU2QlJKb0xYemVDRmxDczZGRkZSQnBwNGszTmJjWFhXbUdKMXdRM1FrMkRpZGM3OGZTNVFqWlhvVFdxcDFfLXFvYVpWcVE?oc=5",
-    "source": "ge",
+    "source": "ge.globo.com",
     "ts": 1790478179
    },
    {
@@ -1688,6 +1688,12 @@
     "ts": 1790495640
    },
    {
+    "title": "Braga: BV Fão colocam Patrícia Lopes no pódio dos Escadórios da Humanidade - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GTWFFdmstVElfUmdHUW1NZC0zVnhOQW9JZkJiY25LWFlUMEJHSzI3N1MtbFYxQWJkVVBXdV9zQlNpUk5Hb2w5N3NYSW51SldZX1BUUlV0LW4tVkxMZTVHbHItLVBQYWtSeFdpeGJGODJhaThxZ3c?oc=5",
+    "source": "e24.pt",
+    "ts": 1790473142
+   },
+   {
     "title": "Boletim Unidade Pastoral Esposende Nascente - SAPO",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUpma3ZMdGY1d0ZMSUkxVTBscTNRQVhZVEhEdGlSMGthWVBqN1RnRGc5U25uSmc3eFVibEZiOHBmcDM4c3cxZmVUdzRVaWVDcDhJOUVrbkw5UjM0VjFGZzRPSzZLYkluUkJ2R0ZOQXhpS2cxNFI2T0g4dm02SWJzRXlIUDBYbllDNkFHbDZ4YlM3RmR6S1E?oc=5",
     "source": "SAPO",
@@ -1698,12 +1704,6 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVpMZmJFSk13SDB1WmkzUThYMHNKWDdGb2xITllLU0cxdVZJWERMN21kdWhNMnJKeEpmQkZnZ3lfbG1fLTgydk5lT3Y0c04xeDNpUFNnVTBvUExpZ1ZWQXhTZ25qV0p0Y0ljRUdMdXdWa19PUW82UGJha3lPQldONEROcFVBa1YwOElRZXZpSkJrQ01XWDdTWEhPcVcydnVsaGR2Wmg3UEhFRzJaTmFJZC0yYw?oc=5",
     "source": "Notícias ao Minuto",
     "ts": 1790371709
-   },
-   {
-    "title": "Dia de Reflexão: De Nova Iorque a Berlim, passando por Esposende - TSF",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVE2Qk0xUmRJWFZXODdFNnZZdXZ5REJZdjVXcG9HX3hzY0Z0cTNwdW9CeHFUTk1KUVo4eVBnajZSV2I3LVEwVkY5dUMtY3hWc01HbUNPYnlEYzJIUkcxbEl2akpkU1B3a2tSS0s2TG11SjVONzVCUldrWGtWdXZodWtIeWktejFSX1hkck00anRGb2xwSnFSWEVhUldKczVfZHBYZHVULXJ6Z9IBmgFBVV95cUxQQ0ZPUzdnUi1EZXhQY1d6eUV3N3Jsa1R5WUJyTTVVRHFpeWhQVFg0ODJTOUVZbkl5WVZHbTd2d3pDV2xiemVGSng2WjR1Q0lhZVBKMnZpSUF2WldrN21FelpiSDllR1dEbnpNUFRtYkdDNWljdVRicjJGc2RhODJYRTJza0RURFJiZGxyaUNwdURqZXB0S2tJdmpn?oc=5",
-    "source": "TSF",
-    "ts": 1790366700
    }
   ],
   "mundo": [
@@ -1726,9 +1726,9 @@
     "ts": 1790461800
    },
    {
-    "title": "Polícia despejou Maricarmen. Madrilenos saíram à rua contra fundos imobiliários - RTP",
+    "title": "Polícia despejou Maricarmen. Madrilenos saíram à rua contra fundos imobiliários - rtp.pt",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2Z6MjA0aVNkS0lDMU14SUU1Nnh0RXY1c0xlV0ZVaTh6YWVFaGNqbWRhWEV4eTdScUVSZk9qSFUwN3dtdDUyLUdVM19kektrVlBBOFN6UDJtelFzNmxTc1F1Qmg4Z051MkNjTXBzdDVNa1VNbkgzZWJab1dXenJjSFRoOGRjQ0loNlZVYzlCTTI1RzVYU3Nsd05tdlFoeENXeGR5LXd1SVg3ejFxMFNMYU1LNmREWDYwekZ4elF3?oc=5",
-    "source": "RTP",
+    "source": "rtp.pt",
     "ts": 1790453327
    },
    {
