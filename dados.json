@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-27T07:00:17Z",
+ "atualizado_em": "2026-09-27T07:09:48Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-27T07:00:18Z",
+  "atualizado_em": "2026-09-27T07:09:50Z",
   "dias": [
    {
     "data": "2026-09-27",
@@ -1540,7 +1540,7 @@
    },
    {
     "title": "Câmara de Esposende apoia restauro do Salão Pastoral de Palmeira de Faro - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVzRobE5HWlVaUEo4YTgyT08zRkhjUnJDMVU1czd5UHloM0FNUC1BYVV6aXMwY3RpMlNoaGNtRjZFdmJMQXQzeEl4S0FtWDRtdDd4dzFhOTMtRXQtOHViOTAwUnZoOU5EUGIwTVpLWEtDRGxVQUpmZmh6MDBfYjRONm5CVEk0aC1zdnRZZWZLSDFCa2Y3MTBYemFFaHhaTjR0cWVqbHA2RFRtVUNvSTdVRU13V2c?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZUQweHhxbk1YalFGdXNCa2ZMM3FRbExROENCbUNJZ0MzR254ZUl3ZzlOM01QeUhhZDVycGFwNWhRaHlQNUlYa0VBd2dWRHdfd1dGWEp4TUpDV3E2TUNnamlpZHJiVldITzdqRUxoYWVTa01kZlpQQlRJN1BScmdqUk1kN21xOXhrejZPczJJa01UUW1zT2xFSHFvSW1wVmVfSjZGeHl1OEw5RmFpTFdlSnpadlh3M1g1a2c?oc=5",
     "source": "Correio do Minho",
     "ts": 1790422260
    }
@@ -1551,6 +1551,12 @@
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcFltS2tIU29sUzV6Rlh5OUNBNzVZUUNqNFdsdHZsRjdaUGJqMWpzMUJsSzNRRVo2WkxSbkJzZThZQUhsZFJqNTUtSjR1Z0ZIS2FkcHA3TWE0b21MMWloaG9wN2FnQ3Zwa25oeThYaDdIa29wbEhVdlNDM1E5ZzI3dWFDc28tTTFtVTh6eHVjXzd1LVAwMkVKeHdHS0F3QmJtOExieDZvNnlLcnp5eW51TXNSR0l0RWVO?oc=5",
     "source": "Vatican News",
     "ts": 1790468100
+   },
+   {
+    "title": "“Nem mais uma Maricarmen”: milhares de pessoas manifestam-se em Madrid contra crise na habitação - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTlptODluSkNBczdkR0s3cEhmclhfWWltelJsWUxPanlRTlZCenFRMFhkWTZTYUFYQk8zYktGNkk2QzNOLVlPMmMtaXUxX0hrNmdacUt6dE5mNFd1djQ3M3d4a1hCNjhDSkF5R01VLU5sUFJLSmhhX2NsUnU1M181MlNtZW9lYXlRY2VOX0xTeUxlM0V6RmVEUV9vUDVuamRwV3ItZkhVb2VZR18xRGoteHhxQ1dJR0xhMUFNZlR5clpBajMtc2FhT3JrVzVnaW5QMTl5ekZ3dlU?oc=5",
+    "source": "Expresso",
+    "ts": 1790452714
    },
    {
     "title": "Ventura critica Trump sobre o Irão. \"Estamos a pagar mais do que os Estados Unidos pelo custo desta guerra\" - Observador",
@@ -1569,12 +1575,6 @@
     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYk9FUmJnVVlPOVRsbENKLTEyR2pUOTg5LW5iN0s4T05OVGJHY2tEcm9DVlM1a2ZLREU1N183UnRWVjJITktRSmlhdzROekxtM1FheWUxTmlTc2Ywelp1NHdlR0J0c1hMaTJBcTB1NkRyeEJ1Rkl6M281b1VNaDJhbkVfSnB0eFJwYV9rbm9JSWdxSkhBQXJfdGU5aGhlQUFlaHB6TFVxeEpGSHEzRHc5dUd4LTN2bElkVlBqNllSUWFjVnZjaGpBMXd5eFpiYXEyNTkxUUlYMlZiUnJIbUE4Tg?oc=5",
     "source": "Expresso",
     "ts": 1790443519
-   },
-   {
-    "title": "Donald Trump rejeita proposta iraniana para reabrir o estreito de Ormuz | EUA - Público",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeEJJTHRsZWZyQVVUS0R3UEtVNzd6eVdSMXdFOW4taURXS3lOVEt5UVl3RXBiVmJvREthZkFSRjZINVF3NXVMTGFYMk5CV1ZvTXN0Mks3WENIWHpaa21nWm5oaUlXQk1iX1JkRHNHeW1BTXFDazB1X1JmNXFPQmhybVNHSVVRU2dGeklxSjAxa1dNMkwycG1XaXg3d1ZkY0RSX1Vzb0gzc2NQMU9LN3RqeUlPeG1NclF4?oc=5",
-    "source": "Público",
-    "ts": 1790442420
    }
   ]
  }
