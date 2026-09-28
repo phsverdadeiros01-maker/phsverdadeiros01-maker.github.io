@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-28T11:10:10Z",
+ "atualizado_em": "2026-09-28T14:43:08Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-28T11:10:12Z",
+  "atualizado_em": "2026-09-28T14:43:09Z",
   "dias": [
    {
     "data": "2026-09-28",
@@ -1632,48 +1632,54 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Assembleia Municipal de Barcelos aprovou avenças de estacionamento para moradores - cm-barcelos.pt",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVm9RQmlySk5xTEdVZmNNdU9ub1hUM19nTENpMTdYMlVEd2E3cHhxQ3V2Tm0xNEFheV9XQlNjSTdOaUY1Zms4RFFjSG15Q0dmRkUxcnJiNFVlVGw3dzZjN1RpTkw4cjJjN29odmZySl96WHN2Z005XzdTdk5GaW9vQmpTYkdaM2twb0s3cm1WN1M5cUN4bUFLQ0VOQjBvYy1QVi1ta195SmFMdkNtelFZYzVHMy1rR1df?oc=5",
-    "source": "cm-barcelos.pt",
-    "ts": 1790592594
+    "title": "Barcelos: Jovem turca desaparece nas águas do rio Cávado",
+    "link": "https://e24.pt/barcelos-jovem-turca-desaparece-nas-aguas-do-rio-cavado/",
+    "source": "E24",
+    "ts": 1790606431
    },
    {
-    "title": "Juiz manda para a cadeia suspeito de furto detido por GNR de folga em Barcelos",
-    "link": "https://ominho.pt/juiz-manda-para-a-cadeia-suspeito-de-furto-detido-por-gnr-de-folga-em-barcelos/",
+    "title": "MP pede condenação de dois ex-autarcas de Barcelos por viciação de concurso de iluminação - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSERUcUJCTGJTeW5SU1dJdW9xUVdJTUZKN1BnRF9fQVY0bThDcE9kTVBsby01RXliN2FTTmRxdW40Nzl4dGVSY2JjdVpZYU16eW1WR0Y3c00xUUQwTUlGUmcyek1QUkxLNHBHYkMyMlM2MjZlZ1FYZENyTXdDY1BCM1ByajR6N1AycWF2bFdiSHo3bWwtS21WOXJuWWpGY0pMZ2VwR25yQVZPOUZ3UzZZaHZySmlRR1gyXzBqUU14b3l0REUtcmMyMW5fWQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1790603160
+   },
+   {
+    "title": "Atleta dos Amigos da Montanha de Barcelos é vice-campeão ibérico de Rogaine - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdzdFUDF5R0VUdWZTMF9qSU1qMkNENEsxRV9tblpqeTgxNFNGelZsN09WMzdQQ25pOXZLZ3Q5Mmc0WTViWV9hX3NMaDBzamVWbDNQcjVTTEtXdFJtTXJlNlJZdHRDbjBzQXdhMzAyT2pzSURFMGswVUJGYzBTTlNtekt2RHUtOVUwM0swaEFpRXZKZ2pRcGVrTll5bw?oc=5",
+    "source": "Braga TV",
+    "ts": 1790599436
+   },
+   {
+    "title": "Assembleia Municipal de Barcelos aprova avenças anuais de estacionamento para moradores - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZ0wxRC11ZFdDZmFwdkN2NHpKR2FoT3RQMFAzWVNOZkxETFF4UU9MdjhQX2daU21NbTgwUjBRYmdHUzltMm1zVzMxOS1RaG1DT2l2NFljWEZScUF4U3VIU0pGSzdZOC1URGZWSnNfa3J0Q1dXYUgwY0ptRXVHcnkxdEV4bmtESENUdDR2YncwY1hhWVM5dldLV3Bob3ZkanlfX3REMk9PZHgyZDQ?oc=5",
+    "source": "Braga TV",
+    "ts": 1790599108
+   },
+   {
+    "title": "Juiz manda para a cadeia suspeito de furto detido por GNR de folga em Barcelos - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHFlZlRQeExIQTl5WnhJTkVOeUh6LXlXSGlJMVpTQldIamd0ZU1jWHRfSGxsNDZLN0IxX01nV25GeV9kYTZDdm9Nci04NEEydExpRE9YX25DX1BaajNzNDRVendQeU1DTFh6Y3hsQnhMbFJXcmZFNG14a2xTOW9OM2hZTUhGdVMxR2tQVjFKMHRaMXcwbWh3TVRLMjBlUQ?oc=5",
     "source": "O MINHO",
     "ts": 1790589979
    },
    {
-    "title": "Marca de Barcelos chegou ao palco mais cobiçado do bodybuilding mundial - Marketeer",
+    "title": "Marca de Barcelos chegou ao palco mais cobiçado do bodybuilding mundial - marketeer.sapo.pt",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWnE5cDU4YnFVN3M2Rjl0dHN6YThRUTdZWjNrMDJreHdCcnVvbEpGRXgyMktHVjN3SlQ1bXVNYlJCbDVBdlYwX1RiZ0ZKcl83dk5USEU1YjB0YkR6TUx3UkppX1NhZzZpUWR6MDhlcmdJa0UtM0JTaHA2QmpqSlFzTS1sNzZtTVltdVRKNkYxV0NIM04wSDBXWUd1OGR2X1U?oc=5",
-    "source": "Marketeer",
+    "source": "marketeer.sapo.pt",
     "ts": 1790587967
-   },
-   {
-    "title": "PSD de Barcelos acusa PS de ter deixado circular urbana parada durante 12 anos - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPd05VeHc1bk5kdElMNDVpVzR5eUNaeFY3VWhsRkEybnhJMVNfZ1JsUHoybnZkMjZ2WWxKZlgxSnNZbEpHamNlZzVxT1ZmQXlqQWczZ0s4d01weTZjR1lZX3d5dzlKXzI0WTRRWXdOUVFpbnU2UE91SEV6R2VVMF9KamlRQUhKOUJRRDFwV3ZXOVpINW8ta0ltRWFBWERBREU?oc=5",
-    "source": "Braga TV",
-    "ts": 1790586946
-   },
-   {
-    "title": "CHEGA de Braga e Barcelos une eleitos municipais contra riscos da reativação da Mina da Borralha no rio Cávado - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMTRWQzZuWWcxdWlNdkFRV3NQMjNKeWd0S09OLUhfZS1zQkp6aVRMTnlnRkk5YU9uYWtkMEdBN2l3NVJueloteDhwVGNuUmJBVEQ2dkFpRExudUd3UHJKdTViQS16aExEV1NTckRnTkt6RWhNUmhWaTFPd3NtNmRSdWxiRkppMjRLcWVQU3FHNzB2X3hIamE1TzJEbkZHM2FJbFBldHU3UnZJWWJHN1Z1S0J2SlNsTV8wVmZxUnh6YmZVbXM0dERYNEln?oc=5",
-    "source": "Braga TV",
-    "ts": 1790585708
-   },
-   {
-    "title": "Médico de Raoni Barcelos revela motivo de 'apagão' assustador no UFC e atualiza estado de saúde do brasileiro - ESPN Brasil",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzZzbFFVUENXc3c3UFpYNTVFb0JPSUR6dXFjRzR6TWhxdEtRbld4ZjlzZlBIUGMwR1VsY3NxOTBjdVJhZjRCelVDakhkZVdNaWp2WU1Db0Y3RTMxNmdtQUx1VzRRZmtYTWdSODN4NllSUkZwNklSR2I0WS1NQUdHQS1HaXg5MUVzQ2ZqUGZKcUg1SjBuU2JXbk5vMFp6RjAyZnJpN19ndFJfcjVVOUktZWV6S082WHBydGpSZ1pPVklWUEJQZDYyNVdWTy1MamNLZ291Zzd5VzhNLU0?oc=5",
-    "source": "ESPN Brasil",
-    "ts": 1790535780
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Nova estratégia turística 2027-2030 quer afirmar o concelho como destino sustentável durante todo o ano",
-    "link": "https://e24.pt/esposende-nova-estrategia-turistica-2027-2030-quer-afirmar-o-concelho-como-destino-sustentavel-durante-todo-o-ano/",
-    "source": "E24",
-    "ts": 1790593305
+    "title": "Município de Esposende acolhe Congresso sobre Proteção de Crianças e Jovens - MAIS/Semanário",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcUswTXMzWHpDOHNrenNYSWtFdTdvb3ZrRmRrYzdnbDU3TFhWWXZKVktyZDExSmpnX0lZdTVFU2VaXzlENGh4R3R0ZS1NRTVkLWwzajdFMFFyM1ZQTnlsRVdLTmk1djkxZzZ0NjBPVnZjLVlFVF9uVGJKNmJRNjZYdUdmSnlIemM3VHVDTm5xT3VSNUhzUU84X3Q2ZTJDc2V3RGtN?oc=5",
+    "source": "MAIS/Semanário",
+    "ts": 1790604639
+   },
+   {
+    "title": "Esposende quer afirmar-se como destino turístico durante todo o ano - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMy16cFZHbEV1dXdsNjdoSG5zZVBvS1pfQmVLSWdXZ2R6LVRNeHJMYWUzY0w1OElSQzJ1djRMc1p6RmxCdTJJcXFTaGZCYjJ2SUFyRkVXNmk4ZXJ1R0swckZLbU5jMHNHcWh2dHpJSlJ6Zk51MnIzN0hKRXlWR291TzZKTE5VdnBZSWNlMWQzV0s?oc=5",
+    "source": "Braga TV",
+    "ts": 1790598826
    },
    {
     "title": "Arquivo Municipal de Esposende promove debate sobre água, território e resiliência a 3 de outubro - Ambiente Magazine",
@@ -1682,9 +1688,9 @@
     "ts": 1790591315
    },
    {
-    "title": "Esposende: Parque da Cidade inaugurado com 10 hectares de natureza e investimento de 4,95 milhões de euros",
-    "link": "https://e24.pt/esposende-parque-da-cidade-inaugurado-com-10-hectares-de-natureza-e-investimento-de-495-milhoes-de-euros/",
-    "source": "E24",
+    "title": "Esposende: Parque da Cidade inaugurado com 10 hectares de natureza e investimento de 4,95 milhões de euros - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNc3hNYXg3THozRzZ3YWtibFNoRk9vN29aemFhWlowQjh2dkU4eGZ1WkdiWGJtbUx0clZFVUtXWlpOU3VzOTN2dEtwZTJxS25uQ2VGaUlBVnNuZjJFU1U0a1JGWXBkdXlLM3A0bGlWajZPT3huZkx4UmRnRnNEeWdwVDBRWHRwSUt2STRROXQ1MTFjOF9sY25sa2lZOWxnT1YxRDBjWmc4MXlVem5ZZVhqMVZwUGx2ZEpzWUIyYQ?oc=5",
+    "source": "e24.pt",
     "ts": 1790589243
    },
    {
@@ -1698,15 +1704,21 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRWhfMlVsdE5pRVZHRVRjdFdCMFZGRHkwX2RkNlJmcFRxLXhBVEQ4UVZ4OUQ3ZjJDQnpjcVNYOEJBZFlzU1NOdVNQZnpTc2FRY05pa0dUTUtNTXhJY0FGR2hsXzlUZnZyZlRLbnczWXhOaTdmNDVLck9INkRnMjNQcTVDeFIxdGhaU29pQXRzWnlmV2tmbUE?oc=5",
     "source": "SAPO",
     "ts": 1790533193
-   },
-   {
-    "title": "Município de Esposende aprova mais de 58 mil euros de apoios às freguesias - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNclhYVFloVTRIQWNSTVlzb2RoM1BYTmhQSC1QNXVVd1dwNTNlaTJUelhmMDN5anVTYUhUSFhoeTVVQjdnM0dnRm92aHVybVZoeTlxYUR6OUVxM1JpalRjRm9vam1vazlkcXJxaWJVUEFwckRLazBKZXRzamxuTmxkcjZneE95dEVFOXh3SHB6VXF5alQ5RlR1eDU5MFdNWFpnRFV4UG5YSFFqVEFJSWZ2SFNKc2xvcEE?oc=5",
-    "source": "Correio do Minho",
-    "ts": 1790522160
    }
   ],
   "mundo": [
+   {
+    "title": "Banguecoque declarada 'zona de desastre' devido às cheias na Tailândia. Veja as imagens - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONWxFTHRFUmhqdl9obVE5WmpsQmN4aEhiM245RGFjNU1uWG8tOEFpdXI0Y29TNVVwb2haX2VRWGNQLU9QZHE1aDk0QXVqcVR5ZWxzUGRKandpbktWQzZGTTdOSTE2ZlNTMnRqaTZadXZnVGRrcFVLaV9vZXNOLTMzaW00SzlORWFHcVBXSVNKRTRXMUNSeDU3TlR5dUpWV2JJY1ctWlZhX1pVeFk5ZnRlRTlQQkF5bzd3MDFFTHJXaXBVOXJDNGxwUmxhRVA?oc=5",
+    "source": "SAPO",
+    "ts": 1790598265
+   },
+   {
+    "title": "Trump terá perguntado a Xi se a China gostaria de comprar armamento aos EUA - Público",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMThvQmlYakVfMnQ2Zno0SEtrX0hYN2R2cldlbDRKRF82YWVqalZtUXMwX0tpRmxLUTBER09Xc2VtMlNaSnlIUC1tVktiQkRicG5EQTdnU0VsR0VvQ05CSjlNbFo1WG5QcER1Vm9jb2Vza3pHYWw1bHpOMldGX293NXprNWdLMUo5dG0tdHM4SHdtemFiT2VycVB4U0JaYWpVSTNBdE5LWkkweHJHM2RGX3E1aEw4SDhr?oc=5",
+    "source": "Público",
+    "ts": 1790589170
+   },
    {
     "title": "Acampamento pela Habitação. Câmara de Madrid acusa Governo de Sánchez de \"negligência\" - RTP",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOclJpald4SXZnaG5tVXBQM0FfdGtpaVY0c0lra0dYYTcyTFd0MW9uTExCbVhQTHJxSmU4TFBSVHdSMmREZ3FNV1pweFRkcEs5VVBaT3EwbWNBdGdUT2NkYUhWWlFrdU45SDZrUlBWNDVseE9rSDRiUGMzVlVyR01GdE9qaGlMVHV3TU9VcGdzZVpTclYxd0xnWTZZeVdOMU9TNzdheEtCUXFobFVIV2FpZV9pcGxpa1M1ZVBGS00zOHBLS1Fw?oc=5",
@@ -1714,28 +1726,16 @@
     "ts": 1790587801
    },
    {
-    "title": "Extrema-direita francesa ganha força no Senado e esquerda radical faz a sua estreia no Palácio do Luxemburgo - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOczFaQXVSRU1DVm1MX2F1S1M2R1M4MXJoeENxV1NaY0hMRzJueGpCei1iUWZsc3ZjbkZ3WVBJUTF2MWxYU3M4Y2JzVFlUQWRWRTBZM3ppWkxGV3BTZk5SZjJtWlN3QVZYY1ZLRnQ4Y1c5OUM1a3pvZVdheFNPYlNUOEpBOFNXbGI0RUpJTGU4QTZiMVlvc1E4em1VMXMwT0psU0VoeFdOQlRaNVM4NDB2RnUweHhiVXhQZF9BNVVWYkg2ZDh5WjQzem1SaEdmcVd5ZmRGa3FBUFdkZkJyOHVvT0NTMzU2ZmRWajd6aQ?oc=5",
-    "source": "SAPO",
-    "ts": 1790587234
+    "title": "Chefe da diplomacia do Irão avisa EUA para o risco de uma “guerra apocalíptica” - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOUZwbTFEWGo4NEhsd0ZxQXhoMXdxUHhPZW9jT1lnWEpSZERrSlhEX29kc2tQc3luS0hCWTY0c3RHYmVWc053Sjh0UE9FVzBIOVNOWkZlaDRRc0ZnUDhMb2JWelNVZ3BaeF9WRTl0aHZxU0kyYjVzMVFjY2VkTE4tR0psemdCNUduOVRzUDhvVTJNUHBhNnRxVnp5Z3JuT3p4YU85cFV5SUt0dFl1ZktHYl9Vbjk?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1790580984
    },
    {
     "title": "Seul exige desculpas a Kiev por violar sigilo sobre norte-coreanos - SIC Notícias",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPb3M1Z3VuQjh3UFFrYTViT1RCZkRqbFMweVlMbEo1TFBQQWZLRjlTbGI2N2pfdGtqMWNtWTc0cmRGNl9tNnpVZEsyN3ZBVWktdFBFb1Q0b3kyMkVrQ0tDaTJPUElJYjZZZWJHempObGdQZGZObm05N0JlVWMycG8yZ1FHcm5uTEUtVHRENzhJQ1RkQ2ZZRjdYdk9OcW0tNjdMVXBBVGdRd3JhaWZ6UFR3aU1RaVFhVHZGTkowVDNQdzA1X3puVm9FQmNEZTlOX2tkcXJqb0JwNUVQTEdUQ3BDeGVua2Y4S0xzalNwdE5qVDlNM2l1Tmc?oc=5",
     "source": "SIC Notícias",
     "ts": 1790579323
-   },
-   {
-    "title": "\"Roubaram tudo\". Colômbia pede ajuda ao FMI para combater crise no país - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUnhwaVlYWC1zSjV3ejNTV0ZtQ0VtOUlpRjQzYjNjV3JOZXlPbENmdW9ybGpnVzBsTzlBaW9xY0RoZHVnR3ZqV2hhdkJvTjk4YmM2UUNSYzJHNmtxcXIyOFd3ZFRLNlhVemhBdm5WajBqOGl4aWFxUlJYSHlnTFJiZ1NXMC1HOWdMTmpXc0RtSDBvRHYtbjRsWVEtaUM1dW0wdVBOdmJEdTM2eDlWNFg1OEtWVWtnb0xsRHlFb05zUm5GQjdlXzhVdDVqYVPSAccBQVVfeXFMTlpJUFRVWkgzRXVpd01hcGw5eDJEZ1NDcWhxdWNNTkhTSWZoaFhkMWJXVjI5a2tuNnJXU3V0OXZLdUotcUtVMWc3QXpSTDR5OU5mT1g1U3NxN2ZYd2JQemlJZDNsQVhCVUJDWEdJQklUQWtIbE1idmdIbWZDNVduWVpFTWNKR0FmcEY1ODljTGVPazN4ZmN4d0Y4QWJMeWN4ZzJRTnNQSUxDU2lqRlpzWVZTUWVxSjRoWU5wdkdSb2JXdGFzQ084aw?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1790576254
-   },
-   {
-    "title": "“Não há política industrial bem-sucedida com governos cobardes” - publico.pt",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYjNRNzRFS21kdTFFdjBob2ZEaWN3M0paSlVPMThuZlh2RGJSSlNzSFk4a2lOaXJKeW5ra3Z2ckgyU0hueExQQlpGUVFTZm5WVkNFV3BHRFdYQTJnUWk0cWhpR2NiOThEbzdudHE2X3NCY2lndnluc25US0xMS1EtMU56YVlQNnl4YmI0OWFlbG9HNjlTTkVRWmpqeTdvNkE4cnRpYldWS1hvWW44Zk5Pa251M1dGLUw3UXc?oc=5",
-    "source": "publico.pt",
-    "ts": 1790572080
    }
   ]
  }
