@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-28T07:00:18Z",
+ "atualizado_em": "2026-09-28T07:11:47Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-28T07:00:18Z",
+  "atualizado_em": "2026-09-28T07:11:48Z",
   "dias": [
    {
     "data": "2026-09-28",
@@ -1471,9 +1471,9 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Médico de Raoni Barcelos revela motivo de 'apagão' assustador no UFC e atualiza estado de saúde do brasileiro - espn.com.br",
+    "title": "Médico de Raoni Barcelos revela motivo de 'apagão' assustador no UFC e atualiza estado de saúde do brasileiro - ESPN Brasil",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNRzZzbFFVUENXc3c3UFpYNTVFb0JPSUR6dXFjRzR6TWhxdEtRbld4ZjlzZlBIUGMwR1VsY3NxOTBjdVJhZjRCelVDakhkZVdNaWp2WU1Db0Y3RTMxNmdtQUx1VzRRZmtYTWdSODN4NllSUkZwNklSR2I0WS1NQUdHQS1HaXg5MUVzQ2ZqUGZKcUg1SjBuU2JXbk5vMFp6RjAyZnJpN19ndFJfcjVVOUktZWV6S082WHBydGpSZ1pPVklWUEJQZDYyNVdWTy1MamNLZ291Zzd5VzhNLU0?oc=5",
-    "source": "espn.com.br",
+    "source": "ESPN Brasil",
     "ts": 1790535780
    },
    {
@@ -1489,12 +1489,6 @@
     "ts": 1790516313
    },
    {
-    "title": "Barcelos promove encontro participativo para criar Plano de Inclusão da Comunidade Cigana até 2030 - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVWRmcXYzc1JqN2pFMjQ4dlRsS2xBd0VXYWdmb0pfbHVURmtyRmFvTDQ3MzFaLUtwck1OU3JPdEFJM1gzVXRSQmpJZ1NoNzhGb0hiR0QtcGh2SHZGNG9qeGEyTmxnNTJwRUViWVp3dm9uT1NON01IZGdPdUQ5TEhhaXVUUldhTUQwa1U1bERIRU9UMVZJZXJoQU5TaklvMFhDUjB1Y0M5d3dKc1RjcXlXOVY4MndYdmZFQ0E?oc=5",
-    "source": "Braga TV",
-    "ts": 1790505815
-   },
-   {
     "title": "UFC: Raoni Barcellos sai de maca depois de luta acirrada contra Raul Rosas Jr. - ge",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFNKcVBwV3ktM1VoRzdhbVA3U2o5QmhkMDd6UmZzOHJHdUlVak9oWVZrRGQyV2FFMk9nb3k5TkdPUk4xdHZfQmFLOXItcUdDSjdtQUF4VkxreHhGcDUxRmc0d1QzYWZjN2QyWmY3QUNyZHk1VHNoaUg5am50dDhtSjdiOHJrUUxqMVlyZTFKeTJrQldpdVFZUEl2cDd6M0RUUnd0TmhvWmE1T2JfZDhSZ3ZkR05KbnhfSnR0LUVNNXk2Qi1KWFFCWmxOTjRub1NLQ0dr0gHiAUFVX3lxTE9YSFVzWEhORm9RWFVsODBBYmg4Z21ITVRIRFUwbmxiMTVoSjNjbTdjVmhpZ3J1dUs2MEY1OXREMXpObFVrMDQtdjRnUDNhLVoyZk51TnNqMEZjSWNoTlJZZ1ZGN2tpWGtpY3FmdDNhQm5EUE05VWFjdElVdHNWQks4QkFqUURKYVFfM0Zvd3FaaTVuMFJTd01XMmdYSnU2QlJKb0xYemVDRmxDczZGRkZSQnBwNGszTmJjWFhXbUdKMXdRM1FrMkRpZGM3OGZTNVFqWlhvVFdxcDFfLXFvYVpWcVE?oc=5",
     "source": "ge",
@@ -1505,6 +1499,12 @@
     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qRDlsOG1xamRUYnc2QjRPa1hiSi1iMGxralFRMW5LbF9XM1BTNC1QZ0VwbnV0VVhONjRJMUh0allxLXZYVGo4ZUVEd2NNbEpHNFRoNVlZUFBKVWZMVjlqMllsdGpEYW94TEhHVVpR?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1790406099
+   },
+   {
+    "title": "GNR de folga detém suspeito de novo furto em Barcelos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRXlCTlBubDNnenZ6MXZLTGtZMjF5aGgtTjhCZGV4T0lQWXpyQUJYOTFuRzhhazR5OEpnMzJ6aldaNzA4czFKVXcwZkxVUVBLM3ZkcUh3cU9ESUlpSVRHS3JoVlNtMmlJcDIzeEgxUFZXbnFiUHJJRjFJbUlVVU1XQVNEUTNaTnpOckxrZWZuTk5qcFpJeEdvVWhB0gGUAUFVX3lxTFA1RTYyekJ4LVdOOG52cS1TUlRaN0V6aXpXOTJSUmhsYnRCWG1WdWhPaDU5RjRNUjZXMzY5a0RjQ2VzVHhsUGIwUmsyR3pvdHA1b25xTW9hM3JmT045Q2R4VG5XUGdDY1JreUZhQnJucHhjVWFzVjd5UEdCUk40cEVYdU5rSUxtOE5DQ3ZlZk9IN1owQ0w?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1790354700
    }
   ],
   "esposende": [
@@ -1565,16 +1565,16 @@
     "ts": 1790533800
    },
    {
+    "title": "Sob pressão, Sánchez promete trabalhar \"em contrarrelógio\" para resolver crise na habitação - rtp.pt",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTAtbExXcTFCcFQ3VkpWbXIyUnNEYzNYV0NzcU4teThEeG5JLV9pT0ZWNEVnSGJUVE9TbWpJNkVTa3JpdGJMUjhNRGdUdnZuMTVNcXQ0cDZhYzczY2FSdG1IcHkweDNPcjJzV2FZTnlTZ3lONDZQMlpTM2lqeExSaVZLUXZqV3oyVGZTbUN6Tm85QXN6TG1vdm1hWkpZb3dtQ2Zkb3RPTHV3U04tUENuTFZEbjNNTXMyTWhHYkxRamE0Tzgtb196bGZUQQ?oc=5",
+    "source": "rtp.pt",
+    "ts": 1790518867
+   },
+   {
     "title": "Suíça rejeita por larga maioria tornar mais rígida neutralidade do país - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQc3JiTlVpQXQzNmVoTHdDc1prMXNVNG5CRTVpVFZ0ZFVOYXhGSlc4VHN1TU0wWU9RMFJpOTNZdGJyajliYmYxanpIcEY1QTRyQkNtM1BIWkR5TEozSlhNT2duZGMtMlpydzA5b2MxYlZseERYT1QxRjN3VDVaRm8zSllOVXVoY0w3Ymg1RUFvSlV5RVdkV1BEMC11cXpaVGZr?oc=5",
     "source": "Diário de Notícias",
     "ts": 1790512397
-   },
-   {
-    "title": "Irão denuncia sanções dos EUA e promete castigar Trump e Netanyahu - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXlXT3JaUjJFY3JpLXE5THh0a1FZOFBfU1JpVkdUQTF3WDBvdUkxemt3VFVkdEhqUFFCQWdsamFrajRfR29GYTB4dkRZMmlkVFFxaHlic01RS3dqZm5ISVFwckpvTXBDWG8yMWNtXzR6ZG40bmc2SVJEazRfR2xPNW1odmJhdm5feWFuUW4xMk5jcUQ2YmxILWpFX19VcEtQRi15eE43ektjMnBlMGtwSXVoNHNxR295RnFVeXQ2OHBXNmtT0gG_AUFVX3lxTE5CRmdmUWt2TWZwek1uS1dubUtzZFJ1MllxVHJTZ2hZbTBjNkphR08xaUxQeXg1Nk1LdVVBZTVtS25GQWFON3h6eVgyZ1J5dHYya2c5TkFYd19rdm9ad1F1RDNKZkhmQmJ4Z3hINk5Lc1ZjeVJMNHNpeTVnbk9LN21NRlNHREFyYXllZndRU3piZDBVZDRQM2tvVWpZd1FleHpjUW9hdEtBanhlSWxCN1pMcGpzcy1Oelo0M2pnWlAw?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1790510772
    }
   ]
  }
