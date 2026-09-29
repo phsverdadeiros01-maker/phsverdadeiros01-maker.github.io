@@ -1,10 +1,9 @@
 name: Atualizar dados do site
 
 on:
-  schedule:
-    # O GitHub usa UTC. Executamos nas duas variantes possíveis e o passo
-    # abaixo seleciona 08:00, 12:00 e 18:00 em Europe/Lisbon.
-    - cron: "0 7,8,11,12,17,18 * * *"
+  # A atualização normal corre no Raspberry Pi por systemd às 08:00,
+  # 12:00 e 18:00 (Europe/Lisbon). Esta Action fica disponível apenas
+  # como recuperação manual para evitar execuções atrasadas/duplicadas.
   workflow_dispatch:
 
 permissions:
@@ -19,28 +18,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - name: Verificar horário de Lisboa
-        id: horario
-        env:
-          EVENT_NAME: ${{ github.event_name }}
-        run: |
-          hora="$(TZ=Europe/Lisbon date +%H)"
-          if [[ "$EVENT_NAME" != "schedule" || "$hora" =~ ^(08|12|18)$ ]]; then
-            echo "executar=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "executar=false" >> "$GITHUB_OUTPUT"
-          fi
-
       - name: Obter repositório
-        if: steps.horario.outputs.executar == 'true'
         uses: actions/checkout@v4
 
       - name: Atualizar notícias e IPMA
-        if: steps.horario.outputs.executar == 'true'
         run: ./atualizar_dados.sh
 
       - name: Validar dados gerados
-        if: steps.horario.outputs.executar == 'true'
         run: |
           python3 - <<'PY'
           import json
@@ -56,7 +40,6 @@ jobs:
           PY
 
       - name: Publicar alteração
-        if: steps.horario.outputs.executar == 'true'
         env:
           TZ: Europe/Lisbon
         run: |
