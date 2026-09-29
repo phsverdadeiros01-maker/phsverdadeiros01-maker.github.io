@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-29T07:00:17Z",
+ "atualizado_em": "2026-09-29T07:11:38Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-29T07:00:19Z",
+  "atualizado_em": "2026-09-29T07:11:39Z",
   "dias": [
    {
     "data": "2026-09-29",
@@ -1483,6 +1483,12 @@
     "ts": 1790663234
    },
    {
+    "title": "Galeria de Casa em Barcelos / Rui Grazina - 23 - ArchDaily",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSm1tT25TR184LVhJaWZzTThGbUZOWjlkNlprOVRuQWR6ZG9keVp2RE5vaWdMZVFPNW5uazF1TWVIOF9iRHIzMUR3TEF2QXNBU2NsWVlCR3E5Mlp4UFU2Nk5aYWFMSldWQWh4UTJpQnhrZ3F6Ylhjb0FwZ3lGQjNxeUtvTTM?oc=5",
+    "source": "ArchDaily",
+    "ts": 1790636172
+   },
+   {
     "title": "Luís Oliveira vence Enduro Sprint em Barcelos - autolook.pt",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE10N3VzbVNCOVdHcExtY0JyMUNLcEpqMDRYek84Sk5fOXpuajQyQ0dJVWRiNHRydlhsb1lOTDNHdHBEX3doTGI5aFBuNnc4aXJQWUJ6TjcxdWRRMlhROTkyZ3ZxRzdVdmZxZkhmR0Vmbzk1bWNp?oc=5",
     "source": "autolook.pt",
@@ -1493,12 +1499,6 @@
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWTlaVXhTTGVvQzVEcTNnODFhMy13cVdjZFZVR1NDN2xtV2FiZWtrTTU4SGxvTnF4OGZmRzdYRWhpMFI1RWFtaXlrMzFkMmI5WTRKazRrYm81WjMtQk9qcnZkamo5TmFlOXJpRC10Z3lQXzFCbDhIdEh6Y3RCUFVra3hTT2N5SWswcm93T1FrS3hnbXk5VzZVdFk1UjZIN2hzbTNQc2R6VDJ1dG5mekF3bVl5RnhYaFFCT2ZRS0ZDTS1BaE5SOFhrdg?oc=5",
     "source": "Now Canal",
     "ts": 1790633700
-   },
-   {
-    "title": "Galeria de Casa em Barcelos / Rui Grazina - 26 - ArchDaily",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQkI5UUxoX0l0MnhPTXhyNXlHN3B4ZWVtMmY3R2FyYVdoRmU4LVZsNUM2WlkzSUJuaDQydzdtbURyQ3RnejRCM2RFSEMtWGR5SHdidW1HT19QQVVfOXNTM3ltTEFkRzNvcURBcWgtRFJaRWhXcnNRWVg4WTR5UGxyQnBRY2Y?oc=5",
-    "source": "ArchDaily",
-    "ts": 1790630440
    },
    {
     "title": "SSV estão de regresso a Barcelos",
@@ -1521,9 +1521,9 @@
     "ts": 1790621040
    },
    {
-    "title": "Dádiva de sangue em Mar - sapo.pt",
+    "title": "Dádiva de sangue em Mar - SAPO",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pY092ZFQ3VHVKQk9uVmcyTmNzdFhHSDFGQlB2NHNxT2RBblBwRlZyTFFibFVmNi1Zdk4yUFFVaTFVNHB5UUxBYnA3X2Nza000Y2tDTWVzVWlBVVJlMnctWVVTMjFldlpFMzBLV0RJSENCMjE4MnkyYXg0aw?oc=5",
-    "source": "sapo.pt",
+    "source": "SAPO",
     "ts": 1790615036
    },
    {
@@ -1547,9 +1547,9 @@
   ],
   "mundo": [
    {
-    "title": "Protestos em Madrid. Imobiliária recua e permite regresso de Maricarmen a casa - rtp.pt",
+    "title": "Protestos em Madrid. Imobiliária recua e permite regresso de Maricarmen a casa - RTP",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQU3I5eGVYWlp3UVpIOUlKTmkwLUhDUWlibWd3S3hNUzBFTVZSMm90em9kNU84TExGemZFS1ViMXlmV1JvRzNhLWs3R1hBaXdhSWp5N0ViWEhIX01JbkdTM1NSWDZYcXAyaXh4VDJEdVBiSHYyUE43Z0ZkQU9udUhoV254TEJfeEc4ZGtJNm1FbllZY2pFWFd2bWxrLW1ZQmdLTXItMmdmQU1ZMjdTcUQ1ZlVlMXYwcmM2V3BRYQ?oc=5",
-    "source": "rtp.pt",
+    "source": "RTP",
     "ts": 1790630145
    },
    {
@@ -1565,15 +1565,15 @@
     "ts": 1790617829
    },
    {
-    "title": "Fotogaleria: Drone russo destruiu Academia de Ciências da Ucrânia - jn.pt",
+    "title": "Fotogaleria: Drone russo destruiu Academia de Ciências da Ucrânia - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQjVIVFhWUW1SdTQ3aUxwWnZ1a0pRSkJNX2hXcU5CMmJ0RThBRTE2Nzk2b1VzN2FWVlRYNHlPdk9ISkJ3WENydVlCUHgtbkwtbEpnVGZ3OEFsVXg4M3ZxTjNGMGhOOFRXd3MwS190eHByZWFtLVRGaEYtakg5bllSUEtWb0ROT01FNDAwdWZEQUs1a1IwSG45MGoxTG1HUnpiT1ZPdVR4ONIBmwFBVV95cUxOTWRYQ1N4Znc0Z1VJc01WVW5pdjRaLUc1OUhTZFdMNlRBelMtcGU0MFhDNEc5US15TWQyN3pSRFVvbHhxb0hHT0Q3X294amlId0w1M0tELUl2ejh3NnR1N05mLVhQYXFfcnpITnd6QUJpXzRqRDZQRlgxaVlYLTFjdXpwM0M2WW8tUzlSa2RNN29RNVhfazNiQUJVTQ?oc=5",
-    "source": "jn.pt",
+    "source": "Jornal de Notícias",
     "ts": 1790615760
    },
    {
-    "title": "Israel terá ignorado aviso das “secretas” do Egipto sobre o ataque de 7 de Outubro - publico.pt",
+    "title": "Israel terá ignorado aviso das “secretas” do Egipto sobre o ataque de 7 de Outubro - Público",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRktFRXBoMlJhSGFaYjBucXBvZkc1LUdGNXFneExsalFKNDR5cUFBZTA3eldfZnMzVnZ4dnNBR2Q5UjJqR1RVNVlRS1luUXNlamgwREdqbS1PdnVNOTJ2Q09YS0xwQUxKdnR2RHQ3M0tkaTRHNXdlVUdNRXVmY3RXTlRkMmdMaTVHZE9WVk5fUThaNlhOVExNMzRxbTdfckJKanhBYTBYUWdJdTB3Z2lRNjVHMDVEQQ?oc=5",
-    "source": "publico.pt",
+    "source": "Público",
     "ts": 1790615086
    }
   ]
