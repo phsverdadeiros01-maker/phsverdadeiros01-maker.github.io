@@ -9,15 +9,23 @@ SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
 python3 - <<'PY'
-import json, os, sys, urllib.request, urllib.parse, xml.etree.ElementTree as ET, datetime
+import json, os, sys, urllib.request, urllib.parse, xml.etree.ElementTree as ET, datetime, time
 import difflib, html, re, unicodedata
 from email.utils import parsedate_to_datetime
 
 def fetch(url, as_json=False):
-    req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux)'})
-    with urllib.request.urlopen(req, timeout=25) as r:
-        data = r.read()
-    return json.loads(data) if as_json else data
+    error = None
+    for attempt in range(3):
+        try:
+            req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (X11; Linux)'})
+            with urllib.request.urlopen(req, timeout=25) as r:
+                data = r.read()
+            return json.loads(data) if as_json else data
+        except Exception as exc:
+            error = exc
+            if attempt < 2:
+                time.sleep(2 ** attempt)
+    raise error
 
 def normalized_title(item):
     """Normaliza a manchete e remove o sufixo com o nome da fonte."""
@@ -218,9 +226,18 @@ dedup_categories([
     out['noticias']['esposende'],
     out['noticias']['mundo'],
 ])
-with open('dados.json.tmp', 'w', encoding='utf-8') as f:
+errors = []
+for category in ('barcelos', 'esposende', 'mundo'):
+    if not out['noticias'].get(category):
+        errors.append(f'categoria sem notícias: {category}')
+if len(out.get('mar', {}).get('dias', [])) < 3:
+    errors.append('previsão marítima insuficiente')
+if errors:
+    raise SystemExit('dados inválidos; versão anterior preservada: ' + '; '.join(errors))
+
+with open('dados.json.candidate', 'w', encoding='utf-8') as f:
     json.dump(out, f, ensure_ascii=False, indent=1)
-os.replace('dados.json.tmp', 'dados.json')
+os.replace('dados.json.candidate', 'dados.json')
 print(f'OK: Barcelos={len(out["noticias"]["barcelos"])} Esposende={len(out["noticias"]["esposende"])} Mundo={len(out["noticias"]["mundo"])}')
 
 # Reportar fontes usadas
