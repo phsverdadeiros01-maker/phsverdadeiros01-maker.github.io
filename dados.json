@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-09-30T11:00:05Z",
+ "atualizado_em": "2026-09-30T17:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-30T11:00:06Z",
+  "atualizado_em": "2026-09-30T17:00:18Z",
   "dias": [
    {
     "data": "2026-09-30",
@@ -1632,43 +1632,55 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos apresenta programa de atividades dedicado à promoção da saúde mental - vmtv.sapo.pt",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV1FYX2kwclR4VnhQSjRySVdOSVladVlycnRVMDI4ZmJ4WFAtMDdyVW1Oa3lqdlZ6Zk5NVlpHbXlMUmN2RENkc1VPaUl6TjUtQXNYLWhZaU0tV1kzVDdYN2FrUVNNejFTRkNGclVSTmpBT0pqY3NxR0RWSDU4b3EtZTdpd2tCTGQyLWRqLWZtb1hlYUNVa05GZGg2MVlNZzNz?oc=5",
-    "source": "vmtv.sapo.pt",
-    "ts": 1790763780
-   },
-   {
-    "title": "Barcelos: Bombeiros de Barcelinhos em luto pela morte do camarada Ricardo Gomes aos 46 anos",
-    "link": "https://e24.pt/barcelos-bombeiros-barcelinhos-luto-ricardo-gomes/",
-    "source": "E24",
-    "ts": 1790763613
-   },
-   {
-    "title": "Barcelos: USF de Vila Cova entra em obras e muda temporariamente para Fragoso",
-    "link": "https://ominho.pt/barcelos-usf-de-vila-cova-entra-em-obras-e-muda-temporariamente-para-fragoso/",
+    "title": "Pedro Silva, de Barcelos, convocado para os Europeus de ciclismo de estrada",
+    "link": "https://ominho.pt/pedro-silva-de-barcelos-convocado-para-os-europeus-de-ciclismo-de-estrada/",
     "source": "O MINHO",
-    "ts": 1790759857
+    "ts": 1790784797
    },
    {
-    "title": "Mês da Igualdade - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aS0RQQXcwTXdwWVBXUXFtOENtVFMtaGZZSDlNRXQ0SUJzZUdzLVExQnFZQ2x3QUdYbExnckdOTm9BWnVTNENhVVNDZnNBMlpMeGpJSk1xc1pVZWhHa1RCN2wtUTBadw?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1790758857
+    "title": "CROA Barcelos organiza Feira de Adoção Animal no Largo da Porta Nova no próximo sábado",
+    "link": "https://e24.pt/croa-barcelos-organiza-feira-de-adocao-animal-no-largo-da-porta-nova-no-proximo-sabado/",
+    "source": "E24",
+    "ts": 1790778612
    },
    {
-    "title": "Viagem Cigana - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBXc3BENlp0U2hJdV9OY3lScGdHMksyWkVmSUlQRGJCZjBUbE9RdTJDY01IRWxWbVY1dzdBQnB5NGpMQzNmSVVWdlNhMklsNnJfNnhDaFVlVUdoclBRMmxGRzJR?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1790758256
+    "title": "Barcelos: USF de Vila Cova entra em obras e muda-se temporariamente para Fragoso",
+    "link": "https://e24.pt/barcelos-usf-de-vila-cova-entra-em-obras-e-muda-se-temporariamente-para-fragoso/",
+    "source": "E24",
+    "ts": 1790775115
    },
    {
-    "title": "Arte e Intervenção | Olhares e Expressões - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRmN5cWpQUlhXQTRoeXhabGpOMjlQRGZPekM3VDM2U0Q1Z2YtNEtYQlh5NDFWZnBIV0F6SEQwSWptTU54NXJvRVFCRWJvWGVGU2RrZWVwNnZJa1VhWUdET3dONXZjTEh6NWRaSVJOWHU3UHEyci15cy1wQmwtSmswd01pNVE?oc=5",
+    "title": "Arraial | Comissão de Festas da Sra. Cadavosa - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXd6Z20xS25jUGpRQlFYN2NKRTdjakd6YWlVSHQ2a1lpR3BIajlwSjBCMmRKZHI2bDBINmlkS01WRW5SeTJwemVwYUg5Z3hqWGhtQXdrRlJlbmRreUczbktpcjlJRjJ1MUpkOHBkcTM4WnZ3V2R1a2cxSlg2RzY5NnR1VGJoQXlH?oc=5",
     "source": "Agenda Barcelos",
-    "ts": 1790757661
+    "ts": 1790774267
+   },
+   {
+    "title": "Barcelos apresenta programa de atividades dedicado à promoção da saúde mental - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLXF6UFpUTlRfcWFLVDlRd1pyMXNhcWhhWTAySFo3VTNTYmxqcHpXYTE4cWE0ZnVXaHNkN2Npem1FWUZUTC0wYi1ia3ItbHhoY3RMdDhHUHVXVFJqMVd0R2hzalpuSWtPbVJzcmVNSWR1Sk9ycURxQ2hvOVYzaC1UcHZwWkhDaFdJeDREZlloZHRHZHgxelpNdzROR0kwVVNOdDNJdEF3eW92VnVHci1INlVZcFNJS3RIU2NrU0hpYmZrb2s?oc=5",
+    "source": "SAPO",
+    "ts": 1790770280
+   },
+   {
+    "title": "Desfile | Além do Olhar – Histórias que se Vestem - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOVNURk9KRzlsZWRISnVkdkEtZElVYzFWZzAya1ZvWkNsQjBuSHFTQUoyMy1yeFItTFcwSWZZMEJ1OW9iM0dsOS1OaFNEUFVyQVVpc3FtYlFaVl9OaTV5VVA5dmVaRXZvdkFSRUZJUklpdmFGZzVYdEtfVThNWE52VlRaLTh0SElOWlZKdQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1790767978
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Município envolve jovens no desenho da futura Estratégia Municipal da Juventude",
+    "link": "https://e24.pt/esposende-municipio-envolve-jovens-no-desenho-da-futura-estrategia-municipal-da-juventude/",
+    "source": "E24",
+    "ts": 1790787557
+   },
+   {
+    "title": "Esposende quer ser destino turístico durante todo o ano - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1naVFzWTBmN21jWGN5N2Rra3pGODdvX01NMUk0cm95R2Z4SnRHM0VpblkzZ0NvMXh0R1BzNTlrd1BkRmk5NnBKbU1fUG11OEVyTGF4VFJZYVVsMmpjTUY4NGtOREdwUmkzOGtJUnF6Z1NkbEtpOTAxc2pLRFJxVzg?oc=5",
+    "source": "O MINHO",
+    "ts": 1790773491
+   },
    {
     "title": "Esposende reúne empresários para discutir futuro - Rádio Onda Viva",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcV9sQUdBLWVQNXJBSXRoZkZ3bjdSWjBfb1VuTk5kdmJiWDhsWG5TR0FNTU9xZWJpLVpDQkd1T1NaLWNFbmpCMmFMdzdKcjR4TkpNc3BuMGUzOHdwMHZNeDFfVGM3WVBUQ0JIckc1WFJ2eVVXdEJRTU5MS0t1Tk1TSVowaWczcDYwYmNPTE1MR1ZmUQ?oc=5",
@@ -1676,16 +1688,10 @@
     "ts": 1790748120
    },
    {
-    "title": "Esposende: Bloco de Esquerda exige mais à E-Redes após novos cortes de energia",
-    "link": "https://e24.pt/bloco-esquerda-esposende-exige-e-redes-cortes-energia/",
-    "source": "E24",
+    "title": "Esposende: Bloco de Esquerda exige mais à E-Redes após novos cortes de energia - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtMzNnbF9SQUwwalNJN01yYmMzYnVabl9iUmk0cVJMQ19kc2hydnlpSzV0N0xHVks0ZVQxdjlMWWpPTE1pRnZFZC1zRUFxRVVUM2FlTnlidVY2X1JaZ2RTQUwxMmVtYW5rYW4tVG5XR0l1Tk5JYUIyMg?oc=5",
+    "source": "e24.pt",
     "ts": 1790733832
-   },
-   {
-    "title": "Esposende reúne jovens em Fórum Municipal para definir nova Estratégia de Juventude - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU1DOWVGci1fVWNKUEIxYTZsb21NLVNCamJUMDJjNVR3TUh6eUcxcUtBeEZpTllIcFA4M1pqc3lXTVNRZHRSRV9mTEd0N0ozbG9DQmktNl9hQ1h0dmpKbnFsUnhfRm9DdG5WUVgyX1dwUEdPRjA0X09MZnR6clZqT3Z5NERoYXp5cnRWdjdfV0ZqaFNoN0F4YjdRY05mY3N3MTJDTldB?oc=5",
-    "source": "Braga TV",
-    "ts": 1790715889
    },
    {
     "title": "Esposende: Incendio no “Carioca\" mobiliza bombeiros - e24.pt",
@@ -1698,44 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjVIV0NlZ3YyOWlCbjNsb1dVMk1YWElISGhmejRZSG11VkExMWVoTUxaLXBKMWNiM1ZwSU9kNDlTODF3VURBOVR3Qm5zSE5CaWZQYWRfMFNTdUFlLXRsMHF5Yk5KTW1fQzN2cGg3c253X29nOE8xdTdRZDI5S0F6UExKUHNzYmw2WkNGTDlrczdSYk45YWZmemJoazVHVlg0MUR2SVdiVENQZHJIVWNMZDFESS1CU1pzSkFGT0s1NVN6Rm5ZU2hMUWpaQVNuOVU?oc=5",
     "source": "MAIS/Semanário",
     "ts": 1790694646
-   },
-   {
-    "title": "Esposende: Próxima sessão do Silent Book Club junta leitores para lerem em silêncio, a 25 de outubro - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWtHQXl2cFhGN0VReThic0VwaUhSd1VCRzk3VWdHTEtjdFFYem5RREFlRDBaVHVSRVpxdi1KZ0xtVVNIWks0MkNHaS1lMGFka3RHSWJkWGd1UWEwVlJwTFBfLXBHOTQ3cjcyb1BzX0ZTUU9TZlY3bktUTjZkeWJsVkdVTlN1R2VpMWlrVEtGRFNCMUIxVHo2ZWl0aFo3THYzWkxoVV9UMHZGZzBaLXpfUWRncWg?oc=5",
-    "source": "e24.pt",
-    "ts": 1790682152
    }
   ],
   "mundo": [
    {
-    "title": "Reclusos de prisão na Indonésia viviam em vivendas de luxo e podiam sair quando quisessem - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVEFfdTFHa0RMRnFrdVBaM0RJeWZBbk5td3JFVUdGU29QejJPUmEwd3pRZXJDYkJTMHA4d1Q1dlhORUlBTF90OUZjRlZYOFlfTml3T3huVmczQmVab3BCMHU4c0tpWnJxODMzRjFUa2pzLVNDanIzb2lQTjdvWnROVV9SNl9RbnRTcnJEMXlpTVlIMnBGcmlCYjRDM1duY05uZW1uT1U4aWFSalNiM2c2TlVvdUw0a05kSmYwZzdVWmhXSmpZVE5uTNIBvAFBVV95cUxOZURkb2pKM1FWS05SS3lwbkthaEJlUC1oTnh1ekVja0YtQnhHc29QYXQ0Tmtlc2xrM1FNeFM3VzZjSlVkU3VDR3pDWVV3QWl4YmFmNkVtRGFDV21obTBUelhEcWFveHFFcE1KdV9FYWx6aDEzSGlFaGZHR3ZHTEJLWHdwTldGSW16ZGRrNzRkSDVGTEtYdG5NcWRKU2NBNEtxQTNEdUlVeWFabWRZcFNET2NNdUdVS0NXOVMwYQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1790757180
+    "title": "Detido piloto que terá tentado despenhar avião da Flydubai, diz Netanyahu - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSVBjUnZBd2NDRF9aeDJ6cGllX3lOZ1N2TzlZQllueUUzdnZ6bDVZbERNelV3cmVVMFgwal95UlZLT29jQnJCWGZCdDdpSl9iU0VJMnM2YlZaWTFFempoN1hpLUJLQlFmYVB2SHl4Tmc5alpJWE85bVJVMzgzVkttM19KOUNKbnJmQ0RhaEtsUVhZVFlOdTlzbVJteEVnTjlodFJyNGFIMG1WMmdNUkE40gGqAUFVX3lxTE9TRTNJVkJMTmhHS2Jrc3o0NUNFb18wX0NKcEEwQmdZOXVSOGR0ZU1GaXBOUmFGY1pmU3h4Y3MtODBMOWRqRHkxelhuX3p5UXlNdDNVYVJPN3cweTV1RzRiUTE1dlBPeUo5c0d2eGgyN1Q1N0g5dU56dnlYZ0Z3ZzZXS1d3bS0zaWh2SDRSMUx0ZS02Ny1fTDc1c1hiLWxpNlMwNTlBdEhncldB?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1790781874
    },
    {
-    "title": "Voo com destino a Israel desviado após confronto entre pilotos: um deles terá tentado despenhar o avião - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY3ZtTWJIT3BVazgyRkUwWC1wOEZfaWx6RFJBRjU3Wk9ZZXg5NWZwZ3pKdERIbGVJYkdqNlpqenZLVzRyUEE3VE9EY0w0TVRRdU8xWnNKNU93cFpoQUxkMTFUeHVWS3JxYVZHWXZCWkV6cHBmdTFPM3JYSHZkZE1xN1QwUFBlXzF0bEtfMFJsUXlfOUtKRVlpUnFKMzJKRy1kWHZRQ1l1X1ZUcHMtaUh2ZnJaR2FHUFZ1alFfTEl3TzlubmFHclN2VWx4cHJtUjZNT1E?oc=5",
+    "title": "No corredor da morte desde os 18 anos e executada três décadas após homicídio violento: quem é Christa Pike? - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOaWd1d3VtZElYYUc4a0RyeXM2dWJPYnV6WHdLR092UXpWblhPbW4xZlhwUUExREdqNkF0RXVEWG1UcEdvUmNIUWZreEprOEx3VjVzUDJLTzZWbHg3UzZDeWNJWEttVG16NGRfNlpKMDNTQ0RuTUpQc3lQb1dnZl9DTWluMkUtX3d5by1tYnhGVWdPZmx0T0Z0MWtiaWdac1d5UmFnem5mMkZERTBEYTllYTJMZC1lOWRGS29WZ0x4OGltNzN2UDRlQ3VvTi1iN0dTMUdEbi11aVJ2VXJLemFXZnRWVXVMSjNXckNGMFAzbVJpZw?oc=5",
     "source": "SIC Notícias",
-    "ts": 1790752256
+    "ts": 1790779947
    },
    {
-    "title": "Novo benefício fiscal para “cérebros” atrai sobretudo diretores e gestores e não exige licenciatura - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV1VzOERDbGxpVy1yY3ZuOFRRNzE0QTlIbktTX051cnNqdlZrVmhnQk9VRnBSQlVhdlhUZFBxLV9UVlByNXZSak1UVnNfaFQ1UkdzV3JhM2tsN25HUzRoNmZ2SmplNkZrYS11ZDFtSTNGaGxxTVkwbllGMXktUWRqS21RcmhFZnhFc1B4RzlOMG1hWWR2TWxoX04weFo4azFxOFBXN2pqUUpPcmlJMTZyQmxLRWctbUxucl9IaElVQWxkbTdPOURINXNabU5MYlNtdVdNUWJKaUNHZjIwbVBN?oc=5",
-    "source": "Expresso",
-    "ts": 1790748300
+    "title": "Andy Burnham abre a porta ao regresso do Reino Unido à União Europeia - Público",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxON1dReFkzR1VZMG1UNkFzZU9zSlFDM2d1ekhJX09JcjdRRHRkT3V3QlAxZ2VvbEFnUm9YSEZ1bkpLOHhCS3hrZHlMejJUMzBWWVdoSFBtT0dEZDVvcm05RktIVE1RMW9IbldmV3NVbWJUS0E1aHlCVkRNQ3Vsc2hqbmJudkJ3LVBhZ0tlLVppSW8zN21BTkp5cjRlU1ZkMTlNUDRqTDlMd2k1R1pLSFJRcm5IcWhzdw?oc=5",
+    "source": "Público",
+    "ts": 1790769729
    },
    {
-    "title": "“Vão autorregular-se”. Trump anuncia acordo com gigantes tecnológicas da inteligência artificial - ECO",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOX3JGRDlhd2liblRMenpXWjctTG4tTTFQcTR6R0x4VEJOckU0UmpEVTZ1Z2JFYTAtNVhWS2VQd01fM2FjNmZiNWZ3SzVEeTQyZE9vWGRvaTNQNUQtVGRpX3VWQzNJb0NhOEVXbktnRmswUmNuTlN1VmhuTDc5WGdsRUE1UEFsQnVtdWRnRGdxamNyUGM2RVM2V3AyWVNFMDFZTmRLS0FobEtDUWdOUk1sRFk0ZmUwei1LQnJfQUNYRkNFTnduVjEtWDRBSEpSdw?oc=5",
-    "source": "ECO",
-    "ts": 1790744883
+    "title": "Rússia lança maior ataque a sistema energético da Ucrânia desde o inverno - noticiasaominuto.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOM1ViQkhxZHIzUEljXzVIOWx5Um9icjZ6YXhNYXFNZ3dHWjJxaUI2WEE5LVBNeGJyRWRQbG9GcXh4YkVMSFJ4aXJwNmZGOWhyZnE1RWVwZzlPbldSdFZWbjRkVmNuUWUydlFxVjNKMFlBNmVaT19MZE1uLXhOQVI0ZkFhSTNfNncwRkxoTTRhSGJ1cGtYMGRHQWI4NDZRckx6YUFrQlAwdFNUTnZsUnVCUENieXF1bzZ4UzlUQw?oc=5",
+    "source": "noticiasaominuto.com",
+    "ts": 1790768515
    },
    {
-    "title": "Advogado diz não haver provas de que Lindsay Clancy matou os três filhos e pede absolvição - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUY2VFlCalhjVm45eVFEaTlRX25WSkhIMHBralQ5OUF4LVd5YzYxUnFXODhleUxSNVkxUlB1bkJYX1Z3OUg5SHVVY2xCX0tObWdTTGFZZkM4azNIMWNhb21Jb252UWVELWhaenpjVFctc1FqaHEtM0Qxdzhyekdub3M4QksyRzd4clNMQTFJQzFLYWVMS1puemFDSXFPY19ndkxEYmctNVVJU2s2SlZnSmZjd2gzaTlVWjA2X1JrbU1IbmVHSVdxUVR30gG-AUFVX3lxTE9kTldnendPdkNWOWtFV28zZnd0a0hVZk5DZ2lTUEdmQUxwWnV4ZE1hTHdEdEJjUzlDSHlwWnJPRVIyalFWejF5OGN0aEVvMkxhdFpMQ0JWWU5KYk82ZWFQMkdCV0w1eWFLV3UxVnhTazU0bDJqM3V6Nkg2TFI4cHBPZHp2QTh6YzhtQVpzd0tueXdYclFEYWFWeS1aNDRPUkFsaEVNZWZYUjRUci1obDcyY3B1SUVOTkVyMWJLN3c?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1790718540
+    "title": "\"Vai haver tiros\". Bissau, sob tensão, espera onda de violência se Sissoco Embaló regressar no domingo - Observador",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEZvUDBCY2pXMFd4Mmo5VFVTQ2E4M01tMU9Yc1FQUEtFVlU4dG9fNXUzMnQxTVFiTXF4NWtsTFNUWkxYOWtQUkV1d1labEtEMm9laTFlcThoUzF4UnJXRWdUa1BRYk9ST1poTDZRQWhTNmp1V1pSc1ZXVUwzV3VSVllEb2VmWEZJODJ0blB1MThCRnQ0X2pvdGRickhKUC1nOS1BR0xka0xBMVpZX2FvaWJYMDlxNnp6RmwyZXdsSTB0bEtTbGRVUQ?oc=5",
+    "source": "Observador",
+    "ts": 1790752279
    }
   ]
  }
