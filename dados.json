@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-09-29T23:36:19Z",
+ "atualizado_em": "2026-09-30T07:00:06Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-09-29T23:36:20Z",
+  "atualizado_em": "2026-09-30T07:00:08Z",
   "dias": [
-   {
-    "data": "2026-09-29",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 11.5,
-      "vento_nos": 16.3,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 7.6
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 11.4,
-      "vento_nos": 18.7,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 16.2,
-      "potencia": 7.2
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.6,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 11.4,
-      "vento_nos": 17.9,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 16.2,
-      "potencia": 6.4
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 11.4,
-      "vento_nos": 18.9,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 16.2,
-      "potencia": 5.4
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.6,
-      "ondulacao": 1.3,
-      "dir_onda": "O",
-      "periodo_onda": 4.3,
-      "periodo_pico": 11.3,
-      "vento_nos": 24.3,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 5.5
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.7,
-      "ondulacao": 1.3,
-      "dir_onda": "O",
-      "periodo_onda": 4.2,
-      "periodo_pico": 10.7,
-      "vento_nos": 22.6,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 6.1
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.8,
-      "ondulacao": 1.2,
-      "dir_onda": "O",
-      "periodo_onda": 4.2,
-      "periodo_pico": 9.5,
-      "vento_nos": 23.1,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 6.8
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.8,
-      "ondulacao": 1.3,
-      "dir_onda": "O",
-      "periodo_onda": 4.3,
-      "periodo_pico": 8.1,
-      "vento_nos": 22.0,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 7.0
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.9,
-      "ondulacao": 1.3,
-      "dir_onda": "SW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 6.8,
-      "vento_nos": 24.3,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 7.9
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.0,
-      "ondulacao": 1.4,
-      "dir_onda": "SW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 6.4,
-      "vento_nos": 25.5,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.1,
-      "potencia": 8.8
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.1,
-      "ondulacao": 1.4,
-      "dir_onda": "SW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 6.5,
-      "vento_nos": 25.7,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.2,
-      "potencia": 9.9
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.2,
-      "ondulacao": 1.4,
-      "dir_onda": "SW",
-      "periodo_onda": 4.7,
-      "periodo_pico": 6.8,
-      "vento_nos": 25.7,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.2,
-      "potencia": 11.4
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.3,
-      "ondulacao": 1.4,
-      "dir_onda": "SW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 7.0,
-      "vento_nos": 25.7,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.2,
-      "potencia": 12.7
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.3,
-      "ondulacao": 1.4,
-      "dir_onda": "SW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 7.1,
-      "vento_nos": 26.6,
-      "dir_vento": "S",
-      "beaufort": 6.0,
-      "temp_agua": 16.3,
-      "potencia": 13.0
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.5,
-      "ondulacao": 1.3,
-      "dir_onda": "SW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 7.2,
-      "vento_nos": 28.0,
-      "dir_vento": "S",
-      "beaufort": 7.0,
-      "temp_agua": 16.3,
-      "potencia": 15.6
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.6,
-      "ondulacao": 1.3,
-      "dir_onda": "SW",
-      "periodo_onda": 5.1,
-      "periodo_pico": 7.4,
-      "vento_nos": 28.6,
-      "dir_vento": "S",
-      "beaufort": 7.0,
-      "temp_agua": 16.3,
-      "potencia": 17.2
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.8,
-      "ondulacao": 1.2,
-      "dir_onda": "SW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 7.6,
-      "vento_nos": 29.2,
-      "dir_vento": "S",
-      "beaufort": 7.0,
-      "temp_agua": 16.3,
-      "potencia": 20.4
-     },
-     {
-      "hora": "17h",
-      "mar_total": 3.0,
-      "ondulacao": 1.3,
-      "dir_onda": "SW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 7.8,
-      "vento_nos": 30.5,
-      "dir_vento": "S",
-      "beaufort": 7.0,
-      "temp_agua": 16.3,
-      "potencia": 23.8
-     },
-     {
-      "hora": "18h",
-      "mar_total": 3.1,
-      "ondulacao": 1.6,
-      "dir_onda": "SW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 8.1,
-      "vento_nos": 29.2,
-      "dir_vento": "S",
-      "beaufort": 7.0,
-      "temp_agua": 16.3,
-      "potencia": 26.4
-     },
-     {
-      "hora": "19h",
-      "mar_total": 3.1,
-      "ondulacao": 1.8,
-      "dir_onda": "SW",
-      "periodo_onda": 5.7,
-      "periodo_pico": 8.6,
-      "vento_nos": 23.9,
-      "dir_vento": "SW",
-      "beaufort": 6.0,
-      "temp_agua": 16.3,
-      "potencia": 27.4
-     },
-     {
-      "hora": "20h",
-      "mar_total": 3.1,
-      "ondulacao": 2.9,
-      "dir_onda": "SW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 8.9,
-      "vento_nos": 8.6,
-      "dir_vento": "O",
-      "beaufort": 3.0,
-      "temp_agua": 16.3,
-      "potencia": 28.3
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "O",
-      "periodo_onda": 6.2,
-      "periodo_pico": 9.0,
-      "vento_nos": 3.3,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 16.4,
-      "potencia": 26.1
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.8,
-      "ondulacao": 2.8,
-      "dir_onda": "O",
-      "periodo_onda": 6.4,
-      "periodo_pico": 9.2,
-      "vento_nos": 3.5,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 16.4,
-      "potencia": 25.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.6,
-      "ondulacao": 2.6,
-      "dir_onda": "O",
-      "periodo_onda": 6.5,
-      "periodo_pico": 9.4,
-      "vento_nos": 4.1,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 16.4,
-      "potencia": 22.0
-     }
-    ]
-   },
    {
     "data": "2026-09-30",
     "horas": [
@@ -1788,10 +1471,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Figurado e Lenços de Namorados em destaque em Barcelos - O Amarense",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVFlMnVfa3FieDFNNmE0a0ZqVUxKSnE5MWJrR2tJTWpPZno4VE9teVRhemdjYXRLelVrVVZaM1ZXaTZIRXM5R0xyUXd6SXpMUXhsN0c2R1V1ZjlUZ2FFMkF0Mk9aeXlrWEZ4a1ctbW1QcVcyRllYMlh1STN3cXRmQWpn?oc=5",
-    "source": "O Amarense",
-    "ts": 1790717700
+    "title": "Enduro Sprint 2026: Luís Oliveira responde em Barcelos e deixa quatro pilotos separados por apenas 7 pontos - Motojornal",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONjZRclZRRVRFYlNzdE44bkowSjdyUUR6ZWo3RGIyZVNocHROMmh0VVNPYkZhVndINm5FeTRFc0xyaTR2MnllWktDV3JVXzdRY2ZvVHpvY2FkN180dTRCUmNURE52ZDFoMjJKUTVmVGVXVjhKU0gzczZfSVR3UUdRd0U4dXYxaHh2T2N1QlRNVzJ0cVJpbjUwQXJwZ0h0ZzRZMS1JY01ELVVaOTI1Nll0TVVNWEdkOUxZUnd2STZrY21SNjBOOUFaVQ?oc=5",
+    "source": "Motojornal",
+    "ts": 1790746265
    },
    {
     "title": "Barcelos: Ministério Público pede condenação de ex-vereadores por favorecimento em concurso de iluminação",
@@ -1826,6 +1509,12 @@
   ],
   "esposende": [
    {
+    "title": "Esposende: Bloco de Esquerda exige mais à E-Redes após novos cortes de energia",
+    "link": "https://e24.pt/bloco-esquerda-esposende-exige-e-redes-cortes-energia/",
+    "source": "E24",
+    "ts": 1790733832
+   },
+   {
     "title": "Esposende reúne jovens em Fórum Municipal para definir nova Estratégia de Juventude - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONU1DOWVGci1fVWNKUEIxYTZsb21NLVNCamJUMDJjNVR3TUh6eUcxcUtBeEZpTllIcFA4M1pqc3lXTVNRZHRSRV9mTEd0N0ozbG9DQmktNl9hQ1h0dmpKbnFsUnhfRm9DdG5WUVgyX1dwUEdPRjA0X09MZnR6clZqT3Z5NERoYXp5cnRWdjdfV0ZqaFNoN0F4YjdRY05mY3N3MTJDTldB?oc=5",
     "source": "Braga TV",
@@ -1838,9 +1527,9 @@
     "ts": 1790699652
    },
    {
-    "title": "Esposende inaugura Parque da Cidade com investimento de quase cinco milhões - maissemanario.pt",
+    "title": "Esposende inaugura Parque da Cidade com investimento de quase cinco milhões - MAIS/Semanário",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVjVIV0NlZ3YyOWlCbjNsb1dVMk1YWElISGhmejRZSG11VkExMWVoTUxaLXBKMWNiM1ZwSU9kNDlTODF3VURBOVR3Qm5zSE5CaWZQYWRfMFNTdUFlLXRsMHF5Yk5KTW1fQzN2cGg3c253X29nOE8xdTdRZDI5S0F6UExKUHNzYmw2WkNGTDlrczdSYk45YWZmemJoazVHVlg0MUR2SVdiVENQZHJIVWNMZDFESS1CU1pzSkFGT0s1NVN6Rm5ZU2hMUWpaQVNuOVU?oc=5",
-    "source": "maissemanario.pt",
+    "source": "MAIS/Semanário",
     "ts": 1790694646
    },
    {
@@ -1854,20 +1543,26 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0FXYXpELTA1b0lNeVJHY0NfejJTVGhzdnhDMnVVR0hPLVd5R3dZaUpSZzFPVmV1UHhhbDY0MGo0SFlUSzZfZVdPdFJUa3h0SEZkc1dYUkxtTnd5TkxqcjFKS3VSWDd5ZFFHUm9wUW8yS1N3NWl6SVdnVGdiSC1LaVVuSllaMmlaRW41alhXVUxraV91cW5hRllBLVJWdGJRN2hnMEdJMUtiRTlXcHg4?oc=5",
     "source": "O Amarense",
     "ts": 1790678100
-   },
-   {
-    "title": "Start Business Tour mostra em Esposende inovação da Wärtsilä - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSEFpbUVqVkFjeVVqUzRhVlZ5LVNIVldSV19uLWtjTVBnZEs1cG9vSXRFSTlhOE03WENveC1GZi1Qc3AwaHRjZFllMHltdzhlUTFYOERjMERXWkF6VTJ3TGdwM1h5OW1ZQUxrRHFmWm1Qd0dOM3FkVzlGRkNoWlF1bERoY0o4MHMxQ3NSNWxKSQ?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1790676660
    }
   ],
   "mundo": [
    {
-    "title": "Espanha. PSOE e Sumar chegam a acordo para aprovar decreto de habitação - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOElDU185cjM5NFB6QjhGbV9jaGk3ZzN3dUFVUmNVS0xGWkd3YTM5OVV5QUs3VWhPY25YSTBSdEkydG5IVS1nMlRDMHZndHEtSXRjcDVQUnBVZVRyOVJRR3dvRkRQOEliZDIwUXgzVnBGT2xZSm93NGxDUUdtd0ptc0pCbldDcGZRWFdLb0NyMnNHZW5QbkFwaEFrZWtDLU9BeFZURTVzbXJ4MWljcVUwcUMtYw?oc=5",
+    "title": "Advogado diz não haver provas de que Lindsay Clancy matou os três filhos e pede absolvição - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcUY2VFlCalhjVm45eVFEaTlRX25WSkhIMHBralQ5OUF4LVd5YzYxUnFXODhleUxSNVkxUlB1bkJYX1Z3OUg5SHVVY2xCX0tObWdTTGFZZkM4azNIMWNhb21Jb252UWVELWhaenpjVFctc1FqaHEtM0Qxdzhyekdub3M4QksyRzd4clNMQTFJQzFLYWVMS1puemFDSXFPY19ndkxEYmctNVVJU2s2SlZnSmZjd2gzaTlVWjA2X1JrbU1IbmVHSVdxUVR30gG-AUFVX3lxTE9kTldnendPdkNWOWtFV28zZnd0a0hVZk5DZ2lTUEdmQUxwWnV4ZE1hTHdEdEJjUzlDSHlwWnJPRVIyalFWejF5OGN0aEVvMkxhdFpMQ0JWWU5KYk82ZWFQMkdCV0w1eWFLV3UxVnhTazU0bDJqM3V6Nkg2TFI4cHBPZHp2QTh6YzhtQVpzd0tueXdYclFEYWFWeS1aNDRPUkFsaEVNZWZYUjRUci1obDcyY3B1SUVOTkVyMWJLN3c?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1790718540
+   },
+   {
+    "title": "Quem é Fatima El Mansouri, a primeira mulher nomeada chefe de governo em Marrocos? - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVEhPOTdoOUswVnlVOVpIUjYtTFM4bEoyWURYS1RSZC1kUEw2OEV2RllfeGRfUEtacFZRVGhWRUxIOG1JTWc0QVg5elNlNE1kMEZfN2Z2eFdFVi1vd1hPTFF0dzFOaUg4QzljRkE3YjNmRnRDeGdIYzEwUTRCNnJIRlRJeG44dVg0VnBCTXNKY2UwVmlUanByaTI3ejduYUYybUY5eXBCZXZEODZTTlhN?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1790708069
+   },
+   {
+    "title": "Bloqueio e distúrbios em escolas. Setor público francês em greve contra congelamento salarial - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbjF1UkotMk0ycjE2Mk1tTVFXLXdEQk1jZ1Q1eS1rX28xOWMxMzNXWkVmNUFzQy1fRHZDOVNCWDRWRVdrOVhRdjdrR3ZkN1pQdlg0TkZuQUdkcjZaN3lWZ0hNTzJVeWl3Z1NMcnlxa0trcjhlSl81OGhVNVZZckZ3Q1dxSVdIelcxMkhfZFJRR2pGd2U4WlN1d3U0Q2t4LXVrd0w1aHFucEZ1TVVlM2NzLWlDTGNWNnI4N2I0WWZVaUZqbG8xZER0Y05zLXlZU1dW?oc=5",
     "source": "RTP",
-    "ts": 1790706719
+    "ts": 1790706675
    },
    {
     "title": "Maricarmen aceita acordo negociado com empresa e vai voltar a casa em Madrid - Jornal de Notícias",
@@ -1880,18 +1575,6 @@
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOTJTNDFLaGF4eFRoeDhZUGY3VXlfVjlOSlBZYUk3V2lINjYzQkRDaF9BdFBfSXo5V05tUlFmX0k0TEdBRjVMeS0tX2ZMQXRYUWVDaV9NOWtUU0Z4NkczLWhEekJxSTRtUExzb3JYSzlUaFcyeHRLUjAxb3VReDdBQUFJOC1OamlOVldaOFRfcDdJLVg2dExkRkZGOHZWYTBfLTZyUEVWLVJUaU3SAaYBQVVfeXFMTjRyY1h6SWRRYUpuS21aNkM1TEVwcmdQOXJwNjV2ajhDYmd0WG9fX3BPSW5ZcTV3bGlsVmhoRnhRWi1RV3lWUGU4OUFQaVVMQWVIbHN3bHVfZmRiMnVGLU5VQ0VjWTJIZHlpeFN4cDNwQmd0VkhIdTR6OHo1R0JsaUZ3RTlqd2pGTFJTSU10b29SOWF0Tk56REt2NXVtTl8tQm00MFh0UQ?oc=5",
     "source": "Correio da Manhã",
     "ts": 1790696580
-   },
-   {
-    "title": "Alívio de sanções a troco de prisioneiros. Administração Trump tem um novo plano para negociar com a Rússia - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQZTQ4OVl3a0hFZEpxeTREdE5Zamh3cXVhNUJXNFFTZ2FXa0RCLV9wdEVyV0ZjcWZoMXN6N1VDVHhnT1RrWnlPU24zblVwUC1lTkxOdS1KQWpDYUpGdnJ6UGxJWnhNWFZDTVIxSmkwalFfWGU2ei13ZTlieGdtUS01Nk90Z04teDQ4NGVaenpXWXhYT3NUQ1NjVEhsLUwzakYtVnJvQWpEUjBDSHRvajhybmdtNUI0eFJjXzdoWlZkX2NCU2pCS19lR2Q0OVFtOE5fSU41VERvMHZmTlViR1kycDNLLXFxNGlJS1RLUERWUTEyalRuNDVZT1ZJODlON2ZTX3JVVzFjVWg1NkhIYk5z?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1790692680
-   },
-   {
-    "title": "Queda de avião militar na Rússia provoca seis mortos no extremo oriente - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOME5xRmhmZzZ4dHJiUm9naC1VWDBpU0N5bGx2dlJGNHNXVGduclM4dk5MX3l2V0loTG1hS2F5QmxRMWt1VXJTTzJ5R2FHUUdBa2ZqcVY0cWZoZ1g1cE5PRk9pcVlsUm45b2pxTjY0OXhRYmw2VHpDU2dJenA5ZzhFXzZKMmotUG9rYUlZRjc5TVdLem5jd0xjaEhNdFRtaGlHVVpPZ0kxMmpXVTk3eGxUR0tTXzN3V254Y21oQjI5TzVrNHhPNW82YTBaZ2NKc3FPbnZRcVQ3aEpTc09aclZv?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1790688333
    }
   ]
  }
