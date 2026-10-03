@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-03T11:00:12Z",
+ "atualizado_em": "2026-10-03T17:00:12Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-03T11:00:13Z",
+  "atualizado_em": "2026-10-03T17:00:13Z",
   "dias": [
    {
     "data": "2026-10-03",
@@ -1632,15 +1632,15 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Corrida dos Galos condiciona trânsito este domingo em Barcelos - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN3Nwd3lfX1hKa0xKNUtKSi1lNkx2SGpRMEpuaG93UGdORU9jWnkzcDQtTEpIWER4eTJPSzVYMzhVS2I0T0taZURhYnMxVmIwQ2dLTkZZamdDV1lFck5YR2hHNHpuVWo0aDk5VVZzMW15X090ZlVFakwzbGJmYzBnYUloRV9CSl9oaWJuemRSMklaZw?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1791018420
+    "title": "Barcelos com trânsito condicionado devido à Corrida dos Galos - O Amarense – Jornal",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNLUppOGxRblNwckQ2djlTcEYyUVZ6SzNoQ05XQl82bDBQNDNJVXdwOE1ZZk16UXBLZmdPRV93QlVMMmE5dEFidzNERGg5NGExT3VSZmJLQjZDYzExZTZnWUhPdlBFOXZuYjFHUlh3eHhtcEJGbktXM2ZHUkdWckVHSzh3SWZGVFJ1TnRJ?oc=5",
+    "source": "O Amarense – Jornal",
+    "ts": 1791042900
    },
    {
-    "title": "Jovem de Barcelos que morreu em acidente de trabalho na Suíça vai a sepultar no sábado - ominho.pt",
+    "title": "Jovem de Barcelos que morreu em acidente de trabalho na Suíça vai a sepultar no sábado - o minho",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3BuRGZIZTlKVEg5T1VzemMyRjdrRWpETHVLbGhMYTlsVnFEV0VnMF9YMmwtcEk2TmdpRDlPSHhKY1U1M1lJTVhJMUVQSGJQWFBHMkM5bUdvV21neHowRjBQdUFkSmh1dmhlMGFLRlVYN0VlUHV0VTN0N1hyMkp4T2lhc241R2dSZ0tFR1NINkFRNExOcnIwZ093bVoyeUo3NENTVWQ2Q0o?oc=5",
-    "source": "ominho.pt",
+    "source": "o minho",
     "ts": 1790969529
    },
    {
@@ -1650,15 +1650,9 @@
     "ts": 1790969206
    },
    {
-    "title": "Barcelos leva artes e ofícios tradicionais à Casa da Criatividade - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQb1BmQ1FUeFFCeVN3Y1ZMS01kaVVHV2FiT2tLdnRzMGRZVWk5ZE9CNlU0MkdRTlBreGp0S1lja1FfaFJ6UlBUNU1RTEVqTTY4N1dZRnBqSGdJV0RCTkdNYW5BYm0zc3poWG5vMEZCMThmLUEwdHpEYk5seWNlbFB0UnU0TG5XQ2FoSk9nVTJB?oc=5",
-    "source": "Braga TV",
-    "ts": 1790950314
-   },
-   {
-    "title": "Sábado há feira de adoção no centro de Barcelos - ominho.pt",
+    "title": "Sábado há feira de adoção no centro de Barcelos - o minho",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NFJTNDJKd2RQc0NDV2Y4cE5kWjlfYWNTZWxJN3pLODEtNmtJNVBFZVFuaVhmWWRJR3Awd0NWRHVDNlN5QlJ3X0JpVmIyaHVKU29OdTZoT3ZMLUhrVXdrelNzdTRXeGdiMlFZMjFobGNyMkJf?oc=5",
-    "source": "ominho.pt",
+    "source": "o minho",
     "ts": 1790877379
    },
    {
@@ -1666,6 +1660,12 @@
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEEyME9YMDJTdTB4bGxYMlZZdFNRSTg3d004dXo1b0g0OXJuYWJMNDJPZFpuTXFzVEtCRTRtWjRUX2ctaVNLT05GX3dpX1VzdlBkM2VocjN1TldvUXE2enZFdm93V1ZlZlNyYU5xUzNELURDdnJ5bWdydVFvX0xDMWxiWnA?oc=5",
     "source": "ArchDaily",
     "ts": 1790876320
+   },
+   {
+    "title": "Mês da Igualdade - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aS0RQQXcwTXdwWVBXUXFtOENtVFMtaGZZSDlNRXQ0SUJzZUdzLVExQnFZQ2x3QUdYbExnckdOTm9BWnVTNENhVVNDZnNBMlpMeGpJSk1xc1pVZWhHa1RCN2wtUTBadw?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1790866056
    }
   ],
   "esposende": [
@@ -1685,7 +1685,7 @@
     "title": "Boletim Paroquial de Marinhas - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1XUDJaTEtlSTNhdFVVR3FRYTY2VzZ4NFJGSjFoWEtvcmlsT3hVN0dwbDlCVkJTb3V2eWZMLW9EVDJQaGVxTDJoaFNxWU9JYlhqUFpUYk1ZMXVmbThXWlVvLVIzV1kyVGFqWUd6Yk1xOA?oc=5",
     "source": "TV Esposende",
-    "ts": 1791012866
+    "ts": 1791012773
    },
    {
     "title": "Ministro da Agricultura participa na Festa do Pão em Esposende - Braga TV",
@@ -1700,42 +1700,42 @@
     "ts": 1790949120
    },
    {
-    "title": "Motociclista de 18 anos colhido por carro em Esposende - ominho.pt",
+    "title": "Motociclista de 18 anos colhido por carro em Esposende - o minho",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRk9wOERqaU1SSmRXcUNDX1FxUHZYNHlCdnR4VU0zZy1NVUQzcllib3Vpd1VxdHA0SzM0RVZmekZ6dE5ZRHpPbWxINUZERU5BS3k3SkVoNDE4Y0NKTV9UYTMwclRDRlRibVZkRXVZbFVPYWg3LVB4Umd2YjJjVUl3bUc0eDAtMkdrR3AxQ1RXSF9EeE1t?oc=5",
-    "source": "ominho.pt",
+    "source": "o minho",
     "ts": 1790888779
    }
   ],
   "mundo": [
    {
-    "title": "Austrália: carro abalroa multidão de adeptos de râguebi e faz dez feridos - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbTZJYV9xTXhDZVJJYy1EdFFiaHJqTEVERjI3UTh4dlhBT25TaTZIaUFnTGtBU203eFJBTldTWXl3aTFLZm9ic2pIbmUtaE5YYThULXlGQy00ZHpRSnBKUWVWcVEyY1pzNm5EN29RYldpQkc1TG9vYmE1M0hnQ2pQOVJYUkdYMTFET3I5eEpjQWtxcXczeFpMMmc1M1NpOHM4YldHR3BkUHo0UlpHcm9GblFNYWdOWUhyaGVtd0ZmMA?oc=5",
+    "title": "Voo da FlyDubai: copiloto atacou comandante com machado - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMk00T1JQS0tHNmViZkhiX05qVFI4a3dicXFNSzQ4SC1LTWpBZXotMEI1eUpaZVIzcFRYbHdNSG51am45cjltY2doVDJlTldtT0hucENOM0l5MWpPbGRYLWxiNll0dklieE5NeFJ3QThJNFFDa3pqRk1ueVBQaUktWjFRQ01mMUpHdlZTNFpKMGFBM2RLSTZGQ0FMUHU2cDZ0VGE1RElLMA?oc=5",
     "source": "A Bola",
-    "ts": 1791017340
+    "ts": 1791038820
    },
    {
-    "title": "Ataque em voo da Flydubai classificado como terrorismo. Copiloto era já suspeito de extremismo - cmjornal.pt",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkpIc2IzQkFRSmlpY3ZfOUFxTDlSRk9HdkwyMU80c3BRd0lyd1BJMmRId3I2TnFWOFNKTnpCcjc2N3l4UnpSblNrSnBvYng3Ny1udDNySUp6MGo5bWRXZ2NkOGh3QTdYN2RDZ3R1bXRvZHFIbjhlZ29WU05nWmlsUGFHb3pXczAtTXRZMUJnUHhzY2lNSHQ3aGJrSjdxaWJBN3NvbjN3YW5ISkh0T1AwZXllN1lPUXRJRDBuZm1UWEFsSFk0VTVmd09SUQ?oc=5",
-    "source": "cmjornal.pt",
-    "ts": 1791015000
-   },
-   {
-    "title": "Christa Pike continua inconsciente e ligada a um ventilador para respirar após execução falhada - Público",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZUVOT1hIbmdMaWV3MUIxRFdacVlNUFRycjMzV29PZnBPQUxNcEZ0T2xoTS1pRFlod2tzdm5YVzdxRGlMQWRFN3FQOG1KZXBTclBMcEhmNkFxSXE0Qk9Fa3VYTGR4Q0ptTUlydDFwSXZFM3FPa2J6UFFwYjQ5WGl5Q2oxRHR1MUJ0RXNmY3BQTk5GYUdfWUpFc1BBWGk1RWlQZmRmUGVzQ2tpVUJDMFM1dUJxdmU3cThWa2J0MThTQkxwdEF4ZHZkVmRMUHBMZFBiX21hVXRB?oc=5",
+    "title": "Mulher de 102 anos morre em inundações em Espanha, dezenas de pessoas resgatadas - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm1EUnlRcGZva0ptd0h4aEZtYVJnNFY5UEhlWk1wVENzZDh6dUZ2OTlxZ0x2bEhrUmJEUUVPVXBQRFVjSWtmZXp1dk9LVHNJZHpvWW5tbl96eEdzcXg2WW91NXpLUkU4ZXpDSkdqOHk1RHd3VUVjZElia055dTNXdExfWEhuN1E5MF9GQlc5NUhIY09XYkJHWFgwMk1hQVJTa05oejZLNWVnVHJ0YTVSY2MwcFU0bWhiaFZETVFyUUY?oc=5",
     "source": "Público",
-    "ts": 1791014095
+    "ts": 1791028515
    },
    {
-    "title": "Pelo menos 11 feridos após desabamento de bar em Espanha - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZ0s3WUxDUG5jU0l5R3NpZmlueUI3OVZjcEc4dTJRYXVVTFppOFdKQ1FsbTNnX0JmNXlHTEpfbS1FUWV3TlFzMi1CcWwtSUVyRmRuM1g5WmxCcEFsRWM3cGdKTGg2UXBYVUNKaXpkYk1reW9URHBVVzZKSzhBQlRfVWZ3cTJuRHp2WGFaUVhGR2d1d211NGNvQ21YUE1kaU0yX3J3MXlR?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1791013745
+    "title": "Metade dos eleitores britânicos querem regresso do Reino Unido à União Europeia - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2NDRVlpWVh1Tk5tbFpwb1l4Skk0cE9WZkd1bW1NaEZvZklzQjBsal9NUFdYUE53Z3F3TVJLeUdrQm9WakY5VFR2YWtvQ243MUdzNHRndHNRbVU1TU9sRGFzblprOE1jYktfcjdJdTZ5OTlGSHk2YUJBaFQ5Z3dFaGQ1N2FsWEZDOEdRcVhidWJVOFc4Mk80LW5jdVcwYkxWUFZQdmJ2UDVpcmJQUm5OZ2FreEVlamx0T2dRdlVyRFNCNDZXeWZ4aFQ0WQ?oc=5",
+    "source": "Expresso",
+    "ts": 1791021366
    },
    {
-    "title": "Mulher de 102 anos morre em casa nas cheias da região espanhola de Albacete - jn.pt",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVmZLb3hwOXozWHM4ZFByX3AwVnNvbzZmY3JhZkxDdVY1SEVjSkdVV3hjcl96eWlpeWdlbW9ELWk1bHBkMjVsRkRrR3J1Q1kwYVVuUm5zOWhSZjFhYkFuSkhOZ1ZVeWx3MkZDNXdzLVlFUjk0X2pWb2JvdWd5QkpRUUlndWFqSldZcVVmVVFXeXU2cUx0LWpRZ3FreXl1bi0xbm1JUGNzcGxVNFg2SnItYUtVWm1Vd9IBqgFBVV95cUxQckVhNWdnT25VYnhoOEhkdEx0QkRJMjg0M0VnbkFuVDMweUpoS1Rfbmlyd1BWTGRnaEhYTS1tYWFnSXBlMmV3UkxVRTNQUFMzQ0tHaUtFRWZSb3hUSlZQRFJXQ09DamxzTTl0NHA1VEdzeUY3Yk9pNTZMN0lYcTZva1g2T0xKQS1fdUlHeDJFVHByUl9ENzhMRXpHMFRTYmhBRFBLVkoxQ0dadw?oc=5",
-    "source": "jn.pt",
-    "ts": 1790987880
+    "title": "“Ninguém nos dá ouvidos”: o movimento estudantil intensifica-se por toda a França e não parece abrandar - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPXzhxeWEzbmZJU0xEMXYxRmMwbjhSTFB6Q19NSWpmbThVd1lZLVRCUGRBUDdPb2pOTDZienJZbWdGSXVJOVhfVFZHZjhiV2ZHbjBQVWU0MHZLZFk4R0JtTlpua0Y5T1NBUmxMSEt4MldieVNjaUFOeTU1bk83bHJLa2s5RXpnWHRtNHhyS1huaExZd2FqMjdPcWJGWHRiSVc5a2s5ZWUxeGVMTC1maWtlZWtSZHEzbXQ5NkR3eTRtVXV5ZGhNTmhnMnd2YlJCcHZDX0xBNHktX3FMOGxXbzdVQQ?oc=5",
+    "source": "Expresso",
+    "ts": 1791014942
+   },
+   {
+    "title": "Dez feridos após automóvel atropelar multidão de adeptos de râguebi a norte de Sydney - RTP",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXRMMnA3eTJSUnR2WUw1U0I1cmZYa3JwYmdZV3NRWWJjcVZGWnpZNzRlRVl5dGhpSEhjTmVLbW5rcXpPMVJia2VESVhXOGw1M2hoSzdLcDBCZXZIRlRVVllUdkVRNUlSQTcxWkctanNHdThULU8tQS1KaGZoZmVVSFg5bDNuY2tpYnNJMmFNajVvTlV6Uk5MaW5iX0llV015OHFSNGpOTWJpOE53WmdheTN4a3duVy1SdFVYR0d2S2VHX2lfZGZB?oc=5",
+    "source": "RTP",
+    "ts": 1791011715
    }
   ]
  }
