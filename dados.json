@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-04T04:02:15Z",
+ "atualizado_em": "2026-10-04T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-04T04:02:16Z",
+  "atualizado_em": "2026-10-04T07:00:14Z",
   "dias": [
    {
     "data": "2026-10-04",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Vê BC Barcelos Gil Vicente x CAB Madeira em Direto Online | DAZN PT - DAZN",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWE5VFdDdUJreC1VU0ctanNNTTlhVVlxcXY2aG82SlMwUThjeGp1T2xaTzc5SUM5cnN2N0ZvbE9xdHZPVnpVbi0wT1p5QmtVWHd2RUlnWFR0U0JwWlF5SWtRUGVpWEZ3Nm95WjRJam5VS3ZuZ3ZrM1RMYnVydkNUb2w2VGxOQzY2ZHk0?oc=5",
+    "source": "DAZN",
+    "ts": 1791090543
+   },
+   {
     "title": "Casa da Criatividade de Barcelos promove formações dedicadas às artes e ofícios tradicionais - O Amarense – Jornal",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0hrMlRnb3RkLS1QanhYdlRSYlhjUTVtUUhneUN2V29wRWdmX00tYWZCb1NXdmppekhmY0JBdmk0dHdsR1pJcEFWZ29OSlR6dy11ZUx3eFNDOGt3SFhBY3ozOGpPX2FoNVRFNmxaYy0tNUFhcGV1MkJiNy0wRjFmRml5VHlsOUNOQlF4TmJmVEFMNjFQUnFsb0s2VW1IaUYxdG5MMTgzZHFQeDRTYXNVZHptZC0?oc=5",
     "source": "O Amarense – Jornal",
@@ -1483,28 +1489,22 @@
     "ts": 1791042900
    },
    {
-    "title": "CLuB - Clube de Leitura de Barcelos - Agenda Barcelos",
+    "title": "CLuB - Clube de Leitura de Barcelos - agenda.barcelos.pt",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XQW1BSHNpQUE1UjFkS1pPZWZHel93dGczNmpLTFlwbldYTkRmODBDQ1ZveGxhVnpZcmNxYm9WUU9ORXh0RU9NajdDZS03aVFEak96b2hfR21kUjQ1YUlrWGtVYlFZelJvcV9BYlY1ZlFtT3BxWVJpZnQwRFQ?oc=5",
-    "source": "Agenda Barcelos",
+    "source": "agenda.barcelos.pt",
     "ts": 1790969206
    },
    {
-    "title": "Sábado há feira de adoção no centro de Barcelos - o minho",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NFJTNDJKd2RQc0NDV2Y4cE5kWjlfYWNTZWxJN3pLODEtNmtJNVBFZVFuaVhmWWRJR3Awd0NWRHVDNlN5QlJ3X0JpVmIyaHVKU29OdTZoT3ZMLUhrVXdrelNzdTRXeGdiMlFZMjFobGNyMkJf?oc=5",
-    "source": "o minho",
-    "ts": 1790877379
-   },
-   {
-    "title": "Galeria de Casa em Barcelos / Rui Grazina - 29 - ArchDaily",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSEEyME9YMDJTdTB4bGxYMlZZdFNRSTg3d004dXo1b0g0OXJuYWJMNDJPZFpuTXFzVEtCRTRtWjRUX2ctaVNLT05GX3dpX1VzdlBkM2VocjN1TldvUXE2enZFdm93V1ZlZlNyYU5xUzNELURDdnJ5bWdydVFvX0xDMWxiWnA?oc=5",
+    "title": "Galeria de Casa em Barcelos / Rui Grazina - 30 - ArchDaily",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeERmd0ROeW45OTlDNlBqZEJLM0NIWHp1am5yT19lNjN6cjNvNmpJcXN6R2lpM1B6TDNETGYwSzhUVU1SWk56Yk9ZM1NlOGQyV19rSGpxSU5XakI2VWxuSUw4QTdLLXA2NG1EclRNdldfVzdHWFNTUHdDVUJRUnhfMmV3RlU?oc=5",
     "source": "ArchDaily",
-    "ts": 1790876320
+    "ts": 1790889511
    },
    {
-    "title": "Mês da Igualdade - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aS0RQQXcwTXdwWVBXUXFtOENtVFMtaGZZSDlNRXQ0SUJzZUdzLVExQnFZQ2x3QUdYbExnckdOTm9BWnVTNENhVVNDZnNBMlpMeGpJSk1xc1pVZWhHa1RCN2wtUTBadw?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1790866056
+    "title": "Sábado há feira de adoção no centro de Barcelos - ominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NFJTNDJKd2RQc0NDV2Y4cE5kWjlfYWNTZWxJN3pLODEtNmtJNVBFZVFuaVhmWWRJR3Awd0NWRHVDNlN5QlJ3X0JpVmIyaHVKU29OdTZoT3ZMLUhrVXdrelNzdTRXeGdiMlFZMjFobGNyMkJf?oc=5",
+    "source": "ominho.pt",
+    "ts": 1790877379
    }
   ],
   "esposende": [
@@ -1527,9 +1527,9 @@
     "ts": 1791055020
    },
    {
-    "title": "Época balnear regista 30 mortes até setembro, com ocorrências em Caminha e Esposende - vianatv.pt",
+    "title": "Época balnear regista 30 mortes até setembro, com ocorrências em Caminha e Esposende - Viana TV",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVJsZTFMQ0JIclh0ZEx5c1FIbEpCT182bkVlbDFJaDlmd1Rwa202XzVHZ0R1aWU5STdqZmZwVGpyYTBFUXR5WWpGbGhsUlNpX1RuLU5xLURZd2RBR0FoWHdpYUlvOXF6QlVDRWpUWS1vUmhJWFdBVFhVWTlISUQzSUFIUU1oUVE3YVh2QWJFSFVCNGphWmdhYjZ5aG1aRnluMmV0bXhR?oc=5",
-    "source": "vianatv.pt",
+    "source": "Viana TV",
     "ts": 1791019800
    },
    {
@@ -1547,10 +1547,10 @@
   ],
   "mundo": [
    {
-    "title": "Antes de desaparecer dos radares, o avião canadiano perdeu mais de 12 mil pés de altitude - cnnportugal.iol.pt",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPSktWTDBOVVh0TnBkUVBjdkVSOVlaaGE4VDZVUXNEUnQ1UHRzRlpGeUtnTGlvZlhpaEttLUpkX1FXbUQ4cTlpUnZzb3FuclBYUndqaThGZjRZUWQ5WVA2TkJPUjI0SExBd2hBRWpUblRVOEdmaHRiTXVJOVBKOVJ0WUhoMDdib2YzLXAxNmg3NUltME5OOWhmMlotM2FGakhnYzRMU1pDRkVkOG54LUdCUklSc3VSYkdPSTIxVGNJREluNk9sdEVWQ3FCUzZYdElsVEM5VElvNTQzVXR6SGtlc2RxcGJoOVNiV2wtdjFqaU5PWFRJWHFTczBB?oc=5",
-    "source": "cnnportugal.iol.pt",
-    "ts": 1791061740
+    "title": "A Rússia tem um novo alvo na sua lista de infraestruturas ucranianas a bombardear: as pontes - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQM2gydEJMTUh5MXNjZ2RodWdNNjRjTXg3OUl5UnRQWE9VSEVCOFllWnFWcFp3aG9uSW9nYW83b0RqNWUzYzA4OEppUGoyVzc1U0VYZnRWUGptVjVvTk5IakYzaTgydU5KVWktNzgxSkthREg2VDNUYWUyQURhTF9NUXRDb2IyTEtTOW96amQ0QmpkYVROaWhjRVkzWFFfZHNsdVN2OG1VUUJZWmt3QUpHVWNQc0hTaGVKVGlEU0ZHVDBROThITXFwOG1WaGxlU3FVd20tR1lZYk5aUFJWZXBxLUFIcHZXamFRS2ZxUm5GeEVJRThMb3pCNGtTQQ?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1791066360
    },
    {
     "title": "Milhares de pessoas protestaram em Madrid pela habitação, “rumo à greve geral” - Público",
@@ -1559,22 +1559,22 @@
     "ts": 1791050559
    },
    {
-    "title": "O inédito que Antonio Tabucchi dizia não ter e a nova colecção da Livros Zigurate - Público",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEplVElWdzZEeTVTTlVvLWpGcWU1T1NBSGJHMUp3VWJPdXpieUdUQ2NNZmlXSU5UZ1ZFd1l3NFpGVnhrd3BXZFdQVHg1d0ZJdE90RERNemdTdG5oM2N3RWZBMm5XS2EzanJ2ekdHX0haNENWS2RzLUJJX2pFSjljZWJmc0M3NXpxdGV6aml5ZkFFcXA5MjVCS3pXcGxtaVlXTUFOLUtFQzBCXzVaT1A1a3E1THMtdE8zRFlRNlhnOUt0dGZjTUZzeg?oc=5",
-    "source": "Público",
-    "ts": 1791049789
-   },
-   {
     "title": "Christa Pike continua inconsciente e intubada após duas tentativas de execução - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPazNnMDZid05GZzVWai12d25HMG1QYWJZRjhNM2JhcGEwTkc2NmNQNTFRbnMyWDI1T25vc1kyTDU0ajBKWjBqYTF5dVJWV2ZFRmtyMk4tNktGNlRtdkVnT0hCanZCQlVDXzlZdWJvZEtiMEQ3WkNodDdJNTN4WC05SW1HbkZEOHlrem9Pc3o4aHhvdjcxdVpaemllM2FfVjhrQkc1eTJCcTRMS19wQmx0LXV0QUFxWFplZ3fSAa4BQVVfeXFMTnNMMExBd3F1dkQybTVwNV9tZVRzS0VBWWhmWXctMV9RVmJRRmxjNS1jSlJXLVYxV1ZwYnN4Vm5MVGRUODhwbHdwMVdWNFB5SDQ1ZVViN3VaSVpKYzZKZ1FwYlhjaWZfdHljUGFMUTZSOUxDRXhQc2xoR2NzVU5MbjR0dTk4bjJmT2wxYXljQXZNY3ljbVpGVXJvbVBaQnN5Vndjcy1nRWFiVG92dzF3?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791048360
    },
    {
-    "title": "\"Temos de responder de todas as formas\": Ucrânia vai atacar refinarias russas em resposta à \"nova doutrina\" de ataques aéreos de Moscovo - cnnportugal.iol.pt",
+    "title": "\"Temos de responder de todas as formas\": Ucrânia vai atacar refinarias russas em resposta à \"nova doutrina\" de ataques aéreos de Moscovo - CNN Portugal",
     "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN1pkQUFFYzFhOUNzSEVpeTdTZlp4R0I2T3lMbmFDWkdZb2VzLWxocG5oeVF2RDJkcS1VSWJwZjd6TVVDVFVFajZObU1XZEJCVlBmbkxaeE0wVWJWVGYwRXpEc0x5WVZmY1pnQkVNNVFETDd3QjlFc2xiWEdtcUkzdWtpRzM0am1ydnlfSmV3S05SNXB6MXQwM0VLTmp6QWNhR2swYlNCX1cwVlZMRUVCY3U2NjdCeHhUenhvWUhXeXdZcnMtNkJ2MXVJZ3ZfU2NwYkt1eDNVSXVLMWxoN0tyYVdpRHNvZ3Y3OGdOSVQ0SDZSUTVrRWNPVnRGdFJ4Qk5JU2dHV2sxODdnWms2OTE4V1VmTHZkQ3hGaFVhTEp2RXJ1Ml9fcXUyM0lHR2NydXpi?oc=5",
-    "source": "cnnportugal.iol.pt",
+    "source": "CNN Portugal",
     "ts": 1791045960
+   },
+   {
+    "title": "36.º aniversário da Unificação Alemã marcado por manifestações em Berlim. Veja as imagens - sapo.pt",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3VYN2J6WHBWVXk5MDNtekhqaHFQdWlwUExqcXR0el9FaWRLUWpGTkM2UG5rUXZyMDdoM1hJY1BKTEJETDFSTi1sNGRjNFN0U2RKNzU1RWVjV2xlSlozeXYxWHBweG5IRm1zNUd1QW9kSlNMYmZLNmpBWlYtT1NZRmNqVlp2ekk3SnJHRERqX1RaN0k2Vy1BQ2FpZkhPUnBTRUVEbUM2MlNsa2pvT3ZoWkQwYXlLTzhRLVgwOVpMaEpSaDVhQ1AxQk1ZSlJOaXM?oc=5",
+    "source": "sapo.pt",
+    "ts": 1791043339
    }
   ]
  }
