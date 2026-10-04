@@ -1,6 +1,6 @@
 #!/bin/bash
 set -euo pipefail
-# Atualização automática do site Barcelos Hoje — 3x/dia (08:00, 12:00 e 18:00)
+# Atualização automática do site Barcelos Hoje — 4x/dia (00:00, 08:00, 12:00 e 18:00)
 # - Notícias locais (Barcelos/Esposende): O MINHO + E24 (filtro por keyword) → fallback Google News
 # - Notícias Mundo: Google News direto
 # - Mar/vento: IPMA oficial (ondas dia0-2 + estação Esposende CIM)
@@ -250,8 +250,11 @@ for cat, items in out['noticias'].items():
 print(f'Mar: {len(out["mar"]["dias"])} dias · fonte: {out["mar"]["fonte"]}')
 PY
 
+# Atualizar o estado público com os mesmos serviços realmente usados pelo Pi.
+./status.py
+
 if [[ "${1:-}" == "--publish" ]]; then
-  git add dados.json
+  git add dados.json status.json
   git diff --cached --quiet || {
     git commit -q -m "Atualização automática dados $(TZ=Europe/Lisbon date '+%d/%m %H:%M')"
     git push -q origin main
