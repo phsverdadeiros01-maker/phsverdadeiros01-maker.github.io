@@ -1,10 +1,10 @@
 {
  "host": "pi",
- "atualizado_em": "2026-09-04T19:53:19Z",
+ "atualizado_em": "2026-10-04T17:00:20Z",
  "resumo": {
   "total": 7,
-  "ok": 6,
-  "falha": 1
+  "ok": 7,
+  "falha": 0
  },
  "servicos": [
   {
@@ -15,7 +15,7 @@
   {
    "nome": "IPMA · Mar de Ofir",
    "detalhe": "api.ipma.pt",
-   "ok": false
+   "ok": true
   },
   {
    "nome": "OpenClaw",
@@ -28,13 +28,13 @@
    "ok": true
   },
   {
-   "nome": "Navidrome",
-   "detalhe": "música",
+   "nome": "Samba",
+   "detalhe": "partilhas locais",
    "ok": true
   },
   {
-   "nome": "Audiobookshelf",
-   "detalhe": "audiolivros",
+   "nome": "HDD multimédia",
+   "detalhe": "montado só de leitura",
    "ok": true
   },
   {
@@ -44,14 +44,14 @@
   }
  ],
  "metricas": {
-  "temp_c": 60.1,
+  "temp_c": 53.2,
   "load": [
-   1.33,
-   0.65,
-   0.64
+   0.13,
+   0.13,
+   0.09
   ],
-  "ram_pct": 81.9,
+  "ram_pct": 74.9,
   "disk_pct": 18
  },
- "ultimo_push": "2026-09-04T18:00"
+ "ultimo_push": "2026-10-04T14:15"
 }

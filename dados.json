@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-04T11:00:13Z",
+ "atualizado_em": "2026-10-04T17:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-04T11:00:13Z",
+  "atualizado_em": "2026-10-04T17:00:13Z",
   "dias": [
    {
     "data": "2026-10-04",
@@ -1632,16 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Nova VMER reforça resposta de emergência médica em Barcelos - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOa3M3SzAtdHFyTkIxRWRPdnFUNXhRV3p3cnNsN2pRMXhpa0JYQTk3a2tJbVdCdWE4cWk0TjhUZzN1OHotV01IQi1fUFFUN1o5a3BfMjNpazhGdnlvU2xzMHBxVWFWYkNBalg0RHZldWg3SWoxVkU4amdVakg2clJLSUo2X09Gb2RoUlExOFA0ZExDSXJaemFodGppSHEtZkHSAZQBQVVfeXFMT0RUblhsRGk2XzFGRGFNYnZWNjJTbVdZNVNfNjE0WFEySkQ2N1ZXcmx4TmM2LUNDTEZsR0ZlR3ZzdHNXSEh2RlVBNWc3a0labEgtdkxXV0VHbDNCSmw0SXZEV2YwZGxPNzVPM3JBQmF1eDl2Q1h4YVJCSGhpNE9BQXYtRkNvVnd6VlhTa09aUWhiaXFRcQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791118440
+   },
+   {
     "title": "Eis a nova VMER de Barcelos",
     "link": "https://ominho.pt/eis-a-nova-vmer-de-barcelos/",
     "source": "O MINHO",
     "ts": 1791109809
    },
    {
-    "title": "Steven Sá e Inês Garrido vencem Corrida dos Galos em Barcelos - Semanário Alto Minho",
+    "title": "Steven Sá e Inês Garrido vencem Corrida dos Galos em Barcelos - altominho.com.pt",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2ZUV1k0YTB5enZ2cE44LTUxcGthd0lmajFWSFVuNEhVWVRsdFhROWNPTFRTelJMc0dPLWptaHJobHA1eVVzVzNYcUFsRmF6ZlBwT2Q1X0VVTUgyaVdFMjJUbnRFTWsxRU41Mm5JMmdzRHF3dlFSZkxxTnhfdTNQWFQ3SkkwREhOT2tXXzBTU1VBdkI3RngzUFZKeU5hMVU2c0VyWg?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1791109626
+    "source": "altominho.com.pt",
+    "ts": 1791109593
    },
    {
     "title": "Vê BC Barcelos Gil Vicente x CAB Madeira em Direto Online | DAZN PT - DAZN",
@@ -1650,25 +1656,25 @@
     "ts": 1791090543
    },
    {
-    "title": "Casa da Criatividade de Barcelos promove formações dedicadas às artes e ofícios tradicionais - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQd0hrMlRnb3RkLS1QanhYdlRSYlhjUTVtUUhneUN2V29wRWdmX00tYWZCb1NXdmppekhmY0JBdmk0dHdsR1pJcEFWZ29OSlR6dy11ZUx3eFNDOGt3SFhBY3ozOGpPX2FoNVRFNmxaYy0tNUFhcGV1MkJiNy0wRjFmRml5VHlsOUNOQlF4TmJmVEFMNjFQUnFsb0s2VW1IaUYxdG5MMTgzZHFQeDRTYXNVZHptZC0?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1791055560
-   },
-   {
     "title": "CLuB - Clube de Leitura de Barcelos - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XQW1BSHNpQUE1UjFkS1pPZWZHel93dGczNmpLTFlwbldYTkRmODBDQ1ZveGxhVnpZcmNxYm9WUU9ORXh0RU9NajdDZS03aVFEak96b2hfR21kUjQ1YUlrWGtVYlFZelJvcV9BYlY1ZlFtT3BxWVJpZnQwRFQ?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1790969206
    },
    {
-    "title": "Sábado há feira de adoção no centro de Barcelos - o minho",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15NFJTNDJKd2RQc0NDV2Y4cE5kWjlfYWNTZWxJN3pLODEtNmtJNVBFZVFuaVhmWWRJR3Awd0NWRHVDNlN5QlJ3X0JpVmIyaHVKU29OdTZoT3ZMLUhrVXdrelNzdTRXeGdiMlFZMjFobGNyMkJf?oc=5",
-    "source": "o minho",
-    "ts": 1790877379
+    "title": "Galeria de Casa em Barcelos / Rui Grazina - 30 - ArchDaily",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeERmd0ROeW45OTlDNlBqZEJLM0NIWHp1am5yT19lNjN6cjNvNmpJcXN6R2lpM1B6TDNETGYwSzhUVU1SWk56Yk9ZM1NlOGQyV19rSGpxSU5XakI2VWxuSUw4QTdLLXA2NG1EclRNdldfVzdHWFNTUHdDVUJRUnhfMmV3RlU?oc=5",
+    "source": "ArchDaily",
+    "ts": 1790889511
    }
   ],
   "esposende": [
+   {
+    "title": "Indústria de Esposende debate inovação, sustentabilidade e competitividade - correiodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTU3YU52OFJBNXZtdmlENVg1ZnloZFU0QUxvbU1MeDU1eDV0VS0zVXQwYkRpaHoxMkVVWnZkVmJ5VTJiWmFSd2szVXlYZ0JpY1JNR2FBdDlWWWlIUElKWG9Fb29rOUVFZGlqNGpFd1J1ajhfRFJVd1VVYzNzSW1XYUtpY09IZjhQLTU3VG1FbXg3Ynh2aU9rMFUtaGg3RzB3NUlLLTNPRTcya2czVjlxMHE3WGRxUQ?oc=5",
+    "source": "correiodominho.pt",
+    "ts": 1791124200
+   },
    {
     "title": "Jovens de Esposende levam propostas à Câmara para definir o futuro da política de juventude - Rádio Festival",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkFpOXFycTFUZzBGX3dtRXVSQTRNYWlaYVNRZ0t6MUpvR1p1TEVyeUVXbkVBeF8zT1Z0YldRaF8yNkJHSTQ0YnpZZGFfVVFkSzl4aTlFWWYzZ0JNT3lISzc4bFFmTHRhQXlHRUpJQ2R4ZU1WZFVmWjhvVUJqeW9yZ1p4cmoxSWtBWXI4ay1VeGhMZHhZV3RpcFZrN1lGTmljM1V6R0tPOUlmM3R2UWRtbUdiemZwYzB3OUVFZW8wbXpURjZUZWtCLVhtZXZ2eTE0NHc?oc=5",
@@ -1682,6 +1688,12 @@
     "ts": 1791091546
    },
    {
+    "title": "Esposende: Tradição do pão é “memória” e afirmação da agricultura - correiodominho.pt",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOFVORlhUdXJYSXFBX2JnYmp0LVVWeXFsOFlHTFpPaHFFUDJnZWFoSThaYU5iVHNFaFpBbEpmWDg3dUZiY05CbDdxaTBQM01idmVTYmJyMXY5QWxqRVdBWnp6dm11RHlNYkFKSUNNX1ZVTHlQaDMyNDdiZUZuOGlvR1hPQkEwVDBHS1JZdGdQWmFaVENGWHExVHpORHNYaE5IcFp0bExwWGN1SlJ4?oc=5",
+    "source": "correiodominho.pt",
+    "ts": 1791090000
+   },
+   {
     "title": "Esposende: PCP protestou na “foz do Cávado” contra o aumento do custo de vida",
     "link": "https://e24.pt/pcp-protesto-esposende-custo-vida-combustiveis/",
     "source": "E24",
@@ -1692,50 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVUcyamdPZDlmRFBJaVRvWG9tOVRNa0dqVWJSSkJFYmVET0tUalRPaU1lZnBMSld0cEpkd2t6WVZQYmhEOTlTcjhVeVo2eERoTEd3aXpyaHduRktJMUJickRQam5YRXNZb01KYl93cFQwWjdVUFBTN0h1RDZ5ODVYT2djMkJDeHVnLVpzLTgyMVN2TXdPVEhLOTloZ1lXUV9NYU5EdnJfOHRsZkFMNmszSVFBQzFlUdIBqwFBVV95cUxPNmlKaGQtMzNxWmJPN25jRVdLd081TTI2b2szM0xWR2VaR2UzVzRpUUtEUTNrbjY1T0x6UWJDVG1lRFk0T216bFNRS1pLVEFpdFhydTl1TS0zaTBZMVhDUkFsLWFTUGptbnpWS3VRWWkzeXBmV21idVREaFN6TzEweWhRd1VEZURoQ2hqRWFxdW1fUkRhRTRta04tMTZqUkhjaGEyakpmV2pqWGM?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791055020
-   },
-   {
-    "title": "Época balnear regista 30 mortes até setembro, com ocorrências em Caminha e Esposende - Viana TV",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUVJsZTFMQ0JIclh0ZEx5c1FIbEpCT182bkVlbDFJaDlmd1Rwa202XzVHZ0R1aWU5STdqZmZwVGpyYTBFUXR5WWpGbGhsUlNpX1RuLU5xLURZd2RBR0FoWHdpYUlvOXF6QlVDRWpUWS1vUmhJWFdBVFhVWTlISUQzSUFIUU1oUVE3YVh2QWJFSFVCNGphWmdhYjZ5aG1aRnluMmV0bXhR?oc=5",
-    "source": "Viana TV",
-    "ts": 1791019800
-   },
-   {
-    "title": "Ministro da Agricultura participa na Festa do Pão em Esposende - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVWNmMDVobDEtLTMwY1Z0eWNVenBhT0daRm1aNFRfbGkxZDJJTGt5OGJ4RGZFZk96OFgxQ2ZFRGhCYkYwMm1xQUk4ZUl3cDhNOXktR0NIU1dPZEp4NnFvempEQVFXZ25UQng2dUxLODB1SE92NmtRVm90V3EwUjhocjk3RnhKWldFUWc?oc=5",
-    "source": "Braga TV",
-    "ts": 1790961373
    }
   ],
   "mundo": [
    {
-    "title": "Brasileiros num turbilhão entre Lula da Silva e Flávio Bolsonaro - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONG9QbllzNUlSbWlRaG44emI0YzRuU2l3THZnUEFRbXJlUjAzdEt5RlplOHkxN3lPVENtZXF0YmJ3OEV2MWZEcXJMeDJPUWhveVBMQU9IYjkzeEVHajJSWndVZm9nLVdZT2NjX3hZb08wMkFtd01MOHZJUUl0UDVwX29TMmM3TUJmSlYtZDdwUGtuUE5RV3RSM01tckxENkluRzJ3RDNnRQ?oc=5",
+    "title": "Brasileiros num turbilhão entre Lula e Bolsonaro. Siga as eleições ao minuto - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcmk0WVZ4Yk5hZVhkX1ZmRU16TU5ZWnlwMU1ueUpJZTNSSkhJT093TFozdGJ0WEFkRDlBa3hPS1VIZUZoeDRrLXN1dTRfNDd4cnVJR0drMXpQcGp5VTJ0ODdhMHV6SzEyaWZwcW90R1BoU1BjTVllQ3owQXdBUnZSUVd6RnRWNHdhaFdkNVVSSi1ScWlVWjlxSEx1NGRlc1l5U054cFRfQXhPa1FaMWVsMG1zd1A1UQ?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1791099660
+    "ts": 1791120584
    },
    {
-    "title": "Temporal em Espanha: Idosa de 102 anos morre durante inundações e 90 pessoas resgatadas - cmjornal.pt",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYndBUWhoSXhMazczVHhJNmhKUF9fZ3NUSTd4cmF1LTYxaGx4YTlPYkJKYnhIVkdIYU5UMVBsNDFzNE1rRWRPdnEyZnotQmNsVlgydzFpMmp2OTAxeUQ5Q0xwNFZhZVB4RndPOXBYYWYtUThfUmQwZFRvOFJDQWdlb1ltSnY0NDU0QXhZSHNBNGhzYzIxS2d1WUNtdjRJb2ZMMjdBblBNN1JoVkptRHhQbGJydjIzTlBnUjhkeEVxdkZqUQ?oc=5",
-    "source": "cmjornal.pt",
-    "ts": 1791097560
-   },
-   {
-    "title": "Brasileiros regressam às urnas divididos em tudo - Público",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSktXTlpjMUZpRTZBdnNjTzdFelg2WmJ6MGw4RDJ5TF9ubGt4YzN4T3FhT196aDQ2V3NGS0N4dGh6UnR6bXRYaXB5SEtMY3BUNU56ZngxbXNWOGtwTnhnbE5VZ3FueEtSUzVNa1pGSVhQLXFQSTMwRkFiajBkRlVGZkhZWXVnUlNtOFpaS1dFbkJBQ3dkbEw5MA?oc=5",
+    "title": "Chuvas torrenciais provocam dois mortos na Catalunha, há ainda um desaparecido | Espanha - Público",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMkVySURNRldoNGt4eWZ0LXA1MElub2U3WGFtd2FEaXhYN2dOelUtZUFVMkRuTXF3TFNkMFdCdl8ySU9Nemx6c2wzR0wwV1NNbGFNc2l0dEdoTG81a1A0Qm9ZTXVFcU9qTzZROWgyU0FjX0FxVVc5Rm1aRkR4MFpHWWVVd2NxUVNEVnEyYTZraThVdE5vZENVV0ZPN3o2c08xY3FLY09hbGVMb3Q4YnBtZzc1MA?oc=5",
     "source": "Público",
-    "ts": 1791093600
+    "ts": 1791106038
    },
    {
-    "title": "Como viver num mundo sem regras? - Público",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Nc2NlVEtSeTVDenA4cDBoblRQbnVBRHk1eTNtd3ZnTnJmU1YycDZKM1RHbl9xbktCNE1ENElqNEs0ay1DVFZfT2xIMTFfcmpla3BWNXUwbV9UYU5ueW5IbHdfTHlCNmx5cWxrUmRyY1F4ZFdoRkQ5SVpXSE1qYXc?oc=5",
+    "title": "O inédito que Antonio Tabucchi dizia não ter e a nova colecção da Livros Zigurate - Público",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaEplVElWdzZEeTVTTlVvLWpGcWU1T1NBSGJHMUp3VWJPdXpieUdUQ2NNZmlXSU5UZ1ZFd1l3NFpGVnhrd3BXZFdQVHg1d0ZJdE90RERNemdTdG5oM2N3RWZBMm5XS2EzanJ2ekdHX0haNENWS2RzLUJJX2pFSjljZWJmc0M3NXpxdGV6aml5ZkFFcXA5MjVCS3pXcGxtaVlXTUFOLUtFQzBCXzVaT1A1a3E1THMtdE8zRFlRNlhnOUt0dGZjTUZzeg?oc=5",
     "source": "Público",
-    "ts": 1791090000
+    "ts": 1791049789
    },
    {
-    "title": "\"Temos de responder de todas as formas\": Ucrânia vai atacar refinarias russas em resposta à \"nova doutrina\" de ataques aéreos de Moscovo - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNN1pkQUFFYzFhOUNzSEVpeTdTZlp4R0I2T3lMbmFDWkdZb2VzLWxocG5oeVF2RDJkcS1VSWJwZjd6TVVDVFVFajZObU1XZEJCVlBmbkxaeE0wVWJWVGYwRXpEc0x5WVZmY1pnQkVNNVFETDd3QjlFc2xiWEdtcUkzdWtpRzM0am1ydnlfSmV3S05SNXB6MXQwM0VLTmp6QWNhR2swYlNCX1cwVlZMRUVCY3U2NjdCeHhUenhvWUhXeXdZcnMtNkJ2MXVJZ3ZfU2NwYkt1eDNVSXVLMWxoN0tyYVdpRHNvZ3Y3OGdOSVQ0SDZSUTVrRWNPVnRGdFJ4Qk5JU2dHV2sxODdnWms2OTE4V1VmTHZkQ3hGaFVhTEp2RXJ1Ml9fcXUyM0lHR2NydXpi?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1791045960
+    "title": "Atacante do voo da Flydubai foi proibido de pilotar em 2024 por posse de material extremista - Observador",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQzRRNWQ2T1BuYjhyT3RfdW4tRDBCcnpKREd4SWRfYk53OHZoTUozdnhXYzNDSlJ5WTBLRXJDREtocC1tR0owNWRCTEU2M2wwLUhnOTJ0eDZQRUlOTWFjVjdFakZMbEh3dGpXQmtXdGgwM2d4RHNydHRmNEJZeVR2RVZhVWxHTDZ0M2ZyQ0VaSmRvWktrSk8tS2RSU0hYWXpNdVdNYWRfZHhyMGkteHg4c0FpUE1YbmtXbHc4RnF2QUpyMGZB?oc=5",
+    "source": "Observador",
+    "ts": 1791048799
+   },
+   {
+    "title": "Diretor prisional do Tennessee demite-se após execução falhada de Christa Pike - RTP",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVlRxSG94cTBZTzN2czhLdjJyU1NGME5fb3g1VUo1NHg4SHM1OUhfd1NTNHctcGd2NkkxZERfSUNpLVIwNVQyQkYwa3djbnFROWc1Y0VlMUdYZDE2STRpZ2lqSWxralpkVW1hWkVFY3Z0MktSdndiLWQtZFlOem1IYXozUmFOY2JEMkZfNUd2cGlUWF9rZms2aWk0dUFoT3NPVFpMYU9obTBNNktEdjRrYmR0WFV4QWswd0NOWjZR?oc=5",
+    "source": "RTP",
+    "ts": 1791047465
    }
   ]
  }
