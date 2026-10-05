@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-05T11:00:12Z",
+ "atualizado_em": "2026-10-05T17:00:16Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-05T11:00:13Z",
+  "atualizado_em": "2026-10-05T17:00:16Z",
   "dias": [
    {
     "data": "2026-10-05",
@@ -1632,22 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: APAB procura terreno para construir novo centro de proteção animal - oamarense.pt",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaUc0TFhVMW1FSjFETE9wbExrcnVydTlUVWZaakJOX2tzR3ltSWVVYXBBbnJSOTlUV3JhdjE4TUhneUt0NXNjUFZBMS1tOEZyaVQ4WlF5U1Q1OURXeGpTTDNVbjhEQWFKYjkzMWJyMDZQV245YlZEX0xmcGluV25WUlE1T3pwWUd2cFRBZ3pBTzd4N0xXYThGMGFLZ2xTdw?oc=5",
+    "title": "Pico dos Barcelos recebe Festival de Folclore Noé Cró - jm-madeira.pt",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQmNrUlE3cjg3WjBXMlN1WWxzQ0Y2RlQ5bkowQ3NCMm5veWJ2V3RDVFdsYWtyVTFVMmVkU3p2dHh3elUyMFR4MmVKTTlCWXFIYmlwd1BtMjE4bWltTGN6Nlk2ZURXMnVzcHZ2cGtvczFrMk0xT2tJSWNoODNVODBFck4yR2JFUjAxS2FBbVR1NWlfSnE0QzVlLWoyZzZFZG9fTTdSeDE2NWZyWkpEZnJQUTUwdGtkUQ?oc=5",
+    "source": "jm-madeira.pt",
+    "ts": 1791210780
+   },
+   {
+    "title": "APAB de Barcelos procura terreno para novo centro de proteção animal - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQemFIaEtUcFNtV3gtaTA0WnVKRHMteWJQcnNKMWFEVkNDeFljMEpoYnFraW42LVJZdVpQWTk4clRneUZKUW10Ylh1M19qWUVPaWJXcXFVVENCWHd3eDZyQzBhUXcyaURMblJkZjJaM3pDdHFua1VrYS1ySkFOal9FZ3h2aDM3VVd1VGNlcUJFcU1Hdw?oc=5",
+    "source": "Braga TV",
+    "ts": 1791210677
+   },
+   {
+    "title": "Câmara de Barcelos recebe autarcas do Luxemburgo - oamarense.pt",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EcjBzSUFLUzN6eFprWW5NQTR3Vkd6U1ZHYU5aTDk0ek5JSUFsVzZOM2NTeGdXSGVGdkltWUtpRC11VDJiU3VVMV8yMTFDcklkWUZual9wRGhxdm1CVWxkOG45bkJhZHQxaWIwSm9ZY2R6WUJNaWVXUjBn?oc=5",
     "source": "oamarense.pt",
-    "ts": 1791181740
+    "ts": 1791207300
    },
    {
     "title": "Luís Fernandes vence Quads Elite no X-Trophy em Barcelos - | Mensageiro de Bragança",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkY3Y2ZSd2NHdk1fVWg0M0c2V05tLXdFXzlQMG5aS3VIbUc2TFVJb04zWVh0TFJYT3p6ek9TLUJIYVNQRVhKSnVPczBhSzVYQmhFbElyU2RzblE3Z3ZyYVE3ejhObWV1QTAyUmZ2R2lxZUhUOEpXRml6bmxINi1GRG1sdU5mVHhHdEpB?oc=5",
     "source": "| Mensageiro de Bragança",
     "ts": 1791155160
-   },
-   {
-    "title": "Nova VMER do INEM já está ao serviço em Barcelos - oamarense.pt",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0R2JEaDZKNnZnRXNmdWw0X0cySERQaFNyQlFIVnFYSlgxdHNSTTU3R2xDdW1UcGNtVmdaaHM4Sml3THctMXlDZU4wMnpRVHBEdngyLXROUUluY0lCWm9DRmpJSlNyTEJNVkFLV1VBTVhPZzdBZWo2VVhB?oc=5",
-    "source": "oamarense.pt",
-    "ts": 1791137700
    },
    {
     "title": "Nova VMER reforça resposta de emergência médica em Barcelos - Jornal de Notícias",
@@ -1660,12 +1666,6 @@
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WaUFERlZIamszdWxDZ1NwbGE0RU5OWV9raDVQN1JFUnVuWVpvSV9PYmduUzRqZkxqLVlXdktNaW5SNDVJbHphckRpcW5SSEN3SjR1OTVMYjMtUQ?oc=5",
     "source": "o minho",
     "ts": 1791109809
-   },
-   {
-    "title": "Steven Sá e Inês Garrido vencem Corrida dos Galos em Barcelos - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2ZUV1k0YTB5enZ2cE44LTUxcGthd0lmajFWSFVuNEhVWVRsdFhROWNPTFRTelJMc0dPLWptaHJobHA1eVVzVzNYcUFsRmF6ZlBwT2Q1X0VVTUgyaVdFMjJUbnRFTWsxRU41Mm5JMmdzRHF3dlFSZkxxTnhfdTNQWFQ3SkkwREhOT2tXXzBTU1VBdkI3RngzUFZKeU5hMVU2c0VyWg?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1791109593
    }
   ],
   "esposende": [
@@ -1676,21 +1676,21 @@
     "ts": 1791169726
    },
    {
-    "title": "Indústria de Esposende debate inovação, sustentabilidade e competitividade - correiodominho.pt",
+    "title": "Indústria de Esposende debate inovação, sustentabilidade e competitividade - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTU3YU52OFJBNXZtdmlENVg1ZnloZFU0QUxvbU1MeDU1eDV0VS0zVXQwYkRpaHoxMkVVWnZkVmJ5VTJiWmFSd2szVXlYZ0JpY1JNR2FBdDlWWWlIUElKWG9Fb29rOUVFZGlqNGpFd1J1ajhfRFJVd1VVYzNzSW1XYUtpY09IZjhQLTU3VG1FbXg3Ynh2aU9rMFUtaGg3RzB3NUlLLTNPRTcya2czVjlxMHE3WGRxUQ?oc=5",
-    "source": "correiodominho.pt",
+    "source": "Correio do Minho",
     "ts": 1791124200
    },
    {
-    "title": "Jovens de Esposende levam propostas à Câmara para definir o futuro da política de juventude - Rádio Festival",
+    "title": "Jovens de Esposende levam propostas à Câmara para definir o futuro da política de juventude - radiofestival.com.pt",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQkFpOXFycTFUZzBGX3dtRXVSQTRNYWlaYVNRZ0t6MUpvR1p1TEVyeUVXbkVBeF8zT1Z0YldRaF8yNkJHSTQ0YnpZZGFfVVFkSzl4aTlFWWYzZ0JNT3lISzc4bFFmTHRhQXlHRUpJQ2R4ZU1WZFVmWjhvVUJqeW9yZ1p4cmoxSWtBWXI4ay1VeGhMZHhZV3RpcFZrN1lGTmljM1V6R0tPOUlmM3R2UWRtbUdiemZwYzB3OUVFZW8wbXpURjZUZWtCLVhtZXZ2eTE0NHc?oc=5",
-    "source": "Rádio Festival",
+    "source": "radiofestival.com.pt",
     "ts": 1791104640
    },
    {
-    "title": "Esposende: Tradição do pão é “memória” e afirmação da agricultura - correiodominho.pt",
+    "title": "Esposende: Tradição do pão é “memória” e afirmação da agricultura - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzFvbmVJQ3FQU25wQVpJektzSUw3c2ZfSnBYNXkyZnN2UVcyeE03cWliOF9YMVZHeGwybEhTU3ZZcFBYazV0TXp6Mjc2UnhmRWZhaVUyYWh1OGdVSVhzM244dkQyOUFwM0QtUlUzQTdQM0dVYlVib3NPUGpiXzlXeEt2TFB5a0JrcjF2a2t3d0RXTHZ3RDdaZjY4VW5YbHVidElEN3Fkaw?oc=5",
-    "source": "correiodominho.pt",
+    "source": "Correio do Minho",
     "ts": 1791090000
    },
    {
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Zelensky e Merz assinam acordos e ajuda de mais de 8.500 milhões de euros - RTP",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeXRKWmtYa2c4VUtfSU1hRTFUbHFXQkVJbGFxZFpPOHlwVTRqUXpKQWtmQkNXQ0ZhSERENGFQMkY2azZoMURScFdOZmFBU25HaHR2MVI0U1JTX2kyOHF3OFBUX2xISWlnaGhiX1RxV3FZcS1KR0ExZjVGNjVrc1FETFFlclNxVUpUNkRCckQ4M3RIakNRTmxKV25nRmJBU0VDNEJmSEJhVXp3MlhYWWdtUGpYZzc2QQ?oc=5",
+    "title": "Crise política em Espanha. Pedro Sánchez anuncia eleições antecipadas para 29 de novembro - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNYjVsY1BaZjZkdE1uWVdqNzRZSDZONFZndFBSTUdTWnZsNWxVLUo5OE14ZWtTMzY3Q0lKNzJneUNDSU5SUTJHSks1dGdoUkNlUkF2dzg5OGgya3gyNGVpQmJVWlRsQXdSOVJwZi1CX2VnX3EyNE5JbDhTTGNxby1vWTc4MDN2bm1TdFlvOHlsQ2VLSUxJSjU1ZS1Ta1lzbzRUQjdmc0pvUjVyQmRkNl9jUzI1V0pWQ0pRaGFRQzAxRWhqOUJpbFNySlgtVQ?oc=5",
     "source": "RTP",
-    "ts": 1791188063
+    "ts": 1791218555
    },
    {
-    "title": "Pedro Sánchez anuncia eleições antecipadas em Espanha para 29 de novembro - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUk4MGxlMm5OSTVaWjlQX0pjMnV6bUxRM2tBa01MN1kwLVhTY2p4Q0h4OEhpMWVRaGp3VjFfT3hWajgxMEFJM2hDaVJsQjVja0IzZWNlNTYtZm83NF9BQXZzQXJ6TnRVNTBLekdlbGQzUUN4TVVzOEx3N0xCb3BLeEVBQkZrdWxqekR3dTJWNEV1dGx6WGZtcHo2ZUN1Q2VsQ0l5UUh1ZHhkSDRXOVdPUNIBqwFBVV95cUxOaDI1ek1MeDlab2l3SjIyNUZIQndMMEpuWWE5ZXlNR0YybGpJTzl6b1JRWFFKbHpMeWY3Q2lhcFB2bVZYM1NzajFsRHJ4LVZfekQtTmZNaUNFWnQ1cWZqTlQzNDI2Nmc5eHV0RzZWb3ZmRnBfQ29tbEROYjB5MEJiUEc0RENhWWFFYWV5NEQ3WlZDOXdGNW5SZ1o3cFVwbnRvOExOR25QT2RZWGc?oc=5",
+    "title": "Estudante de 15 anos perde uma mão em explosão durante protestos em França - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMHdvd3o5N3JqZFJYOHdRc0lpRzY1ZFI1cVNxc3A2U0VZV0FOU0pJa2JNYW4xbTloaG11RE5WaVhDemJwcnZXblQ4SzI5dzY4ZEREY2VzajVlRVl2TVJKTzA5LXZGRTluSTZ5ZEFxZHlrUmRzQ05QdzFqdEdjNldBTWJxaTlvdE1oSDF2ZXNidW5wdUpDWW1GeUZ4WHN0aVN5MkYtVGlKZWVjTTlweGRnSXZjejTSAagBQVVfeXFMUEh4YTNGZE43dXhSVEZSbmRLYnI0S0NGUlV2MnU3bndMZlZCd3owcDM2SE15OUNqSjJ6U0hJTWhPd1UwaG9GNzZzWDI5ZEFHd2tWNnRqdUF2cFlLRXBTLWMwQ1VrcEZQSU93SF9aQlZIeHJZQzhVUXFaRTJ6akp6d1hpTlRMWjdGQlo1Y0NzMU0xT292QkNTdjJPSVRCLXBMWGJ1ekxGaXVS?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791204840
+   },
+   {
+    "title": "\"Alemanha corre o risco de se envolver num conflito violento com a Rússia\", alerta Serviço de Informações alemão - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVEd1NVZvc3RoX2czbEtWbVctSktNY0d1YjFzbFJuTlc0UjdoaW53SVRqQnB5Qm1faDVkd0swOWlHNThiZVNaTHNYZFhwWnhRcG01cko5RTVfNXFJSHZkakI4djhKMzlTY0FYNkpYZV9iU0V5dWRpUWdWcEJHVmlodDJROXpWcTFMUUU1RGQ0MUM1NnNabVU2MGdsUmFQeDdJN25ZaEpvQnF3LUt3a1doWEhKOWt0NmZvcGVFa0J3YXRoNG9KUHRmcFJpcW1ld1pnelE?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1791201976
+   },
+   {
+    "title": "Nobel da Medicina vai para o uso da luz para controlar a atividade neurológica - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZGppQWtrSVV2aFZpWGNWRmhGam1xdnVBelpXbks0R0ZIN2hyYzFnOHlOaFZ2NU1VdVlCY25NY0pqSUZFc2xDRG5KWC15bVAwSzBTV2NjWlNXTGJzRnVmdDVVdU13dVlaMHdpYVBHZGRlMFktTGJiT1FIVjkxQk5paXpMeHdjdEFnbVRpdlpuZXl5Q2hzX2I5amtxRTRBb2VJcUtnZ0poa1pVekdzN2lIbWk4QUNyUkFTandqWUFabVnSAbsBQVVfeXFMUDJpTGp0R083ajFJSkdQZVJIRi1jTVBZZXdXVC1Qdkp1NVBxUVNMV2V0MEo4OU9OV3dOcXNObDFoREtBOURJekFoaldCdURKUGpEd284bEc1THRWYkxBZkVaYlR6dFo3MXBBX3BYMVpJRXJXMTdEZ1Z2Nl9ZUmZlQUV2YmRXTGpYN0FTQW1rV0hmRDJNQ0FQQUlLd2pnZVdIbTVuQzljWm5PRi16NlliVmRwNzNkRWJVTUJMWQ?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1791184380
+    "ts": 1791193140
    },
    {
-    "title": "Eleições no Brasil. Lula da Silva e Flávio Bolsonaro vão a segunda volta - RTP",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDI4MVFUN0IyakZsSkJQczZVbnIwaTY0ZERxYURqR3hYN0VZVy1vMHFfU3hXQjFKeVd2WUN3Wk5WZjRSb1Z2YWRQZ1VxeGRIMk0td0ctekJZTzN5TnFEQ3lEUEc2UWJIemRWQTdGbzR2WUpqYWRzVjFTOEtuZEFzQ1pidXp1RGN1Ump6YkNvVlI1NVdZdXE4Zk9UY2ZVeXZqd1Z6bzQwYkFNYTBpM3RHSzhjVlg?oc=5",
-    "source": "RTP",
-    "ts": 1791182723
-   },
-   {
-    "title": "Austrália investiga alegadas ligações ao país do copiloto de voo da Flydubai - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTE5wbVJUaUR2dXhTWDhrSFN4VFY3dUxEbGNEUE94MXhDMVZzMjdyRkM2TjZxLUpRaXRtV0ZnSmJDZHA4a1htWmNNSzZhRGVyc0lpWVVjOVNVUEMyQWVkYWVEVmJMbE5sZ0VtR2k1eE1wVHNKeEVZOEFNR2s2X0lWbmxnYVZlMHZ2TGtiMW0ycTYwcF9CTFd2V3ZiZExPMGN0YjFSdWNRc291VXc2OHBybEw0YXXSAa8BQVVfeXFMT3RuZ2JfWDBmWm9xSVJydDVLVjRIU1daZXJoN1c4S0pZZm9JeXFpYlpaSEdSb01tYVNnRlBaUGp6aHNpcjkxS2dVOGpkeXJENWFVLVhTVHFWRUpwbGhkY2pLcFpKTm1OalJBM3U1emhZUVl3R3l2YjkyQU5kYU5jVVplNTBrQ2p3andSNmpsRGFvTllNOTJ6RXpyUm1YZTBlamNTNEJRbXBjZkxfR0xhQQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791179400
-   },
-   {
-    "title": "Mais de 500 ex-ministros e diplomatas europeus acusam UE de falhar na Palestina e exigem sanções contra colonatos israelitas - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdXFWYWZUX2dFY2ZSWHR1cXNKZE13NHdEeWRqYlQ2VEpMZ1oycm5iRnRuTW5VNUcyQjh0ZjBDclc3cTVGRzd3Y1hZdlRaSHhKSGpubDBxVnRMb3l1eVBCTjYwRHYwS2g4NGtCYVBYYkdnOGNZaTIzMm1JbjRnZEFYbnk5bXlqQkQ5Y2NzOUI4SGY3b081ZmJsUUEzeFdEMWxKX0RDeTRJalAwdG9RekhPUFJzVmdMOGxzR3JIRjIzMlJzNGFhQWdDUU9tYVlKbzVpYWtuSDNleUdic3NCbEZ3VW1zRXBFUjJuOVNyWS1YMkFIMU91bHdUX0lHUHR2Q2JDZEFsZWpCeDJjSlk?oc=5",
-    "source": "Expresso",
-    "ts": 1791154800
+    "title": "Co-piloto terá planeado ataque em voo da FlyDubai antes de ser contratado pela companhia aérea - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTEltZG9jMmpPRHE2eDZoYUpsQ3V0QjcwUmk1Ui1QZ0ZhZ1J0d0E5UF9rTHBSWlFWLUt3anJEZXFxMDFIaHJaVTZHWmQ1Y29TLUdfcUg5eDd3MjNBZUlGMG00X2pQWWdvWXRRRy12SnpWMFZEWE5HVkFsMmhXVHpsaTJNQ3dWQzFJWHN1aHRZMm5HYU5JQUFwb0dpYTZ2ZnNVV2FXZF9tREFxNW1OUzBFdV9SOHFYTEhRWE9kQlV0OENpV28?oc=5",
+    "source": "Público",
+    "ts": 1791192405
    }
   ]
  }
