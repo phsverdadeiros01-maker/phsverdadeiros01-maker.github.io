@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-04T23:00:12Z",
+ "atualizado_em": "2026-10-05T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-04T23:00:13Z",
+  "atualizado_em": "2026-10-05T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-04",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 11.3,
-      "vento_nos": 5.4,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 16.3,
-      "potencia": 6.0
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.9,
-      "periodo_pico": 11.1,
-      "vento_nos": 7.2,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.4,
-      "potencia": 5.8
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 11.0,
-      "vento_nos": 8.6,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.4,
-      "potencia": 5.0
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 10.8,
-      "vento_nos": 8.0,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.4,
-      "potencia": 5.1
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 10.7,
-      "vento_nos": 5.1,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 16.4,
-      "potencia": 5.2
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.6,
-      "vento_nos": 4.1,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 16.4,
-      "potencia": 5.2
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 10.5,
-      "vento_nos": 3.5,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 16.4,
-      "potencia": 5.4
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 10.4,
-      "vento_nos": 5.4,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 16.4,
-      "potencia": 5.4
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.3,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.4,
-      "vento_nos": 7.0,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.4,
-      "potencia": 5.2
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.4,
-      "vento_nos": 9.3,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 16.5,
-      "potencia": 4.5
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 10.4,
-      "vento_nos": 5.8,
-      "dir_vento": "SW",
-      "beaufort": 2.0,
-      "temp_agua": 16.5,
-      "potencia": 4.2
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 10.5,
-      "vento_nos": 2.9,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.5,
-      "potencia": 4.4
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 10.6,
-      "vento_nos": 6.4,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 16.6,
-      "potencia": 3.8
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 10.6,
-      "vento_nos": 8.2,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 16.8,
-      "potencia": 3.5
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.7,
-      "periodo_pico": 10.7,
-      "vento_nos": 8.2,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 16.8,
-      "potencia": 3.4
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 10.7,
-      "vento_nos": 10.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.8,
-      "potencia": 3.3
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 10.7,
-      "vento_nos": 9.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.8,
-      "potencia": 3.2
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 10.8,
-      "vento_nos": 8.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.7,
-      "potencia": 3.2
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 10.8,
-      "vento_nos": 6.2,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 16.7,
-      "potencia": 3.3
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.7,
-      "vento_nos": 3.5,
-      "dir_vento": "S",
-      "beaufort": 1.0,
-      "temp_agua": 16.7,
-      "potencia": 3.4
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.7,
-      "periodo_pico": 10.6,
-      "vento_nos": 3.1,
-      "dir_vento": "SW",
-      "beaufort": 1.0,
-      "temp_agua": 16.6,
-      "potencia": 3.4
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 10.5,
-      "vento_nos": 5.4,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 16.6,
-      "potencia": 4.2
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.7,
-      "periodo_pico": 10.4,
-      "vento_nos": 8.7,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 16.6,
-      "potencia": 4.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.4,
-      "vento_nos": 6.2,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 16.6,
-      "potencia": 4.0
-     }
-    ]
-   },
    {
     "data": "2026-10-05",
     "horas": [
@@ -1788,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Luís Fernandes vence Quads Elite no X-Trophy em Barcelos - | Mensageiro de Bragança",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTkY3Y2ZSd2NHdk1fVWg0M0c2V05tLXdFXzlQMG5aS3VIbUc2TFVJb04zWVh0TFJYT3p6ek9TLUJIYVNQRVhKSnVPczBhSzVYQmhFbElyU2RzblE3Z3ZyYVE3ejhObWV1QTAyUmZ2R2lxZUhUOEpXRml6bmxINi1GRG1sdU5mVHhHdEpB?oc=5",
+    "source": "| Mensageiro de Bragança",
+    "ts": 1791155160
+   },
+   {
     "title": "Nova VMER do INEM já está ao serviço em Barcelos - O Amarense – Jornal",
     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0R2JEaDZKNnZnRXNmdWw0X0cySERQaFNyQlFIVnFYSlgxdHNSTTU3R2xDdW1UcGNtVmdaaHM4Sml3THctMXlDZU4wMnpRVHBEdngyLXROUUluY0lCWm9DRmpJSlNyTEJNVkFLV1VBTVhPZzdBZWo2VVhB?oc=5",
     "source": "O Amarense – Jornal",
@@ -1806,9 +1495,9 @@
     "ts": 1791109809
    },
    {
-    "title": "Steven Sá e Inês Garrido vencem Corrida dos Galos em Barcelos - Semanário Alto Minho",
+    "title": "Steven Sá e Inês Garrido vencem Corrida dos Galos em Barcelos - altominho.com.pt",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPa2ZUV1k0YTB5enZ2cE44LTUxcGthd0lmajFWSFVuNEhVWVRsdFhROWNPTFRTelJMc0dPLWptaHJobHA1eVVzVzNYcUFsRmF6ZlBwT2Q1X0VVTUgyaVdFMjJUbnRFTWsxRU41Mm5JMmdzRHF3dlFSZkxxTnhfdTNQWFQ3SkkwREhOT2tXXzBTU1VBdkI3RngzUFZKeU5hMVU2c0VyWg?oc=5",
-    "source": "Semanário Alto Minho",
+    "source": "altominho.com.pt",
     "ts": 1791109593
    },
    {
@@ -1816,20 +1505,14 @@
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQWE5VFdDdUJreC1VU0ctanNNTTlhVVlxcXY2aG82SlMwUThjeGp1T2xaTzc5SUM5cnN2N0ZvbE9xdHZPVnpVbi0wT1p5QmtVWHd2RUlnWFR0U0JwWlF5SWtRUGVpWEZ3Nm95WjRJam5VS3ZuZ3ZrM1RMYnVydkNUb2w2VGxOQzY2ZHk0?oc=5",
     "source": "DAZN",
     "ts": 1791090543
-   },
-   {
-    "title": "CLuB - Clube de Leitura de Barcelos - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1XQW1BSHNpQUE1UjFkS1pPZWZHel93dGczNmpLTFlwbldYTkRmODBDQ1ZveGxhVnpZcmNxYm9WUU9ORXh0RU9NajdDZS03aVFEak96b2hfR21kUjQ1YUlrWGtVYlFZelJvcV9BYlY1ZlFtT3BxWVJpZnQwRFQ?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1790969206
    }
   ],
   "esposende": [
    {
-    "title": "Esposende não vai além do empate, Forjães e Marinhas dividem pontos e Vila Chã perde - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZkM4dklhOElLT0ZIblQ5MnhTRi1BRmI3QzBiSUNYSkJwT0lKMnBTMDk0ZVJJOFpIbkFQRVRYX1RsQnF3UER0Zmk3YmZRU0QtQ0VINkdjWkNFMHdhMFNpZHEzRTZ3U3VvbjN2cU9fOEFFdUVBX0lJQkdYMVBFWGJuckEtSmx4ejRMNjhCR0s5c1JDc3k0TTU0Q1VhdU5ZaXNoMmJ5aHBsNW9feFNrR0NsT2t4RVlWazhhdmgyQ1ZJMTJVaGMzSlJWNjVITQ?oc=5",
-    "source": "SAPO",
-    "ts": 1791142579
+    "title": "Esposende não vai além do empate, Forjães e Marinhas dividem pontos e Vila Chã perde - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41WVVPR2M2TVNxTlFMcTVuQktiWmN1d3pvMlhqdWVuWkpNQzk0c3BFTzkzSmgzaTVObjV1YWpvQ0NPTzloSGUwcWlGZ0k?oc=5",
+    "source": "TV Esposende",
+    "ts": 1791169726
    },
    {
     "title": "Indústria de Esposende debate inovação, sustentabilidade e competitividade - Correio do Minho",
@@ -1844,12 +1527,6 @@
     "ts": 1791104640
    },
    {
-    "title": "Atividade operacional semanal: 35 detidos por violência doméstica - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObjlOTThfTXB3ZGtZa2pBTVl2YUptbFFlb3gzRXgtMVFja1RmbE0wWUxsUDJOX2E2dnpvejlPbFZPdkJRZElfaVZQM29OaFdEVXlZTE93c1ByVVRDWEE4LWk3OElHQlI2TXdaWnFaZ1lPVlhndTVZNUp5a045NTdGYy1DRXdxQUR4RldUOFBCb0tfRHFMNTFTXw?oc=5",
-    "source": "TV Esposende",
-    "ts": 1791091546
-   },
-   {
     "title": "Esposende: Tradição do pão é “memória” e afirmação da agricultura - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSzFvbmVJQ3FQU25wQVpJektzSUw3c2ZfSnBYNXkyZnN2UVcyeE03cWliOF9YMVZHeGwybEhTU3ZZcFBYazV0TXp6Mjc2UnhmRWZhaVUyYWh1OGdVSVhzM244dkQyOUFwM0QtUlUzQTdQM0dVYlVib3NPUGpiXzlXeEt2TFB5a0JrcjF2a2t3d0RXTHZ3RDdaZjY4VW5YbHVidElEN3Fkaw?oc=5",
     "source": "Correio do Minho",
@@ -1860,9 +1537,27 @@
     "link": "https://e24.pt/pcp-protesto-esposende-custo-vida-combustiveis/",
     "source": "E24",
     "ts": 1791071430
+   },
+   {
+    "title": "Salão pastoral onde foi instalado Centro de Saúde de Esposende vai ter obras - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNmlKaGQtMzNxWmJPN25jRVdLd081TTI2b2szM0xWR2VaR2UzVzRpUUtEUTNrbjY1T0x6UWJDVG1lRFk0T216bFNRS1pLVEFpdFhydTl1TS0zaTBZMVhDUkFsLWFTUGptbnpWS3VRWWkzeXBmV21idVREaFN6TzEweWhRd1VEZURoQ2hqRWFxdW1fUkRhRTRta04tMTZqUkhjaGEyakpmV2pqWGPSAasBQVVfeXFMTzZpSmhkLTMzcVpiTzduY0VXS3dPNU0yNm9rMzNMVkdlWkdlM1c0aVFLRFEza242NU9MelFiQ1RtZURZNE9temxTUUtaS1RBaXRYcnU5dU0tM2kwWTFYQ1JBbC1hU1BqbW56Vkt1UVlpM3lwZldtYnVURGhTek8xMHloUXdVRGVEaENoakVhcXVtX1JEYUU0bWtOLTE2alJIY2hhMmpKZldqalhj?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791055020
    }
   ],
   "mundo": [
+   {
+    "title": "Eleições no Brasil. Lula da Silva e Flávio Bolsonaro vão a segunda volta - RTP",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDI4MVFUN0IyakZsSkJQczZVbnIwaTY0ZERxYURqR3hYN0VZVy1vMHFfU3hXQjFKeVd2WUN3Wk5WZjRSb1Z2YWRQZ1VxeGRIMk0td0ctekJZTzN5TnFEQ3lEUEc2UWJIemRWQTdGbzR2WUpqYWRzVjFTOEtuZEFzQ1pidXp1RGN1Ump6YkNvVlI1NVdZdXE4Zk9UY2ZVeXZqd1Z6bzQwYkFNYTBpM3RHSzhjVlg?oc=5",
+    "source": "RTP",
+    "ts": 1791162275
+   },
+   {
+    "title": "EUA retiram todos os bombardeiros da Força Aérea da base no Reino Unido na sequência de uma nova ameaça - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSENxdFNMN2ZwZDVFeHVqbFIyaGtlc1hnc1oxZ0w4aEJCMFFialliMk04VWdvbURaTW5UdXJLSllNOFNSbUNPNjkta0FwS3RUQldHZldJWWZKeHphMjR2WEFmTmozcE1zYnhaSkpOVkpDd29USVphOXgyRXpqUVhFV0xVUWI3NERSeG82UW43TlBHZEVQTzJ4N2dvU2tobVdQN2REWWlsZ0hlOTJaRGVRZ1RQWWR5OHRFMmRyUVF5NjVKdExVQWRwNjZjWi1WNkZPVW1nVlF2a19pcEZrSkQtalM2VjdJaUtIVkNXdmVUNWFHY0Z4RVhxSDJpRmcxbFB1MFZFR29rVDBhVGs?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1791152940
+   },
    {
     "title": "Christa Pike continua em estado crítico e com prognóstico reservado após execução falhada - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbzlKN0NqOU8tT0hsaUlDZktyRGdTOVM2TzFvUDdyUTV1ZEdGc0RQNlJ6b3otU3NtNjU0SXVEX2dtakRXWHVEeW5pazNUcFFnMDhWZWZCU1p5MFRTS1ZibFVsN09KQTg1Z2VsNkF2WHZ4VDF6R3FsTl90eGROTmlyYTFJZ3RrYXJYTzZMZ0hnTkthV3l1alBENkFYc3JlM0FJdm5oajZVUkxqYkV6c2NtNkh2MnVBOFBwQV9CV1BzRGtnbDRoc1pVRdIBvAFBVV95cUxOWEM5SHdUeGtJWE90cENuMnVBMERrSWcxR0dQenJiTHhYbFBfeWpJelgyak5RX1F2YzBSdGtyd0tDRGpvUjhoWWRRY0JRUW1IZUFzMVRPblNBcXBmazJOeGZDWmJ4Y1RZbHpBdXo5S092dHJSd2hPSmJ4V3dDYmpqaDdiNmVBZVpVQTR5Ukw5RHNOMU94QlVKalFNUW5YNFV6LVVCZXRQcjR5OFpZQ2dycGh1T0lyTWhpLUxOVg?oc=5",
@@ -1870,28 +1565,16 @@
     "ts": 1791139800
    },
    {
-    "title": "Rússia volta a atacar uma das principais pontes de Kiev durante visita de Merz - Público",
+    "title": "Rússia volta a atacar uma das principais pontes de Kiev durante visita de Merz | Guerra na Ucrânia - Público",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0c2bURzRWpMRGszRnJGNnIyY0VZelpuRWltYmJYWjJOMEdYR0lDNTlhbzBMTUxWZTQyTkdYRUxBNU01RVNHV0VSYW9BdzR6eXBDc2poRVZBcGlaYW8xY3dkSWpxbWdDNU45M0tXdk9QaHcxZ1plZEZOeF9NQ2R6aktYX3pqVVZTV29ZVFdSRms3ZDhSUlBIZWlncE1na0ppbXMyaGNGYl90SUZQaDR2anFNWjlVUDNPeUE?oc=5",
     "source": "Público",
     "ts": 1791138915
    },
    {
-    "title": "Primeiros resultados no estrangeiro: Lula à frente em vários pontos do mundo, mas Flávio Bolsonaro vence no Japão - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZDNja1huMjU4R0V5aXZxNmF3Y2drQjRJczdyeFpIVk55dVBMb2ZKSGt5M0c2c1o5NVc5bjJaU012Vk92dWsyNVFWVnp0dnVRc1lFSGhheXJNNFpfVkF2aXlHZ1B3cEJCRFZybGJ4RUc2SXFGa0xFU2NuUXNPejhNTG9vdGY2MkFwRV82R3dQbDZ1Z0F2RlV2OWRzbFdpR1NCb0s5b2FtQUFuZlBaZjVicnZja0ZmdmlUT3BNb0E2MGUzbHdWUmV4OU13eVJlY2xucTh3aWU2OGZNYXZ0bmsxMG12RGFVYUMyRkhWVjVqZkFBeEpzVmF6UjZGdlBpQnZkREdUR2QtTVZWaUM2T2c?oc=5",
-    "source": "Expresso",
-    "ts": 1791131412
-   },
-   {
-    "title": "Japão apresenta protesto aos EUA por fuzileiro acusado de matar uma mulher em Okinawa | Japão - Público",
+    "title": "Japão apresenta protesto formal aos EUA por fuzileiro acusado de matar uma mulher em Okinawa - Público",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNnpaVGlIdzhTcVowVzFvdi11c19pZjltN0RTMEdEOGpXY0hQSGFoTHpWLWZ4d3duZU5sNEFNUWphQ2d1OVhsQXpGN1Nob3dKUllVM2dubFgxNUZQN3ZOY3hacFhkTkh1RmUxR1RfOF9LWGI0OHVTUzYyRVdZa0oyYkUtTElZV3V4aEhKaDgtRjFvM3pQdHFiUTVnUkt4OG5Sa0dSb0pWMFJWQ2M2S2dFRXBoUzhSZDZZMllrdzBYSGFoeHJHTlVBODNR?oc=5",
     "source": "Público",
     "ts": 1791129907
-   },
-   {
-    "title": "Brasileiros nas urnas para decidir futuro do país. Bolsonaro e Lula já votaram - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdjNOV1Q2ZTZqMTZlVGU0MV9ONlA2VEQ5a09pOXNBYXpwUnRxbDlKcVVaSTlnVHdxVEhkd0w3OHlYLWpHMTJmMGNraEhQV0F5MF96QURjcl9BYWdveHE4N0stclZfX3pNTXFya1VBR1B3YmRkcWgxYk9wZVRVUG55Ul85T3FuUTV2SWh2N3R6OUNGdDREMjBHdkVMWno4RzJ1anNoNXUtMy0yejR6aGdvaVJjSGRaWjNBVGlEMQ?oc=5",
-    "source": "RTP",
-    "ts": 1791128740
    }
   ]
  }
