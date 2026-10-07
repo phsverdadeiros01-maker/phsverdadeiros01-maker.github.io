@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-06T23:00:17Z",
+ "atualizado_em": "2026-10-07T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-06T23:00:18Z",
+  "atualizado_em": "2026-10-07T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-06",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 10.5,
-      "vento_nos": 5.4,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 16.9,
-      "potencia": 1.3
-     },
-     {
-      "hora": "01h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.6,
-      "vento_nos": 9.9,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 17.0,
-      "potencia": 1.8
-     },
-     {
-      "hora": "02h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.7,
-      "vento_nos": 4.5,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 17.0,
-      "potencia": 1.8
-     },
-     {
-      "hora": "03h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 10.6,
-      "vento_nos": 4.1,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 17.0,
-      "potencia": 1.9
-     },
-     {
-      "hora": "04h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 10.6,
-      "vento_nos": 3.5,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 17.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "05h",
-      "mar_total": 0.7,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.5,
-      "vento_nos": 3.5,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 17.0,
-      "potencia": 1.5
-     },
-     {
-      "hora": "06h",
-      "mar_total": 0.7,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 10.5,
-      "vento_nos": 4.5,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 17.0,
-      "potencia": 1.6
-     },
-     {
-      "hora": "07h",
-      "mar_total": 0.8,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 10.5,
-      "vento_nos": 7.8,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 17.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "08h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 10.5,
-      "vento_nos": 12.4,
-      "dir_vento": "SE",
-      "beaufort": 4.0,
-      "temp_agua": 17.0,
-      "potencia": 1.8
-     },
-     {
-      "hora": "09h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 10.6,
-      "vento_nos": 12.4,
-      "dir_vento": "SE",
-      "beaufort": 4.0,
-      "temp_agua": 17.1,
-      "potencia": 1.4
-     },
-     {
-      "hora": "10h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 10.7,
-      "vento_nos": 10.7,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 1.4
-     },
-     {
-      "hora": "11h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 10.8,
-      "vento_nos": 7.4,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 1.5
-     },
-     {
-      "hora": "12h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 10.9,
-      "vento_nos": 9.9,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 17.2,
-      "potencia": 1.5
-     },
-     {
-      "hora": "13h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 11.3,
-      "vento_nos": 5.6,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 17.1,
-      "potencia": 1.9
-     },
-     {
-      "hora": "14h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 5.1,
-      "periodo_pico": 11.4,
-      "vento_nos": 7.8,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 17.2,
-      "potencia": 2.1
-     },
-     {
-      "hora": "15h",
-      "mar_total": 0.9,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.6,
-      "periodo_pico": 11.6,
-      "vento_nos": 10.7,
-      "dir_vento": "SW",
-      "beaufort": 3.0,
-      "temp_agua": 17.2,
-      "potencia": 1.9
-     },
-     {
-      "hora": "16h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.6,
-      "periodo_pico": 11.7,
-      "vento_nos": 7.2,
-      "dir_vento": "SW",
-      "beaufort": 3.0,
-      "temp_agua": 17.3,
-      "potencia": 1.9
-     },
-     {
-      "hora": "17h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 11.8,
-      "vento_nos": 4.9,
-      "dir_vento": "SW",
-      "beaufort": 2.0,
-      "temp_agua": 17.3,
-      "potencia": 2.0
-     },
-     {
-      "hora": "18h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.1,
-      "periodo_pico": 11.7,
-      "vento_nos": 1.7,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 17.3,
-      "potencia": 1.6
-     },
-     {
-      "hora": "19h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 11.5,
-      "vento_nos": 5.4,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 17.2,
-      "potencia": 1.7
-     },
-     {
-      "hora": "20h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 11.3,
-      "vento_nos": 3.3,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 17.2,
-      "potencia": 1.7
-     },
-     {
-      "hora": "21h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 11.1,
-      "vento_nos": 3.1,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 17.2,
-      "potencia": 1.8
-     },
-     {
-      "hora": "22h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.9,
-      "vento_nos": 1.7,
-      "dir_vento": "S",
-      "beaufort": 1.0,
-      "temp_agua": 17.2,
-      "potencia": 1.8
-     },
-     {
-      "hora": "23h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.7,
-      "vento_nos": 2.1,
-      "dir_vento": "SW",
-      "beaufort": 1.0,
-      "temp_agua": 17.2,
-      "potencia": 1.8
-     }
-    ]
-   },
    {
     "data": "2026-10-07",
     "horas": [
@@ -1858,10 +1541,22 @@
   ],
   "mundo": [
    {
-    "title": "Tensão nos protestos estudantis em França. Terminou a reunião de emergência convocada por Macron no Eliseu - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVHJNZ2syV1hBVVdPSzNVWXd0UHRYMlRzcmRJTWFNbjVfemFTZndncVlhbUNKakd4UjdyQU5xNnZnQWxKMEhwUmZqTXAxM2VtX0l5Zm12M2JfTExNY0w2NnNwMXBFOGNpMVdmLW1hQWZfMXNsa29FaFl3M0hJd3VkanZvMnRUWEMxa2g2QWdlQURiaGE2ajNRMzlCbVVMZkZWWE01Q0dYVXBPbHlfd014V0d6RzlRS0szVHRjTERqRDJqLVEzVFpqc3BlcXV6U2hRZ2hxRnVIeS1QaDB5YlNvNnl3?oc=5",
+    "title": "Protestos estudantis em França. Macron procura solução mas tensão não deve abandonar as ruas - RTP",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZ2by12ZXZVWUxHellUS3EwZFRNNHpRWjVfaFpWcW1iRlVaTzhReHJwUjJUaG1SWEhpY1JrcGxsVjdjczh1TTA1SXQ5dWpKazB1NENUMXhaRHZ1Q0dPdXVYUnprLVF6VnphOGNxc2hZUWEwLUNWcGhURmJlUjdGYnBUa01mNWIwSl9MbGd0SnUxVjRzT0dWYU5FMU9wajhJQW1SRS0xbEJ0OFRaOXY2Sm9SZElVdjVTM3ctWE5vNU1xNkZ1U0ZBNmJ0Y0owVGs?oc=5",
     "source": "RTP",
-    "ts": 1791323190
+    "ts": 1791353571
+   },
+   {
+    "title": "Papa: não tenham medo, Deus chama os jovens ao grande amor do matrimônio - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTy1FOW5GR3gyNkV5ZnBrMXd4Y0ttRlljZUhTUEhaTFFnbXlHRlBJVGFlU3RtYm5DbUtHN1MydTBKWV9oY1d2QmJiU2VhaTNJcXFtbE9pQWNhYjRrMm41YjVWTldZWW5uY1RBQ2dmTEllaGtYbmpRM3JaZ2RhM0lGeHFWYmU2UVp2S1JTXzRxd3p3QTgtRV9NOURlZXFIWXNXYnVOd0wwb2p5NEk0ZHNYclluUWs?oc=5",
+    "source": "Vatican News",
+    "ts": 1791330600
+   },
+   {
+    "title": "Sobrevivente de execução no Tennessee, Christa Pike, está consciente e já fala, dizem advogados - Público",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOVYyN2Rwc1JpaVdmREFXWEFQNjJfbnV0NkJyUlRpODdfdF9NUlNTOWZsblpnWVVSaGRUMW5ucEpocUlQQU9lOU1aZVZibzRmTy1vMmpZRFJqZGx2WmxTcXk4dF9JVUhjUC1LNm5EUDY4VTExdVUzY3dtaEFEcWVpZ1JVUk1qUWY4NUxySE9HQWVpNVBRNVRwSXNzVXNMZk5CaU5PRFk0SFl0WlZxX21wa2h0SlJfTWkzWHRZcEYzSnRHT2h0TVExQQ?oc=5",
+    "source": "Público",
+    "ts": 1791325098
    },
    {
     "title": "O 7 de Outubro não mudou Israel, acelerou um caminho - Público",
@@ -1870,22 +1565,10 @@
     "ts": 1791317280
    },
    {
-    "title": "Separatistas regressam ao poder no Quebeque mas remetem referendo para o pós-Trump - Público",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTk51cFZyOVdESkFRdEdLcl80V2IxMFFsV2xOT0tiWXZpQVQxM0d6LXplOUU1N3MzaEgwQWkwazNadml1eHhWbFdhM0tmclRIdFY3dVZDU2J1ejJYblQySHFpeFNDLVZlcjVEWEQtUE45ZF92azdYdlFYakllSWRJWEpsY1lNc1I2dkVFUXVJamVPU1MzNzRPWXVMVDY0SnlqYVVuTU9HNVpQcjA5NWJsdmFrMng?oc=5",
+    "title": "Novos Estados-membros que violem valores fundamentais da UE podem ficar sem voto durante 15 anos - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTZlT2pzYVBEY3ZpQ0JoRHp4MzJYVjdyaHdKUjhWZkN5aFQ3ZnhkZ1dTQ195MUlDLURVZzlLcHdLdFU0blFyODV0WnpYZkp5M3JXeHU5YVNHaXhCY0hzbWJoUTFXS0Y3RlAxQUNwVGRXcnE3N1Y1NmpiQW84cjU2WTB2dldUUVphVE9GRE1rQ0o4aFNOcjM1cmlUUjdSa244WXVGY25sbXhyX0ZHQ3lfRzRxc29fc2YtNGVjSjlQQXJJS3U2dU5jZFRtYnRLOTc0X3AzV21xYw?oc=5",
     "source": "Público",
-    "ts": 1791302454
-   },
-   {
-    "title": "Rússia e OMS desdramatizam risco após notícias de morte por peste - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY2p2NVNwVXlpQmMxZnp4SjE2UklhRnlWdUZxVklQaUY3V3B6eDlQd08wOTU1OXpuR3Ayd3JSUmZFOUE3Mk4tRUJuYVllVEN1bVV0eFhRM3lFUmprb01WOXlpRXBLOHV3SFdWcU5pcmZkNnZFNVZTNjRjNkIyenA2cnV0WHcwZVV4Z3FzeXA4eHBzZGhwcHFTTEF4cURVZ3BxMDlNLU52UEXSAZwBQVVfeXFMUFVlbGFnUzUtemRJdHBseUNTUDlaRnR4SWZwT0wtcWRQY2hWLTZpQkpldTYyT3F4SF91ZGV0bTNyRFJfNWhSaHg1cDRSMTZQOTJYTFJNTS1iREpNbFZVV01iblNsNnkwZ044U2xwcHQyOHFJTzlrZnVJRDFZakt5LWROd0h4REVYamNQenFydl9KZnMwb2Z3Q3B1NkNr?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1791294720
-   },
-   {
-    "title": "Segunda volta no Brasil: Bolsonaro aponta ao centrão e Lula da Silva olha para a abstenção - Público",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQQ3FGVG8xNG1MWVV1ekN0aWZOMU5sWmNFVG94Tmh5ZEpZbUtnNU91TGRFNG1FbkZMU1gwZFhienVoWG84dGpPblgzT05YUjIxNml3ekFKLTItWjY2R01PcGRuMzZTa2tLZGNYUnFZTTJSTjlaQ253WjlNVHVqb1hvRHZISXlYQkgtWUU2S05rR2tjS2N0YnBtQUM4MWtYRENsRXRjVzdHUWpNX1BOMGhUVWVtU0xrXzdqTGU2cUQtYnU1N3FxQ3c?oc=5",
-    "source": "Público",
-    "ts": 1791292306
+    "ts": 1791309262
    }
   ]
  }
