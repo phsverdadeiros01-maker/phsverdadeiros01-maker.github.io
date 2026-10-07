@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-07T11:00:17Z",
+ "atualizado_em": "2026-10-07T17:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-07T11:00:18Z",
+  "atualizado_em": "2026-10-07T17:00:18Z",
   "dias": [
    {
     "data": "2026-10-07",
@@ -1632,48 +1632,60 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Figurado de Barcelos: histórias moldadas no barro - Visão",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSjJRWFlWcDVaN1NpMk8xNGFRX3d0OFR2WF9jZHhrM21hM3pOb2JmOHhZOXkyZGkwbEcyby1OMEcwd1Y5VWo3TmxXbTFpWmVfMFA0bmhXbzVLVm5DbkMxMUJ1YW1sOXJhcHNja2VPNXNlT2kwdkRGQk1XYXBFQTdEcUtTZWh4UlJfdU1COEQtdnhWRWpLTWxhemxOeDIwbnM?oc=5",
-    "source": "Visão",
-    "ts": 1791366000
+    "title": "Barcelos recebe a XV Bienal de Pintura do Eixo Atlântico na Sala Gótica dos Paços do Concelho",
+    "link": "https://e24.pt/barcelos-recebe-a-xv-bienal-de-pintura-do-eixo-atlantico-na-sala-gotica-dos-pacos-do-concelho/",
+    "source": "E24",
+    "ts": 1791392157
    },
    {
-    "title": "Chove dentro do novo Mercado de Barcelos inaugurado há 1 mês após obras de 4,8 milhões",
-    "link": "https://ominho.pt/chove-dentro-do-novo-mercado-de-barcelos-inaugurado-ha-1-mes-apos-obras-de-48-milhoes/",
-    "source": "O MINHO",
-    "ts": 1791362276
+    "title": "Santa Casa da Misericórdia de Barcelos distinguida com prémio BPI Fundação “la Caixa” Infância - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTGcwbXhRSGhyUjVwUWlURkpQazNJZlBpNG5LV2lmVV9wTWNITW1DbFUxai1HMkJtQmpQbVVQZkotOHlBZDM5VmZsczRFTVZKY2pWTFlwb01JcTJ5c1JjY3VTM29Xejhrd0RzMWVQM3NSbWc4QTV1a2N3QzlGWU5KUF9DVGdUTFBfLVAwZmdIcUQtTHp0TXZxcUYydVI5aDQyMDZmdjB6REFScFpjWGdRQnlDVURsV2E2S2c?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1791389978
    },
    {
-    "title": "Viagem Cigana encerra percurso de itinerância pelo Município de Barcelos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNbXFySFYzZTNTLWl3V1p6ZEE1NDVIU2tGM3Bta1E2Y3VVeFJCYU9tQnhQc2ZzZXhjV25XNEh6NjZiV0QwMkpGRk5sM2MwcWlreWwwVjlXVHJuNk1ST21CLVBvMWNwOUJFdnAwaVVkaTBxZ0xBTDZZTzJNdVRwWTNpbVVYdVpfVDJ6Zkc1eWtUcnhicVJuam9xWWZTdGpPY0hyQlZsQmtBWUVJZk1xT3lidnpmOE5Wc3Z2TE9zaA?oc=5",
-    "source": "SAPO",
-    "ts": 1791356400
-   },
-   {
-    "title": "Nova ETAR de Barcelos vai a concurso por 35,4 milhões de euros - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR3o0RGU5TGpqSU1PNHJLcnBiVi1PYl8yZWptU3N5LWhTX0NlMS00MU5uWThzcDhMT2t6OVNlbUhFN280YlZ2TU0yNHlwZ3oyLUNwdXJFcVdiNXNTRWdBb0h4Yk9XUWFTdVA4Ul9uSndFZ1JfZlZMNTM3eDdLNXZhNzBldzUzUlBjclFUSjFqREw?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1791353460
-   },
-   {
-    "title": "Chuva entra no renovado Mercado Municipal de Barcelos - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBmc09wd0xwN3ZhSWtDSXhyd29ySUczNEVwakZGaFhjWHlXcXhuVEJZSllVQnNzaUhJRHdoeVN3ZlBxNzVlTGl0bjJGbm9IbHplWHpGRk1POUdhRDNnMjZWUXFsb196WnE2V05oU2hDazZsRG5nSlJrLWNwZDhjUQ?oc=5",
+    "title": "Aluno de Barcelos representa Portugal em projeto de design sustentável na Tailândia - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlpTM3FWSmFxU2VOZmdFWUU5YkhFWHJEaExETFlxTFB3TGZmdFNEUi12Z1NPQmhlank5OVM1VmgtR085TTU4NG5iUTZkbkRfVkpoYkFxVEgtNG5IaTAwY0VTakxGYVZHeTJmeThITkZZbHdsYW1aOXZPMmN2cE14SzRUUVEyRURiV1FUNkRsZzFwLWp1LXF3bTYtdVNlR2JaOF96U2pn?oc=5",
     "source": "Braga TV",
-    "ts": 1791323144
+    "ts": 1791388906
    },
    {
-    "title": "Nova VMER do INEM já está ao serviço em Barcelos - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRWZ3V1lZUGFiQ092MGU1cHVDazNNSEM5dzBrT01SSzhUZmNJM05WcldRN1pWNGx6dGJqX2padzlPRjdrQ1l1bFVpaDAtbXBKTHNjelhWektoRzg3SEhKajljb29UelY4VjF5dUs2RE9BMXU3SG5lRW4yZWFOS2k0TVhqQ1dIOUdFeWJ2MlJHMWt4U00?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1791306564
+    "title": "PSP detém 12 condutores por excesso de álcool em Braga, Barcelos e Famalicão - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaHZ0OUtRMTVyYXkweHFhWlNaMlZQeDBYQVhoUkVURFV2ak5DOG9pQUlsajlhSjJVNVdIdDY1RkZIUGFodzg3V1NSLVJrbkhIeGdlSGgzYXM4aUhpY2Z4MEJCbElTTG1mRGZCZUpfZkJWSmN5THZraDlTVVNRSTkxVUp5MUI0bHZqc0pxTlV2OGdLX1hZaWYwZjBXdw?oc=5",
+    "source": "Braga TV",
+    "ts": 1791388279
+   },
+   {
+    "title": "Atleta de Barcelos Isabel Martins vence escalão F60 no Grande Trail Serra d’Arga - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhSOWw3MTFFUTBLbnUwS3BXV1d4cENIb1NQYmtQQXJ4czVHb3VYclRnM3RZVWN0M2dTd2ZOalpBMkRCUkZiNVNWeVNteWtEMnc0MTRpUXdrRzg5amNWYlI0a2tjZGxmcG01ejdZZ1NVNlpabzNVdGZiVjJZU3EwdjBTZGpueDZ2TU1qLWpzWnB1T0hSUnR5Q0Nfamc4UFdV?oc=5",
+    "source": "Braga TV",
+    "ts": 1791387196
+   },
+   {
+    "title": "Duas Barcelos, dois sabores: o encontro entre o Minho e a Amazónia - TV RECORD Europa",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaEQ2dlZRY3oybHFyZmROMF9VNVRZUFdKZ3RsOGRVa0cxa2tXd3ZxVjNzVzhEbFl0aHJjV0t0RmRLWGtPaVYtU3Z5Ynk5dmV1TFhoT0dBMDFNbmY5NXh1ckx3TVZhTGdyQ3NZelNIWFFRTTMtc0NPLTdWb29yQzF2N0YwR1NzcDN6TDdMRkdmZTFOSlJmUFFNM1ZfZHIxTmFLMG0zcTdpSHlpSmU3WndEV2gzY0dGUUl3VmhHSl9sdWpYR0dPdEc3Ug?oc=5",
+    "source": "TV RECORD Europa",
+    "ts": 1791383734
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende prepara benefícios fiscais para incentivar habitação e investimento - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRFhRcUNuS1pabHlTUkJIdkZTMHQtMllRcGhPb2pOUy1hcGN5ZXNKa0QzczB1QWxLeEVMcHB3V0ptWFV2LWw5SC1lTWtaWW9yY1VNM25Dam95MDhkV19XeE5GaU1VQXJNWDNFTHE2VGY4VV9OM1gxbjVfUXc2REtEUEFmNzZia2dtVmFaYlFZaFNfQ3YxZHRkOERSVHJYQQ?oc=5",
+    "source": "Braga TV",
+    "ts": 1791388849
+   },
    {
     "title": "ULSBE vence 1.º Prémio no Integrated Care Award 2026 com o projeto \"Integrar para Cuidar\" - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTjRMMVJ1VEtiaGtlaHh6X21td05pUktxNzJ0cDN6R2pEeE1vZ09MQzBBNnlGcEdKZkJ5VDVIVlh6a2k4eWhIZlp6aVFQU09WMTl5ZUswNGxZYjJ6d1hoNzM0bG1OVE1LeXN0UzhoSHhpQ0JLNUtRUG1uTHV0c1c5cDRqRmo?oc=5",
     "source": "e24.pt",
     "ts": 1791362664
+   },
+   {
+    "title": "Acompanhamento de doentes crónicos em Barcelos e Esposende vence prémio nacional - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjR5SjQyWTlWanV4cWFoLTZxS3E2SlJBdXFmNlpkSHFKT3VlMnMxTTA0bnFfMTlMeUstYWhYd2x6dlo5SkV5T2F4SHkxMTZfVExYcm1KSEZQWlllUl93ZjlOOXJtcmtUMF96Y3BzQ0lRT3BRc3NSZTh4VE03a1JwcFZvMkFQX3lTaDdJaExPOEdHRi1fTmVTUllaeWFLeUdGczJXZWVYdTBCU0hfSmhOVXRFdDBLdVRtdUR0c3l3?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1791300248
    },
    {
     "title": "Jiu-Jitsu: Lenda das artes marciais Ricardo Arona orienta seminário exclusivo no Templo Jiu-Jitsu em Esposende - e24.pt",
@@ -1692,50 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkb1BKeGpjemxYV294SEdHME9BTThSVWgyNnViT1JobkFFZkdRbEhiU2JJbjFkR1pYb25zU3RZRFJ6d1AtWGZrRlNyVU16djBtYVJXREQ1UmlhTndwNFREMGQ3RjhkSjliMy1DNENqRVVhci0wRHNhWUhGNA?oc=5",
     "source": "O Amarense – Jornal",
     "ts": 1791232500
-   },
-   {
-    "title": "Esposende não vai além do empate, Forjães e Marinhas dividem pontos e Vila Chã perde - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41WVVPR2M2TVNxTlFMcTVuQktiWmN1d3pvMlhqdWVuWkpNQzk0c3BFTzkzSmgzaTVObjV1YWpvQ0NPTzloSGUwcWlGZ0k?oc=5",
-    "source": "TV Esposende",
-    "ts": 1791135336
-   },
-   {
-    "title": "Indústria de Esposende debate inovação, sustentabilidade e competitividade - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTU3YU52OFJBNXZtdmlENVg1ZnloZFU0QUxvbU1MeDU1eDV0VS0zVXQwYkRpaHoxMkVVWnZkVmJ5VTJiWmFSd2szVXlYZ0JpY1JNR2FBdDlWWWlIUElKWG9Fb29rOUVFZGlqNGpFd1J1ajhfRFJVd1VVYzNzSW1XYUtpY09IZjhQLTU3VG1FbXg3Ynh2aU9rMFUtaGg3RzB3NUlLLTNPRTcya2czVjlxMHE3WGRxUQ?oc=5",
-    "source": "Correio do Minho",
-    "ts": 1791124200
    }
   ],
   "mundo": [
    {
-    "title": "Protestos estudantis em França. Macron procura solução mas tensão não deve abandonar as ruas - RTP",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxONGZ2by12ZXZVWUxHellUS3EwZFRNNHpRWjVfaFpWcW1iRlVaTzhReHJwUjJUaG1SWEhpY1JrcGxsVjdjczh1TTA1SXQ5dWpKazB1NENUMXhaRHZ1Q0dPdXVYUnprLVF6VnphOGNxc2hZUWEwLUNWcGhURmJlUjdGYnBUa01mNWIwSl9MbGd0SnUxVjRzT0dWYU5FMU9wajhJQW1SRS0xbEJ0OFRaOXY2Sm9SZElVdjVTM3ctWE5vNU1xNkZ1U0ZBNmJ0Y0owVGs?oc=5",
+    "title": "Apesar do cessar-fogo, Gaza continua a ser um sítio onde apenas se sobrevive - Público",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjZYMlVwcllCMTdENzVRMlhFNDlFSWZfY2d0WDk3MXBfTFgwbTFHSm5wT0ZFYTNrckNEUENoRGxjN0VSYkdQaGVzZ2xKbkJRSThFbDNaX3VnOU9qc28wR1V5dXEtcHdQUlpJLVlpLURiLVZQbTZSQ1gtZ3B1R0d6ajV6QTMzb3RqcWxPZWtmcjJTNlRQZl9TTzAtVXM3cEh6eGZONWRwclR3N2x3TG5BcWx2R2pmUQ?oc=5",
+    "source": "Público",
+    "ts": 1791390102
+   },
+   {
+    "title": "Governador da Califórnia pede afastamento de \"doente mental\" Trump - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2tYanRlME1EYlM2RWExNmN2dWY4bi1fblQtbG10U3p1V0RPN19QNzctM2xEWjdfd2dVakpiWnM0N1Jla25tengyaDQ3M1ZfMkpyUGxWNnMybXNROHNwQUo5eDlMNHJaQmtZQlA0b1p3NVp5WTJQaldCdW14U2tmUzYzcGptMm9QUkdFZWFVeHZ3eml5M2RBbnFZUVc5dXFZOGFVOHp5WQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791381060
+   },
+   {
+    "title": "Trump, Carney ou Estação Espacial Internacional? Nobel da Paz pode ir parar à órbita - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRWxyd2pDMFFVZTNtOWhJUGFmajN5VUUtWWRlbHQtbzdVcXBlWUtCM3pNcHVQOWphV2RaRUE1LWpHU1dJUG1qR05sRzdWRlBFSS0xYy1KNmhXaUt4TWg4TV81ZVlqSV81TE5CWEJEODZ0YjhST2RJZlQzSWQyME5vTEJRT21uNllCbHRVbE5ValFKVzlkV18teTJZSGJYaWtpM0lEUWRaaXBDZmZPOTRYdGNxOS1qQ19Wdlh0ckxEONIBswFBVV95cUxOeFdHNkFTZ1hGbl9qZXlLa3pkWDEzRzBvQTFtWGM3Ym5WcWhnYjRsaF96UlI4Rk9kMDdOVlZubVNmbVk5elN2WkhrNG1TTFZ4TmcwNHJEcl9naFFOU0JEaWVWWDU2X2h1TkN2U3JqcDhoZXpla28zejBfWmkzV2d4VVhBNkg4WlA3Mktfa1RkOVNWUnlEdkFyM054blc0Q1RDLXdkNUh2ZGd2enA5Z0cxUEs0aw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791379080
+   },
+   {
+    "title": "Campanha ligada a estratega de Trump gasta milhões para moldar respostas do ChatGPT e do Gemini sobre Israel - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOczBOdm50b2RsY1dCTEZLRG5jTGVlZW1Jc3VHaGZWNldPWEFaT0kyd1d2MFEyQVBaLWk5UXEyUmh1ZXFPZDB6S1ludmFRVVpjUGp2TlRpR0FoTU9PeC1hUTg0OHU4ZDY4ZUdDV3NRXzVFMzFyX2tQNFpNcUFDOFJxRmczaW5JS2F1UjU3TFN3WGNMa0VhZkl5ZTBSc1A0NTJidjFIRW5UTFJ2anJVNzB2eHoyeWY3N0Z5UnByNmVfU2dndjlWaGMwSWVoZ1ZQSFpHcjhTTTg0NA?oc=5",
+    "source": "Público",
+    "ts": 1791374700
+   },
+   {
+    "title": "Homenagem às vítimas do 7 de outubro no Parlamento Europeu - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOalJpLWprdl9uZXk4TkxaUW5nN2UxSFRFNTBoXzBvZWVNM1R0M2hLOWl3Qk56eUM0T1gxNTZrcEpjZ3pWRF9PT05HbU5RTEMwcTU5M0xOUVdxcy10ZjBzdzNyaVJ3VXhHaks4eVFRcUJoS2pyRU9SWDlOQUJXenFYVWtnbml0NUgtUjFCMTdYd042ZVZEX1N0R3dmZDIwTzdYUXh3?oc=5",
     "source": "RTP",
-    "ts": 1791353571
-   },
-   {
-    "title": "Christa Pike está \"consciente e a falar\" após sobreviver a tentativa de execução, relatam advogados - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYkNNMlNjd2JqbXVNZkdMeE5YejFrOWRMaU1qUlpnc1M5MHFLcVJqSzRDdTRSUGdwTU9PVHRldVJHZXh5Wlk1Rk9fV1NkNkVVdUZJRzBmWE5UNmtNUC04UTFwbTBBSk51RTgxY2xiWVdfaHhOUHJSRzUtVTZiQ0RmWUxSQjJReFdXYUZNZmtvQndJTksxY3l5cXBkbGJ4RS0xYjlXRjI1ZWNqX1J6UGUwMkNFVHNfd2FyQXZhaGJuUWNKWkJaZGlUNUVuOGpjRms?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791352980
-   },
-   {
-    "title": "O 7 de Outubro não mudou Israel, acelerou um caminho - Público",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdnRGMkozYzdtdC1fMjVDOVpEb3c5VFRaMW1MQ0daVVZLc0tQdEUwTDJiM3BBc08yZU9jOTJmWWRFbFQ4d0UwbWhJM1k4VjY4LTdLeU5iU05HTVdPNjg1V0V0VWxYNWo0a2s3N1hQYk1DdWtydThkSUNYTWphdGR0Zkk4Q0R5RmVicUxkdmduaEtBalE2OHAxaWdWbE0yYy1G?oc=5",
-    "source": "Público",
-    "ts": 1791317280
-   },
-   {
-    "title": "Eurodeputada de extrema-esquerda derruba bandeiras de Israel e UE em homenagem a vítimas do 7 de outubro - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYjdjdkFISVVRWXFQLVFsNi16R3FDQWpSWm8xaHFMM3ZYY01KWVNUVkJ0VXFRQ0xTMFdfVWZranFaN0JibTZMVUJYbEdlc21xOVROa181U1pEVVYwZ0I0aFk1VmxwM2d0V2R2anJ0N1RLVjBVdkhyMG9zeDBrdUt6VDlHVmN6cU5DZV84bWMwZjdXVnZkSms3NFFyczU4b0lFb1dTaEV1X0dDZTVHZGhoUkZSVWhvT0ZEdnpma0NzeE56T0ViT3F3WFNDZ2pPdTNPdnUwLQ?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1791309359
-   },
-   {
-    "title": "Novos Estados-membros que violem valores fundamentais da UE podem ficar sem voto durante 15 anos - Público",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMTZlT2pzYVBEY3ZpQ0JoRHp4MzJYVjdyaHdKUjhWZkN5aFQ3ZnhkZ1dTQ195MUlDLURVZzlLcHdLdFU0blFyODV0WnpYZkp5M3JXeHU5YVNHaXhCY0hzbWJoUTFXS0Y3RlAxQUNwVGRXcnE3N1Y1NmpiQW84cjU2WTB2dldUUVphVE9GRE1rQ0o4aFNOcjM1cmlUUjdSa244WXVGY25sbXhyX0ZHQ3lfRzRxc29fc2YtNGVjSjlQQXJJS3U2dU5jZFRtYnRLOTc0X3AzV21xYw?oc=5",
-    "source": "Público",
-    "ts": 1791309262
+    "ts": 1791368912
    }
   ]
  }
