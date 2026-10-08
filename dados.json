@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-07T23:00:17Z",
+ "atualizado_em": "2026-10-08T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-07T23:00:18Z",
+  "atualizado_em": "2026-10-08T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-07",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 10.5,
-      "vento_nos": 3.5,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 17.2,
-      "potencia": 1.8
-     },
-     {
-      "hora": "01h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 10.3,
-      "vento_nos": 5.4,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 17.1,
-      "potencia": 2.0
-     },
-     {
-      "hora": "02h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.2,
-      "vento_nos": 4.9,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 17.1,
-      "potencia": 2.0
-     },
-     {
-      "hora": "03h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 10.1,
-      "vento_nos": 7.2,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 1.9
-     },
-     {
-      "hora": "04h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 9.9,
-      "vento_nos": 7.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 1.7
-     },
-     {
-      "hora": "05h",
-      "mar_total": 0.9,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 9.8,
-      "vento_nos": 8.4,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 2.2
-     },
-     {
-      "hora": "06h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.6,
-      "vento_nos": 9.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 2.1
-     },
-     {
-      "hora": "07h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 5.1,
-      "periodo_pico": 9.4,
-      "vento_nos": 8.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 2.1
-     },
-     {
-      "hora": "08h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 9.2,
-      "vento_nos": 9.7,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.8,
-      "periodo_pico": 9.0,
-      "vento_nos": 10.1,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 17.1,
-      "potencia": 2.4
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 8.8,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 17.1,
-      "potencia": 2.2
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 8.7,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 17.1,
-      "potencia": 2.1
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.1,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 8.4,
-      "vento_nos": 16.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 17.1,
-      "potencia": 2.5
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.1,
-      "ondulacao": 0.6,
-      "dir_onda": "NW",
-      "periodo_onda": 3.9,
-      "periodo_pico": 7.4,
-      "vento_nos": 18.3,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.1,
-      "potencia": 2.4
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.2,
-      "ondulacao": 0.6,
-      "dir_onda": "NW",
-      "periodo_onda": 3.8,
-      "periodo_pico": 6.7,
-      "vento_nos": 18.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.1,
-      "potencia": 2.7
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.2,
-      "ondulacao": 0.6,
-      "dir_onda": "NW",
-      "periodo_onda": 3.8,
-      "periodo_pico": 6.2,
-      "vento_nos": 18.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.1,
-      "potencia": 2.7
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.2,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 3.7,
-      "periodo_pico": 6.0,
-      "vento_nos": 17.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.1,
-      "potencia": 2.7
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.3,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 3.8,
-      "periodo_pico": 5.7,
-      "vento_nos": 20.4,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.1,
-      "potencia": 3.2
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.4,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 3.9,
-      "periodo_pico": 5.6,
-      "vento_nos": 21.8,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.0,
-      "potencia": 3.8
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.5,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 5.9,
-      "vento_nos": 20.0,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 17.0,
-      "potencia": 4.6
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.6,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 6.4,
-      "vento_nos": 20.0,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.9,
-      "potencia": 5.5
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.7,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 7.5,
-      "vento_nos": 18.3,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.8,
-      "potencia": 6.5
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.8,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 9.0,
-      "vento_nos": 18.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.8,
-      "potencia": 7.9
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.9,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.6,
-      "vento_nos": 17.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.7,
-      "potencia": 9.4
-     }
-    ]
-   },
    {
     "data": "2026-10-08",
     "horas": [
@@ -1788,10 +1471,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Feira de Emprego Grow Your Skills Up aproxima jovens do mercado de trabalho em Barcelos - O Amarense – Jornal",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONjV1WGYzRmFVOXZaVjhTT3poUkVBQTF2MWdKV2hDeGdwQkktTVdDMlpSbU5TY2U4RjNLdmxMYzZ1NFd1MDdoNlJFTzVkY25yQjVhU2NSd25Sam5EWDk2UnpTMzYzd2IwcWFWYUxibDBVQzczUFV6WTBoa0lNTWI2OU5rRUJBdTZuVzVIY21seEcxTW5ZdFAzdFg4WDlBRERJanV0aFF3eTEtZnJUZEE?oc=5",
+    "source": "O Amarense – Jornal",
+    "ts": 1791408900
+   },
+   {
     "title": "Santa Casa da Misericórdia de Barcelos ganha prémio de 10.500 euros com projeto que promove saúde mental na infância - o minho",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQalo5M21vM2dCMWNULU5aQl9HVWlvTjFtbFpVSzJkV0RZUWZnRWp5UUZ0MkFoTGxPOHdjYnRWODNyb01YZ3VjRlFjSEk3ajF2RFJMbmNIZ0diU1dJUXJvTXZyRGRPNWY2Vjd5blVad0YxeFRjanZReEhEMHFsZHVUaHpsM3dVc3hqUV9kMmlDS1hVcEJFcHMtQ0VoMlJjQmV6ZmxMeWZXUHR0R05BS2x4UVpWc292aEpjWGdJeVVaUTlIY3dRbEZ2X2FRa3hhTkdP?oc=5",
     "source": "o minho",
     "ts": 1791396833
+   },
+   {
+    "title": "Bienal de Pintura do Eixo Atlântico chega a Barcelos - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB1Skl6dndJNWlDUFh6WXRPZmZSQmVPbkx1Ti03R1JRX1IyWVNJTW9YRy13QzkwYWl4UVVVUENJN3FJY2UtWk9ZdDhvR2pQZjlzMS1VbjZsNzVBTVhhVmJJS09HWUEzYi1uNWs1WjdJOGxOZ19SME4zTFk3Z0Y?oc=5",
+    "source": "Braga TV",
+    "ts": 1791396259
    },
    {
     "title": "Adiada sentença de ex-autarca de Barcelos julgado por ajustes diretos a uma empresa de segurança privada - o minho",
@@ -1806,22 +1501,10 @@
     "ts": 1791395267
    },
    {
-    "title": "Barcelos recebe a XV Bienal de Pintura do Eixo Atlântico na Sala Gótica dos Paços do Concelho",
-    "link": "https://e24.pt/barcelos-recebe-a-xv-bienal-de-pintura-do-eixo-atlantico-na-sala-gotica-dos-pacos-do-concelho/",
-    "source": "E24",
-    "ts": 1791392157
-   },
-   {
     "title": "Aluno de Barcelos representa Portugal em projeto de design sustentável na Tailândia - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQlpTM3FWSmFxU2VOZmdFWUU5YkhFWHJEaExETFlxTFB3TGZmdFNEUi12Z1NPQmhlank5OVM1VmgtR085TTU4NG5iUTZkbkRfVkpoYkFxVEgtNG5IaTAwY0VTakxGYVZHeTJmeThITkZZbHdsYW1aOXZPMmN2cE14SzRUUVEyRURiV1FUNkRsZzFwLWp1LXF3bTYtdVNlR2JaOF96U2pn?oc=5",
     "source": "Braga TV",
     "ts": 1791388906
-   },
-   {
-    "title": "Atleta de Barcelos Isabel Martins vence escalão F60 no Grande Trail Serra d’Arga - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjhSOWw3MTFFUTBLbnUwS3BXV1d4cENIb1NQYmtQQXJ4czVHb3VYclRnM3RZVWN0M2dTd2ZOalpBMkRCUkZiNVNWeVNteWtEMnc0MTRpUXdrRzg5amNWYlI0a2tjZGxmcG01ejdZZ1NVNlpabzNVdGZiVjJZU3EwdjBTZGpueDZ2TU1qLWpzWnB1T0hSUnR5Q0Nfamc4UFdV?oc=5",
-    "source": "Braga TV",
-    "ts": 1791387196
    }
   ],
   "esposende": [
@@ -1836,12 +1519,6 @@
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOelEwNFFXb1RUX1BpODBBYmJtNVpBT1lsWEZ6SnJFQWFrdmZWQ1B1ZjBvdUs4V0dzWFJZR0dLNUpLOHdyOEpia3VpWWpoRFZmWmNrNVlPUVNmZjhpTWUxWGlwWWlydVM5a1RxNHJHR2FmOUxsZlFCS2FIeGFaVDVJN2IxdFd6dXFvTDByRVNCWWRQWTdmanZwb1lVazgwQl9TT1E?oc=5",
     "source": "e24.pt",
     "ts": 1791304605
-   },
-   {
-    "title": "Acompanhamento de doentes crónicos em Barcelos e Esposende vence prémio nacional - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdjR5SjQyWTlWanV4cWFoLTZxS3E2SlJBdXFmNlpkSHFKT3VlMnMxTTA0bnFfMTlMeUstYWhYd2x6dlo5SkV5T2F4SHkxMTZfVExYcm1KSEZQWlllUl93ZjlOOXJtcmtUMF96Y3BzQ0lRT3BRc3NSZTh4VE03a1JwcFZvMkFQX3lTaDdJaExPOEdHRi1fTmVTUllaeWFLeUdGczJXZWVYdTBCU0hfSmhOVXRFdDBLdVRtdUR0c3l3?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1791300248
    },
    {
     "title": "Jiu-Jitsu: Lenda das artes marciais Ricardo Arona orienta seminário exclusivo no Templo Jiu-Jitsu em Esposende - e24.pt",
@@ -1864,28 +1541,28 @@
   ],
   "mundo": [
    {
-    "title": "Morreu Maricarmen, a mulher que se transformou num símbolo contra a crise na habitação em Espanha - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUTF4dEItZkFsNlhMb3l5QzF0UGVIbHFQVU4zWHlmTjFpY0JjNmNhOF9XOHRYR1pBZFpCa01ZWnl6aTNyWU00OGxrR2RxcW9IUDBYeGR5VmpGblZDV21VanRuSnRTSjgtaWNaVE8tUGVrV25rc28yUUNoMFNtM0U3S1lEVTJZa1Fjai1kRG40dzlsbjZSZlVtb25HQTEyZUMxb01MZGhUNVZoa2pqd1lNVU4zLW9sOU96VjRwUW1KRnVDYzlnbFlZUFhReXpOaEU?oc=5",
+    "title": "Irritada e confusa: revelados novos detalhes sobre estado de saúde de Christa Pike - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdG5WNFlueUVuRVFLYXRXV1kyNDYxaFpGYU9mWjlhc0RXZW9tOGg5U3kxUG1IVFQxbnFneDFGbWFWa1ZCVUZBU003QndGZUVpenhaZGlwcExESGZackNUQXpjWWJvREpueGJrdFpaRzFCTDU2b0N4RWhmQkdwUjVLa0tpaHhEcjYwRl9HQjZkYzdPQ0kyc041ZGVBNi1Zc3g5UTZUbllTZUM1ekROcHdETjlSeWViRXNTZldJ0gG2AUFVX3lxTE1hY2JBZXpQVkhLUmdtWkVDbnpYbnFwOF9oX0lXOFFkUmZuZ0FLQWMzZjRlREpwVEwtUXE1bnZPRFZPWFRtMUwzNnlOWktsNEdrQUQ0WXBUaGp1UkpkWWp5R204SmtwOF90NFhobW1Sc2lBMG1QUDJiNVdfMTZhQWdSTTJ6d2V1dkZkNXBoSHlyVXVKZm1BSkFYcnFYV3h4bTBYWTdLbWd4NFZqMG5ETFV2cUtmUWtR?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1791397920
+    "ts": 1791412703
    },
    {
-    "title": "Como sobreviveu Christa Pike a duas injeções letais? - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOT3NaekRKNzRMYTV3VTRFeWxqRC1VejBVTkZVUExlVURraGlLOWZ0VjZDSTQ4bjBQM21UY0tZMVRZeU4xbER4cE5FMjRoSVd4NnI0YVRGMFRZOGpHVDFIQ1ZpbWpBVnBkSXV1dmRzV3ZrYnRRZnQ5bEFCZE01US1YbE9oaTU4MXpSeFpvZVZwYy1OVmQ4aGNRS2F1ZU5iVTg?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1791397100
+    "title": "Israel enfrenta “ruptura irreparável” na forma como aliados olham para o país - Público",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeXFaQlBPZ01ldGJxRVU4dklVSGUtbjRrUzFmM0lNUVZVRkVkYVl6MkRCSFpkT0JXYXZyMUZfZU1aam9UWDZqTHhXMGZXaEZRYkhqREI1UDVweUJNX1ktbEZzb3pBYmoyWHdDcU9CSWJfQkRIbjNZMHl3RUdYSjFDUHFtdGd6dFFySmxoaVQ4UjVDMzV1VGw0bUVXMDRxODRNM2Z1a3BscENoYUd0RXhuU0hPQWlURFk?oc=5",
+    "source": "Público",
+    "ts": 1791399600
+   },
+   {
+    "title": "Morreu Maricarmen, a espanhola de 87 anos despejada que reacendeu a luta pela habitação em Espanha - Observador",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMWxvOXZaYU5udHBjTDRjSWFxSTk2YWhlMlRkMDJOcHZ4X0c5QmVKcHEwWVhHQjRBWE1MN0NwMV9rY2hZUk1fYkItUEhSZXB4OFBLY2ZoX3JiWEdmN2lrOGNnNjdQV1RORnhVbURoUm9xWFFTV1h3Tlp4dU5UQmdrRWx6MUdYbUxxU2NKVWNia2ZtWHF2ci0yVkZSR0lHZWlfa2loZ3pMS2o5VkZZUlRESTl3UF9sN1VLVms5N0x3?oc=5",
+    "source": "Observador",
+    "ts": 1791397982
    },
    {
     "title": "Apagam as luzes, desligam os localizadores e levantam barricadas: assim atravessam os petroleiros o Estreito de Ormuz - Executive Digest",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNWVc2UjRNSl9oYWJuZWFqdUpjYWdFXy01WGY5ZDdwM2E1cVFVVy1OakUza2NIS3IzRmlqSkxuU2tBeTh2MVRLS0RvcUJQQnZFd3Q1SEZyaEZmN2ZobTVtSWtqMExJSTU1MXhtaUpybTI3ZnZMZi1VaWQzMkRaQk00TVp3X3ByRG9qOWttV2ZjYWQ2RUFmQWZIT3F1UXF3b2M4WXV1aURIVWtmSFVDNUdISy1wMVk2cTRRbEVvYmVGdV9yQVM3ejdpSUotSW50RmZzY1dMWF94bVFzNEhYX1V2azF3?oc=5",
     "source": "Executive Digest",
     "ts": 1791394205
-   },
-   {
-    "title": "Ucrânia traça linha vermelha para entrar na União Europeia: aceita limitações, mas exige uma data para terminarem - Executive Digest",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPU1FxYzVpRlhWNHpIcV9QRW93dmJaaVRQb3h1MlhQNFEwX2h1NmdDSHJfZDR6UWxZdXJxM0h5TzRyUnNiV0JPVzNGVlF5Umd0UkM5aVRsYm9ZOUY5Wl9TSWNEbGltd1hxMExHSm0tSTBETFFBWHl2QUlHYjVuTlp4VFN4Q0dmZGpNY3lhMGlhSl8wZG8zUGpjaTItenQyRWNJMHlndlZPUS13NWpQTjhEOThMSThKdjZkc1M0d3kwX1Eyd1kzRmIxcmdFMnlhQjVVSGtaYmpSd0hfMWt0?oc=5",
-    "source": "Executive Digest",
-    "ts": 1791390891
    },
    {
     "title": "Montenegro sobre imigração: \"Quem não cumpre as regras tem de retornar\" - Notícias ao Minuto",
