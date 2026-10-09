@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-08T23:00:17Z",
+ "atualizado_em": "2026-10-09T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-08T23:00:17Z",
+  "atualizado_em": "2026-10-09T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-08",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.0,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 9.9,
-      "vento_nos": 16.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.7,
-      "potencia": 11.0
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.0,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 9.7,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.9,
-      "potencia": 10.8
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.9,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 9.7,
-      "vento_nos": 17.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.8,
-      "potencia": 9.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.9,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 9.7,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.8,
-      "potencia": 9.6
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.8,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.7,
-      "vento_nos": 17.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.7,
-      "potencia": 8.4
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "N",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.6,
-      "vento_nos": 16.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.7,
-      "potencia": 7.5
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.7,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.1,
-      "periodo_pico": 9.6,
-      "vento_nos": 15.7,
-      "dir_vento": "NE",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 7.4
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.1,
-      "periodo_pico": 9.5,
-      "vento_nos": 12.8,
-      "dir_vento": "NE",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 6.5
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.4,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 6.7
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.3,
-      "vento_nos": 12.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 6.7
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.3,
-      "periodo_pico": 9.2,
-      "vento_nos": 11.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 6.8
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.3,
-      "periodo_pico": 9.2,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 6.0
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.5,
-      "ondulacao": 1.3,
-      "dir_onda": "N",
-      "periodo_onda": 5.2,
-      "periodo_pico": 9.3,
-      "vento_nos": 16.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 5.9
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.5,
-      "ondulacao": 1.3,
-      "dir_onda": "N",
-      "periodo_onda": 5.0,
-      "periodo_pico": 9.2,
-      "vento_nos": 16.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 5.6
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.5,
-      "ondulacao": 1.3,
-      "dir_onda": "N",
-      "periodo_onda": 5.0,
-      "periodo_pico": 9.2,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.6,
-      "potencia": 5.6
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.6,
-      "ondulacao": 1.2,
-      "dir_onda": "N",
-      "periodo_onda": 4.9,
-      "periodo_pico": 9.2,
-      "vento_nos": 19.2,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.6,
-      "potencia": 6.3
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.6,
-      "ondulacao": 1.2,
-      "dir_onda": "N",
-      "periodo_onda": 4.8,
-      "periodo_pico": 9.3,
-      "vento_nos": 19.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.5,
-      "potencia": 6.1
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.6,
-      "ondulacao": 1.3,
-      "dir_onda": "N",
-      "periodo_onda": 4.8,
-      "periodo_pico": 9.4,
-      "vento_nos": 16.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.5,
-      "potencia": 6.1
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 4.8,
-      "periodo_pico": 9.5,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.5,
-      "potencia": 5.4
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 4.8,
-      "periodo_pico": 9.7,
-      "vento_nos": 15.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.4,
-      "potencia": 5.4
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 4.9,
-      "periodo_pico": 9.9,
-      "vento_nos": 14.2,
-      "dir_vento": "NE",
-      "beaufort": 4.0,
-      "temp_agua": 16.4,
-      "potencia": 5.5
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.0,
-      "periodo_pico": 10.2,
-      "vento_nos": 12.6,
-      "dir_vento": "NE",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 5.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.1,
-      "periodo_pico": 10.7,
-      "vento_nos": 10.3,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.3,
-      "potencia": 5.7
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "N",
-      "periodo_onda": 5.2,
-      "periodo_pico": 11.3,
-      "vento_nos": 8.4,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.9
-     }
-    ]
-   },
    {
     "data": "2026-10-09",
     "horas": [
@@ -1864,34 +1547,34 @@
   ],
   "mundo": [
    {
+    "title": "EUA anunciam que primeira execução por fuzilamento desde 1961 vai ser pública - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYmR1X29rNGlIai1XYzJJM3ZmV3dYMEM2anJxXzhBQ1M2UE5kZ1NnekVEel9BRnpnZ3plZVYxSW1rTlRaODYyZDMzcE5INnJqTlRQWEl4elR6QnJRV29DRVdhRDVYNW4tblM0ZFlfSWY2RjhWbjNPM3VfNjlHbnoxQVVUQWI0N2N5WDdhNFBDWFhPUFdoMGRUZFotNDNRU04xLTJrMzNfbHdUcVRUVWd5SmNvaHlLLVA3VEHSAbQBQVVfeXFMT051UkFZTEttR3dmWjJOOU41eVF3ZkpKRWIwY3dBdnZaei1LSVhYaHg5NzFERFNMOWgyM040a0hucG5ZMmFQNmRPNm1SNXlfa2lxclNpcWVCUkZDenVEczA2ZWJSbFp0M2owek8xVnF4Yl9pUnR1a0ZuMVFkVE9URGFYX0VoWmdySUViSG90REhOcUhDYUtkeGdET1YwWWI3c3VRbTl5ZEJyRDNUaGlUcTZBTC1y?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791500940
+   },
+   {
+    "title": "Sondagens para a segunda volta das presidenciais confirmam que Flávio Bolsonaro é o preferido dos brasileiros - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQ1M5Qm43NElnX2pHc1Zidmh4VGRjWnBJRWwtV1lkQWpRU3Rlc2hJVU9TbWgtWnBTV0lJYmp2T096YlEydUsyS3pWNi1BSWxsWE5qR000dHhrSk11VFpscXoyMHV0VnRPQ1NkajRZSGNNT3M4WnE1QXZWUlItN1htd1lWTjFGNng0QjRlNk1RMVEzejhqZlh0dFVhZUNkT2FLbjFPRGhMQ3RCZ29IS293dUZrUnpHczM4N05WWWMyejI3Nmw0bFVmUkdxc2hVVk0xbmEtM0MzWDVIcU5Vdzh1VNIB2wFBVV95cUxPOVJhZzFfTU1VamlPNjlDQnYzbVdsS2JxelM5bHAzdFk3ci05T0gwOTBRdUNGUGdNXzRjcVBoRkhucFQxb1JGWTVNNE9nQVAxRy1XV29NUkdoZGdER1RsdUt2Yk9BeWtRSmJCMHoySWJEMkhlLXcwQVZYeHJoazFuV3RBamRKNmhOdWVYLWIyZlpvblhNVzBzeWFnZE5YYVVTcGJFOUNETFF0cHp0dGR2Vk1ZRFc1eUxIMFpvTU0tay1mS0d3b3paNWhOM3RLTmdNSzNwOVVueHB5MXM?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791500908
+   },
+   {
     "title": "Procuradores dos EUA acusam Maduro e a mulher de torturarem opositores - Público",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRV9MNWVpcnQyajNBSDNuUFJYSy1RSXB0cTFVZ3ZvOXdrcGFqZFhRa0ZOR3JvTVpfU3RycFZ1NUxRM1RYVFJzUk5ybFFBM2ExdE9tMl9IOTRxZkQ1bjBoUFJyZm56aW5fdnk0OGZKMXk3VHk5S2RwSnFwbHc2aUVSODFaZlItOTJIbVpRalRValc4NGQ5ZDhoS1A3ckZ2S0dVLUlMQlZxaEI2TDZYNzZIa0Zxb3k0Q0FuNF9HcDFFYjJOUEk?oc=5",
     "source": "Público",
     "ts": 1791486120
    },
    {
-    "title": "Fármaco utilizado na execução falhada de Christa Pike acabou de ser usado noutro recluso. O que muda de um caso para o outro? - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOOUotbnZ2WGhiUVdNOTdSY0VsSkt5WTJNNnNKZk5jdjFHaFlpSWVjZ0pUeUZUWDA3NWpYdHhlOC1vd2NUMnh1d2xvQWhoQzJPd1JaUkRUV0VFeVhFQ3UxaGozb1hfbjk4MEg1eXF5YVZqNWVDQVYtbVVmeDdPaFZIUWwtQXdIUV9neEdMcVNGdXBjY0wzdEs1LVFiSjZQak55REJ0c3Y0ellYNVRRUGRzazdhdjN5LVpBei1ObzFnSWJweTQ2U1NEVG41d2FxWmsxdHZBZDQxZmJXRXhEcDRmbkNhcHFRY1BlSXRTbjcxekhsZFlTZ0pCenFJOXJoeW1EMFB5N1kzQVM4akpjOEMxWElZZjlMUjNObXhBb1dNOEUtR2hOVUJKR3dMeml2TEJQNzB5cA?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1791477180
+    "title": "Trump diz que os EUA não vão voltar a atacar o Irão até às eleições intercalares - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa19Dc3B1dWh0emhCaFFiNUZUZU53UmZIV0pBOFRsc09MMElMNjF5dXV2ZFE3UkkzUlMyQ1lwXzF4VnVqeU9McnlWT0JNblZreG80MHIzM0NZVFFCZl9zRHZERGs3UlFxcHdGSXp6T2VtczZ1d1VURnVjNlFTbGFkZzB1SVVQdDlFRm5GRnlUUEJHajhOd2lqOGJJTGtxbU8wSy1tOHdCUzE4SHdSY25kZklxR0tVcHBHaHc4VXFMQS1KMWRza3pEbkt3VUloTXFK?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1791478320
    },
    {
     "title": "“Morreu uma jovem, vírus mortal”: OMS pede mais informação a Moscovo sobre alegado caso de peste pneumónica - Expresso",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTHdNSkFzdUNrOXBJazlocURIS0xHZ0VsYkZrTHpzdmpOc2JGdTFqWUlNMGF0TVJBM2pMSVVPM3hqNmFNaWdTcTV5WW1qTTBpMXg5aE13eUxOd3RrWUNNTGZWdG0tTTlabk9EWEhGOTBFWFBNcm1MWS11NUlqQ0NEOFRWNy1jYnZ5Y0VwZFVsTk83RXJBN0RmTEdqeUxPN29nQ0hLVFdQZ19YS1hyVk5GYk5BaHJjZTBJTjJmOUtIeUJCbzlRdjNWOHN3a1JGRF9kSzY2TmRZelY5MU1GZmZlUlFabGI?oc=5",
     "source": "Expresso",
     "ts": 1791477000
-   },
-   {
-    "title": "Itália aprova polémica reforma eleitoral defendida por Giorgia Meloni, oposição lastima concentração de poder - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQazNsSHVQTUJhS2tJdEhfVGRyUDhKUVdxQXN0RkRlTFlQMHNrbmYxZDlKb2ZPVzRUUkN4NVlpWWlWcDhUdUlZTWEwQWhlT1NUYkRacUpXM2hTVjFUVXJjOHFiWWlubVZjNXV6T1pDbXhfanQ4VU5jOEkzaEs5US1mcXM5X3dMM0drWFdOeEw3SzNpZ1hleEdvQTV0T3FzOXp3cWw4Y2lLbGNpeGxGQnBqa01IaVlvUk82LXFGLTJnbWxXUjNPVUdYVE43aG9WRnVtOC1wS3dzWE93SVNPMlFrLU0tcXRKTmlPc0RB?oc=5",
-    "source": "Expresso",
-    "ts": 1791471028
-   },
-   {
-    "title": "Rússia ataca dois autocarros ucranianos e mata 30 pessoas - Público",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU1lva1VOY3JWVDV0MjVWU0RSRTlqaU11NC1QRV91RWl4SzNTTTlkZTFDRDhrR3VJdGFxTEVtZFhJRE9xTHUtRVVCOWhrUXNMaTFMQk90anpGaEFPQ2diZC10dlJjVVh1MDVNdUk3X2NWRWRvQkpWUDF1NUZMYjRENnZCQzA3bHZzeDl1TTFTQkpSY1dzODdSTnVJV0h3N2tFQmlmV0dSVXNzS041VTJDbQ?oc=5",
-    "source": "Público",
-    "ts": 1791458967
    }
   ]
  }
