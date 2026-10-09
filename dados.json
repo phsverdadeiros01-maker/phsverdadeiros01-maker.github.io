@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-09T11:00:17Z",
+ "atualizado_em": "2026-10-09T17:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-09T11:00:17Z",
+  "atualizado_em": "2026-10-09T17:00:18Z",
   "dias": [
    {
     "data": "2026-10-09",
@@ -1632,6 +1632,24 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos reforça compromisso com a proteção dos idosos em reunião com a CPI - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3Q0VnZnZG9yVTZQbWRqUU1WSWZrLWtsWjE3Z1BQNzBCcGJxNF9aNDhKQnh6SkRVMkxzTmx5dlY1QUJjNkozYm5NcmdERGxpeHhIZW9yLVdPV2VmOFdkNml3TXQwSk1kbTFWM0o5NXFfTkJkcExuTC13cDdJSU1WZWNXOHl4TlFHQm9vMG5KVzU4Yi1BR3VVbTdVajVzdUM5YkRQcDFVczM1NHZjUmFoRmk5bjRuYjFPMzE1UGNJREg?oc=5",
+    "source": "SAPO",
+    "ts": 1791563026
+   },
+   {
+    "title": "Os Sábados são na Biblioteca - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TcVlYVVBkN2o1d1lSa25RV1ZqRjF6UnAyMlgwQmxfT2RteUJNMnFJN0VQOFMweHRPMUczVlE3bEVKMmphb21MN25DMVRkeWJiallGaEtSRlloRUdsX2otdS1QZXJlTURLV2ExRzN5ZjM3WXFJ?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1791542539
+   },
+   {
+    "title": "XV Bienal de Pintura do Eixo Atlântico 2025-26 chega a Barcelos - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPcUVtN3Q1cmw3S2tfTGtzdVF1eldzOWx4bjI2UEV6LW5QZ2xUNEZfd0U0OGROdjNETXhvT0gwYW00eVI2eWM2anluNE5qcVgydV9HQVdJUzVJVWZzaGVlQ1IzRVdpcWpldzVLQjdPRHZJNkxPdUN6ekFvV19iNUg5Q19KWFdicWdfbjFJTTJRNWstcHZKcmV1MlBSa3RrQU1X?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1791542269
+   },
+   {
     "title": "Exposição fotográfica Viagem Cigana inaugurada no centro de Barcelos - SAPO",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFFuSlkzZWhQS2Zrc0ZUMWRKWkNmVEM2M3NRQTl2VDRuYWRJMnZEaTVmZDN6R3JPZGpkajB2dndidGFENW53QWtBMUJFdGc2d1RnUHo2dUJlV2c0alV1REp0cTBPbzV1TVAwLURJYjd2QlZxZUcwUU9mSlBZbjhnRTZHc1V1V3ZzVjNxbW95MURGd3dNTTNNaXYyZkEtbVQtRGYycjdsSkE2bzFWd01xOEVmNVFFNm8?oc=5",
     "source": "SAPO",
@@ -1644,48 +1662,24 @@
     "ts": 1791538471
    },
    {
-    "title": "Barcelos: 28 restaurantes celebram o Fim de Semana do Galo Assado",
-    "link": "https://e24.pt/barcelos-28-restaurantes-celebram-o-fim-de-semana-do-galo-assado/",
-    "source": "E24",
-    "ts": 1791536182
-   },
-   {
-    "title": "Inauguração da Sede Os Académicos - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mekh6WGg0cjlfX205NmdyczdJaVI0RlUtWElrRWc4MVAwN3k5NWdZZ29OWERHTHFKYnoxa1FzeDFRLVVzb0hpYjZuVzh5SzRQWHk0emdWTWJGa2FTX3FlZVUtdTVwLVJnMW50TkxsdEEwelhMbWozV1N4aDk?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1791534857
-   },
-   {
-    "title": "Motard Solidários pelo Paulinho - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5tNWFrcXB0b2JDc2VzZ3Z6U0pSNGpXYWxHZHV5azVmOVhiZTVYS0QyRWRjeTJBQld2SzZtTEdSekpyVFpkaEVYZEZsR002Rk1SVVdjeFJYU3VHOENpU1RWeGRJZVpiS09ZNGtsNDVfME05bVZxRUxhejVn?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1791534762
-   },
-   {
-    "title": "Conselho Municipal da Juventude de Barcelos aprova Orçamento para 2027 - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUowdDNDc1ZHNFpHTi1KVmplUndELWJ5dmpNWmFhZ1hZMFlBQmZkb2l5a3RleXlOR01rTlBPdTRJeTFlYnRIeFBsOC0yeXdoMVJlOExEb0NVVHgwakRnZGVXa2o3WFJVMy0tUFZRV3VEX1Y3Y2VrcWp3NW5PQWRrQ3MzV2owSXFrMUV3TnJVNzVEMEpJ?oc=5",
-    "source": "Braga TV",
-    "ts": 1791483848
+    "title": "Iniciativa “Cruza-Te” leva réplica da Cruz das JMJ a Barcelos - Arquidiocese de Braga",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdEpFTUlrSF9JMnB5TVRpMXo3Y0hpbnZ5bWRsZFpQWmE5QUFyUnExRHNRTXl4ejRDX2otZXd4ZUhULUVYbS1PQ0VwcVNHb2RqSXJTRC1hZmw3cGxWM0FtLUE5eXBLT08yaVBpOWxKMHU5Snc3amhHTFhGeE4tWGZOTWZDVFBOT2ozenVuMmZYNEhkLXVMaElhOTFRMXJnbGdlMEVVQndGc0o0Q0l4Qy1tVTltZXZTTXdN?oc=5",
+    "source": "Arquidiocese de Braga",
+    "ts": 1791537914
    }
   ],
   "esposende": [
    {
-    "title": "Esposende promove sessão gratuita para reforçar competências digitais - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTM1c2dEWUstZzRJUEswMk43UTBNNGRaeFlZdWRUbURkcUJROUtud0Y1MEdBbkJ3NEZ2TllLbHROTWtJcnJJdXItbTlhSjQyb2VxQ2NMVEJMcTBTT1M0V1BsTXBCY1dDUUExYkdPVUxYeVhTNGZzNUZPRFloa1pGYTNQTzNVcnVQa1BRRXBFVkVJaDA?oc=5",
-    "source": "Braga TV",
-    "ts": 1791541109
+    "title": "Esposende recebe sessão gratuita para reforçar competências digitais da população - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFR4WjBVYXhBY1poU0w5b3VVSUhBdXMzQkdWem9IalkyODZrTWxJYUdGUEVIM25LRDJpazNLNjh0eUJWaDdCSk5iaktnbVpPLU1MMklZb2tMeEswMWZjX3k3bDl4c1ZZMHN0VklNSkFXUUZWUzZSS20xYnBJZXRmZWFMYmJlWTlWd2hXSktXYmNIamN2MVlBTllpal9seEUyRGdaZ3JKUE9xRklkVEIzOW43dDBJYVZjU2NEVnE5V2dUQWgwdENkVw?oc=5",
+    "source": "SAPO",
+    "ts": 1791556478
    },
    {
     "title": "Esposende investe quase três milhões de euros em dez casas para arrendamento acessível - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnV1Z1R3NXdQVHhCUlg3dS1iaTV5LWRsX3FGSGlnVnV0OHR0WTJwN3pNZTBkZXlwYU9XRkJnbkQ3dWV1ZUV5d2dTMVNmWDRobjNGay03Q3hXemo1bU5iS0w4aGdUSU1JTXpVQ2VHYnhNZVA3bW1JYldiRkphem9zOFB2ZUFHMTNRMzF6QjhTd1RmOEV3RTdZVGx4cEw2VEVrMTV0eTRPcjdxT3hVQmpPd0NtdU12NVgtcXFtTzEyTC1xbjTSAbgBQVVfeXFMUHg5MDZfYldjNUFrb1RrVmRJM2cxdWtXYkRhVFJaa202MW9qamdjNkpITmZUV2dVUHJJbHN5NUxuZmJLdzdIUjlJb3YxTE1lMl9sbkdRLXZXcklqLXlyUjVDNXlQdUdyek5GenVhNVhUby1EeG1Ybkh2V0w1MkpNenFicE5Ba0REZXBDTFVpenFHUkJvRFhHcHYwd2JYZHoxM1JiMFV6QzNnT3pseTZ0aEFHVHEzdTJlOQ?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791540840
-   },
-   {
-    "title": "MAIS - MAIS/Semanário",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOb0gwVVdPOHRxeTljX3FBdmxra3BUVklBZk9XNXdGYlVGbVJPZGpBbEdiWUYtZ1h5WjY4MDJFbzhqamdfb2ZaVVNkM2R1ZUl5MWJ5Z19hQlF6YVNDWXNHWUVfX1ZIQ19lME5HOFAyVDJLTDh5MVQ1VENvbnFuUkJLMlctM0dDajlqdEZ4SFZMdWtYWEk4VUwyVm5RLVJJVExoaDZHSFprcmEza0NjNW9tYndoSjhBQXc?oc=5",
-    "source": "MAIS/Semanário",
-    "ts": 1791477396
    },
    {
     "title": "Requalificação do Forte de S. João em Esposende adjudicada a empresa de Braga por 3,6 milhões - o minho",
@@ -1698,12 +1692,6 @@
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkdha1JnSEg3WUZrLWxkLXprOWk0bEVuVnpjRU1VTjdja2kyYmJGVk51UWdndU5sRnJXMGdLSU9PR3FUemMzNkxET1k3bV9VOHA0dkdfZE5sSEQzMjVrQlByeXhLYXI0c185cjhWQUN5OVMtVFg4MTlNY3d6NzFrSUJEdS1CSG5KN2U4Q1YzejVMVk5KcjhBYlNFUQ?oc=5",
     "source": "o minho",
     "ts": 1791454625
-   },
-   {
-    "title": "Nova VMER do INEM já está em operação em Barcelos e Esposende - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHJPUXRGYUxmRDFYUjhPZlBxZ0RkVlJlTGstSklfQVpkazYzQmVteG50ZjlRRkJtOTBoVnJUaG1oLVNWdzJkLWtFMkF0cm5vT1I5Ni0zc1NLSHhJTTFpcUk5bEEzb1ZpVkI5OTJIOV8tQXhWT1VhNVVxbDVjWXpVQ040V2pNM3VtUkloWmJ4bVVOZ2Vf?oc=5",
-    "source": "TV Esposende",
-    "ts": 1791303051
    }
   ],
   "mundo": [
@@ -1711,31 +1699,31 @@
     "title": "Nobel da Paz atribuído à sul-africana Navanethem \"Navi\" Pillay - RTP",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSElGRFE4RVRNUk03RG5XdTloSmdwbmRxWGV4LUtGS1dpaXBuNWhsSThsdXRkazZGV29uS0lSM0Q4YUs0SktzeGFSX2N3bDh1S082clpkdmpERHZWeWpQWlU0MmJzNUtxT2tHZG1zMWQwaUM2dVBhUWcza0oyVVJkQVBMaFN4UHZIUnJmbndDX21jTlBfeWtmcnlLSkZld3lKUW5wTklR?oc=5",
     "source": "RTP",
-    "ts": 1791540490
+    "ts": 1791552247
    },
    {
-    "title": "Três mortos em ataque contra aeroporto da capital da Arábia Saudita - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUllfSmx6YW1saGdOVWNsTy1mVlE1WGdqVGNQQ2pxOUw3c2l3QkNFX1o3UHBKOHVMdHNHVjVQUEsycjQwOWtZeU9VSkIwQkNwWDlyWFNhTTJGcW50V0NfMXFaa1ljOGpjbVh4S0JYbC1YV0FhMDd1eERXRG0zdmx5WmxOMGpxbGxKaGxENW1fZ1BKWTI1dVBlcnhfOW04b29LNkdGV3pmUFVGQnAxdy1qNnB1bkZndw?oc=5",
-    "source": "SAPO",
-    "ts": 1791538886
+    "title": "Comandante que estava em Airbus atingido por míssil dos houthis tem morte confirmada - AEROIN",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQ2ZBRVhNTEE1UVdIbjRWcG5UbWdCazlNaW9XX0hwb0dGUWNwWkFrV29laGpFSEw1c3AtZklhekhGcjd0Q0pmNkJrYkhTaWx3RUNUSVNjR0xaUEtpM213SWZzcHA1VU43LUpYZFdIcGVKX0dVai1wTTZqd3pwSi1GNGY2Z2JuMkh3OU5sN2JKWkJkNUFjVVdnNEc4ejkweW91eVVXMDZjMNIBpwFBVV95cUxNQ2ZBRVhNTEE1UVdIbjRWcG5UbWdCazlNaW9XX0hwb0dGUWNwWkFrV29laGpFSEw1c3AtZklhekhGcjd0Q0pmNkJrYkhTaWx3RUNUSVNjR0xaUEtpM213SWZzcHA1VU43LUpYZFdIcGVKX0dVai1wTTZqd3pwSi1GNGY2Z2JuMkh3OU5sN2JKWkJkNUFjVVdnNEc4ejkweW91eVVXMDZjMA?oc=5",
+    "source": "AEROIN",
+    "ts": 1791547126
    },
    {
-    "title": "EUA vão transmitir em direto fuzilamento do psiquiatra militar que matou 13 pessoas em Fort Hood - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTWNNVG4tdU5LM3l3a2JTalFOenVwaldCRDhSOElBV1FrT1UxaEVnMGhMYlJjemtVdlVWZmlTSTIwcDJjU1o1UzVuU0ptbHJ2TmpXQ21YNUxzUnp2UGVBMmhzTWxjRnhzSVM2cExDTXh4VThwQ0xudGFLUmxWb01MLVQ1SkJCbmFvM2xfTXRUeVkwMjVLQ01hNTNQRWlGejJXMHNWTFVOc3FnY0pjZHJOc29BbUdBQUNYUWRhenJ4TGpPWnZKTWIwYkNZaGFoVjR6a2lFU3cyaw?oc=5",
-    "source": "Expresso",
-    "ts": 1791535696
-   },
-   {
-    "title": "Dia de Nobel da Paz em momento sombrio do Mundo - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQakpCUDdrVXk5R295UWMwVWlhQmoxV2xCWDk5dUhKQWRNU3ZzRERiaVVHU3RCaTM2S21LbFJCOHZLMHRDOVYxcW04VnVSdVVGc0tMQU1LMUJHUVJOSTdSR3pyYVRpVXpLc3AwS3AzUzV4c2RXdngxeVJXdkdWVXMwRG5HZGpPbEhMZS0tOUhIVDnSAYQBQVVfeXFMTTFNUk0tNV9yUUhYZ3N1dzd4emF2bVpaV1VjZEdMNkN3UnpYejJrSElpaXlJZEt6bzJDZ250eDBwWlVONUVYSzFsV0hrTFRIcjlLMGpBZG4taHpuazZONDdwR2dWc1NnalhVSElsY1plMVNMV2NzQXFhdG9sNlo5SkNkWU0t?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1791527640
-   },
-   {
-    "title": "Homem baleado pelo ICE em plena luz do dia em Nova Iorque enquanto seguia de carro com criança de cinco anos - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNlVjYk1UT3JFd0hWX0Z0aGhMU1J6c0VwbF9CV0N5ODJIb1ZDMnJNalo0ZFZZYU5PdHk3SHhYbzhibHJDbnBxYk5NYTZzMzRPaWFjMlhGd0J1WTFETjYwVTlGV1dCQndTME93OFlyaUNOWDNxNEFBN25VRnNFQW1Ta2lVcldkdmFqbTNWMllNc1BjNWtWc0pxT252MNIBlgFBVV95cUxNblNmWmJMZ2pIZUV0ZTVMUTVmSjJLdGU5RC1LOUhXX0stX2p0TnRob0tfcWoyT0Z6TDBlclR2TG5iN2hmQUlpY0cyN0RCeDlTblEtUHJCSzFZbVRWSEQ1S0I4WFlIT2JBdjdaVzZwMnJVZFBFd0lLN0tjWTBHcjNhYmhGRmFaMmthS2ZRLUFBVzh5OVpUZUE?oc=5",
+    "title": "Milhares de manifestantes, perturbações nos transportes e voos cancelados em décimo dia de protestos na Bélgica - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRXkwdGNqN3NLTnRGOTFpVlpmdlBOeVVUYXJGVE12YVNfY3ZjVFZmQVFfbmlDSjhBUnhEaUNuWEZjLWE0ZGJBRWo3RE96eC0zTTZTclNHVE5TODNpV1dFR3ZKYVdRZnZNVnA3dkQ0Tm5GbGE2TFN2ZUlRNndIYzB4eXhIR29zM2JMX1BzVFJvT2V6NEpoS0xPUEpQVVE2al94MDhtakRmSi1yZXp4UW13Uklfb0gwM2lqTlFEUnVWZmJ1Y3VjWmZfdTBwU3daTzBuRkxzUEJhVlkzUy1HRTdjWkFn0gHcAUFVX3lxTE5rZ3d6VTkxWWh0YUlVZlJCUzduZW5RR3FFdG5pMXR6Q3ZCZkN3OVN6eGNMY1B2cno1UFZaY0xKV1cwQzRKMGFSNExueVd4NWpmVndkSnp0RzZwdzNqbmpzaE02WkZiWXllaFJEb256cWFxdm9IaGdvUUhCWGFYUW1UVTFqcnF3WldqcVdDWjhJeU1qZjRRWm85Ry00ZFhZTkwtaHNZNklfZGlHRjYwUFRKNkF5YUh1XzM5eXdGS2RhSTFHcjk3bmY2bDhNOHA5UzYyY2wtRl9kUDhoaWE?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1791500160
+    "ts": 1791541560
+   },
+   {
+    "title": "Roubo milionário em Itália: desaparecem 30 mil garrafas de vinho avaliadas em cinco milhões de euros - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNRTJ5SWZ2cmNETGZNbnltTjJQMG0tN0FGSHZEQ3lnYlNxeXlvUnlLV3Jra3R5dzkxWDM3Ty1nQjktY0FkTVM4WHhycjBDNS12M1R6dS00dnZqaEZ2QUtxNjA3Y016NHpFcGNfQ2gzODNLcmhSWm0zNlFpUUNHQ09UUzFJQ2FyZExCa3hPZEE3ektlcXAxcHNvbGNEQldKdWF4RlpnUW9hLUZLUDdQeHNDSlRGWGJmTXoxUkRhVXlpQ093ZFRYOHFsS241M1BVQTNXRXZGR0hZUnpValBHVEhzMmxiOWFHdnJJSDZEMUQ1eWtmMFVTRWN1d3p4TGZ0SU5pdnhEUDBWOUdhM2ZoMFNnX2l3?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1791540900
+   },
+   {
+    "title": "Nova Iorque: ICE dispara contra homem que estava dentro de carro com criança - Público",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVFSNXBMdF9nVFBMbG1qaWdfMTlHOVE5bjc2TzYwRDN5aFdFdWp0b0NLTFctN3ZGVkhnelJuZ0ZQMmlnalpkSkJIMUx2aUpLakhiOU80SFZ4NDNJVVh0cVk5aHA4MEE5M0xRYWJuWnJtRWEzZWFvOEJLU21TQ3VqaEdyVGlwMy1QQTFCWmhXVWREZmJacVpvazk0TG9VeGRialp1T0NMQUJ6dw?oc=5",
+    "source": "Público",
+    "ts": 1791536483
    }
   ]
  }
