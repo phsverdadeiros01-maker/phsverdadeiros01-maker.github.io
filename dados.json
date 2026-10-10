@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-10T11:00:17Z",
+ "atualizado_em": "2026-10-10T17:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-10T11:00:18Z",
+  "atualizado_em": "2026-10-10T17:00:18Z",
   "dias": [
    {
     "data": "2026-10-10",
@@ -1632,43 +1632,49 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos reúne Governo, autarcas e empresários para debater futuro da indústria têxtil - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1RrNFJZTjk0dnVDLXgwWEx6dDNWeG1Rb2o1bnBPUktEZTFFNFUtbHBvMHVUejBaOFAta0lCTXAwZDg2TTVtZm0xS1RUVndZMVRGQXFXQnkwc1lTNG1aLUp6MUk1TWYycld0NktVV29pR3VCS3VNTEtwZU8zWEZpWTZ6dV9sNmlWa2czaGtUZ3VPcm5rTDlSSXgxN3JESjNxbzFBYTNHdzg?oc=5",
+    "source": "Braga TV",
+    "ts": 1791646051
+   },
+   {
+    "title": "Barcelos: Salário médio no concelho fica quase 300 euros abaixo da média nacional",
+    "link": "https://e24.pt/barcelos-salario-medio-no-concelho-fica-quase-300-euros-abaixo-da-media-nacional/",
+    "source": "E24",
+    "ts": 1791642882
+   },
+   {
+    "title": "Barcelos: Município distinguido no Prémio Autarquia do Ano pelo combate à exclusão social com o projeto BarcElos d’Abrigo",
+    "link": "https://e24.pt/barcelos-municipio-distinguido-no-premio-autarquia-do-ano-pelo-combate-a-exclusao-social-com-o-projeto-barcelos-dabrigo/",
+    "source": "E24",
+    "ts": 1791638953
+   },
+   {
+    "title": "Barcelos: Plano Estratégico 2035 apresentado no Theatro Gil Vicente marca nova etapa no desenvolvimento do concelho",
+    "link": "https://e24.pt/barcelos-plano-estrategico-de-desenvolvimento-economico-2035-apresentado-no-theatro-gil-vicente/",
+    "source": "E24",
+    "ts": 1791637476
+   },
+   {
+    "title": "Barcelos apresentou nova estratégia para a economia local",
+    "link": "https://ominho.pt/barcelos-apresentou-nova-estrategia-para-a-economia-local/",
+    "source": "O MINHO",
+    "ts": 1791633568
+   },
+   {
     "title": "Conselho Municipal da Juventude de Barcelos aprova por unanimidade Orçamento para 2027 - SAPO",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORGZxV1hST2xiSGVDZEFlODRqSElreElVTm9aZkl2b3NBakpFZWc5VUNjVHRrN1dPZ04wZXVhWkg0YzdGQ1RXVldOdWtBZ1F6bUdzTnh5TVpsbDJBYWwxQ0Rlb21SMGF6VkpSS2NHM1JlLWo2LWtxa1NuOGQwVWZkWU8tRWN2MFU1LTRxSWtmU3laV1dfT3piYVd2U0d6TmxaZFFmY3dXZnk4V3JfRnBYc01qVmlaTkE1anlITGpISGpwc3RSY2hMSG11clJENUU?oc=5",
     "source": "SAPO",
     "ts": 1791628100
-   },
-   {
-    "title": "Barcelos apresentou plano de desenvolvimento económico - Rádio Onda Viva",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcnQtWUwybC1yMTVWTFR1T3dqM2ZMYzZTSFdCaER2NHNwLWM4ZkM4NTRnVS1wNHZ0ZGdMSG9EcFVfdmx6bWJ5SVFna0R5bnlzTWlGVXhFdF9ZWG1oWkhZSHNoelFPX0VHa2tnWXBIUWYtYS12d0lYblBnZWZ1bnRSNTBCa0czSDA?oc=5",
-    "source": "Rádio Onda Viva",
-    "ts": 1791619808
-   },
-   {
-    "title": "Fórum Económico 2035: Barcelos acolhe debate sobre o futuro e a competitividade do têxtil e do calçado - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPX1g4QjkxUkVQY0pnLTJZQWw5VlVjZldCUGhvTENoeVVfQWw1MVFfcl9TWWZldTViTWJhTnBoNmVpVXF5SWhwVXBGdkVzbkw0S2pUbmxNWmNKTkNfVDE1RkVPSU8xUXRhb21oZ0ItYjctV1hjdDNWc0U4eDEzUzdSUWdaT0N0dEF6VklsVy1tYXgtNTVyRXNuS2Vaay1oRGRpZ0Z0ejQ3NzA2T0xyc1JkUkFIdElrTkFIQmlxNXhwS2kzU0RjTXc?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1791617069
-   },
-   {
-    "title": "Vê BC Barcelos Gil Vicente x CDEFF / CUF em Direto Online | DAZN PT - DAZN",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMERlX2pXUjZVb3Z3dHlhRU1qc2x5NVlheTBsaHNVQy00Z1B1UTFGN0Y5SFlUZXY5T2o3dTlrczdadkxUUFRpelVJRk9SVDRBbEg5VE5VNzJTQUp5OXNmVEpEeFBFY3ZyeEJ2T2RlajVmTTBwSzUzdHhoWEY0STZjWjMtZDY3S3Jwa0w0Qg?oc=5",
-    "source": "DAZN",
-    "ts": 1791596359
-   },
-   {
-    "title": "Em Barcelos, salário médio está 300 euros abaixo da média nacional - 24 Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWFPY3JkSklRRGZseG95Z3EyMktjZGctaWJpbjJSdy1YQmhRb1V3TjZKd21WRGVGSXh0UGtqcXg5R0RUR3NIemFJeXVQYnE0bVgxUW1fU1hTN1NnODc2UVpUNlFfdF9YalFyZ1FlR3p6Tmc4czJ0X2FnMnhpUFJnS0dUY0Z1ZUREVkp4RzVRUFJoeENGLW5YWkZJUktoWG1hT0JKY1N2cFVhdlFiWXlVTQ?oc=5",
-    "source": "24 Notícias",
-    "ts": 1791576276
-   },
-   {
-    "title": "Prisão preventiva para casal de traficantes detido em Barcelos - o minho",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUHhJb0hFUG1FVHdtZ0hrV253cFd2YVpkYUZjOFkwY1dEQXk5UkVtcTN6OWpZVTBBNWtQdjNiT19wOHdOR0JJWHB2TzlfMnlmTURFSzd3RWNBazU2SzdCbjU0M0txa2NMWGxoZGxZbEJfRURER3Jla1diamNoX0ZrR1RVTVFGTHRv?oc=5",
-    "source": "o minho",
-    "ts": 1791565620
    }
   ],
   "esposende": [
+   {
+    "title": "Eucaristia da trasladação restos mortais da Beata Alexandrina, da igreja paroquial em Balasar. - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWE1iMHp0RmZIbGJjUkkxdUNLVHhHVUt4UmxEY3BMT1ZseDI1Q05CRkF3eDdVYjU1T3A1MjZIQ08xMTNKZzlZalNxQVUzNmtXM2doZWZQamoySFMyM3NZRVY0c0ZIcnVRTTd6YXhOYWNWamJWNUJRVkY3cmMyNlBoUFpyOGpnY1FfbzhmSG9LaG9wbWltUVJMTXd1TkRQME93ZFBFaTY5ODAwZmVUNjJ5dUZWYkdhWVpWUDhFWG5oSFM3M1k?oc=5",
+    "source": "TV Esposende",
+    "ts": 1791633384
+   },
    {
     "title": "Boletim Paroquial de Marinhas - SAPO",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUxOdzZIY19pblhyaXZ3WmxJNHlrYVpvOTBrRWdoUWFWSnh6UktrOHl4TG5CNXNFeEdVU3FjQWF4d2JGRTJHQWJ5YjgwV09EckNIajhnUG90TEFwRHZfaXF0cWlYVFl1M2xBdkVGeGFTSkdfWDFSbTBNSlY1MFJIUzNlZw?oc=5",
@@ -1698,44 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnV1Z1R3NXdQVHhCUlg3dS1iaTV5LWRsX3FGSGlnVnV0OHR0WTJwN3pNZTBkZXlwYU9XRkJnbkQ3dWV1ZUV5d2dTMVNmWDRobjNGay03Q3hXemo1bU5iS0w4aGdUSU1JTXpVQ2VHYnhNZVA3bW1JYldiRkphem9zOFB2ZUFHMTNRMzF6QjhTd1RmOEV3RTdZVGx4cEw2VEVrMTV0eTRPcjdxT3hVQmpPd0NtdU12NVgtcXFtTzEyTC1xbjTSAbgBQVVfeXFMUHg5MDZfYldjNUFrb1RrVmRJM2cxdWtXYkRhVFJaa202MW9qamdjNkpITmZUV2dVUHJJbHN5NUxuZmJLdzdIUjlJb3YxTE1lMl9sbkdRLXZXcklqLXlyUjVDNXlQdUdyek5GenVhNVhUby1EeG1Ybkh2V0w1MkpNenFicE5Ba0REZXBDTFVpenFHUkJvRFhHcHYwd2JYZHoxM1JiMFV6QzNnT3pseTZ0aEFHVHEzdTJlOQ?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791540840
-   },
-   {
-    "title": "Requalificação do Forte de S. João em Esposende adjudicada a empresa de Braga por 3,6 milhões - o minho",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjVtSTAzcVJDbklZWFZYV05oc21JVnVyYVZrcmlDNEp6X05uT2FndjMyTTh2aUZnLWpUVllSS3hPam5SS0ZZU24tRW15bDctR3VJSHdKX2g3eTJDNUcydWtsTzZfWUxkaGVWSVJPM2FqbDhfT25UOUhHQ250ZHZiNmZYT0tQWGtELWxoRzdTaUlTZGU5aXBveHVOdVB5T3RrRnpfVkZfZzZTemN1djNF?oc=5",
-    "source": "o minho",
-    "ts": 1791458017
    }
   ],
   "mundo": [
    {
-    "title": "Trump considera Comité do Nobel da Paz \"corrupto\" e diz que Pillay é uma desconhecida - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGtCcjR3YXhyM0pQeUlZMk1acmQ3M0JNMU9UOHMwYWhzcGN1UkdiWTlfcDk0Z3c1d3RaeGtucG9LQzUzS1ZjTkZWOXJGRHBOdk85SWx1R2FMdnZBZHN6aDh5dmFSeTBPcmJVWS1MajVxRHg1R0hkbXE1ZXdvcUxPOWJjX2YtS3BsdlFaenFGNTl0MHIyamxkblIyYTQ4SkhVbFNGSUJ1VWROaUctMG9jNXNBUHk3bzhFVnUwTTZn0gG4AUFVX3lxTE52LUxPbE9HSFhDLVhiQjVfSWhmWk43dGZqRnh3QXB3ZkpOQlZRX1VuLUhKVFZ1eEprOS1DZTM1OXZCZUlxanpORWxybm1PTlBsV2hBQWpPeDdzTG1RVnVNMmFZcmxWZ1YwN2dOSFpvbWFLSndSWFVxV3ExbjlOUllZLXJTdlpqVk9nSlBvRTEwa1M1V2J1ODRhQ2FJNHBOa1I3NnlTdnBzNmJsbk56dURkT1VWaHdSMm8?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791614520
+    "title": "Explosões ouvidas no aeroporto de Riade - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZFdTYmFqR0Y1LTZEOTBOc3phb092T1pxeV9Xa3J1QjNuY0I1UGdJblJySko3RlJXRjNlZ3hzbVlEWC1XbmQ0ZUV3U0tLcnFwdDk3M2JjQ25LaEFQVFZUV1NyQmxJSGR2RlNncEVTbTNwRFlOSUh0dGMxbnhmRWtkQUlGdExWZk1JYk9JbU9DU1dOU0RyeHh2T3Q3S2NvcWtmQUpMWA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1791641067
+   },
+   {
+    "title": "Detidos os líderes do Movimento das 'Baratas', que convocou protestos em Nova Deli. Há forte presença policial nas ruas - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPX2tkcGxuTzRCeVVrQVRBUGNBSzBJTzF2WFN4RkxZZHdYcUdVa2Zfa2VLT2VZeFNoUXV6a3VPbVBGVnBPbkl0Mi1qRWhocExxMHRxSlgtWldOUFdIWTdoVU5hei1fbWdUMmN2cmdMbHl3bmpuLUR3dXJPODlSUFlacnBPbmxWMEVYNTY3Y0Q5RFJ3ZnNId0RtUjRBcFhtdFpMTlF0ejZBZ25RcXdKYkVrZ0M2aVRCWmVIMlFHdUFvNGVGT2JuZWZNRHZ0NWpCQWcxNnBkYkRYYkRHeFhSaV9uM3hGdjJPZF9CMTdOSExpNVBnWDlw?oc=5",
+    "source": "Expresso",
+    "ts": 1791628126
+   },
+   {
+    "title": "PGR contra juízes que anulam investigações demoradas: o que está em causa em 12 pontos - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU21uZUFvMEsyZFpKWDRmaG1EdjJqNThIdGZGc3FZS3VjcFhiZXV3YUlWQ1BBOU5aZU1Pak4ycXZrcnUxeU1ZYnppaXI3MmExUnBwcWd3RlZEcEhtNk1LMk8wQVZQMUJ0cDRDNFlXbU5rWG5PVHg3Vk0yNDgtMTl2UWtBUVN2SkFaSFdGYWJaSkhCdWhqV29WbVk5N1ZHNzlNVGdqdy1EY3NNZlVmeUNrN0dDOEd6Z2h4d2d6U2U5S1gxZnVEdWpsNGo2YzJLUQ?oc=5",
+    "source": "Expresso",
+    "ts": 1791626626
+   },
+   {
+    "title": "Trump considera Comité do Nobel da Paz \"corrupto\" e diz que Pillay é uma desconhecida - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmxTVExDSHNQNFlSRDVyTDFNSVJ2SDJKbEJISDBNWDYwSzV4ekFDaXpCSUl1RDdrNkpCb3lLeUlYbkZibHBfX2xnLVMwQ1lQb3RSMFJ2T3d6NW9kRUZDcEc2a3pKS2hBODNKU0hRMlM4NDhvR2FOM0xaelctRnloRzBrcU5GZzRIRFh2SVNuWjlfUlJST0RkVktRQTBDUUNzdm5jTElXVWwzZ1JHcjVydUZqQk1WV0tRbmVtb3NTbHfSAbQBQVVfeXFMT25tVnF6dVVJaGpQSC1lTDF0UVZDV2pSZzU2QnZabzU2MDVBZXVMSk9ibm5SdWNHRTlaS0lGQTY1Q3Rva040eWE5ZWl2bERJbHU4b1hJNWdVWWl5SG9PQndxYklGckNsMFV2T29SNjdCVUZBUG5xb0dyVDNNUEFDdzZPUnZDUFZ4RWExOUh5dEtfT1IwbHFEbG1qbU5lYXZ6WGl6SVdOUkJveXV1Y3ZvRGV4LUpE?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791618240
    },
    {
     "title": "Furacão Isaías passa a categoria 3 e ameaça mais de 20 milhões de pessoas nos EUA - SAPO",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQemY4X0VYd0RjMkF2MDFEQmZFRGZZc3JsVWc4SlB6VHZoSG1nLVBodGFxTXhNLWtGMFMtcEZoQlQ3SXlDYWozeXZ0aVo4Ymx6aXJNREY0ZTN6aDBGWTFKMzJuNEFOZWplLXdHcG0wUm5IS1MtS3VyV0dOQVJCcnVLUXdkRFZwRTZMYmxtX1lhSjdMSjU5SWdfOWpwTXdvRlExRWdzSk01Sy1weGVGVV8zS2JBVnVqVUZUNjNFWmcxM2VkTnJDZzhQXw?oc=5",
     "source": "SAPO",
     "ts": 1791606000
-   },
-   {
-    "title": "Parlamento britânico vai debater petição popular para regresso à União Europeia - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTJNTkF2RGNWQmgwZmVjTkp0UmRibXdWM2s4bWk5U2FnREZZWEYzalVfanhnVk1DMEJhcDMxU2Z6bV9VT0NJd1RIMTRlTkNYTGJvdmZvejlvTFNvdDF1ZDFtVU11ZkxUNzI2SmtWVmlrN0p6V1BSbVM5eFl4eDBLM3FkOV9YeUpPZlYwM2h3WEoyTUxyNmNmVUdQLVhmWmRXeExQSmRtOVJGQ2ZiTHNiQjNhbWl4UXNlY2VZ0gGvAUFVX3lxTE96dFprMkFXVXV0Sk9qWEFRZWtfLUwwMTYtUTJaYnRMUDVRRFhyTGZ5Tl83bmNoaVJWeU95MDFMRnlNWkI3X2NUTVJXZVlkTi15el9WNjk5YzN6RndpMGQ0TmNpenJnWlYwd3hUQktBV1czeTJfV0ttMkQ5S09ibndZbWV1VlhQVG84Y1F5ZWpld3J2YjNwckhqUjlTbXFQaldSMjRITzYxRHJZUk83NTA?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1791589080
-   },
-   {
-    "title": "Panamá atingido com novo sismo de magnitude 6,6 - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzY3cjlMVFNseEVOYl85N2NlN2diVzZnOWpnUjlUS19LRW9Ga2h5cncyYjAxTVg1MEp6TFR5MEkzZEtEdzhxU01vZU85aG9KV2Q2NGh5UjFIczVFeWdyWVFSZF9fYUNCUDBjWXI3SlZEZVg5SUg4NHlIYmcxOWtYNjFXc0hOMUJQUWFuWTYwMG05NzkxZVFZZmNrVQ?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791584578
-   },
-   {
-    "title": "\"Não sei se vai acontecer\". Vice-presidente JD Vance lança dúvida sobre transmissão de fuzilamento - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQzJpV3RaWER6Vl82RHZaLTIwY25WZC1OUVkxdXJ3RG9DRTJnVFduakJYRVFYRkZmdkJBUVhfZHk0cWc3Q296RTQ2QlVhUjJmUENkOTBZVWg1azZOOWZweGp5cXQ4YnFFclZUWkVGUDVBUHBJVHNDaDNzZWdWRW9Wckk3SkFkLTFua0VXM0N6UUJqM3N4MzNBSU8tN3RjTFNqSm1xZlZRNGJuZ3NXUXZBdWtOVTJwMHM2LWdYS1FHV2U3MEliZ0ZfaXpueDhBNncwQmNFaA?oc=5",
-    "source": "RTP",
-    "ts": 1791582550
    }
   ]
  }
