@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-09T23:00:17Z",
+ "atualizado_em": "2026-10-10T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-09T23:00:18Z",
+  "atualizado_em": "2026-10-10T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-09",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.1,
-      "periodo_pico": 11.7,
-      "vento_nos": 9.1,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.0
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.3,
-      "periodo_pico": 11.8,
-      "vento_nos": 7.8,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.3,
-      "potencia": 5.2
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.4,
-      "periodo_pico": 11.7,
-      "vento_nos": 8.2,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.3
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.5,
-      "periodo_pico": 11.6,
-      "vento_nos": 8.4,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.4
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.5,
-      "periodo_pico": 11.4,
-      "vento_nos": 9.1,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.4
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 5.8,
-      "periodo_pico": 11.3,
-      "vento_nos": 7.0,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.7
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 6.0,
-      "periodo_pico": 11.1,
-      "vento_nos": 7.6,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.9
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 6.2,
-      "periodo_pico": 11.0,
-      "vento_nos": 7.6,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 6.1
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "N",
-      "periodo_onda": 6.3,
-      "periodo_pico": 10.9,
-      "vento_nos": 7.0,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 6.2
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 10.8,
-      "vento_nos": 5.6,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.2,
-      "potencia": 5.5
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 10.7,
-      "vento_nos": 7.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.5
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.3,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 10.8,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.2,
-      "potencia": 5.2
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.2,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 10.8,
-      "vento_nos": 12.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 3.9
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.2,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 10.8,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 3.6
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.6,
-      "periodo_pico": 10.8,
-      "vento_nos": 13.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.4,
-      "potencia": 2.8
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 10.8,
-      "vento_nos": 11.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 2.7
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 10.7,
-      "vento_nos": 12.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 2.2
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 10.5,
-      "vento_nos": 12.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.3,
-      "potencia": 2.1
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.0,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 10.3,
-      "vento_nos": 14.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 2.0
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.0,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 3.8,
-      "periodo_pico": 10.2,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 1.9
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.1,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 3.8,
-      "periodo_pico": 9.8,
-      "vento_nos": 15.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 2.3
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.1,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.6,
-      "vento_nos": 15.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 2.4
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.2,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 7.2,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 3.0
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.2,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 6.9,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 3.1
-     }
-    ]
-   },
    {
     "data": "2026-10-10",
     "horas": [
@@ -1788,16 +1471,28 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Vê BC Barcelos Gil Vicente x CDEFF / CUF em Direto Online | DAZN PT - DAZN",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMERlX2pXUjZVb3Z3dHlhRU1qc2x5NVlheTBsaHNVQy00Z1B1UTFGN0Y5SFlUZXY5T2o3dTlrczdadkxUUFRpelVJRk9SVDRBbEg5VE5VNzJTQUp5OXNmVEpEeFBFY3ZyeEJ2T2RlajVmTTBwSzUzdHhoWEY0STZjWjMtZDY3S3Jwa0w0Qg?oc=5",
+    "source": "DAZN",
+    "ts": 1791596359
+   },
+   {
     "title": "“Grow Your Skills Up” — Feira de Emprego retorna a Barcelos - ComUM Online",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnRheE45M05abWFaNEM1RFBBbC1Pejk1WVQxNDRnVE1UQmxrTGZ4VWZ6ZDNHWFd4N1Q2NnF3SjlJM04wNy1fejlrRVRzNmM2cUk4ZFY1TXJEbnJpWVhBZWdvdURmQmNvSlkyS3ppVXhjN1hKZWlmeEk5eFJZYUFJRDJjQ2V0STdYRFJ5Q0tDMkNlT0R2VHUw?oc=5",
     "source": "ComUM Online",
-    "ts": 1791581113
+    "ts": 1791581232
    },
    {
     "title": "Em Barcelos, salário médio está 300 euros abaixo da média nacional - 24 Notícias",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdWFPY3JkSklRRGZseG95Z3EyMktjZGctaWJpbjJSdy1YQmhRb1V3TjZKd21WRGVGSXh0UGtqcXg5R0RUR3NIemFJeXVQYnE0bVgxUW1fU1hTN1NnODc2UVpUNlFfdF9YalFyZ1FlR3p6Tmc4czJ0X2FnMnhpUFJnS0dUY0Z1ZUREVkp4RzVRUFJoeENGLW5YWkZJUktoWG1hT0JKY1N2cFVhdlFiWXlVTQ?oc=5",
     "source": "24 Notícias",
     "ts": 1791576276
+   },
+   {
+    "title": "Fórum Económico 2035 debate desafios da indústria têxtil, do vestuário e do calçado - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzNOb3ZfWmVxRG9uNENFb3JIM1NBWjByR2VNcEhRYXk3eWVSdEFBeVJPekQtQl9qSTItMmhvRFB1T0R5Wm5CUEp2bWliSENSa2E2TFc4dGV5SW5Mc2l4SjZQc1VSNTVqRW5FZ2JPVWhpMnFjZlFpMk1QYUxoMFFlcVVNTkthMW5iQjNZYUZoc29LeGZUQWVLaDdIX3RMOF8zMXJUVndDTXB4bkFldXhwaml4SmlyZkJVa2c?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1791576134
    },
    {
     "title": "Prisão preventiva para casal de traficantes detido em Barcelos - o minho",
@@ -1810,21 +1505,15 @@
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNd3Q0VnZnZG9yVTZQbWRqUU1WSWZrLWtsWjE3Z1BQNzBCcGJxNF9aNDhKQnh6SkRVMkxzTmx5dlY1QUJjNkozYm5NcmdERGxpeHhIZW9yLVdPV2VmOFdkNml3TXQwSk1kbTFWM0o5NXFfTkJkcExuTC13cDdJSU1WZWNXOHl4TlFHQm9vMG5KVzU4Yi1BR3VVbTdVajVzdUM5YkRQcDFVczM1NHZjUmFoRmk5bjRuYjFPMzE1UGNJREg?oc=5",
     "source": "SAPO",
     "ts": 1791563026
-   },
-   {
-    "title": "Bloco de Esquerda questiona qualidade da obra do Mercado Municipal de Barcelos após infiltrações - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOYTVVQUEzMU1mOEhmbmVLeDRoN2hXb1drMjRZZ0dwSUl0dzFIT0VDdUJsZTJhcllldDFlTlp4eUphTnB0ZHdHU1VScTF2b1huTzhLUW1TZ2VDOUphWmlNMjJYLXJpaEx0WXp3UmZYaHc1Nml3dmFJTjM0VzdBVDV4NWtZMThyOUNrSlI4ZkZLaFAtLVBHU0U0dmFSbldZa05BYnE5dFFzSkVaRjYtLTNtdmcyQ3RUR1E?oc=5",
-    "source": "Braga TV",
-    "ts": 1791556901
-   },
-   {
-    "title": "Os Sábados são na Biblioteca - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5TcVlYVVBkN2o1d1lSa25RV1ZqRjF6UnAyMlgwQmxfT2RteUJNMnFJN0VQOFMweHRPMUczVlE3bEVKMmphb21MN25DMVRkeWJiallGaEtSRlloRUdsX2otdS1QZXJlTURLV2ExRzN5ZjM3WXFJ?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1791542539
    }
   ],
   "esposende": [
+   {
+    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE82Ty01dUNlNkUtc3lpRkZTUFBuZUpHWERCdHZmaFppOUV6alhCdnNoMzFRWGNiTmpPbG8wVmNFR2xKT1VrVnFsVG03bEFXa0c4RjVGcFl4RG1MSzN6NE5TLVRWMVprak9VN2hOUXYyVWRxSTh2amlNS2pYVWFFVHM?oc=5",
+    "source": "TV Esposende",
+    "ts": 1791613010
+   },
    {
     "title": "ULS Braga acolhe casamento de utente internado - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdG4wSFZySEpiMkd6UzREc09Jd3lvTHppeGZ1MGNubTdOZURYQ2tMWDVOVVA4ZXQwMDRtYjQ5bm9GNFI5cHIzT1pNZlNLX3I1M19iaTJPM0g2T1JhUmpzY05IU1czUWkzWDVmS21UUFIyWVlYNDQwd1JqOFZJaHI4MA?oc=5",
@@ -1858,34 +1547,34 @@
   ],
   "mundo": [
    {
-    "title": "\"Não sei se vai acontecer\". Vice-presidente JD Vance lança dúvida sobre transmissão de fuzilamento - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQzJpV3RaWER6Vl82RHZaLTIwY25WZC1OUVkxdXJ3RG9DRTJnVFduakJYRVFYRkZmdkJBUVhfZHk0cWc3Q296RTQ2QlVhUjJmUENkOTBZVWg1azZOOWZweGp5cXQ4YnFFclZUWkVGUDVBUHBJVHNDaDNzZWdWRW9Wckk3SkFkLTFua0VXM0N6UUJqM3N4MzNBSU8tN3RjTFNqSm1xZlZRNGJuZ3NXUXZBdWtOVTJwMHM2LWdYS1FHV2U3MEliZ0ZfaXpueDhBNncwQmNFaA?oc=5",
+    "title": "Panamá atingido com novo sismo de magnitude 6,6 - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONzY3cjlMVFNseEVOYl85N2NlN2diVzZnOWpnUjlUS19LRW9Ga2h5cncyYjAxTVg1MEp6TFR5MEkzZEtEdzhxU01vZU85aG9KV2Q2NGh5UjFIczVFeWdyWVFSZF9fYUNCUDBjWXI3SlZEZVg5SUg4NHlIYmcxOWtYNjFXc0hOMUJQUWFuWTYwMG05NzkxZVFZZmNrVQ?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1791584578
+   },
+   {
+    "title": "Trump anuncia luz verde de Putin para fornecimento de gasóleo russo aos mercados americano e mundial - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajU4NjZ4Y0R6T0VpU1piM1hTSEhidk4zVTJFTHBjQjE0N1ZNWFRVY0JSWXgtUWV5Y3FvN2I2QXhPU0ZxWG5qWE5ISnRmT0xPLVNMVUZ1ZXAzcU4wN3BtRFl3Q29SU2ZwdFFVN0JqajZtZl90LVpuR21jS1ZkeW10Qk51Qk5NQnhZX2IydFFGd3o5d0prNmxjZEwwWWY2dlpmcUxaaHRPNk5lc2xxTHBwak9iMGtuamQwVXB4ckJTUE12MTdna0NHTjY1TzExZ216ampGdndSNzlFTTVfTGxR?oc=5",
     "source": "RTP",
-    "ts": 1791582550
+    "ts": 1791582862
    },
    {
-    "title": "Acordo entre Trump e Putin, condenado por Zelensky, reabre EUA ao petróleo russo a um mês das eleições - Público",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNN3RrWmRkbkVoMUszVWVnX1B4SVZmendSY0dhTUg4ak1kTFJRbWxpbGFRVDJqRC13TGRhVUl4VVRjVDRrOFBJRVVYT1I4UjBqV3VFdTVYR3FSOW13UE1NcFhrRTZaUDE5Wmw4S2N6aWxSOHdtYVNLLXB3LWRzdEowWVhINE5CUnhXX2NMOVBJS0RMajhBcHJzako1a3dSbF94TnhVSFl2RmJaTU9Ga2ZPUWZheDZMS1hRWTZjZ2p1ckJPQm92d2UxNUdIMVI?oc=5",
-    "source": "Público",
-    "ts": 1791579381
+    "title": "“Não sei se vai acontecer”: JD Vance duvida que execução por fuzilamento seja transmitida em direto - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOWd3VElVWE5wcmYyYlVkTlpNY3NLS0xZanU0bHFhT0JTSExIZi1PWlVvZUR3dzNTSG00dTZvWUlESEZkdWQxVHZkVW9JUXFYSnY5YUdTOFhrcTVjQ0dOMnF6X2RWbzBaRk9xemd1SVVURHdLZmFpS3hwQS10Zjlza3FEWTlTZ2dESmVMQjFZakZMekxyQjc4MWhjeXdHYWZlLWpMYmdtbkJfTzFrSDl4Y3lVM2V2VVFiNUpmOEdkdXJCcXE3VHd2WXNadmxnTHhlRFBHLUEzSHdCUW1Ga3VheVRDMA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1791576883
    },
    {
-    "title": "Sismo de magnitude 7,7 destroça o Panamá e há alerta de tsunami - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdGJFa0ZmWU9zcmF0d3FmdFZ2cno0c21wc3Mzb1V4X0Q2RnQtOWZhNzFaaEVOaTNjVUgtdEZ3V0xjVzQ1cWh2UlRib1RNME50MGQ3UUJkaTNuWUd5WHZpbmZzNVR1YzFDMDU1MUZrZ21sLVRnbE5mQk4td1JWcGJtREpjcnFmWHNNSkFnazVJVVc5U1pnSmxmZnVtT1EwbFdsd2pIN1lHNGV1WFU2ZkNMdFV3?oc=5",
-    "source": "A Bola",
-    "ts": 1791572220
+    "title": "Copiloto da Flydubai planeava ataque suicida no aeroporto de Telavive - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQ1d3TnA2ZFk0YjZMV01PcFU2RE1oZ0tLckJuelRrQVh3Zzk5cFhTREIxclN4YkZWaF93T1otZDFvdVFVZk5oY0UtbTRsOXE3ZDJYMENZZUhiOUI5VzNEYmxNenFSN0NJc3NCOF94d3R0SHNZZmx4SF9ES1lpVWxBZWZIN1pzaHVuSHJ6ZVJJUmpqdHlZOUl3Zi00WkVCSzFVQ2dPdUtCM2xnQVRyWXfSAaIBQVVfeXFMUFFfeE1sNldiN2dXcUdxMWJiTmhqZlNxc05hYkpla1Vjb21mYU1PckNVeVFnSElKdGFRdThkNjRFeTZBZlAtdWNnWng2UE9URmJaRTQycDBPc0NkZlVZQlg4QzZLc252Y1h6SExZVG5uaERwWUhVdklyRzZ4Z200OEREQjh4ZEdheklVaHp5NkhlbENSSERBUi1lLU51ZGNaZlRn?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791569520
    },
    {
     "title": "Centenas de voos cancelados após avião explodir em ataque com míssil no aeroporto de Riade - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONlV4RG1jOU1POUkwY1F2SWJmR2RHRlpZTU5zYVIxcVAwbHRlMUVyVFRoWkh2R0RwS1JQRXcwNThDelhUeU82YzYzX3czTlJXY2NLVTBLeG9TZURoeXBvcERPQXhtVElQckotS0hXZWlqVk4tTzhNOW5RY3Q0Y180aWhXM0ZxYWFLYk1nT1lWTjFnV2FTWkxEVElrSzNKMGhPOXpOZWp1MmY1cEV0NzFNYVZaNThHaElIellJ?oc=5",
     "source": "Diário de Notícias",
     "ts": 1791564482
-   },
-   {
-    "title": "EUA aplicam sanções ao Tribunal Penal Internacional horas depois do anúncio do Nobel da Paz para uma antiga juíza do TPI - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPeVV2U1h2VFJUcGpzMnRCYnBhUlB2U1RyTS1ZUVJCZERPTXRWMVV5WFBFMHViRlQ2bXA1QklzR2ZnWTYtSk5JbGFBZjItSTl5VW9oQW1xZFk5TnNQaUR6djE3aXcxeEN4ZVgtZTUxNWJhazlfODBjWGJXUUlIY0NORjNnRlJ5YlEyQ0huNDBiZzd0bTcwbWhja0xCU3VvVHlOdktJMjlqd1R1ajY3SDVMX3FBbFlUdmdTc0ROMzFYYkR3OU91T0hmenZScWw3UWN0S25HZVVOd1NqUS1LLVR0b1NhYVcyRWNoNjZCVTB2bWVJY3NpRWFr?oc=5",
-    "source": "Expresso",
-    "ts": 1791560154
    }
   ]
  }
