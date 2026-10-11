@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-10T23:00:17Z",
+ "atualizado_em": "2026-10-11T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-10T23:00:17Z",
+  "atualizado_em": "2026-10-11T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-10",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.2,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 7.1,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 3.1
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.2,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 7.2,
-      "vento_nos": 10.7,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 3.2
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 7.6,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.1,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 7.9,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.6
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "N",
-      "periodo_onda": 4.3,
-      "periodo_pico": 8.0,
-      "vento_nos": 12.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.6
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 8.0,
-      "vento_nos": 10.1,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 2.6
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 8.2,
-      "vento_nos": 9.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 2.6
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.0,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 8.3,
-      "vento_nos": 9.5,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 2.2
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.0,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 8.4,
-      "vento_nos": 9.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 2.2
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 8.5,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 2.2
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 8.6,
-      "vento_nos": 11.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 2.1
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 8.7,
-      "vento_nos": 11.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 2.1
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 8.8,
-      "vento_nos": 12.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.0,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.9,
-      "vento_nos": 14.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.0,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.9,
-      "vento_nos": 15.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 2.0
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.1,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 3.9,
-      "periodo_pico": 8.9,
-      "vento_nos": 17.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.0,
-      "potencia": 2.4
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.2,
-      "ondulacao": 0.7,
-      "dir_onda": "N",
-      "periodo_onda": 3.9,
-      "periodo_pico": 8.6,
-      "vento_nos": 19.4,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.0,
-      "potencia": 2.8
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.2,
-      "ondulacao": 0.7,
-      "dir_onda": "N",
-      "periodo_onda": 3.9,
-      "periodo_pico": 8.2,
-      "vento_nos": 19.8,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.9,
-      "potencia": 2.8
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.3,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.4,
-      "vento_nos": 18.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.9,
-      "potencia": 3.4
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.3,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.6,
-      "vento_nos": 16.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 3.4
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.2,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.6,
-      "vento_nos": 15.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 2.9
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.2,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.0,
-      "periodo_pico": 8.6,
-      "vento_nos": 15.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 2.9
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.2,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 8.5,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 3.0
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.1,
-      "periodo_pico": 8.6,
-      "vento_nos": 14.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 2.5
-     }
-    ]
-   },
    {
     "data": "2026-10-11",
     "horas": [
@@ -1832,12 +1515,6 @@
     "ts": 1791655030
    },
    {
-    "title": "Eucaristia da trasladação restos mortais da Beata Alexandrina, da igreja paroquial em Balasar. - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWE1iMHp0RmZIbGJjUkkxdUNLVHhHVUt4UmxEY3BMT1ZseDI1Q05CRkF3eDdVYjU1T3A1MjZIQ08xMTNKZzlZalNxQVUzNmtXM2doZWZQamoySFMyM3NZRVY0c0ZIcnVRTTd6YXhOYWNWamJWNUJRVkY3cmMyNlBoUFpyOGpnY1FfbzhmSG9LaG9wbWltUVJMTXd1TkRQME93ZFBFaTY5ODAwZmVUNjJ5dUZWYkdhWVpWUDhFWG5oSFM3M1k?oc=5",
-    "source": "TV Esposende",
-    "ts": 1791633299
-   },
-   {
     "title": "Boletim Paroquial de Marinhas - SAPO",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUxOdzZIY19pblhyaXZ3WmxJNHlrYVpvOTBrRWdoUWFWSnh6UktrOHl4TG5CNXNFeEdVU3FjQWF4d2JGRTJHQWJ5YjgwV09EckNIajhnUG90TEFwRHZfaXF0cWlYVFl1M2xBdkVGeGFTSkdfWDFSbTBNSlY1MFJIUzNlZw?oc=5",
     "source": "SAPO",
@@ -1860,9 +1537,27 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjVtSTAzcVJDbklZWFZYV05oc21JVnVyYVZrcmlDNEp6X05uT2FndjMyTTh2aUZnLWpUVllSS3hPam5SS0ZZU24tRW15bDctR3VJSHdKX2g3eTJDNUcydWtsTzZfWUxkaGVWSVJPM2FqbDhfT25UOUhHQ250ZHZiNmZYT0tQWGtELWxoRzdTaUlTZGU5aXBveHVOdVB5T3RrRnpfVkZfZzZTemN1djNF?oc=5",
     "source": "o minho",
     "ts": 1791458017
+   },
+   {
+    "title": "Projeto de cuidados integrados em Barcelos e Esposende ganha prémio nacional - o minho",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMkdha1JnSEg3WUZrLWxkLXprOWk0bEVuVnpjRU1VTjdja2kyYmJGVk51UWdndU5sRnJXMGdLSU9PR3FUemMzNkxET1k3bV9VOHA0dkdfZE5sSEQzMjVrQlByeXhLYXI0c185cjhWQUN5OVMtVFg4MTlNY3d6NzFrSUJEdS1CSG5KN2U4Q1YzejVMVk5KcjhBYlNFUQ?oc=5",
+    "source": "o minho",
+    "ts": 1791454625
    }
   ],
   "mundo": [
+   {
+    "title": "Trump irritado com entrega do Nobel da Paz a Navi Pillay - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc25qMUo0TGtWLU5UUGI3ZmpMdVhkZ2R6WFdPOWNPRUtOVUt5dk8zX3JqeWdZZmJPWUpmckhUakxWRTBBS2VNQWhXazZfOHNQNmpkWXhUdE9HUWowR3hvVWVjOThwOUNpc3ZjaXNHd3VJYjNKelBUUUR3c09qRHNvQm1RRVFxOS1YNjlET2s0RGZsOWFMQXRoVHNB0gGUAUFVX3lxTFBuQ09YeFotSUxELXF5Q1VJWXFoamtXMWN1UGI3SkNDaU9uLTFUVE1HcGtTdkYwMF8wTkxJdkN5M0VTeWZYT1p4eE5fSHhoMFo0UVItT0VaMEN5YnpmZWo0WUJCRmxsQ25fR2lmX3dhU1JSWTVRTG91cmVXaUNzblNNc3d6a1ZBT0g0RjF1X252NEpvcFI?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791678600
+   },
+   {
+    "title": "Acordo Trump-Putin irrita Ucrânia - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80NS1qY0RiSDVwT2JyQjFnME95anhETkdoNXhTZ0VXUUJoTm1NOHZYQ0hhM2xodmtxQTl6aWVYdEJ6d2t6ZG5HY1JVcHBqaFZ5VVpXX1MzTmNGM0w4N0lPRWpYYnhsUlRmWm4tSUJTRG5obkRBTDJUWDNtSdIBdkFVX3lxTFBtakZaZGFOa2U2bEw5bWtvMFhqckxaekwtVWtJV1c1REJyLU1Gc2xQcEs3dkM4NjlKOUxwd1lQYXVuam5DZjJVSlBMS2ZzY1dJMGRfeF9TUllvcnRsQnZrdERPaF9yWUVFYksxRHdseU9wQkJGRGc?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791678600
+   },
    {
     "title": "Pelo menos doze mortos em ataque atribuído aos houthis contra o aeroporto de Riade | Médio Oriente - Público",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPc05fdGVLS3lNSDlsZVJ0dmFjeHlFU1gtdVNYSXR5aE1raTRsWmFxNURicDJRWlVUTjVZcFMtSEtTVHNMQW5YdEF0bGRicExYaUdjVnBxQVJWSGtXSnI0YWF0VUpTZmZrUGZoVjJLLTNWd1BCaDU0SHg1MnhzSkJQUXprSkdLeEptZEthMzdZZGNVcy1qY2lZeTI5YlpkOUlQQ09xQXFnbjAzSFkwdGU5VklR?oc=5",
@@ -1870,28 +1565,16 @@
     "ts": 1791669000
    },
    {
-    "title": "Trump defende saída de Zelensky da presidência da Ucrânia - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0hIYlFxWENDSGg1bnlFOFNPYjdwdDNGR3pDRXdhMEZqNUdOQng2Rmp5Q2F2RE5ERk5aNXNYeEhuLTVaNzlmNDNQWlJXdGIzR19ucURacmxfM3BTRjJGNUdpMExHU3FfVzZxQ2dNOG53anBxS3pyVHdwQVBqRURWUWRVSmpLVW9LTWk0MFBfS1F1Q20tZlY3dEkyNVdLdm5PQl9IQXpQcEdRVzc3RGVQUTVJcVZ3LXBDeDdObUJPRUIzYnfSAb4BQVVfeXFMTXdNZzBoTnplMWZMZWwxVUYyd2xucVlpSENyakNtN1kzRlJOMmMxd0xMYlJzLWtYbTFrNTJZTzNzZ0gyb1JRZU5ES1l2YnNfamlGRzFLcURzTVVPT0JDVkpmV09HQ0lNZ3JlWGxMbktiQ1FBWnpja3hlQkE3eFBERzZiRUpWaG1uOGxjVkVWRGhNREZMdFJRZnpqQnpnclNLNEZxdklEWDMxQ1FhV0tRWjByR3ZYRkNQU2Y5eEdJUQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791653580
+    "title": "\"É altura de a Ucrânia arranjar um novo presidente\". Trump diz que Zelensky não fez o suficiente para ter paz - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNb2JjVU5UUmZtZVVXd0ZSeGhEVDc0V09oUGFKd3dNVEN2QzRzU3I3empIUkh6LXZOWk9pUW1VWDctUDBfWkw4N3c4TW1CMkZPZ3VUTE5BeDhPazNPT1dHcTNpQmN5aGNlNjlpcmVfeThsZWJkNk10eDdMRWl1WlBYUkpLTUxOX1Y5SUFFQW1QWWQ3NFNwZWRia00zM29jd3FKTENVV055SFUwOU9yY2ljdk80T2wxeWZwczkydlcwNjl0Wk1sSW9yYk85cUhwTk0?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1791658739
    },
    {
     "title": "Sobrevivente de injeções letais nos EUA tem alta hospitalar e volta à prisão - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZWtuZUt6aVNiNUZUUlZGcnNGMFd3dng4U2Nxd1B1Vmc3LVNaZFBneTY4QzJBN1BjS1B5Z2RkQjc5ODRGay1BRlNVTHZVS2x5NXBmWnh6T2E2Z3U0eTRlY3B0RHVkMnV5RjkzREFORVEzVno3OFVGNXJFNWRzQzB4bjVTejJoVUd0bzdURXZ1SG5zZzRRbmNHTUt3VDNZRVJjT1ppdFBvd3l4LXBMQ2RvTWoxUGdQeTjSAasBQVVfeXFMTjYtWnpheWlCbEl6c3JBMzVnTGxESkJldDlvM05LWnRwWENHSER6RzlWMm1ORFBQLWdvYXBxaVJwYlJwQ0hwQ0lVNExqcUhSUVFWaFRkZk1IM1F2ZEFhUDB1SUFSSWMyQ1BONzdpNTVDS0NRLWs2VU8yTWdwT19YMEo3Y2hpSEk0UWIzWm1UdVk0bE50Tk0tV00wblBBMDh5b3JydnZ2VE9TOXRR?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791652920
-   },
-   {
-    "title": "Portugal quer mais €900 milhões, frugais batem o pé: novo orçamento europeu ou encolhe ou não passa - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQX3F4bFprRUgyXzBmRzFvQm1TcjU4R3VaV2N0R0NTSkNFN3ZEMUZtaHU2aWNna2ZDZUlzeHpkS3hhQk9HT0lSWWkyU3YwVFEwU0hIbXdZQkZaV0RBOVRrWlJYYXhSSHN3djh0QnM0Z0lfdm4wWHl6NXc1Vm1FenBqT25tenVXanQ5Z19BSkRyY1lmT1dMR0hINENPMXFGM0FSWFpmdk1uMldnY2ZIbUJyWDg3VU5hTWNFTXoydEFyaWtDcE5FS1JRUkNKY2pCMllBLTlWRTZsdHRBbE9jaGRac0NDempIdGtMYUE?oc=5",
-    "source": "Expresso",
-    "ts": 1791650736
-   },
-   {
-    "title": "Adega italiana fica sem 30 mil garrafas de vinho num dos maiores roubos de sempre | Vinhos - Público",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSjVqZVVnNnJNZ3Zxd2Q1cDNteUNrOHFoZDR5aXlWaXRXVnFOV09mWlRyRy1FampmNzhiNFdTSFZDdHQwSTcxTUNmd0ZCWlBVXzFjeXN6ZHBSeUt6UjFIT3phaDh3c3M3RjY4cUNWZWphQ3lCeXQxOTJESXQ2ZzhfajZGcjBpYVNPNjlfMWZwbXU0ZjVqSDZIQkhDSTFiVjNvU3BvZnV3S255UjdLYkE?oc=5",
-    "source": "Público",
-    "ts": 1791644197
    }
   ]
  }
