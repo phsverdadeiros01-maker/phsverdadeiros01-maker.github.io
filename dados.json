@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-11T11:00:16Z",
+ "atualizado_em": "2026-10-11T17:00:18Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-11T11:00:16Z",
+  "atualizado_em": "2026-10-11T17:00:18Z",
   "dias": [
    {
     "data": "2026-10-11",
@@ -1632,22 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Iniciativa Liberal de Barcelos identifica problemas nas instalações da Universidade Sénior - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORWlDSHI4eHZ5Q2FsNVlCc0VnV1doRFNLTVh3UHY5Zk5qVFphRXFVeEF5V2ZZaWFRRXVmSUhGWkJFMU5sLXd6S29kclFWSDhBaVJOMzF5UHhkNGhOckozd2JzUGM4eEkzWDIxTklQbnhDV3J2bjBSWHY0OUpUakdXMjduZlRweFZUNkdnRTFGYWdKM3B5QzluWXh2Q1VNZjhac2dqSXFFS0FDRUpxbzd3?oc=5",
+    "source": "Braga TV",
+    "ts": 1791729322
+   },
+   {
+    "title": "Barcelos apresenta Fórum Económico 2035 para afirmar economia inovadora e atração de talento - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ0tTR0sxR0Qzek90TU0yOGtmSzM4TUdNQklad0l2cFg2ZVpoVDZEajNVcXlrdXhocGtXTk5yT3ZwMTd6SnBGQ0RTOW5UVTREd1ZfUTllMmk3RkI2ZGZZaUc2SEljdzYyODhBM1kyMzdkZHBHSUw2eHI4dlEtbUtoQjFtUTRKWG02em14emRkT0ZwY1hxcGxWU0R4ZkhxdjF4QkhRV2k5V1JJYmV0NlRLUnBB?oc=5",
+    "source": "Braga TV",
+    "ts": 1791727474
+   },
+   {
     "title": "Barcelos recebe distinção nacional por ajudar centenas de pessoas em situação de sem-abrigo - Rádio Festival",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVk01aDlBQ0FhelFWbW92Ti1feUNYaVl1Q3dzelZfa0lkYUNSSTFwbXdqcDNlT2JUSXYyNlhSUlBNNzk1YmlpY1JjN0pJaW5xdzVsdXR6RDhaN3MybVJkTTh1Ni11bm5PQkg4eUZaQ01mdUpudFRhX1dHdVpPbGJELUo1VC13WUhHenJCRHEtZ2ZMWEV2eWNKMmk5a21vcUhTaWUzQldmWGFFX0hNUUFjYkg4YjVLZFRpekx6VjFEendYX1F5aE1TVVdtbTRQRFZLSnc?oc=5",
     "source": "Rádio Festival",
     "ts": 1791704100
-   },
-   {
-    "title": "Barcelos discute apoios sociais, habitação e obras na reunião de Câmara - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX25LNC1DbXlUellSVjJrVU9wZndKWWFJVGs1RzJ6VnNwbC1vb2FsTUlBR1JGSUgzeVRIbDRxNzRZSTAyZ0JKSnhYUktsMFhNTXljczRpWjJyUFpaTTlyTS0xUm9PMzV4dVVRdFZncVh5aDVNaHpyYlcxRkc3OHFyWjdWb2dvZUxKdXRGeHhINl83d1hI?oc=5",
-    "source": "Braga TV",
-    "ts": 1791646964
-   },
-   {
-    "title": "Barcelos reúne Governo, autarcas e empresários para debater futuro da indústria têxtil - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQd1RrNFJZTjk0dnVDLXgwWEx6dDNWeG1Rb2o1bnBPUktEZTFFNFUtbHBvMHVUejBaOFAta0lCTXAwZDg2TTVtZm0xS1RUVndZMVRGQXFXQnkwc1lTNG1aLUp6MUk1TWYycld0NktVV29pR3VCS3VNTEtwZU8zWEZpWTZ6dV9sNmlWa2czaGtUZ3VPcm5rTDlSSXgxN3JESjNxbzFBYTNHdzg?oc=5",
-    "source": "Braga TV",
-    "ts": 1791646051
    },
    {
     "title": "Barcelos: Salário médio no concelho fica quase 300 euros abaixo da média nacional",
@@ -1692,44 +1692,38 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYnV1Z1R3NXdQVHhCUlg3dS1iaTV5LWRsX3FGSGlnVnV0OHR0WTJwN3pNZTBkZXlwYU9XRkJnbkQ3dWV1ZUV5d2dTMVNmWDRobjNGay03Q3hXemo1bU5iS0w4aGdUSU1JTXpVQ2VHYnhNZVA3bW1JYldiRkphem9zOFB2ZUFHMTNRMzF6QjhTd1RmOEV3RTdZVGx4cEw2VEVrMTV0eTRPcjdxT3hVQmpPd0NtdU12NVgtcXFtTzEyTC1xbjTSAbgBQVVfeXFMUHg5MDZfYldjNUFrb1RrVmRJM2cxdWtXYkRhVFJaa202MW9qamdjNkpITmZUV2dVUHJJbHN5NUxuZmJLdzdIUjlJb3YxTE1lMl9sbkdRLXZXcklqLXlyUjVDNXlQdUdyek5GenVhNVhUby1EeG1Ybkh2V0w1MkpNenFicE5Ba0REZXBDTFVpenFHUkJvRFhHcHYwd2JYZHoxM1JiMFV6QzNnT3pseTZ0aEFHVHEzdTJlOQ?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1791540840
-   },
-   {
-    "title": "Requalificação do Forte de S. João em Esposende adjudicada a empresa de Braga por 3,6 milhões - o minho",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcjVtSTAzcVJDbklZWFZYV05oc21JVnVyYVZrcmlDNEp6X05uT2FndjMyTTh2aUZnLWpUVllSS3hPam5SS0ZZU24tRW15bDctR3VJSHdKX2g3eTJDNUcydWtsTzZfWUxkaGVWSVJPM2FqbDhfT25UOUhHQ250ZHZiNmZYT0tQWGtELWxoRzdTaUlTZGU5aXBveHVOdVB5T3RrRnpfVkZfZzZTemN1djNF?oc=5",
-    "source": "o minho",
-    "ts": 1791458017
    }
   ],
   "mundo": [
    {
+    "title": "Zelensky promete “organizar eleições” na Ucrânia em troca de cessar-fogo de 60 dias - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT0prNm5ZWDJhM0xndTVPbzFINWtIcnpuY0RIc0FRQW13Zko1TXpZUUlsMWFsUUFZXzIxamI4R3VmczkwZ2pOYUlSYkxXYmdFc1c3YUhFbDhOUUlMQXN1TnZfdDVmcUlBSS1paTl2bU9WMFlmdG5mVHBQQjJNcF9FdVhwNWx6S3dHeHhYYlhzZHdxUTB1aVZqeHhXb3BVM0llenVOVjlWU2ZTcE1PTHRvNVE0eTFXdW1ua2FmN3ExTlhTUQ?oc=5",
+    "source": "Público",
+    "ts": 1791730972
+   },
+   {
+    "title": "Papa Leão XIV vai ser operado para remover nódulo num pulmão - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd1RxYklZdjFGZ0U2YkVUbGl0SE9tanE2bHBDMVpzeW11SktFckpLWWlJT2l3WHVBX29Qemh3RWJ6OEhvSjRwUjFUeEItVDJxTlBBX01BdnRzV0JFZXh6S3VPUGFPYW1qSkZDeThiYnkxRU0xQ3FoWDV5YnNQb2Vpa2NJMUE2dzh1RVRpQkNKRzlLcDNW0gGPAUFVX3lxTFBMTVZsVkppLWRkLWgxS3pEZlNMZ1NDeVQxQU9OS09hSFV4Wk9Cb2F0Wko2YjRoTWdRdWJtS2J4amNkT3pWUnMxZGM1RFFsd0YwWXVwSDl0M0NibHhOenRfd0ZmV2pMS1VRVFZMTGREMnFHVDJFVTY4Wno5U0xsZ1MzZmZvaUlqOHhnaWJmTlZz?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791726163
+   },
+   {
     "title": "Atribuído aos Houthis. Pelo menos 12 mortos e 309 feridos em ataque ao aeroporto de Riade - RTP",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOX3MxS2Rmc0JWS3NIWENoLUJacGNpSlBLMW9WTmlmT0RvLUUwRnVGX0gyM24tdVh0ZWFobzl3SGlSLVdNLWQ1d2Vja3AzOVF5V2FabG5uTkJkMWc5d2tmaFFjQkVqSmRuT08tZ0NJVmZFSFJBVF9Hb1pKMW5tbS1iX3JiZ2Z4eVZHZ20wczY1Tk9xcHVoR3ZrTGVpcS1scHFHZkdfRlpzbVJsRVZDc05wbUQ5VTZmN19VOXZPdG9jY0h2YmJud1VIVzRpYw?oc=5",
     "source": "RTP",
-    "ts": 1791704939
+    "ts": 1791721299
    },
    {
-    "title": "Trump critica Zelensky e diz que Ucrânia precisa de um novo presidente \"capaz de chegar a um acordo\" e acabar a guerra - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRWxvUHpaTVhPMGlwdWI1N0NnRldfZmkwN2RQNVVwN2NGN04zN2xRUGhFYk5jZk8wcjlPZWFRVmZ6UXJWWWRXNlRJS01BODJMMHpyWkJIdS03M1gxblh0UkxoeWFwRkY2Z04ybDdWWkFjbk1IbzBYLUVuY1J1UFZhcnFtRTdDSFc4LUVIbHMyc28tT01DWXVaUXg1cXJKYURWUE5CNFhGUXB2eXplblVFSkIyQjZnRXN5OG5OazRPRXNsWUhzYkdJeGVDYUhsbG1fNlk2MNIBzwFBVV95cUxQTHF1MTUtWEc0aXpnN1YzdW5ibzNVNE1KQTd6d2JDZzlQTm1ZRzNsZGVEbGxjQUNoc3RZUjFLdUlsUzFFS1d1b0E1WW1ZSlZJVm8zeFNpLWFaVTVob2V1OE1fTDA0bktwckJ0WndLQ0xIUktFdDNCNmxHUjRKaDdHZFVERHZpeTlYemRPN0NrNVY5MktIMVVoaFRLcFZHMzYwR29LM3ZDQ2JzOTZYMXFKZml5eTZFaklsTjdDRV9Ya21LYUYtWUVEd0JnVTVxU2c?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791699480
+    "title": "Polónia denúncia possível ataque contra primeiro-ministro e ministro da Defesa - RTP",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVk3dUZiYzV1WVV6WVVKcC0ycFBOXzBlMnlxdFpMTUdIdmU2elAzb3dTUUVQaFI2SFRrM3R3dmtPaFpCdlY2UWVDeHk5dm5TQWVyWXFUWkE1dmxCNFhCRks2eG12TUtkckRxS2w5WkdMc3NlcG9NYmtKTlkzV2p1TWtwbWRiTmlKSEltR3BTOFFCSEtDcU9XcEJ6eXcxc29UbTljVzRFeUh1UjQzYWQ4cGhQV0VTT18zV2lXZEhB?oc=5",
+    "source": "RTP",
+    "ts": 1791719835
    },
    {
-    "title": "Maricarmen ganhou o despejo que pode correr com Sánchez da Moncloa - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVm1MSDlKRUxkVWlRZEVLc1hnT29UR3hoRGI1REZISmQwQlItZlpqYlNnWUVnZTRIZnB4bjJVemh6dVZWZ3hqNHEwa29fMllobGo5enpXcWlvaHp3c0lobEJTOFRObVNXYmRISFhGSkxGZ1B6ajNDYVJPdHlicmZEcVc5MWxTVDdPbmVNWkttRmV1b2pKNzhVWmNZYXZpZEVZSW9tTXBDNjhsZw?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791678600
-   },
-   {
-    "title": "Rússia levanta parcialmente a proibição de exportação de gasóleo - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdTRpRXlsYTMzd0gtVElVWUh4MlRVS1pMZEFnb3I0cXBNaFg1Tm1mYV9JazU5YWVJY1puaDBJUlhYaUJLbkVRdHBnS2Q3TXUtZ0lsUWpNWlM0UnVSTDYzbXM4QzBERVlUWG02MnJmeF9tb1FsSXFMU1ItdnJLdHlOS0J6SDk4b3U5eHI3RVJiRTBHaDVOWnM3aXNaX3MxOHVsSUdseNIBnwFBVV95cUxPSXQ3S091U3daak1HMGM0b043dDh3dEwzTWxWbGJiN1dMNTRtZi1pekdqQTZadThfREJuSmNtZi1mQi02OHd1WGxFSTQ3eS12OXN4QUdfS243US1ULUd0WFVBeWU4eVI3ckROM3QxYzlva1BLUFlRSkg2aDF6TFBza3N3bU1LQ3p4X1pFVm1nX1JGUkQzME9jTmZCazd5RDg?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791675600
-   },
-   {
-    "title": "Christa Pike regressa à prisão após sobreviver a tentativa de execução falhada - Público",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNczhSMV83WEdfRDlDZ0FjN0xhdmI4cjBMbWRMbWc0SmdiVno3a0xWVmJGcVhFVUl6eGxBcFEzcDNiVXVMM1Iwd3hqMldmallfNW1HVU1GRmM3OUROQlpzTXpzUmcyQnFyOVpFRzFkVGxWdlBWa2tkaWlaQWZldE1SNEhWQkE3bzdoNW90YTAwSFNBY3lvcW9GUDhvYzhXVGh2SmNYcHREMUlLSlVFLUlFZ1ZTbEVWMmR3NTJ5Rnh0MHRZOEljSmc?oc=5",
-    "source": "Público",
-    "ts": 1791662869
+    "title": "Justiça indiana liberta líderes do movimento de protesto das \"baratas\". Condição: \"Que não perturbem a ordem pública durante um ano\" - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNbEV2ZTdEeEd6TUJBRGw0SUlNd1dKMG9BcWFNR2twdVlWVllzNDhwdW1NTnR3ZGhWUFdhUnNoM1hpOXZZXzJPNHdCczVzTUtYSnU5ZUlxeEw2YlNsZW9DUXhRQlNINVpWWm5GQlZFYVcwTERHcTAzTlEtZGVxZzktUnc4a3BDTHcxdktETi03THhIV2JvYjJUQ21xV2hrSzJUaklkODdyS2tsUWhqeGVGU21hQzMtb2Q1VC1tWkszcHhvdjJTT1V6ZTZHY2ZnQ1A1bDFIaUM1M3NENUV1aWNDblp4b1pKQmkyZ2ZydEVuMXc1dUxNQzRzVjlIVUpnZEZMN3Rr?oc=5",
+    "source": "Expresso",
+    "ts": 1791698840
    }
   ]
  }
