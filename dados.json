@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-12T11:00:17Z",
+ "atualizado_em": "2026-10-12T17:00:05Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-12T11:00:17Z",
+  "atualizado_em": "2026-10-12T17:00:05Z",
   "dias": [
    {
     "data": "2026-10-12",
@@ -1632,43 +1632,49 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Caminhada “Todos pela Saúde Mental” junta comunidade em Vila Frescainha no Mês da Saúde Mental",
-    "link": "https://e24.pt/barcelos-caminhada-todos-pela-saude-mental-junta-comunidade-em-vila-frescainha-no-mes-da-saude-mental/",
-    "source": "E24",
-    "ts": 1791801311
+    "title": "Empresa de Barcelos desenvolve máquinas especiais para responder aos desafios da indústria portuguesa",
+    "link": "https://ominho.pt/empresa-de-barcelos-desenvolve-maquinas-especiais-para-responder-aos-desafios-da-industria-portuguesa/",
+    "source": "O MINHO",
+    "ts": 1791823639
    },
    {
-    "title": "Liga Betclic Feminina: Barcelos, Lombos e GDESSA concluem 2.ª jornada com vitórias - Notícias de Aveiro",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjZNczdUUk9rMUxEX083Y1c2T2otNG1KOGhGWjNPbjloZ1Z6MnFiWlYwd0NGQ2ZsWEZNNGZubmZ1WW1XTjdZWnZmem1PUDdGcWZiMXZCby0zUlBQT0dDbVVkWW5BTWR1bjhxcWdRcjJkUF9yM0NZRGtBRXl3UXkxclpodHhwVk9Eb0ZmSkd5clZ1a0ZndjBsTjN0bVBoN2hPMDk4dTA0UldLQVZIYTd2TWVpTQ?oc=5",
-    "source": "Notícias de Aveiro",
-    "ts": 1791798657
-   },
-   {
-    "title": "Iniciativa Liberal Barcelos reúne com a Universidade Sénior de Barcelos - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWnpmZ3JWRHdSdElVN3lNNXY3UG5jTUI0UUxXSEZhQ2VJOFkwZ2hVZGkxSG8tX2t2d19zZjUtTU9ialVCOWJ3VzNyTEw0RVJZUnFqRTNRVXZSV3Y2VEVqTGFYRzVRUzBQMl9GYzJFSVFBOGNXckt2TmhWUnFvWVRZVTNtY3hNVFU3MGo0OENqaklFUU95SGJNeWJWc2Z1QQ?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1791798643
-   },
-   {
-    "title": "Coleção de Serralves leva escultura e vídeo das décadas de 1960 e 1970 a Barcelos - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeEdpYkYyQUVIMXdDb0hXU3cyWTJUWjMyd0JDZTNlWTZxb2JYYlBFazNNWExIY3RQZXFDb0N2am50MXNVQTZ5VFJDOWNVcENVV3lLRE5fZWJHQ1pvMWV6bkllVjc2TjVCZVZqV0NkbmtvdWo1UGlMNUlQZEtxbWZQUUloNnRHZFNyV1ZzVEhSbFZyOWVwOXhTMUotekVXdHhDbHRV?oc=5",
+    "title": "LIVRE critica ausência de verba para novo Hospital de Barcelos no Orçamento do Estado para 2027 - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRFpxOHBiTm91T0diQzdLVmJlZmt5X2xEY21qbDhadlBwbzVzOHVHUENQZHI3TWJIWlFUVFZYV0lIMmV4UU1fQTlELUU0bGxnQjhaeW02TnNrZWFocndNMmI2dF9rR2RKZ21pOHcxMkl0Q3BMaWQ3SWRqcGdsZ1JiTzAxMzZ0dGQ1MDlLOWlWWHdPRFc1dDRocV9aX252SkZCX1N4YkhVRHJZbWJEZ0x5TUNuemFhUQ?oc=5",
     "source": "Braga TV",
-    "ts": 1791798391
+    "ts": 1791821222
    },
    {
-    "title": "Dois feridos após acidente acima do Pico dos Barcelos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeHRKRmoxeDdUcVIxMGdVSFdrSmhxU19ZekZaRTlKVkxqSUY1dGZZU3VPZ2gyN0FHaGVyRkg0UUNTOHkyX0lOTUNqYzNtdlVxQnhTVkJadzA4QmY0ZkVaTTNZaGNMVEllN3VFVG5OWTdBOEhPZFpuUDBwQ2xkV2EycXBqZ1lxUGd6emlMaE5NRS11QVdjckZpVmY5M0hZUnJYUnpr?oc=5",
+    "title": "Município de Barcelos atualiza comparticipações da Campanha Extraordinária de Apoio à Esterilização - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNX0tLS2VSRlU3aGhQLWthMHMxZ2dQMW5wWWlWenIybmRDRlc0R29yTXhtZG1jb2tnUDFuLW1VV2lpc1JBeVRSblVuMmY1RzhRQUd1TmxXWnlTRnZlYmR3SEc2N0VURkxTRUoyTl9uWkRKbXRVdkNkSGctOUZaYlY5dUQ4a1V6RU1EMmZSVXpwMlJUMnE1N05GNE1KNVVXVmtPN2g1MFF4TklDYU1UbnhqUm1DamdPWEpENDVlc0lGcWlzeHEyRHYtY3lGQTJrLTlM?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1791820155
+   },
+   {
+    "title": "1.º Encontro Micológico de Barcelos - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wRm9TS1g2a0ltUHZWMTg4R1d6X0pHNUs1TUgxYzZHOVhIeEdfbENjc3NtcEhfMkhuSkJpc3N6ODdFS0JSb3loLXg3X1JYWktTVzhhSWI5VmtzdHk5dWlPYWd2VHF2NXF4Yk5tRVllRW5PSmxGZFpVLTNycG4?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1791817282
+   },
+   {
+    "title": "Há um novo parque de lazer em Barcelos",
+    "link": "https://ominho.pt/ha-um-novo-parque-de-lazer-em-barcelos/",
+    "source": "O MINHO",
+    "ts": 1791814714
+   },
+   {
+    "title": "Pentágono Urbano reuniu autarcas, Governo e empresários em Barcelos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTHlPaF9iUTJ6N01XWndmb2VxQlZ6Y3JuLXNneExKRWI1UUxXMDB2TGFnTlZFZUpybEdRLTBHOXA4M2ZjLVRjd0NQUmx3VkYzaDU4Q1JYX2VhS0c0Ti1aUzJuUnZNQ0hreEtLeVdobWFpOUdHZzlleWtzaF91bzhSSzdwT3NLTXppcC1SZlAtWXlUZ2JjSGFVa05yUGJDdkRzMmVDTjFyT3hwbThyN3BBN1FxbHQ?oc=5",
     "source": "SAPO",
-    "ts": 1791793667
-   },
-   {
-    "title": "Projeto “BarcElos d’Abrigo” vale prémio de combate à exclusão social ao Município - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGRYcTJzNkltRkc3dDlPQW1XQ1hIUDNvSllpRGtMdWFxUl9pMFlhN01xSHdGWXBwbjJDa1I2TEY0WlZMVUFVYnlHa19XZDRDTW5JMkVrZ1hUV0t2MTVGUVUyOGYwVFBkQi10TWdxS0lRdktpQnZfY3lTOTVyc2owd21MV0djOVVBbzV5cFhkOGxQeDZZNXFyYkhfY1FPRzg?oc=5",
-    "source": "Braga TV",
-    "ts": 1791754620
+    "ts": 1791814186
    }
   ],
   "esposende": [
+   {
+    "title": "Faleceu Maria Lúcia Alves Salgueiro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWERhVE42c1FMTWhxYUVza0RxTTlPc1R2R3ZrX0JVcEo2cThCSzlVQU9JZmNVa040R0tKSnVURDd1LWt3Y01kaFdYUmd0aEpST1BpaEpWb2pWSVRoT2E4TmtCYldMV3ljUUV0M0dfQUFaUV85bjM5bExZaFc1QmZycG5TdTFTdEFMY3VZ?oc=5",
+    "source": "SAPO",
+    "ts": 1791808581
+   },
    {
     "title": "Forjães e Marinhas vencem, Esposende perde, Vila Chã empata e só o Antas segue em frente na Taça AF Braga - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2VEbHlWRHZlNjBOZDJORDBqcUp2NmZlNXZpSnpxX2ZVXy0xWlBRandRMllLSWVfZ2JHRXhmSTdocVZsVExqSVBtbWdmY0VrVDdZejVhSmZsWWZ2TVh6X0t3RFQwZUhuUnVqUXVUNVh4RE9NZ1FvMWVmYkprYjI2dzRycHJDSTVtWVMxY0FwWjVCUHo5NVIzdEJoOFlnUkRPVmgybVo3UFpXeGc2aUw0S3JKZG0zMUt3OWdyckI4LVE3a0RYdV9mVlZYeGI?oc=5",
@@ -1690,34 +1696,34 @@
   ],
   "mundo": [
    {
-    "title": "Diretor de escola e professor baleados por aluno de 14 anos em França - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR09CT0Q4THZoa2phSk1ydG0yNXpGMjI2RktYR2oyUmV5aDUySkxVQTJhRFJIb3RmVzFuRm9kUGh6UmxuZk52VVQzVGFPTzh5R0VSZEF5Q0FFaG01Nm83QWwwa2kyb2NxTVpWTkF6RXhSU2VoQnFkcjNEV2hJOXdNdGJKRE5rUGtUaUlkcDlDNWNlTnYycE1QM1JNbG9TWTRH0gGUAUFVX3lxTE13cmRTZ3BMVmVPMVBmbFNLWW1MeENXV2h5ZUFXdGFRSExTUWR1T1hMbWdLbWtRdFVPdzJHSjhmN2NpYUlMQkdWUnRReGxTaThZckxncjB2cExlYl9uRFl6ZUFGSWpQVm5MU0NKYkdiZFVuVlFaSXBMc2VIUmZlVk5fQkNlVU44VXJGOTE4X05lZDBUbTc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1791798480
-   },
-   {
-    "title": "Incêndio destrói por completo o mercado mais antigo de Paris - Público",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVU1mczRvb29TWGx0NjZzWHRRNEtIamlid19wRWJDSHpZQ0Y4eGpuUXFuVHN0eVVvcFp3bkowdzJ2S1A1b0VBcFVvOXM3Y3BBeXU0MmJiMFE0bTlfbkUzeGJpX1VEZHM5RjFHU0FSbTZ0dWFzd19xRXB3a25FMVJyWUZqMmRfaFhOUlFKQXowMVliQ09aSkV0UXgtUlYwVklvTktRbw?oc=5",
+    "title": "Burnham diz que a Rússia interferiu no referendo do “Brexit” - Público",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLVFUdXZBRDg5eWFuQVdnTUpNZ2pWVXNlSFI2U2J4Nkk1ZGJ3UEhHeGpsa2dUYlF1NlBfcVlyYlRyTDNNMTBJQ0Vld2NXWXFkcVEzcklQRV9PR1Q5WVl6ODRtcFptSUpMUjNpaE1zdXg1Q0s5VFU0Z2tGeHh2Y3NrVzUybkN0LW5mdzJUMDdGMFNfa1h5UUpzeVZCckg2S0E?oc=5",
     "source": "Público",
-    "ts": 1791796838
+    "ts": 1791817563
    },
    {
-    "title": "Polícia de Hong Kong procura cinzas desaparecidas da diva da pop Anita Mui - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQnV3RkNOUmJ6R01nc3NWQ2dHTmtjN1A0bDI0ZWZKV05VNTRFWk9hZzN1OVo3aWZtNFpMM2R4Z29hWVU3Rk5OWmdUQV9fdVptSzhnb0hTdHVIOFBpWC1RNlkwWWp1UENTeFhLYVQ1dHZYSUFNN3Q3ZnJFN1ZFd1VWY2NHU1d6ZFJMOVpmdWFRSHBDUF9JZWVjdkVGSmpNb01YbnlqYW91ekgtZHFDaVVMc1IyUHTSAagBQVVfeXFMTnpSQ3B0RU1CanFwaWlERzlxbWJuNUVLWkljX2ROMkNidEcyNVR2bFJOanNHWmFFYXBmMDVHR3lXQUlQeGZybTlpMW9aNUpaS28yNE1Wb214NFlDZ0ltcGU4VU9LOWNmemM0S1NQazNlaUw1VmJfeFhQaGtBSTBNLWNJYkJJRTFIRFd2SzhQZF9wU3pVYjlJZlJMZDkyYTNNM1p2UHNaenF5?oc=5",
+    "title": "“Putin não lê a Truth Social”: Zelensky diz que a Rússia não está a respeitar “cessar-fogo energético” de Trump - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYjVEcDREMWVCMlg2YmRRYWVTRkVVb09nbDh1aWhHa3d4Z3hjVzEtQ3JWc1h5LXU0dG8wZkhjcmxYemlSLThEZGN2cXc4cjBzTUdaeFl2dTNZdEo4bHRqdDJpTkFTUEpwWGNzaF9Zd2x6eDlPMjcxSGlOdDZhWXdJSlU4ZktVODZDeHotWXQyN2tsT29UbHJmNFBmZ00wWHVVemtMclRySFBOYWFsTFdCV3c1aWFqQTdScGp6YTctbEQ3VENneFp5U0VfQ1o2U2FyN2N1ZGxB?oc=5",
+    "source": "Público",
+    "ts": 1791815520
+   },
+   {
+    "title": "Consultora suspeita de ocultar fortuna de Roman Abramovich com documentos falsos - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOUVoaXVMc2w0QU5oeXRuT1JobWE2MHNtNmdCZzlQMk8zLVZLNWNoOWd1a2NFRERhM0J4cXlYV0dfMGFrQXg1ZkcwSzh2Wi1DbDV5Q3hoRlJyX29yUFlaMWI2QzZlR1lpVjVSSGxtRWFxaXZlRlRoMjB2N1JDb3NOWVVKZmUzMjFJNzg0RmlxUkc1RkFTMW85ZkU2T0E4Tm1QckVOX0g5ZS02Yk9hd2hORXpzUnUzRXB2NGJGaTZjT2ZDZ2RNcHMweF9R?oc=5",
+    "source": "A Bola",
+    "ts": 1791813240
+   },
+   {
+    "title": "Estabilização macroeconómica. Robert E. Hall e Michael Woodford são os vencedores do Nobel da Economia de 2026 - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNzlPOTBZcjRrWlhidWwyQlFnYXFUS2tVQmJ0ZDhpRjJrOGhQbklDU1Y2UWNFYVlLd3VoYW9pbEI1QjlrMWwtREZJUjZLcDB5ZFhmY25HVHZMY3V6eFdvclBhbXdiQno0MlgxN1pzZUpNUkNVLUZ4THFBRFo4UVhKa1lLX2tsZnlsYUcxYk90cjNhSGdTQndPTmZCSTh0ai12cnd2WFU4TWstYk9ZY2h0YlljV2RMdkp6SHhCd0FsQjdWVU43bzVtVkdBNElMOVlKY0VyQWNLVEVZTWk0alhjZTZhcUtvNUQ0dXc?oc=5",
+    "source": "RTP",
+    "ts": 1791811316
+   },
+   {
+    "title": "NATO promete tornar totalmente inútil qualquer ataque contra aliados - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdERTa0FjaVQ4LS0tZHB5SDN0U0x5dVlRSkxHeEtKQk8tNFNqdVZCVGFickF4OWFKV0NWV29UVUNZUDBRSDduTmQ2eHZ1TXBSdUxZYzgzei14WWVWQ3JQNVBWOGlac3NwUDc5M0tFNmc5c1A0ZERvaGkxYmNmQVJyNXZIWWlSQ0Q0M0JkMTdKSmppV0lTRWJZOVpOSzlPVTBGNXpjb21naEZ6VE9m0gGgAUFVX3lxTE9ud3hLc2RKM2ZRZVRSN1cwa3U0QzhJSTFUSkxMMTM2RmRRbFdyM0t3b0ZIR0tlUExSd1d5UFUycmw2UWJTSXpuYjI5cEFiaVdlMlJmZ1JPYlc5dFV2SW5rbTVPUzNXa29zQWJJWGpESk11a2k0MEc5Q2hxSUVHZ1BqX2k1ZlNTVmI5UkJGbXJRYzA2UWNrS2pBNlFKMmF1TXY?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1791786480
-   },
-   {
-    "title": "Pelo menos um morto e 11 feridos no ataque de domingo contra o aeroporto de Riade - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQN0I4aU1UMm9EbHB1Y1ltb0Jsdm1SVHZVaS1QbzZibXBYZFNkd2tSbGEtMXJjMzZzRHdPNjRxNFp0WFJVaExlTV9aam5LQXd5SmpGT1hLYjhVVlFVbEsyRFhpRnluLW1oeklua25tWFNLbDNmeG1sT0tBU2V1S1dxaXRSbGt6b3JhR2VYSndVem9Eb0lVYVI3QkxidFpTeGJ1dURoQ0lRZmtfbHh1QTM3VFZ0SjlNNjIwZzRMOUdseExnNmhuQ25salBvcGZCX3ctVmVLLTBNOU5LNU9E?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791785283
-   },
-   {
-    "title": "Ministros da UE deverão aprovar o \"maior pacote\" de sempre de sanções contra a Rússia - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQR083TE91U2t6aHhiVkhLbzdwa0hrbEpwczE2STN2Rml1d2huUDZ4YmpVdHRfZHgzT1g4RU1iQmFZTmVKbjY5aElWaXdHZ3VSZUNOd1dIT0VWLXlHVThveEhYRjFLdEV0djh5TmtkRy1vVFNVNjQ3S3J0VG1XMFE5UHZ0eVc3bXlRZDZRVG5ZcjF2NlJCVUpYQkpPMDVTVW9QNzNPYnAzcnV6d1RuYmJDZDc0Q2h1TVZieUFId1Y5RUZxVkNtdklnQXRhLUU?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791782832
+    "ts": 1791810960
    }
   ]
  }
