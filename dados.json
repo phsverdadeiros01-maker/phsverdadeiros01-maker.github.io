@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-11T23:00:17Z",
+ "atualizado_em": "2026-10-12T07:00:17Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-11T23:00:17Z",
+  "atualizado_em": "2026-10-12T07:00:18Z",
   "dias": [
-   {
-    "data": "2026-10-11",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 8.6,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 2.5
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 8.8,
-      "vento_nos": 12.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 2.7
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 9.2,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 2.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.1,
-      "ondulacao": 1.0,
-      "dir_onda": "NW",
-      "periodo_onda": 4.7,
-      "periodo_pico": 9.9,
-      "vento_nos": 9.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 2.8
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 10.6,
-      "vento_nos": 10.1,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 3.0
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 11.5,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 3.0
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.1,
-      "ondulacao": 1.1,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 12.0,
-      "vento_nos": 9.1,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 3.1
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 12.3,
-      "vento_nos": 8.7,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 4.0
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 12.4,
-      "vento_nos": 7.4,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 4.2
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 12.4,
-      "vento_nos": 5.8,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 4.5
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 12.4,
-      "vento_nos": 4.1,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 5.5
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 12.3,
-      "vento_nos": 4.5,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 5.7
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.9,
-      "periodo_pico": 12.2,
-      "vento_nos": 4.5,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 15.9,
-      "potencia": 5.8
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 12.0,
-      "vento_nos": 2.3,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 15.9,
-      "potencia": 6.3
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 11.9,
-      "vento_nos": 1.4,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 6.3
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 11.8,
-      "vento_nos": 1.2,
-      "dir_vento": "O",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 6.3
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 11.7,
-      "vento_nos": 2.9,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 6.2
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 11.6,
-      "vento_nos": 2.5,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 6.2
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 11.5,
-      "vento_nos": 2.3,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 5.2
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 11.3,
-      "vento_nos": 2.7,
-      "dir_vento": "NW",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 5.2
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 11.2,
-      "vento_nos": 2.5,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.9,
-      "potencia": 5.1
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 11.0,
-      "vento_nos": 1.9,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.9,
-      "potencia": 5.1
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 10.9,
-      "vento_nos": 1.2,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.9,
-      "potencia": 5.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 10.8,
-      "vento_nos": 1.0,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 5.1
-     }
-    ]
-   },
    {
     "data": "2026-10-12",
     "horas": [
@@ -1788,16 +1471,16 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Liga Betclic Feminina: Barcelos, Lombos e GDESSA concluem 2.ª jornada com vitórias - Federação Portuguesa de Basquetebol",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzF5ZGh1dWZjSTloM2dlZU5SQlVUUF85cDVrZXZGOWdNdjhQVGJzVG9qOWVHQkdxUks0NDJYNGxmUFA0VURURmlxNXdPQW1HQ24xb0QyQWYzNldmUll2XzZyc1VDNHN4THdmaUl0eHF3SlNlTXM5VjUwMjhZV295VUZpby0yY3ZHSTY4Z3FoQ3BHSk9kNGZvVE1SYnhXRDh0cktmNDJfUDRIaXpn?oc=5",
+    "source": "Federação Portuguesa de Basquetebol",
+    "ts": 1791769853
+   },
+   {
     "title": "Projeto “BarcElos d’Abrigo” vale prémio de combate à exclusão social ao Município - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGRYcTJzNkltRkc3dDlPQW1XQ1hIUDNvSllpRGtMdWFxUl9pMFlhN01xSHdGWXBwbjJDa1I2TEY0WlZMVUFVYnlHa19XZDRDTW5JMkVrZ1hUV0t2MTVGUVUyOGYwVFBkQi10TWdxS0lRdktpQnZfY3lTOTVyc2owd21MV0djOVVBbzV5cFhkOGxQeDZZNXFyYkhfY1FPRzg?oc=5",
     "source": "Braga TV",
     "ts": 1791754620
-   },
-   {
-    "title": "Liga Betclic Feminina: Barcelos, Lombos e GDESSA concluem 2.ª jornada com vitórias - Federação Portuguesa de Basquetebol",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzF5ZGh1dWZjSTloM2dlZU5SQlVUUF85cDVrZXZGOWdNdjhQVGJzVG9qOWVHQkdxUks0NDJYNGxmUFA0VURURmlxNXdPQW1HQ24xb0QyQWYzNldmUll2XzZyc1VDNHN4THdmaUl0eHF3SlNlTXM5VjUwMjhZV295VUZpby0yY3ZHSTY4Z3FoQ3BHSk9kNGZvVE1SYnhXRDh0cktmNDJfUDRIaXpn?oc=5",
-    "source": "Federação Portuguesa de Basquetebol",
-    "ts": 1791750291
    },
    {
     "title": "Iniciativa Liberal de Barcelos identifica problemas nas instalações da Universidade Sénior - Braga TV",
@@ -1812,24 +1495,24 @@
     "ts": 1791728067
    },
    {
-    "title": "Barcelos recebe distinção nacional por ajudar centenas de pessoas em situação de sem-abrigo - Rádio Festival",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQVk01aDlBQ0FhelFWbW92Ti1feUNYaVl1Q3dzelZfa0lkYUNSSTFwbXdqcDNlT2JUSXYyNlhSUlBNNzk1YmlpY1JjN0pJaW5xdzVsdXR6RDhaN3MybVJkTTh1Ni11bm5PQkg4eUZaQ01mdUpudFRhX1dHdVpPbGJELUo1VC13WUhHenJCRHEtZ2ZMWEV2eWNKMmk5a21vcUhTaWUzQldmWGFFX0hNUUFjYkg4YjVLZFRpekx6VjFEendYX1F5aE1TVVdtbTRQRFZLSnc?oc=5",
-    "source": "Rádio Festival",
-    "ts": 1791704100
+    "title": "Barcelos apresentou nova estratégia para a economia local - o minho",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQlJyY2FiVmx3WjBaUVVjSE9CcUxTZzZlOTZYcHlMNy1IVGNYQThITV9zYXA4eHBjTFNuYXFsYzJtelBtamdUdy1GZzRMc0lPdWxOS2RkRUlrRlNxTVJneGxGc0xXckVpV1pRdl9Va205dDIwdUUwMkNTUVFwdmEyd09B?oc=5",
+    "source": "o minho",
+    "ts": 1791633568
    },
    {
-    "title": "Barcelos: Salário médio no concelho fica quase 300 euros abaixo da média nacional",
-    "link": "https://e24.pt/barcelos-salario-medio-no-concelho-fica-quase-300-euros-abaixo-da-media-nacional/",
-    "source": "E24",
-    "ts": 1791642882
+    "title": "Conselho Municipal da Juventude de Barcelos aprova por unanimidade Orçamento para 2027 - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ1dLencyYkEyanViX1FiRVVIYUpKRFhsZ2g2N1Z2N0hYcW4xcGpVQ2lKTnNoek1FMTdQa01RWFNvakh1TFlrYXIzbGNsdE9kcEFPcW9IVlh1dW4wNTVDWEFWV3UzRTVpNVpjMXJTT0MtUlhQWlJpYkx6YWc0SWtHZzN6bWhFcG55Y1dLWDBCNlkyOFk2M1ZKQXpZY1pwS1duUmJ4UTUxVmx1ZDZP?oc=5",
+    "source": "SAPO",
+    "ts": 1791622800
    }
   ],
   "esposende": [
    {
-    "title": "Forjães e Marinhas vencem, Esposende perde, Vila Chã empata e só o Antas segue em frente na Taça AF Braga - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPRzV4RUdqZkJFOTNCUUlqNmVGaUhnQ1pYd2s3Ykc3akM1cTBCMzVoSFhWWm1OUWZEcHhxbHVfd0UzRnJ0Rjd1UEhLaWw3V29XRk1mWi1kS3hCSmttY2t0bGFKUVAzanU0OTdJbThWRjNaSmVVN3pVcGx6Q0Utbm9OaXJPZmJLV3A3QlA3ekZyLTVjdGtTSm41VF9wN0NRM09LSndnM25BNVVfQXpKMi1aOGtCaVpfUlZNWUhHOVA1aElraEtuWmRSeTRQZU1WNlhkY2JrUzlEZloxWEtLLXZBRjRyR2xQUQ?oc=5",
-    "source": "SAPO",
-    "ts": 1791756678
+    "title": "Forjães e Marinhas vencem, Esposende perde, Vila Chã empata e só o Antas segue em frente na Taça AF Braga - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc2VEbHlWRHZlNjBOZDJORDBqcUp2NmZlNXZpSnpxX2ZVXy0xWlBRandRMllLSWVfZ2JHRXhmSTdocVZsVExqSVBtbWdmY0VrVDdZejVhSmZsWWZ2TVh6X0t3RFQwZUhuUnVqUXVUNVh4RE9NZ1FvMWVmYkprYjI2dzRycHJDSTVtWVMxY0FwWjVCUHo5NVIzdEJoOFlnUkRPVmgybVo3UFpXeGc2aUw0S3JKZG0zMUt3OWdyckI4LVE3a0RYdV9mVlZYeGI?oc=5",
+    "source": "TV Esposende",
+    "ts": 1791751420
    },
    {
     "title": "Esposende recebe sessão gratuita para reforçar competências digitais da população - SAPO",
@@ -1838,10 +1521,16 @@
     "ts": 1791714600
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Sul - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tUVlJUTA3cUlWRHZMelp4eEZzU3ZjYURKbDV1OXpzZ3FiaDFOWG03SjNMeTVFMml2aHB4RFAyenJIR0tfQk5GcWFXUWkxNk0xRzV3ekZyNjk0ZXpEWGdJVWxyVDh6MjNHT3ZiVWh2TXhOT3NOWUJVTWpzVQ?oc=5",
+    "title": "Boletim Unidade Pastoral Esposende Nascente - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZFdrU0NDVW0xamZoVDZsTElRb2ZPdmlfdVo0RS1vQ0NDaDJndkIwaldkY296SjlFMnNXQWdZRkM1Z09CYkpja0hwbFA3MDB5aGFMTUhVZGNKaGR1QmhXVlY1RHhFU2xsb1B1YTROSHZUZ1lPRGdFdVBWNkdTN2s4empB?oc=5",
     "source": "TV Esposende",
     "ts": 1791655030
+   },
+   {
+    "title": "Encontros de noivos do CPM de Esposende - Arquidiocese de Braga",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1RSnowVGNVbmRiZHMzb1FlSWEtNGstcU50UnNkdG04MFgxeE5iXzZIQ3ZydDQybDhZaDRFRG1VekdONUFNVjNYdkZNLVR2YXUzS0E?oc=5",
+    "source": "Arquidiocese de Braga",
+    "ts": 1791543315
    },
    {
     "title": "Esposende investe quase três milhões de euros em dez casas para arrendamento acessível - Jornal de Notícias",
@@ -1852,16 +1541,22 @@
   ],
   "mundo": [
    {
-    "title": "Zelensky admite eleições e parar ataques a refinarias com uma condição: \"Dê-nos 60 dias de cessar-fogo total\" - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVjR4eEpHUUE2N2ptbHB3cVJ2S3JoMHl0MDMwZGVKb0pzOWFiWEZlVG9XMGp1TTJLS0NzMWlIT29NZE5MejhiZHQxU3lDeDZuNlVlbl9XNjVFZ1RBa2dkMXZVTmQ1NXNxcHhlN1B6b3ZVejQyYlRvVUpQTXM1cVhuUFlDMWgza3Q0c0laY2NudTl1dDRpYXQtdDFMRGZzYXRZLWVqcjFHMUh1TVhfcXhienJ2b3A1YVZUX0llQS1EeVZJRG5Fb2NPQUxJMm9SM29UUzA1Qi1qYkQyRTFQM1lISEx4QzhDanF6ME04SVJRbFg3Um8?oc=5",
+    "title": "É “claro” que a Rússia interferiu no referendo do Brexit em 2016, atesta primeiro-ministro britânico - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPdTZUZEF0RTF5UUI5cHhyRWVoVnN6T3RGeFgwYjRNcUxuWkZXeXRGZnBRdExuUkUxMDJNdXQzQnJJeEl5ZU1mQjAxRlM5VzdmSDhMcC1aRHZaQmd4cVJfOWI4VUpBRU5DS0t4c2w4RVp5SmlGenhxVXNfandSNHZlQ0wwRmdlallCV05KOVpXQXp0UTBkb2NNeEZXSldnLTJpNE9Ca3dVZWRhNTYyTTl5ZGNCYUxZR3c4TERsa3BYd2NXM0lBekdlMFVSSVFERkQ0Z2tVVHp6TmNiM0kwLU1pdmJoOA?oc=5",
     "source": "Expresso",
-    "ts": 1791738427
+    "ts": 1791753517
    },
    {
-    "title": "Nova enxurrada no Nepal deixa cinco desaparecidos e destrói dezenas de casas - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbG1NNkk2VWkzN0FlakpmWW9RUUI4cU5tQUpmcE1fS0xLcG1kWDR2NUc5RnVObURjWXI0cndkU3J5YU42QS1pMk12WnhoWkNFNThncnYwTnVvbnhDV0Q5d0tfcVh4elBWN0hTOUx4TTNNeDlfTHZEa09NV3FjT1B6am5ENkJUQzRxeVR4eU5QTkZqSjVyUi03NmhrZkZGNUJxd2Nod3loWTFUdGdpRDBJQmdYVGrSAa8BQVVfeXFMTTFKWF9aUWN5UWthaVNpdVJhQmxmVGNEeGVqd3Z6ckp3UU5Zc2FLaEZYQW53WjNTcnhKN0RLN1d5SG5tb25ndG9nUWpvOUhRVFJ0VU5valo0TFlSV09rdW55UzEyMk5wVnh6V01GUmRHVi1uakcxdjZQTWt3dHZlNW56UHRHWnR3bk1rY0FRMU9KUHBoZVRqTkVNbTZXd2VFTGNRdXVIWXlpS2wyTG9Dbw?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791735960
+    "title": "Zelensky acusa Rússia de ataques após anúncio surpresa de Trump - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRnUwejRNSVhDUDFsOHk3SWpUT2tOaU9xZ0NjbHJQcE5weXJuWmpaT0pLc1U1MkpfVHItTWNzdnBEYWh6QzlBbUxaak0xSUtacERQbUpVT2RkVUhpSlJHLVJDeVJUeEdVX08xYWE2RUE2NXVTckVXZUtwZTl1Z2N5VkptbmZrWThMZGlzcWdsTkhtR2FhY084RDNZUjJnd0V2N0dRbU530gGaAUFVX3lxTFB5bXFqdUVVNVZXaFd4aWpRRkRFVi1kUTltV0VrNC1wQkFJaVpsOTlEVTVXZHBkTTkyc05nY19Gb0x6WjFyRm1UbVNtaXhJVUc2YWdWRmJoNEFUZS1WTG5fRFNFblRUT3QyY2h6SmYybG52c2YxLVRCcTB1VllldlM4NWRUX0NMaFdyaDlNaEFQS0JTa1JtYXI3M2c?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1791752940
+   },
+   {
+    "title": "Polícia polaca detém suspeito de planear atentado contra Donald Tusk e ministro da Defesa - Público",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3ozTE1BME1zNW4wb1g0VFlfRkd5VnhJdXZEeHU4OXhXaTJSbXRJaU9Uck4tNGcwcWNsbjFGaE9fNFpaSUhPT2tpYkl5Qmk2c3podTdnOGhhalI4ZmpGVXdQOXpvb3dmR28tVUxsamtZQjc4bURIUk5iVnFxcEIwS0pIRVAxd3VscGNFakV2TGVETHNOcmtoLW14RWNsaTVfcWxEQ2drQkpSRlhHQUZ5RDBnUHZXdW85NWpJS2xtbG9LMlZubXVJZHZB?oc=5",
+    "source": "Público",
+    "ts": 1791732309
    },
    {
     "title": "Atribuído aos Houthis. Pelo menos 12 mortos e 309 feridos em ataque ao aeroporto de Riade - RTP",
@@ -1870,16 +1565,10 @@
     "ts": 1791721299
    },
    {
-    "title": "Polónia denúncia possível ataque contra primeiro-ministro e ministro da Defesa - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVVk3dUZiYzV1WVV6WVVKcC0ycFBOXzBlMnlxdFpMTUdIdmU2elAzb3dTUUVQaFI2SFRrM3R3dmtPaFpCdlY2UWVDeHk5dm5TQWVyWXFUWkE1dmxCNFhCRks2eG12TUtkckRxS2w5WkdMc3NlcG9NYmtKTlkzV2p1TWtwbWRiTmlKSEltR3BTOFFCSEtDcU9XcEJ6eXcxc29UbTljVzRFeUh1UjQzYWQ4cGhQV0VTT18zV2lXZEhB?oc=5",
-    "source": "RTP",
-    "ts": 1791719835
-   },
-   {
-    "title": "Homem morre após entrar no recinto dos tigres num zoológico em Inglaterra - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaUVqR2pKQWV1Ny1vMWtpYmRNdFN3VUtLcGg4S1RNMVdVTmE5b0Y4V2l5T09MSlJVRzBFMVdCN3p2REZHLURnenlFYW8wMmpEZ2R4dXZGWHZiRVFZa0FSelpwRktXWFliY1E3OENmZWZnZ0Z2eUJETHlDUVZDZFJZeHA0TjdtZzdONGt5a2N5dzFKVEs0bWZpUFhaTHMyanozWnZhZ1E1MUZWeGdYUHdrStIBqwFBVV95cUxNZkJoQmNTRWdYYTJObzNjeXV4blVwQzl0bURLZURKRnNfUUxodkctemFkNjNpdnhjdDZTLUNtanhZekdmYlBTa3dfbExGTnJwV0NfUWZsaFJUd01XWDEyZk9hX3p3SVRuMG0yMWNMVXBvX0F4RXVJRm14OUlRQ2ZwVUVrYzlBUXJpUU9yR3A4My1tMFY3aENTTlJmQnFXQ1ZVVHBnQzRJUXA0OHM?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791716220
+    "title": "Papa recorda a martirizada Ucrânia: o pão das pessoas não pode ser refém da guerra - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3AwUGRnSlAzNklFa1NQdUFTMFozR1cyWFhIajI5TXNidnpZSEZ4UW01dUxiZTZMaHBFNjNhZHRzTmRfUnkwcUtBNmVSRXhDeTJsTnJRY3VCWFAtdTI1MVpUNTFDd1luTjFXdmxIX3VGalh3YWhWV1F2NVgyYmlOT0x0U0ZhaTF4V1hWRldLYmxCNFBCWllKc2RCejNyVWMzQVBIOENn?oc=5",
+    "source": "Vatican News",
+    "ts": 1791716733
    }
   ]
  }
