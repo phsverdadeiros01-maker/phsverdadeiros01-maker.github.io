@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-12T23:00:03Z",
+ "atualizado_em": "2026-10-13T07:00:16Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-12T23:00:03Z",
+  "atualizado_em": "2026-10-13T07:00:17Z",
   "dias": [
-   {
-    "data": "2026-10-12",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 10.6,
-      "vento_nos": 1.0,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 5.2
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.2,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 10.3,
-      "vento_nos": 1.6,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.7,
-      "potencia": 5.1
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.3,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 10.2,
-      "vento_nos": 2.7,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.6,
-      "potencia": 6.1
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 10.3,
-      "vento_nos": 2.1,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.6,
-      "potencia": 7.3
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 10.4,
-      "vento_nos": 1.9,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.6,
-      "potencia": 7.4
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.8,
-      "periodo_pico": 10.7,
-      "vento_nos": 3.7,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.6,
-      "potencia": 8.8
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 7.9,
-      "periodo_pico": 10.9,
-      "vento_nos": 5.1,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 15.6,
-      "potencia": 10.1
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 11.2,
-      "vento_nos": 5.4,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 15.6,
-      "potencia": 11.7
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 11.4,
-      "vento_nos": 5.4,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 15.6,
-      "potencia": 11.7
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 7.9,
-      "periodo_pico": 11.6,
-      "vento_nos": 5.2,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 15.6,
-      "potencia": 12.8
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 11.7,
-      "vento_nos": 3.5,
-      "dir_vento": "SE",
-      "beaufort": 1.0,
-      "temp_agua": 15.6,
-      "potencia": 13.0
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 11.7,
-      "vento_nos": 2.7,
-      "dir_vento": "SW",
-      "beaufort": 1.0,
-      "temp_agua": 15.7,
-      "potencia": 13.3
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.3,
-      "periodo_pico": 11.7,
-      "vento_nos": 3.9,
-      "dir_vento": "O",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 13.4
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.7,
-      "periodo_pico": 11.8,
-      "vento_nos": 6.4,
-      "dir_vento": "O",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 15.7
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 11.7,
-      "vento_nos": 7.2,
-      "dir_vento": "O",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 14.8
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 11.5,
-      "vento_nos": 6.6,
-      "dir_vento": "O",
-      "beaufort": 2.0,
-      "temp_agua": 15.9,
-      "potencia": 14.4
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 11.4,
-      "vento_nos": 5.8,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 14.6
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 11.3,
-      "vento_nos": 5.6,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 14.8
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 11.2,
-      "vento_nos": 5.6,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 15.9,
-      "potencia": 14.8
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 11.0,
-      "vento_nos": 5.6,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.9,
-      "potencia": 14.8
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.9,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 10.9,
-      "vento_nos": 5.4,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.9,
-      "potencia": 14.6
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 10.8,
-      "vento_nos": 4.5,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 13.1
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 10.6,
-      "vento_nos": 3.5,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 13.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 10.5,
-      "vento_nos": 2.7,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 11.7
-     }
-    ]
-   },
    {
     "data": "2026-10-13",
     "horas": [
@@ -1788,22 +1471,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Silveiros inaugurou parque de lazer em homenagem a Manuel Pereira de Sousa - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNd1V3YjJSR2RsUFk4QjZsTzZnVFBQTjIzakxPMWpiVWhUQWx3RlE1Z0ZCb3lGNzN2WF9Sc3l6S3JEby00ZXhIaXdKaHRBenU5TlRlT2xJTFAyMHhiaXRSbWtPWkRiTG8zaGhOVXRxZkNocW04MUoyOEpZNEFTUW5GdERQcjl6VnYyRG1CMFNxOGxTaC1ZZmhoaGV6NHBPOWllSGs3LWdwZDY2UUw1VUE?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1791837180
+    "title": "‘Grow Your Skills Up’ aproxima empresas dos candidatos a emprego em Barcelos - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY1pNZk9lY1pJOFpWUnlybDdfaFg5RXp6SW96bmhOUE5BMVBocUExb3JJTjNXZ1hUcGF0cEtfWldXV2ZPZk1iMnFIVDlWQzBaYzlKNkhSdTFtVVJQRkw3TElnTXIyQ3pzMUNzczkxUlBYX1hxTnZEclgwQk56VVg3M19NWGpWNkI0OTQxeTdxRTh2akRrT1J5c1MtU2FvRkFSbmJHWGRDOTBJRHVMS21SVEN6bXlmeDlrS2txWA?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1791867600
    },
    {
-    "title": "Arquitetos de Barcelos duplamente premiados em concurso internacional",
-    "link": "https://ominho.pt/arquitetos-de-barcelos-duplamente-premiados-em-concurso-internacional/",
-    "source": "O MINHO",
+    "title": "Barcelos: Novo parque de Silveiros homenageia antigo presidente da Junta - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMXpTdlhUdFR4M3RzUlFSbUNabnNFZkx0OWxqSVc1dU56by1kTWhMZmF3cURTdU95Z29ySWxZWFltdnQ5bDk3U3YwdGh4SUxrdHBfcWMxMHU3N3BEYTRWUGN1WWt3OFZ2eERVX1V6eVVlUk5YazhKYTJwM2h1a3JjSHN1Tk1Uejc2OWVFaU1LMlN4U2xGQ1hiU1NvbFpqOF80R1BUYzRiMTBGSk44UUdUTDBxaHJzRExS?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1791867600
+   },
+   {
+    "title": "Arquitetos de Barcelos duplamente premiados em concurso internacional - o minho",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQk52TXA2cHA4R3Jod3dJN1BiakYxZzZrZFozb1F2N21nWHprQ2owSGNucUtMWE9LN0d6Y0JPbVUyWk9SUHB3MkRnNFBtbTR5NWVrMXVBVGJrTnpXYW5UWE9Rbnl4UlZKamt0Q1J4eGNDQzFuOVFoTy05ZXloRzU5Z3JRSS1YQ1pqaGt5Sk5Ycy1jZw?oc=5",
+    "source": "o minho",
     "ts": 1791830220
-   },
-   {
-    "title": "Vê Esgueira Aveiro Ecovalor x BC Barcelos Gil Vicente em Direto Online | DAZN PT - DAZN",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTk9YTTNfdmJtbVI5S1F2UjFZME9NZldROHdESU1tQUNneF9sSnZrX2kwVUFkdVhCS1lCME9TZFZ2bmJJdUhoNXU5bDFhV0RYNGVXSEpWaXNScHJhQXc1VHdPdjJXZ3M0TXJrdWFJN2FEaFgteFlvZGJ5MWpwQ2UyUk1Gdm94R2dTeURMYg?oc=5",
-    "source": "DAZN",
-    "ts": 1791828597
    },
    {
     "title": "Barcelos atualiza apoios à esterilização de animais de companhia - Braga TV",
@@ -1826,16 +1509,16 @@
   ],
   "esposende": [
    {
-    "title": "Santuário Eucarístico de Balasar inaugurado perante milhares de fiéis - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb2d6bVdTNnZvT1pTNkNhVGtqUlJTM1N3dlphUWQtNzNWMURLV21tRVZPU1kxQzM2aEFKMW5GeWRkYXVQYW8tSlJNMGRlYkJsOGNmN3VBSnYyZE9SbFZNSGEzSUdWTExYRWtSNDFjS3p3UVRLWEgwbDZ4T2g2ckt1czE1LXI4UVpMRG1XYlhHMG45MDlmZk5JTFcwQlZwZXQ4QTZha2Nma0VMYUV2NW9IQmNpbGtvSzVt?oc=5",
-    "source": "SAPO",
-    "ts": 1791843191
-   },
-   {
     "title": "ANSR, GNR e PSP lançam campanha de segurança rodoviária “VIAJE SEM PRESSA” dedicada à velocidade - SAPO",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNd1UzNVFrUW5kTk5laksxLVprSWVMX0U2dndteUJtaFpFOGw1UWFIbXNicFFZb1lXaXZOWHNJTXJBQ09QTHZIdmpJU2JzQ2RuVExzM05URklKbFI4cDgxUmY1Zm1QMXU0aEZrT2JGMlAyWEZvbkExelQ5SHdLbzhybURUNzVxM05XS1VLbXVDaFZnMklTZVIyazJlU1JHME9EN1QzWkM2bnlCY2xNR1VUXzJGVGhYVTRfZmlzZ1NWOWd1V0pQR2MtNlVBVjZLWHFmTng0UF9FYkE?oc=5",
     "source": "SAPO",
     "ts": 1791842714
+   },
+   {
+    "title": "Santuário Eucarístico de Balasar inaugurado perante milhares de fiéis - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWRoV3JhWk9GOGtraFo3SmZlRHl4aWF1OFNfS21tTEZKd3ZPOFZLbkdlWF9yWnVENGZWa2JWbDNqenlSbWZkdHlhSzR3dThBSl9SbjNyYllLQ0YyMU1QVEU5V3dOVHpLaEpvV3pCUTlDNnZDZUhrZWtyYnV0SG5UeC1YQXJRRVlIeHplLWZ5SnQ1YnlQdU9KUGZVb0Rjd2s?oc=5",
+    "source": "TV Esposende",
+    "ts": 1791839434
    },
    {
     "title": "Faleceu Maria Lúcia Alves Salgueiro - TV Esposende",
@@ -1870,6 +1553,12 @@
     "ts": 1791838127
    },
    {
+    "title": "A oferta \"surpreendente e muito oportuna\" de Putin que pode voltar a colocar o gasóleo abaixo dos dois euros por litro - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNNVFhclFxU0dGQk43VlJnM2hRa0NlTXpOakZYOTVFcl9MeVZOMkhRMUxiWHFvWmlUMjVnNFVMNkNGa25JVTN0WjRwaHZmdnBEUm1EOF9VczYzNV9GaEY3YlIzRjUxd0s4cHU5aTlOeHltWVV6Zk5XeUJDcExZcHVDalYtMTh5dnl5QzR5ZVFDTzJaRVJibDh2bnFHZHRFdnVxLWFjU1J0ZzJnYjRoSkhoV01VV1JVb1oyZmZIZ3UydlQ4eGNXdjFvUnBBV2FITmcxZ0lrR1pqdy1KT0U3cFNvVVNWdWZFb2xiSGlRd0ZmR2EyOGtVd3lRS2VEY3piQmVIVkdPUUFqVDItWXZTeWlSNGRUTy1vRS1GcTk3VFRvYk9Wb3Br?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1791835200
+   },
+   {
     "title": "Detido pai de menor preso por tiroteio num centro escolar em França - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeTBHMFdDc3BwaWdLQ0tGbTJLSVUwYy1VbEYybUhpTXhuYURtQnJzR0tSOEI2b1ZWTVZyZkpWeTcwMS1hLUthY002TVBLeDhTRUZCdTJJOUpBUzFpVVBNdUgtV3Ixb3N2M1JzbUljM3JzdUFTY3Q3NGxxbkE5Y2Z2RmF6cUVXNWRnMENidW5yOU9CNmR5M2pWTzNSNWtGenZYaGJ4eG8tVk3SAaMBQVVfeXFMUG9zRTJkRUFQcXVvdFdHZXNJS3h0MWhFVEozbGRNWUR1cDVZcEFRMW1PTVAxSUc2NHFPVEpOcUVmaTYzZjFRYUU1aE5ORTh3YXZjbEZpRkxUYUtSeGRoaUJud3FYQVp2SVNhZnFFaVoxdzRKbUxTN2Iya25rTE5VcGl4YzU1WkpzWEVad1Q2U3ZjNldXQ3dMNzBrbmRHSE5DRGkxVQ?oc=5",
     "source": "Correio da Manhã",
@@ -1882,16 +1571,10 @@
     "ts": 1791829560
    },
    {
-    "title": "Ucrânia. O \"acordo do gasóleo\", a exigência de eleições e a rutura Trump-Zelensky - Observador",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTk1oZ2p6YngtN0pLS1U3ZVdmTzdnMks0X0Z1RGxROEwxMnRnVGwwQnNTS3hDYUdhMFlOSGdzaFo0RGR6T2V4ZXJIeklfQzljbmxMYTVHenpyOVFDZlh6V2FyYW8yY1ZrOXN3dWZUUlgxbzZXZ0hFcWdUd21ERW9kcUdPa193LXFDQnJSZVVEZE5DVVJxN1lQaGdNU3R4bmwyRlFXdm5hOUpqU1hKTWxr?oc=5",
-    "source": "Observador",
-    "ts": 1791822893
-   },
-   {
-    "title": "Rússia intensifica tentativas de assassinar empresários responsáveis pela defesa europeia, alertam serviços secretos - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPV1h0Q19BdkdxN0hpZHlOaV85akdUUW9oeHNIcVlYNnR6bW9LRVNmdnRnRjdhakkyVjdiaU9tcmttd2V3dHE0TGN5NFZlV25kaUxDSkhnaXlvdWxzeDFoc2RsakUxaXU1ZDVCWWlzUi1WZTdxSEEya3dReWlrRWJteXc3bFNDVUplRUE3czZhLTZBb0YtaG15ZlZYaUJGSHdGMk53UnNrYUF5MjFvMmNRYXBHa1VyZ3F2N1psXzZnMzZOYXRPV29SOUwxRWdaU29GTWRyc1RSeVZGS2pBOFdHeEVnTlJIcjlzeWNweFFENkNHNHV2RzF4YW40T0ZZYUlod3gtWGEwQnEzLThHTzVXMjRKT1VKMWVQWVRF?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1791818820
+    "title": "Ex-”nora” de Trump, Kimberly Guilfoyle tornou-se um embaraço para os EUA na Grécia | EUA - Público",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZzZFbTFRYTFfOUNyc1JlYzJOc0d1ZEFodXlrX2d5NjVWZmdsX1Jnc3oxZnVHbWt4Uk4wTGJfMERaR2hfOWhBVExtUHloSzNlbnJ6WmpWV29uSEZaQkxUa2RCN0JVU0doMlNqUjc0bnNXQnBxYVlVME53VUwzREF4N1FObUJTVFVVN0xZenEyY21yTUJWOTRZSk10dWNnMU9WT2JPdEViSUplR3ZIUk40WkVkZDZPd0JEN3F4QnZR?oc=5",
+    "source": "Público",
+    "ts": 1791824460
    }
   ]
  }

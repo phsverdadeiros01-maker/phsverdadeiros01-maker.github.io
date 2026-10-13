@@ -1,10 +1,10 @@
 {
  "host": "pi",
- "atualizado_em": "2026-10-12T23:00:11Z",
+ "atualizado_em": "2026-10-13T07:00:25Z",
  "resumo": {
   "total": 7,
-  "ok": 5,
-  "falha": 2
+  "ok": 6,
+  "falha": 1
  },
  "servicos": [
   {
@@ -40,18 +40,18 @@
   {
    "nome": "Painel admin",
    "detalhe": "túnel",
-   "ok": false
+   "ok": true
   }
  ],
  "metricas": {
-  "temp_c": 53.7,
+  "temp_c": 58.5,
   "load": [
-   0.25,
-   0.19,
-   0.18
+   0.51,
+   0.13,
+   0.04
   ],
-  "ram_pct": 51.3,
-  "disk_pct": 18
+  "ram_pct": 75.8,
+  "disk_pct": 20
  },
- "ultimo_push": "2026-10-12T18:00"
+ "ultimo_push": "2026-10-13T00:00"
 }
