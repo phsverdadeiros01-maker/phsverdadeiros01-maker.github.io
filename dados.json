@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-13T23:00:09Z",
+ "atualizado_em": "2026-10-14T07:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-13T23:00:10Z",
+  "atualizado_em": "2026-10-14T07:00:09Z",
   "dias": [
-   {
-    "data": "2026-10-13",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 10.4,
-      "vento_nos": 2.9,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 11.6
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 10.5,
-      "vento_nos": 3.5,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 11.8
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 10.4,
-      "vento_nos": 4.3,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 11.6
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 7.9,
-      "periodo_pico": 10.3,
-      "vento_nos": 4.5,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 10.1
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 7.8,
-      "periodo_pico": 10.2,
-      "vento_nos": 3.9,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 10.0
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.7,
-      "periodo_pico": 10.2,
-      "vento_nos": 2.9,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 8.7
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 10.1,
-      "vento_nos": 2.9,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.8,
-      "potencia": 8.5
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 10.1,
-      "vento_nos": 3.7,
-      "dir_vento": "N",
-      "beaufort": 1.0,
-      "temp_agua": 15.7,
-      "potencia": 8.5
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 10.0,
-      "vento_nos": 4.3,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.7,
-      "potencia": 8.4
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 10.0,
-      "vento_nos": 4.7,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 7.3
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 10.0,
-      "vento_nos": 6.8,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.8,
-      "potencia": 7.3
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 10.0,
-      "vento_nos": 9.5,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 7.1
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 9.9,
-      "vento_nos": 12.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 6.2
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 10.0,
-      "vento_nos": 15.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 7.1
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.5,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 10.0,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 6.2
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.6,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 10.0,
-      "vento_nos": 15.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 6.7
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 9.9,
-      "vento_nos": 16.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 6.4
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 9.9,
-      "vento_nos": 16.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 6.3
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.0,
-      "periodo_pico": 9.8,
-      "vento_nos": 15.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 6.4
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 9.7,
-      "vento_nos": 12.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 6.8
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 9.7,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 6.3
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 9.7,
-      "vento_nos": 9.1,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.7,
-      "potencia": 6.5
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 9.6,
-      "vento_nos": 5.1,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 15.7,
-      "potencia": 5.8
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.4,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 9.6,
-      "vento_nos": 1.7,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 15.7,
-      "potencia": 5.9
-     }
-    ]
-   },
    {
     "data": "2026-10-14",
     "horas": [
@@ -1788,16 +1471,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Padre Manuel Lopes assume funções como novo capelão do Hospital de Barcelos - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMEh6NzR3SDd0eFBmeWtkMjhXczJhZzNjWkg5TzZjOHVoS0N0UWJmSC1ZTWM4Q0ZwVEpWdVZOalpTUEVkNXpmQWVXemw4NW51RUQ4SEl6S0VqdFp4TGwtREs1cHZ2VFMydGpXTUxvS1drUU9SRnR0VEFvUWNSZWFBZ0QzVnBOOXFkajNid2lINl8xLXZ2UlRJV0M0Q0x1RHBsSEMw?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1791922260
+    "title": "Olaria de Barcelos e Bordado de Crivo obtêm proteção europeia - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFdISFQzNEZlbGJ1LUFkY0Fid3NWNnp0aWxXVTBndkdFSEdMV0FaZHI2Y29GZFUtS200Q2Q5Q2NUbXpocml0MG1XVGFzeEhZcEc5bHlWMF8xbDU0ZDl6YUdvWm12UGpFQUxXWTJ2SG9tS29KU1BUc2tZX2c3U0lDT3ZJUHd0RXluTHdhTVlBRVFhMkNBRXMyZGhCd3A1SjNGc0RnQlE5NWhkcjg?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1791960384
    },
    {
-    "title": "Olaria e bordado de crivo de Barcelos obtêm protecção europeia - Público",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc1hPZTlTTjFTeTktVGpteU9YMHBEeW9tTFlJSkU5U2oyZzZhRzRTb2RWZ08ydmMyb09IMGJYR2Rpc0Roa0JZZEZFS3BiN2dZVEx6UTZibnlkVGhJSmFqMUQ4bVQwOTIwR0hUQ1RCaXpZcmxWWDhpbTJUaTBMRVBDTUh6Yk1ZakJlU2FOb3pxa1hJanRmZWk3T2pyMTNFS1lyUzRGYUctU3BHTDdWWWgw?oc=5",
-    "source": "Público",
-    "ts": 1791910483
+    "title": "‘Grow Your Skills’ aproxima estudantes e tecido empresarial em Barcelos - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTnI5bXJOYVVTVUtZTDBELUVmZ0UtTGZhN3BGdGRjdURtQnQ1c2oyUzFxSjc0dm9vcnI5OHBPMjFaaXlib2NraUxNbGZjbG5MMDhWZEVvVEs5SEVFSEFSUE0wS0hiQWF2UW1RU01MUGZlUjB2X2ZtM2N0Wnc1d2x2YWdkY0RTTFV4Vk1kLTREVkltam40ZzdBTE5LVEN3X180Uk9wRGc4SjZPY3NnVmpMbw?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1791954000
+   },
+   {
+    "title": "Aires Fernandes Luís Barcelos - JM Madeira",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaFdnYWNNR2NMMmpDcUtwbi02X3ViRlJVcThFeGhBdFpabUpyVnZnSmkxeEs5YVU1ZEloeW9sYlVHa0FXNE44NlpmT3AzUUxadnFQQVZGT2IyMjdqbEZ3V2s0dnlZeUIzX2Y5anowZklWTUhWN2x2cUg1VkZOVWMzR1RRMXpETWxLNmwtVFFrWmJmOXdkVmc?oc=5",
+    "source": "JM Madeira",
+    "ts": 1791939948
    },
    {
     "title": "Barcelos distinguido pelo trabalho desenvolvido no combate à exclusão social - SAPO",
@@ -1806,25 +1495,25 @@
     "ts": 1791909220
    },
    {
-    "title": "Feira de Emprego «Grow Your Skills Up» reúne oportunidades profissionais em Barcelos - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRFR6dHhWbzE3UmpzMVhrR2R0andaX1poUnlGTzRVM1V1YTVReEJrR3hPdVh6aVdoQ1pKWmVyMEFTb3NrVVJKUGp3cURyZUhJX003NWtacFhCaFp6LWZZWG9RS1B6eXVpS3gyaFZ4dk9aY1pCQndqSUdYcHEyczhFZjlsYU5LN0dJV29aaE90RnVXV2JWb0Y5SWF0YmR6R2Rwa3pFVjE1TVA4ZnJrTDNKZkIwMmFHOHJlcWc?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1791907431
-   },
-   {
-    "title": "Equipa Sub-23 do FC Vizela venceu esta tarde em Barcelos - Rádio Vizela",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYm5ZdFZBUDluNjFVd3dWcVVNblVJSWQybXN0QV9qSERXd0w2U0FKX3lKaFZpQm04Zm1ReWY4WUlpSndwZjRnM1ZQdnVhS3lwT3hLb0ZDSDVySDlsVzE1QXBqSkFULUhOdTAxejVlV2l3NUd1enJzaXVRMHIxQ1FHMmpFc0tVbzhZWTA1MWZkVFYtdkVSVng4?oc=5",
-    "source": "Rádio Vizela",
-    "ts": 1791907320
-   },
-   {
     "title": "Município de Barcelos atualiza comparticipações da Campanha Extraordinária de Apoio à Esterilização - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNHpKSVhoQUpBLUNKXzlHX2tSaV9pdVVWNk9zUFRLc2lfSDhzUEJXN0tweUxCZm4wNkFIbzBCUlFjWE5tM2lrdlM4VDRwcVpNUXJNaGZIUGMxUkhlZ3QxbzlmS29JNEdpZE9UZnRBWTg2R05sS255eHFtbzRyVTVwWUtUR29Da1BtTlgzSzJXekRkMUFvQ3RMcnNabll0Rm9JdWlYRXl1V2lSMnM2R2R3RlNxMnpPTVBEZ0tXUUdnVEUzMEk?oc=5",
     "source": "| Radio Barcelos",
     "ts": 1791903718
+   },
+   {
+    "title": "Barcelos recebe cinco distinções no Prémio de Excelência Autárquica 2026 - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVJIZjNhVWJhaUMxTTRqSEoyWllOMUhEYkxLNkFjR1BoRGZrQkRKVl9Ibi1kZUdYYXhJaGhqbk5LdlVqSVppUUxOYjFwUWU5aWRzdnpUX3h3SlVWR0dGaTBoMmJaOUFCQXFVZTlhbW9RWGxONG9Wb19Jako0T3JWZ1E0Rm1kZTg0MjBIMVVBZGNiLWVGeHZZ?oc=5",
+    "source": "Braga TV",
+    "ts": 1791900234
    }
   ],
   "esposende": [
+   {
+    "title": "Sismo registado em Esposende",
+    "link": "https://ominho.pt/sismo-registado-em-esposende-2/",
+    "source": "O MINHO",
+    "ts": 1791960418
+   },
    {
     "title": "Rede de Psicologia de Esposende reúne 30 profissionais e apresenta trabalho em congresso nacional - O Vilaverdense",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONVVhbVVhazFVWDFBTXNrR2FPbnVxUWRXLTE2OUVfdmhIVC1ya0dFNEIyNEhub2NKcDFIMXdrMk5Pa1RtMUpqdnpPaHE5TjI0SldqTnRyRngzb0lVV2JTbm9VZ0hWb3NRZUNMZnBmNktHZTRmSk1OZE1zY0Z6bERwaGVzaVUydXdjY1JadVYtUWZyUG9ma1JXczJvQWJwN0VZS1FSTXdGTzgtcWtrc2laV1p6NGlwOWFUcEtxOEFrVWY?oc=5",
@@ -1854,44 +1543,38 @@
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMWRoV3JhWk9GOGtraFo3SmZlRHl4aWF1OFNfS21tTEZKd3ZPOFZLbkdlWF9yWnVENGZWa2JWbDNqenlSbWZkdHlhSzR3dThBSl9SbjNyYllLQ0YyMU1QVEU5V3dOVHpLaEpvV3pCUTlDNnZDZUhrZWtyYnV0SG5UeC1YQXJRRVlIeHplLWZ5SnQ1YnlQdU9KUGZVb0Rjd2s?oc=5",
     "source": "TV Esposende",
     "ts": 1791839434
-   },
-   {
-    "title": "Faleceu Maria Lúcia Alves Salgueiro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5YS1R3eU1rM0ZRbWR6dTR0TzFSdlQzcURfSGpiNG0tN1VEaUtkOWpKTEk4cGN3WDVOVF9oRS15c3ZyZ2RCcDZyQl9oektncF9EeTdfNmxMSGNaeDl1bkdsX2lIX1o1V19hREVvTUdKdnd6dw?oc=5",
-    "source": "TV Esposende",
-    "ts": 1791811638
    }
   ],
   "mundo": [
    {
-    "title": "Médicos confirmam que Papa Leão XIV tem cancro do pulmão - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWGd2U0NaRTRXRlBjelY5cldtdHFaT0xTM1BkdGtYS3lKSXJIY0M5SUdIV1g4ZFdtbWkxejNsR1NhYWVWRnhsMS1pNFpDeVNHOV9LSEcyVlpOUjd3SWlBVGhsX0I3b0wydmc2VTkyel9QQjFiRmZPekFwTGdVWTFqVDNCSThwQms5akU2XzJWRVVqRGpsVG5iS3FjNjNFdEZIbUFUb0J6TGpaV2R3cGtKYg?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791922524
+    "title": "Ex-noiva do filho de Donald Trump e embaixadora dos EUA na Grécia demitiu-se - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdnQycmJkWGxpZGNQUTJhV1ZHUDMtUXNUU25XdkNhU253UWQ1ZHlHYV94b3dlT3dvaHQ3UnlnWUNta0dfZnh3UW54QWljZExGZE8zNXprdndkcTRiazRCZ2xxMFV0bTVPbm9fYlFBSjJyUkxHdU1DUWRwTE1HNURtS1FoM0V3X3VldUdybWJ2M3ZLMndKNFZYQU5tOTBPUjdob2tIckxvcmhlWnV0T2JqaFNYSULSAa8BQVVfeXFMTmFZTmJrVGg5UjgyaXlzWDhRVnRaS0IwSS1XaG1MTEdRYXU4MzV3Q0JoS0VwRGIzXzRvRXl6VDU0VWtXMmxUX1RHdk9hVWNCQVBnd2tlazlmWlFrc083YzRsUklzOU5PenFSMk5PTkR5ekMxU0dCanMyekJHSWF5REVnU2w2bWxGamYzQW1yVkZoa0JJbllwUE5lcXZ2Y2NhMFpZcm9nUzJDQnZmREdhYw?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791937800
    },
    {
-    "title": "Quinta jornada de protestos em França tem Greta Thunberg, bloqueios e novos confrontos - Público",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOGNzQUJ2anhjcmxtNmF2amRyWkZ1Ry13OFNqbFh0UnVTWHVmMkNsaXhjbHQ1Vk44dHZvZktyUk0xS3FtV0hROTFnRUUwVVYzeVVjQUxyUHVyVjQ5OGM5V3ZqMk54c3FwWng5ZF9GbFVBMk9xdWNzbVRnNS1XX2xaeTJEbHNwY21HS1E2a2ZUN1ZzTW43alZNX2RjLXdWM1ZKUkRsWW81MTVVV0l0MGM5ZXBsMlQzYnQ4RmtER0hxY1RNVU9BNHdBcQ?oc=5",
-    "source": "Público",
-    "ts": 1791908811
+    "title": "Edifício da maior petrolífera do mundo em chamas após ataque com míssil na Arábia Saudita - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQVG9jXzNvUkJleC1jeElSWUZvajFvOGlXV040V1Y3NC00MEJQdUxZX0R5ZlVJOWNySjB5MW9ZX2ppMmxLZ19hcWtjZ1N5M1lVTklEWGtiWDB2ZVhhcklRbVVMZGw5djlqVFg1YzV3eld3X1hWYW5PSUdlMDBLQzJ0QW9HbUFOSFg2ZWhWVkdxNmlwdHQyeE1yLXF5S3ByazFXWFdTMmlRcDVzQTdGTUZGZS1hZmRNWW1vR1p2S2hXVEd6U2xlY0Q5Rkc3ajdWdm96UHUtY0E2OGxQTHRzTzNvQVNUbmJuT3RlUzVKY2o3bnBpQ2ZwTFlGQQ?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1791931080
    },
    {
-    "title": "Houthis ameaçam Riade com resposta severa se coligação saudita atacar Sanaa - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb0tac2N6S0F2Q3Y2MU5hUVB5TUVUYUtwcGN0OEpxdjFnV0VZdWdYcDJVUy1DMDJ6QTJrRG5BbnAtbC00cVJCTktBWndzUDBNZjMzRk1MZ3Fkb3hYVzRHeXdYRW1yYWcwU2t6dHlZc2h2WTFkQUZoX2tDQTR1ZjY3ZHBnQ1RrT0ltb3FKNEgxV3pLUWl2WmNFaGdGVnp3cWo3a0ZBSUl4cFhiUjlqWkNTNzlUZHB4NHZKbU5weVlMQ0NYTl9ueU5wNjJrckZRWEtJdmdmd0JXRW5oWTNY?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791904274
+    "title": "Papa Leão XIV tem cancro no pulmão - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVkVTdld3c1FVemtQWlZvci1TNUlONmlOcE9xdmg4RktTeXR3czctckpkZURaekdiVEpaUkxnZmstdE00LXpqWEtfUHF4a3VKMDc4QmV4aEdfdXZWMHZjeUREalQ2cm1MLVlJU3ljamROS3BPX0czdW5ES295QUhOZ2ZvX3ZtZzRZX0tN0gGGAUFVX3lxTE9hcGh1c2x6RFI3WldYVUFTeUNHT0ZqWWY4azJwLVBTSHVXcVZzdW1kSG1qNmdyLVlwRzNrN0JjVFJSVy1CbjdYV2h3YllrU0Z2SnZuWFhua2xHV1Q4aWtuaGVMT0loTVBkOVdQR2h6RWdQLUR1SFNrZ1BUVHBhb2pQMWZfQVpB?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1791923040
    },
    {
-    "title": "Chefe do MI5 diz que Irão quer atacar bases militares no Reino Unido - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX2lQcHgzODg3dEN5R29VRUxmSk5jclNZXy1fMFVoYXZlbG5zbFZma0I2c2xRaVctVk51bUw1dE90UVVVeWFzU3hIWjJxYjFuOUpIVWxqRkVGZGNDYlE3cXVTVGRWODljM3R1UmM5QlltX2gyYnU1WURjWnhTY0w2cUt6Z05MdkNrME9TQlAtbm1qSjdwRjRuUzlnUjhRTmxhSnBxRTNLYldBRDVFTnVxU2cxb29ZS2FsS3NsR19UYlIwZw?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1791899587
+    "title": "Zelensky diz que aliados não avisaram Kiev dos ataques russos com mísseis balísticos - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajgwUG9Dd3FoOTVUUEN3cXRKVW5iTzR2NU1VOUhVeVRUVjB5b1p4SVFOQ2I1cnA5b1ZnNHZ5QkR0T1JyQjlleXJsTnhTbmdLQXNUbFE5MTFMeFNFM3hOc0xwWDVWZTlsUTNHMjNlOVQxOFRiTGQtUTJ4SVNKSHBpZzEwZldnMXM1X2VXQ1hoVGpfaFJlalR5MzBpZDNGUFRCOHltQmV2TV9mWmVIYUxIUVZ3aw?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1791918685
    },
    {
-    "title": "Rei Felipe VI recebido e saudado por centenas de pessoas à chegada a Ceuta - Observador",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVC1lcEVYVTFKSm02WGJhSXVtNHJNRnZoSS1kNWJFQk9LbUJpeW02X0FLU0F4azZLN3hjV3pXcThUVUpIRmZib0RQUlBCVHJPaUFRVjBhWVRxTWk1eDhmWXlNLVNFODByTGJWV0ZHLTNqN2IxUlB6Vk5jSHdZazRFejg2QmtMZUZFVlZXZUZTak9OdEI2a3JZUUhEQXpDVldxbzZHT25jdHdFWXk3?oc=5",
-    "source": "Observador",
-    "ts": 1791896890
+    "title": "Jovem cabo-verdiana de 13 anos nomeada para Prémio da Paz - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeDJfVXQ1cFREcmMwREowLTBtSnEtVDluSGJWVFVONGg1MGJ2blpQUHpQT0JMQTlNeDFUZXpVbzVlSEhIdkFSdE5vQ2tITHpiR2x5ak5PMW82dzJXSDV2eUJPTmdVcGctblJ2cjVXN2ZIVklnYmRmMm9wdmZOakNMZUstZktIUFpJcGJncllORWhNMzYtejlSSE5tMlFIcHhKbW9rS1FuTQ?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1791909240
    }
   ]
  }
