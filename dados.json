@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-14T11:00:08Z",
+ "atualizado_em": "2026-10-14T17:00:08Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-14T11:00:09Z",
+  "atualizado_em": "2026-10-14T17:00:09Z",
   "dias": [
    {
     "data": "2026-10-14",
@@ -1632,40 +1632,40 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Feira de Emprego “Grow Your Skills Up” reúne empresas e oportunidades no campus da UPCA",
-    "link": "https://e24.pt/barcelos-feira-de-emprego-grow-your-skills-up-reune-empresas-e-oportunidades-no-campus-da-upca/",
-    "source": "E24",
+    "title": "Carlos Eduardo Reis: “Formação, emprego e habitação são fundamentais para os jovens” - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZlF3U1V2bHIzekJ0VFNLNFpjRG5ERnFrT29lRUNHYVlVQWNyZUZxOU4xV1lfUWlxM3BxSGRBSDRhOXVqeS01cEV2ZmU1VTl5SV9UY0VEalB6YV9CT0liMzVPNTRVWTdGbW1kbEpKUkhWc0tTSEFXSUd1cmc5d0Q5VXZwWDZIWUREaHlhNFItQlN4TVIwczNKTG1vNFBKM0VoWEo5b3FWRjk1MHd6Y3BfdkRrT1BIMVk?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1791996212
+   },
+   {
+    "title": "Fórum Económico debateu em Barcelos desafios da indústria têxtil, do vestuário e do calçado - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1RQOVg4bm8xcHN1YWd5M200U0tPY0ZxMUd1cW5NTnJ2WGdscHdKU1RJUzlVdEJ6M2lsTjZTOHowNmJoMjZIZVp5UXdxSkRCTHBhWnhwalczVWpxcDNNVUVESHF2TWtmSmI1OG5MMk93azl0LU5qTVFnaTFtcXVacUh4SGJ1YUowVHBxUDBVUkIwV1BhTjFRT21PcVphd1NXVTk0WlJSZk1vVUljOGd5SjR6THV4SU5HQmZsMzRHRndmdDRwcHJJQ3BldWl0TzVmd3JobQ?oc=5",
+    "source": "SAPO",
+    "ts": 1791990994
+   },
+   {
+    "title": "Mais “uma aventura” de Arlindo Fagundes em Barcelos - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPLWdRdDA0cmhja3F2Y0NjRmQ2b3V4VmF1aEtLYUxyMnc2YkVuV0ZJcDd2ZUlMdjZTcmZqcnZjbVZfclRJMjRrc29GS1NrYnF4bmhvUWtLZUJnMGNia3lTRll2TzRnT3Y1T3Z6UEZYTkhITnIxYVRUTUl6OHNYQlFfWnRoWXJHakl4bTA5Nzg0b3BIZDB0?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1791984839
+   },
+   {
+    "title": "Novo Hospital de Barcelos ficou fora do OE 2027 - Rádio Onda Viva",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFByMnp3Mktnc21LeVhNV3lCSkdESTlzUG9iME5FWm9za000d3hkcmVoMTV6NjAtMk1KX1p6eWl2bVRlUzlkRE51dGVqemZiOE9XRDAzWGZlUkhQd1BZR003WVVZQ1RBcmJ1bG1KTk9zVHlRUEZTbDJVek1NOXQ3dw?oc=5",
+    "source": "Rádio Onda Viva",
+    "ts": 1791983741
+   },
+   {
+    "title": "Barcelos: Feira de Emprego \"Grow Your Skills Up\" reúne empresas e oportunidades no campus da UPCA - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMXcybGNYZWV2N0xCS2RJcUF0VUlMMWE3cm95SUc5TnYtZ1dXQmJvLTdaOWM3SG5pd0lwSWhoS0o0dTBaR2dsU216NDBzTlB1NVRrYlNNeWRMcDFYZmdpSEEzUnR5X0ZBWVUyMU8zYS14S21fc0pXTzIzbkxuSWlFbk9MRWlodW4xNEhDWFhaY0ZRSVFBYTdRTmhmX3RQWjdUdUdSbFpvblRlQW9hTVFZ?oc=5",
+    "source": "e24.pt",
     "ts": 1791975548
    },
    {
-    "title": "Café Liberal servido em Barcelos - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rUlB1bEZ0TGQ0SUd4RXBsOUppbmRhUXBjSEFacWdSVmlCOXlSY1hYeTl5T1FzaGhWQUFLajVmVnVjd0JfanZaZTBpbEo4TTlrelliekRaNFpNX01LQ1V0cUxjcy1FSDNDQXZPbjQtbEZPeW54R0JFVDhXVnd4Zw?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1791974617
-   },
-   {
-    "title": "Museu de Olaria em Barcelos dedica exposição à obra do ceramista Arlindo Fagundes - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTg3TTd2dVBUemFOaGRXYWdzTzBvYUgwVW8zdHV4THdrZzJTUjZsMVM2bG5ORF8zUGg5UHU5SDdESVlTQ1hyRS03MmZ2WVRDUzVpMmw0a2trODAwNU9QZXJuWHRtQ1hRd3hrT1pFdzhUX3dnSFIxYk1PRHVmM3V6UGxCTTJ3V1VUVmZmRXhZODNfa1VhQXZpNlM5UTZvVTdRckVR?oc=5",
-    "source": "Braga TV",
-    "ts": 1791973188
-   },
-   {
-    "title": "Taxista detido por excesso de álcool após acidente que feriu duas raparigas em Barcelos",
-    "link": "https://ominho.pt/taxista-detido-por-excesso-de-alcool-apos-acidente-que-feriu-duas-raparigas-em-barcelos/",
-    "source": "O MINHO",
+    "title": "Taxista detido por excesso de álcool após acidente que feriu duas raparigas em Barcelos - o minho",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUI4amg5bDVLNFFqeHVoYXBXdG5HOFo3bkptNjladkFuNEVoRG1GQkJReDU0QnBUNVptU05xTkx1MWlSZ0NTd3dONDJsck5idGdYRTQ0aXRWbnk2M2EwdTgzQmpBZmpDYjNBRnZ3QUs5TXNxeHp2aklldHctU3EtVkJTa05SZFV3WGlielFwT0RpOWZKNWRyUU5YSk5YekVMek9VbkhYYjNWdw?oc=5",
+    "source": "o minho",
     "ts": 1791970142
-   },
-   {
-    "title": "Homem morre atropelado na estrada Póvoa de Varzim-Barcelos",
-    "link": "https://ominho.pt/homem-morre-atropelado-na-estrada-povoa-de-varzim-barcelos/",
-    "source": "O MINHO",
-    "ts": 1791967010
-   },
-   {
-    "title": "Olaria de Barcelos e Bordado de Crivo obtêm proteção europeia - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbFdISFQzNEZlbGJ1LUFkY0Fid3NWNnp0aWxXVTBndkdFSEdMV0FaZHI2Y29GZFUtS200Q2Q5Q2NUbXpocml0MG1XVGFzeEhZcEc5bHlWMF8xbDU0ZDl6YUdvWm12UGpFQUxXWTJ2SG9tS29KU1BUc2tZX2c3U0lDT3ZJUHd0RXluTHdhTVlBRVFhMkNBRXMyZGhCd3A1SjNGc0RnQlE5NWhkcjg?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1791960384
    }
   ],
   "esposende": [
@@ -1676,9 +1676,9 @@
     "ts": 1791974100
    },
    {
-    "title": "Sismo registado em Esposende",
-    "link": "https://ominho.pt/sismo-registado-em-esposende-2/",
-    "source": "O MINHO",
+    "title": "Sismo registado em Esposende - o minho",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Si11QTFkZUI0b1l2QXlmdC1TRHN4YjNnRTBUOTlVeGtCM2tZMm9ySkJ3eUNvRnRvR0N6X09Ba2FUVFpzRFNyc2RiTDRIVEY4MVV4ZkJfOEZHMWtVbFE?oc=5",
+    "source": "o minho",
     "ts": 1791960418
    },
    {
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Donald Trump anuncia exploração de petróleo e gás na Gronelândia - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWhJbUluWEJIbWw4YXRCMVdSckxTNXZMMWJsbk5DSDBGaHAxVi1EWlFha1ZBSm13STE2cVUtQUtNSE5ia2pkRDVoWXdVMEJQNkE0X1gwMndVUndoVThsbGxQdzVlVjN1ZUp1Y2xPcGJ1UnNMZ0RIaVV5OHJuM3BZVDFFdHhBZTdEQ0hFRENSYTNvU1NSWWg5UXp6NjdxT2gxTFdYNtIBnwFBVV95cUxQa3pJRUljNFYwX2UzbU1EQWpEWExiSVpaaE15bEdwbmkxc29rNmJ5ZTROTTI3ZlVwZ3JETGo2dlN4b0paV1Boelhna1lHVG9xMmp0YUdNQ0NjTmZFTWNBa2tTRE9mZlU5UTJpXzB3VVdYT2s0MUlYTnNKOHFqSVZsdm9KV2pHZW96SVI3bVVqUjVCeXI5UGVEYktaLUVBRms?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791963735
+    "title": "Como pode a Ucrânia fazer explodir o “pacto com o diabo” de Trump e Putin? - Executive Digest",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZU9kNDBqalY5cWRuajZPNUd0NDAyQ3JPU2xKbHpnYlQtalE1YzRtdk9hRW9NSGpLdlRpRHBVUkJkbTBpQWI4ZVRReFo3NjJMM0NzOG1NVEF3OEVzZkNOVW5QcVVTOXk0MG9Sa09iMk5oNUJZX2d5QzV5OS00Rmg0TzdLZktNMWR4c3ZkX1UwQlI4dkRTY095NGtrT2hSaG02VVdzcDk2MA?oc=5",
+    "source": "Executive Digest",
+    "ts": 1791986599
    },
    {
-    "title": "Irmão mais velho do Papa Leão XIV também luta contra um cancro - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTkZieG5FbHZuSWcyXzNvQVRyMVBZUTR3YU9JTFR2YzJTS0ViRDMyNzZoV01ubGNoaXAtaTZ1VklONnRGZzd1elJTLVhkSGtLa1RiUDF3ZHRXaWd5ckp3NW5wZC1jeTFEaEhJX1cxWXNyY1FZcFM5QzBsYUVZWGtPbHBpY0J3Uk5Oa3Zhbmc4cUZpSmRiZFN0cWNURDZyUDhhNWfSAZwBQVVfeXFMUFdQNml5RzIxRmpYWThxeFdEVmNqanU4LXB5aGlMSlZzUTE2Y1B3bnk3T3c3RFp6RHBtcmQ1cXZwNXJCSTdJX1hlcEk1RG9LY04yZmMzb0ZoZ2p2RWRTRWE1M2k1WThsSEt0TWpmQjdrbGpuYnFFSWxyc3hkbVlaRlotY2diTXdmVHFla2xacUdWQTNpc0NwYmtUNXFJ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791962280
-   },
-   {
-    "title": "Polícia turca assume controlo da sede de principal estação de televisão da oposição - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObHRnNDZieW80UjZiWnJLRjhmTmlrV2NzR1lkMlMyQ3VJTHBOREd6MUh5Y29KVTBkdGRPRnVfcnhVWHF1ZmM5RDhham5KTXQtaEludUhPZ1c1d3I4YWNQX0dzbUJ3X2Z4WDZNNUhuMWktcEFpWVRpRmk2MW03dVNVX1VOZVFuYXJEWnhlUElaaGlsTEUwT1pXdkx0QnZGTkFTeXpPRDR6YVRlbVpFTzNFMFhLelRKampuR2NNZGFB0gG4AUFVX3lxTFBaUkZSVk5OdzFRQjRtMmJUTDdheEhiX3BJMk43N1VvbWIyNnI3em1NYzk3OUVPdUwwQy1WMWVJZk9OT0ZkWktMUTU2anl4Y001djZpUWdWVnVfQXpEdl9XRFNndzU5cjZqMDNuTnpLZUNjOVBXbHI1ZFN1VGVaRjgwWXZlaEZwZmt2OS00eHg5SHFPWXVJU0sxdkdJeGpwOGNwOHU5UlF3MHpjRE9UNTkzOUxJMGpxSWo?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1791960240
-   },
-   {
-    "title": "Comissão “nada satisfeita” com proposta de compromisso para o orçamento da UE | União Europeia - Público",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSk8zYnVZQ2NMX0RQcTBnVUJ3VVp2bjdtU1NfRGtELUFiTkc0MDk4T1BWdjhPNU40MnMwOFgyNnctbEd4ei13QlNROTlfdlREc2FxV1FVYzN5YmR2OXF6WmcxeUQwY0lZY2VaMnZueG1WVE9kTUtucDdPWWltaTlVcEV4bHNldDV4bldmVVpuOTRoZEpwNGE0UUx5Nm1Xd3FxMC1rTkU3cEJERm1YUU9HQlVIRF9teU1zUmZ1SXR3?oc=5",
+    "title": "Arábia Saudita e houthis trocam ataques a instalações petrolíferas - Público",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQlJ1OXA3Y2RuLWZCbFljbUhaTTZ5VlQ2b1I5LWxNaHdNallHRzMxNnctWDBNMWdDWlp5a1ZjQVlENTI1RVQ1d09DcDcydXRReWZSU3UzbU9yMHFUOEE2d0VTenI1OUhsUmxUNVZFWDUzOF95dnNyU0pEMzhZeE9ZZ3RHS2RXZ1ZQaDZ6cDRmZmN5dDRZNGFlR3BERzNmUWZQZTBONXNYd1hEY2s0VzdqaDVYY29RQ1ZfN3c?oc=5",
     "source": "Público",
-    "ts": 1791955080
+    "ts": 1791985961
    },
    {
-    "title": "Zelensky diz que aliados não avisaram Kiev dos ataques russos com mísseis balísticos - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajgwUG9Dd3FoOTVUUEN3cXRKVW5iTzR2NU1VOUhVeVRUVjB5b1p4SVFOQ2I1cnA5b1ZnNHZ5QkR0T1JyQjlleXJsTnhTbmdLQXNUbFE5MTFMeFNFM3hOc0xwWDVWZTlsUTNHMjNlOVQxOFRiTGQtUTJ4SVNKSHBpZzEwZldnMXM1X2VXQ1hoVGpfaFJlalR5MzBpZDNGUFRCOHltQmV2TV9mWmVIYUxIUVZ3aw?oc=5",
+    "title": "Novos ataques a infraestruturas ucranianas. Zelensky acusa Moscovo de menosprezar Washington - RTP",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQY0p1LVFhS0ZrODdDeTNtaE90aXU4Vm5vYlBmSmowOWV2ZU9KOTdmeERfbXVjV3I0LUNfdGpCbUd0YWptc2IzeGR2ZlhWWnFCMlZOZnVhZkdWcEtPRGVpdnQ4RUFUWmhfSkFYQV9hQ1dMNHVhMGdaTjhfZmhFdXkzM2FZcTU1cjJCRzY1ZkQ0N0YzRmJnSXl0VS02TWh0d3FDOWdUVVJKTm9GSHo1VzZKdThCdlJZWVdvMXU4WVM4TUpHREl3cGUzbjJNdGRYdmM?oc=5",
+    "source": "RTP",
+    "ts": 1791984916
+   },
+   {
+    "title": "Os posts apagados e o CV duvidoso de Katie Zacharia, nova porta-voz de Trump - Público",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSVRSZUdMWkhxbWhhUkVNcWR3eXVHXzdVbGtOX1BlSkllVklDdFJ4SHBGYUtnTVl1R2RBMmtsXzNTX2dnLUN4NUFtblNoTmlIN1NwaEJ5bzh4dzNzQjA2UzE2MDBpZExMZlRjT1NmNnVnajRwelMwNnJxdVM1NWREYTlkVDBnc2piVmQ2OFZaMnkwaGdjdkJhN2xGZ21xT2djT2p4ZU9tVjhwQTA4dmpJSzBsTkY1cG9m?oc=5",
+    "source": "Público",
+    "ts": 1791983532
+   },
+   {
+    "title": "PSOE com vantagem de quase 12 pontos sobre o PP na primeira sondagem do CIS após o caso Maricarmen - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPa3dSNWQwUTJ0b3J2bjBJbGFtcUVGRmN2VjZxRVJPQThLZnk0Z3ZaRWtaVWstZExHVEJGSHRnM2ZOTjBKVGx6YWhXaUJGbXBQLVpPelg1ZlVPT0RjdjFRTlllT0R2UkJwODhPWTRWSTJzbVZwOWhUd2tWbzZ0MkdRX0V1WnEyeDJwcGhDMGlqczR4aWpONTN5TU8tR1F5WE0yWDBlODg3S3hTdm1GdzZpQWtCLVp5Wkw4cTlVT2k3bmROVE9MWGdvVg?oc=5",
     "source": "Diário de Notícias",
-    "ts": 1791918685
+    "ts": 1791977239
    }
   ]
  }
