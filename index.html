@@ -6,6 +6,16 @@
 <meta name="theme-color" content="#163B4D">
 <title>Barcelos Hoje — Tempo, Mar de Ofir e Notícias</title>
 <meta name="description" content="Tempo real em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo, notícias da região e os recursos oficiais mais úteis: Fogos.pt, Barragens.pt e Analisa.pt.">
+<script>
+  (function () {
+    const temas = ['original', 'atlantico', 'brisa'];
+    const pedido = new URLSearchParams(location.search).get('visual');
+    let guardado = null;
+    try { guardado = localStorage.getItem('barcelos-visual'); } catch (e) {}
+    const tema = temas.includes(pedido) ? pedido : (temas.includes(guardado) ? guardado : 'atlantico');
+    document.documentElement.dataset.visual = tema;
+  })();
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
@@ -348,6 +358,7 @@
 
   .skeleton{color:var(--tinta-suave);font-size:0.85rem;}
 </style>
+<link rel="stylesheet" href="visuals.css">
 </head>
 <body>
 
@@ -360,6 +371,12 @@
     </div>
     <h1 class="title">Barcelos Hoje</h1>
     <p class="subtitle">Tempo em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo e os recursos oficiais que realmente servem para alguma coisa.</p>
+    <div class="visual-picker" role="group" aria-label="Escolher aparência do site">
+      <span>Visual</span>
+      <button type="button" data-visual-choice="original">Original</button>
+      <button type="button" data-visual-choice="atlantico">Atlântico</button>
+      <button type="button" data-visual-choice="brisa">Brisa</button>
+    </div>
     <nav class="tabs">
       <a href="#tempo">🌡️ Tempo</a>
       <a href="#mar">🌊 Mar &amp; Ofir</a>
@@ -1196,6 +1213,26 @@ if (backToTop) {
   backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
   updateBackToTop();
 }
+
+const visualChoices = document.querySelectorAll('[data-visual-choice]');
+const setVisual = (visual, updateUrl = true) => {
+  document.documentElement.dataset.visual = visual;
+  visualChoices.forEach(button => {
+    const active = button.dataset.visualChoice === visual;
+    button.classList.toggle('is-active', active);
+    button.setAttribute('aria-pressed', String(active));
+  });
+  try { localStorage.setItem('barcelos-visual', visual); } catch (e) {}
+  if (updateUrl) {
+    const url = new URL(location.href);
+    url.searchParams.set('visual', visual);
+    history.replaceState({}, '', url);
+  }
+  const themeMeta = document.querySelector('meta[name="theme-color"]');
+  if (themeMeta) themeMeta.content = visual === 'brisa' ? '#EAF4FF' : visual === 'atlantico' ? '#071B2C' : '#163B4D';
+};
+visualChoices.forEach(button => button.addEventListener('click', () => setVisual(button.dataset.visualChoice)));
+setVisual(document.documentElement.dataset.visual || 'atlantico', false);
 
 </script>
 </body>

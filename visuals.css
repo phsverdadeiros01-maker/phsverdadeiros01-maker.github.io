@@ -1,0 +1,170 @@
+/* Seletor de aparência — não altera IDs, conteúdo ou JavaScript funcional. */
+.visual-picker{
+  display:flex;align-items:center;gap:.42rem;flex-wrap:wrap;margin-top:1.2rem;
+}
+.visual-picker span{
+  margin-right:.15rem;font:600 .68rem/1 'IBM Plex Mono',monospace;
+  letter-spacing:.12em;text-transform:uppercase;opacity:.68;
+}
+.visual-picker button{
+  appearance:none;border:1px solid rgba(255,255,255,.24);border-radius:999px;
+  background:rgba(255,255,255,.08);color:inherit;padding:.42rem .76rem;
+  font:600 .75rem/1 'IBM Plex Sans',sans-serif;cursor:pointer;
+  transition:transform .18s ease,background .18s ease,border-color .18s ease;
+}
+.visual-picker button:hover{transform:translateY(-1px);background:rgba(255,255,255,.16)}
+.visual-picker button.is-active{background:#fff;color:#12364b;border-color:#fff}
+
+/* ================================================================
+   VISUAL 1 · ATLÂNTICO — escuro, azul oceano e vidro
+   ================================================================ */
+html[data-visual="atlantico"]{
+  --azul-fundo:#0b3b5a;--azul-profundo:#061826;--azulejo:#25a9e0;
+  --telha:#ff7a66;--telha-clara:#ff9b86;--papel:#071624;
+  --papel-linha:rgba(154,210,236,.17);--tinta:#ecf8ff;--tinta-suave:#9fb9c9;
+  --verde-ok:#44d99a;--amarelo-aviso:#ffab5c;--vermelho-aviso:#ff6579;
+  --radius-s:10px;--radius-m:18px;
+  color-scheme:dark;
+}
+html[data-visual="atlantico"] body{
+  min-height:100vh;
+  background:
+    radial-gradient(circle at 10% 8%,rgba(24,126,180,.22),transparent 31rem),
+    radial-gradient(circle at 93% 24%,rgba(36,207,196,.12),transparent 26rem),
+    #071624;
+}
+html[data-visual="atlantico"] header.masthead{
+  background:linear-gradient(135deg,rgba(7,26,42,.97),rgba(9,65,92,.94));
+  margin:1rem;min-height:330px;border:1px solid rgba(132,207,238,.18);
+  border-radius:30px;padding:3.2rem 1.7rem 2rem;
+  box-shadow:0 30px 80px rgba(0,0,0,.34);
+}
+html[data-visual="atlantico"] header.masthead::before{
+  content:"";position:absolute;inset:0;pointer-events:none;opacity:.18;
+  background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);
+  background-size:34px 34px;
+  mask-image:linear-gradient(to bottom,#000,transparent 85%);
+}
+html[data-visual="atlantico"] header.masthead::after{
+  right:-12%;bottom:-100%;width:65%;padding-bottom:65%;
+  background:radial-gradient(circle,rgba(47,196,220,.34),rgba(28,126,190,.05) 54%,transparent 68%);
+}
+html[data-visual="atlantico"] .masthead-inner,
+html[data-visual="atlantico"] nav.tabs,
+html[data-visual="atlantico"] main{max-width:1120px}
+html[data-visual="atlantico"] h1.title{font-size:clamp(3rem,8vw,5.7rem);line-height:.95;letter-spacing:-.055em}
+html[data-visual="atlantico"] .subtitle{font-size:1.08rem;max-width:55ch;color:#b9d3e2}
+html[data-visual="atlantico"] nav.tabs{margin-top:2rem;gap:.55rem}
+html[data-visual="atlantico"] nav.tabs a{background:rgba(8,29,45,.52);border-color:rgba(161,221,244,.2);padding:.6rem 1rem;backdrop-filter:blur(12px)}
+html[data-visual="atlantico"] nav.tabs a:hover{background:#19a7d8;border-color:#71ddf3;color:#03141f}
+html[data-visual="atlantico"] main{padding:1.2rem 1.25rem 3rem}
+html[data-visual="atlantico"] section{
+  margin:1.2rem 0;padding:2rem;border:1px solid var(--papel-linha);border-radius:24px;
+  background:linear-gradient(145deg,rgba(17,46,66,.82),rgba(8,28,44,.9));
+  box-shadow:0 18px 48px rgba(0,0,0,.2);backdrop-filter:blur(18px);
+}
+html[data-visual="atlantico"] .section-icon{background:linear-gradient(135deg,#1fc2d9,#168fd0);box-shadow:0 8px 24px rgba(21,167,215,.3)}
+html[data-visual="atlantico"] h2.section-title{font-size:clamp(1.55rem,3vw,2.15rem)}
+html[data-visual="atlantico"] .now-card,
+html[data-visual="atlantico"] .fday,
+html[data-visual="atlantico"] .hour,
+html[data-visual="atlantico"] .sea-tile,
+html[data-visual="atlantico"] .cam-card,
+html[data-visual="atlantico"] .fb-card,
+html[data-visual="atlantico"] .emerg-bar,
+html[data-visual="atlantico"] .sea-table{
+  background:rgba(4,20,32,.62);border-color:rgba(154,210,236,.16);
+  box-shadow:inset 0 1px 0 rgba(255,255,255,.035);
+}
+html[data-visual="atlantico"] .now-card.hero{background:linear-gradient(145deg,#086e9c,#104b73 56%,#152d4c)}
+html[data-visual="atlantico"] .moon-card,
+html[data-visual="atlantico"] .moon-day{background:linear-gradient(145deg,#15294d,#091d38)}
+html[data-visual="atlantico"] .ofir-tempo{background:linear-gradient(135deg,#075477,#0c7790);box-shadow:0 16px 35px rgba(0,0,0,.24)}
+html[data-visual="atlantico"] .sea-table th,
+html[data-visual="atlantico"] .cam-card .cam-top,
+html[data-visual="atlantico"] .fb-card .fb-head{background:#0b3b5a}
+html[data-visual="atlantico"] .sea-table td:first-child{color:var(--tinta)}
+html[data-visual="atlantico"] .disclaimer{background:rgba(255,122,102,.09);border-color:#ff7a66}
+html[data-visual="atlantico"] .flag.aviso{background:rgba(255,171,92,.13);color:#ffc07d}
+html[data-visual="atlantico"] .flag.ok{background:rgba(68,217,154,.12);color:#67e9b0}
+html[data-visual="atlantico"] .flag.mau{background:rgba(255,101,121,.12);color:#ff8293}
+html[data-visual="atlantico"] .top3-card{border:1px solid rgba(255,255,255,.1);min-height:180px;transition:transform .2s ease,filter .2s ease}
+html[data-visual="atlantico"] .top3-card:hover{transform:translateY(-4px);filter:brightness(1.1)}
+html[data-visual="atlantico"] .top3-card:nth-child(1){background:linear-gradient(145deg,#71333b,#c55357)}
+html[data-visual="atlantico"] .top3-card:nth-child(2){background:linear-gradient(145deg,#07537a,#138bb4)}
+html[data-visual="atlantico"] .top3-card:nth-child(3){background:linear-gradient(145deg,#0b584f,#148779)}
+html[data-visual="atlantico"] footer{color:#7fa1b4}
+html[data-visual="atlantico"] #back-to-top{background:#17a4d6;color:#02131e}
+
+/* ================================================================
+   VISUAL 2 · BRISA — claro, limpo, azul vivo e coral
+   ================================================================ */
+html[data-visual="brisa"]{
+  --azul-fundo:#115db8;--azul-profundo:#073974;--azulejo:#188fe8;
+  --telha:#f05f62;--telha-clara:#ff7f7c;--papel:#eef6fc;
+  --papel-linha:#d6e5f1;--tinta:#102a43;--tinta-suave:#5e7387;
+  --verde-ok:#168b67;--amarelo-aviso:#e77642;--vermelho-aviso:#d64155;
+  --radius-s:10px;--radius-m:18px;color-scheme:light;
+}
+html[data-visual="brisa"] body{
+  background:
+    radial-gradient(circle at 100% 0,rgba(91,203,237,.23),transparent 31rem),
+    radial-gradient(circle at 0 48%,rgba(57,142,231,.1),transparent 28rem),#eef6fc;
+}
+html[data-visual="brisa"] header.masthead{
+  background:linear-gradient(118deg,#083e87 0%,#126fc8 58%,#21a7db 100%);
+  padding:2.8rem 1.5rem 2rem;min-height:300px;box-shadow:0 18px 50px rgba(14,78,138,.2);
+}
+html[data-visual="brisa"] header.masthead::after{
+  right:-9%;bottom:-130%;width:72%;padding-bottom:72%;
+  background:radial-gradient(circle,rgba(255,255,255,.26),rgba(255,255,255,0) 67%);
+}
+html[data-visual="brisa"] .masthead-inner,
+html[data-visual="brisa"] nav.tabs,
+html[data-visual="brisa"] main{max-width:1100px}
+html[data-visual="brisa"] h1.title{font-size:clamp(2.8rem,7vw,5.2rem);line-height:1;letter-spacing:-.045em}
+html[data-visual="brisa"] .subtitle{font-size:1.08rem;max-width:54ch;color:#dceeff}
+html[data-visual="brisa"] nav.tabs a{background:rgba(255,255,255,.13);border-color:rgba(255,255,255,.25);padding:.58rem .96rem}
+html[data-visual="brisa"] nav.tabs a:hover{background:#fff;color:#0c58a7}
+html[data-visual="brisa"] main{padding:1.1rem 1.25rem 3rem}
+html[data-visual="brisa"] section{
+  margin:1.25rem 0;padding:2rem;background:rgba(255,255,255,.76);
+  border:1px solid rgba(183,211,231,.72);border-radius:24px;
+  box-shadow:0 14px 38px rgba(38,89,126,.08);backdrop-filter:blur(16px);
+}
+html[data-visual="brisa"] .section-icon{background:linear-gradient(135deg,#168fe8,#16bad1);box-shadow:0 7px 20px rgba(24,143,232,.22)}
+html[data-visual="brisa"] h2.section-title{font-size:clamp(1.55rem,3vw,2.1rem);color:#0b3f70}
+html[data-visual="brisa"] .now-card,
+html[data-visual="brisa"] .fday,
+html[data-visual="brisa"] .hour,
+html[data-visual="brisa"] .sea-tile,
+html[data-visual="brisa"] .cam-card,
+html[data-visual="brisa"] .fb-card,
+html[data-visual="brisa"] .emerg-bar,
+html[data-visual="brisa"] .sea-table{box-shadow:0 8px 24px rgba(34,84,120,.07)}
+html[data-visual="brisa"] .now-card.hero{background:linear-gradient(145deg,#0a65bd,#12a1d1)}
+html[data-visual="brisa"] .ofir-tempo{background:linear-gradient(135deg,#075a9e,#079db3);box-shadow:0 14px 30px rgba(7,90,158,.2)}
+html[data-visual="brisa"] .moon-card,
+html[data-visual="brisa"] .moon-day{background:linear-gradient(145deg,#173b71,#112954)}
+html[data-visual="brisa"] .disclaimer{background:#fff0ee;border-color:#f05f62}
+html[data-visual="brisa"] .flag.aviso{background:#fff0e8;color:#cf6333}
+html[data-visual="brisa"] .top3-card{min-height:180px;box-shadow:0 13px 28px rgba(21,78,116,.14);transition:transform .2s ease,box-shadow .2s ease}
+html[data-visual="brisa"] .top3-card:hover{transform:translateY(-4px);box-shadow:0 18px 34px rgba(21,78,116,.2)}
+html[data-visual="brisa"] .top3-card:nth-child(1){background:linear-gradient(145deg,#e64e5c,#f47b67)}
+html[data-visual="brisa"] .top3-card:nth-child(2){background:linear-gradient(145deg,#075dad,#1899dc)}
+html[data-visual="brisa"] .top3-card:nth-child(3){background:linear-gradient(145deg,#087b75,#22aa8b)}
+html[data-visual="brisa"] #back-to-top{background:#126fc8}
+
+@media (max-width:700px){
+  html[data-visual="atlantico"] header.masthead{margin:.55rem;border-radius:22px;padding:2rem 1.1rem 1.3rem;min-height:auto}
+  html[data-visual="atlantico"] section,
+  html[data-visual="brisa"] section{padding:1.35rem;border-radius:20px}
+  html[data-visual="atlantico"] main,
+  html[data-visual="brisa"] main{padding-left:.75rem;padding-right:.75rem}
+  .visual-picker{margin-top:1rem}
+}
+
+@media (prefers-reduced-motion:reduce){
+  html{scroll-behavior:auto}
+  .visual-picker button,.top3-card,.fday.clickable{transition:none!important}
+}
