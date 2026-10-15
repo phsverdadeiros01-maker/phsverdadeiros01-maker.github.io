@@ -246,6 +246,14 @@
   .ot-strip .hour{background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.12);color:#eef6fa;width:60px;}
   .ot-strip .hour .t{color:#b9d4e0;}
   .ot-strip .hour .wind{color:#a9c8d6;}
+  .ofir-tempo .sea-grid{grid-template-columns:repeat(4,minmax(0,1fr));gap:0.5rem;margin:1rem 0 0;}
+  .ofir-tempo .sea-tile{
+    min-width:0;background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.12);
+    padding:0.65rem 0.55rem;
+  }
+  .ofir-tempo .sea-tile .label{color:#b9d4e0;font-size:0.65rem;line-height:1.25;}
+  .ofir-tempo .sea-tile .val{color:#fff;font-size:1.1rem;white-space:nowrap;}
+  .ofir-tempo .sea-tile .unit{color:#cfe3ec;font-size:0.68rem;}
 
   .disclaimer{
     font-size:0.82rem;color:var(--tinta-suave);
@@ -447,25 +455,6 @@
 
     <div id="flag-status" class="flag ok"><span class="dot"></span> a avaliar condições…</div>
 
-    <div class="sea-grid">
-      <div class="sea-tile">
-        <div class="label">Altura da onda</div>
-        <div class="val" id="sea-wave">– <span class="unit">m</span></div>
-      </div>
-      <div class="sea-tile">
-        <div class="label">Período de onda</div>
-        <div class="val" id="sea-period">– <span class="unit">s</span></div>
-      </div>
-      <div class="sea-tile">
-        <div class="label">Temp. da água</div>
-        <div class="val" id="sea-temp">– <span class="unit">°C</span></div>
-      </div>
-      <div class="sea-tile">
-        <div class="label">Vento na costa</div>
-        <div class="val" id="sea-wind">– <span class="unit">km/h</span></div>
-      </div>
-    </div>
-
     <div class="ofir-tempo">
       <div class="ot-label">⛅ Tempo agora · Praia de Ofir</div>
       <div class="ot-now">
@@ -479,6 +468,24 @@
           <span>💧 <b id="ot-chuva">–</b></span>
           <span>🌡️ água <b id="ot-agua">–</b></span>
           <span>😰 <b id="ot-sens">–</b></span>
+        </div>
+      </div>
+      <div class="sea-grid">
+        <div class="sea-tile">
+          <div class="label">Altura da onda</div>
+          <div class="val" id="sea-wave">– <span class="unit">m</span></div>
+        </div>
+        <div class="sea-tile">
+          <div class="label">Período de onda</div>
+          <div class="val" id="sea-period">– <span class="unit">s</span></div>
+        </div>
+        <div class="sea-tile">
+          <div class="label">Temp. da água</div>
+          <div class="val" id="sea-temp">– <span class="unit">°C</span></div>
+        </div>
+        <div class="sea-tile">
+          <div class="label">Vento na costa</div>
+          <div class="val" id="sea-wind">– <span class="unit">km/h</span></div>
         </div>
       </div>
       <div class="ot-strip" id="ot-strip"><div class="skeleton">a carregar horas…</div></div>
