@@ -10,9 +10,7 @@
   (function () {
     const temas = ['original', 'atlantico', 'brisa', 'wall', 'nocturno'];
     const pedido = new URLSearchParams(location.search).get('visual');
-    let guardado = null;
-    try { guardado = localStorage.getItem('barcelos-visual'); } catch (e) {}
-    const tema = temas.includes(pedido) ? pedido : (temas.includes(guardado) ? guardado : 'atlantico');
+    const tema = temas.includes(pedido) ? pedido : 'wall';
     document.documentElement.dataset.visual = tema;
   })();
 </script>
@@ -358,7 +356,7 @@
 
   .skeleton{color:var(--tinta-suave);font-size:0.85rem;}
 </style>
-<link rel="stylesheet" href="visuals.css">
+<link rel="stylesheet" href="visuals.css?v=20261015-0353">
 </head>
 <body>
 
