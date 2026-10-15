@@ -179,6 +179,17 @@
   .hour .ic{font-size:1.3rem;margin:0.25rem 0;}
   .hour .temp{font-size:0.85rem;font-weight:600;font-family:'IBM Plex Mono',monospace;}
   .hour .wind{font-size:0.68rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.2rem;line-height:1.2;}
+  .weather-forecast-inside{margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.2);}
+  .weather-subhead{display:flex;align-items:center;gap:0.5rem;margin:0.8rem 0 0;font-size:0.9rem;}
+  .weather-subhead:first-child{margin-top:0;}
+  .now-card.hero .hourly-scroll,.now-card.hero .forecast-strip{margin-top:0.4rem;}
+  .now-card.hero .hour,.now-card.hero .fday{
+    background:rgba(255,255,255,0.09);border-color:rgba(255,255,255,0.17);color:#fff;
+  }
+  .now-card.hero .hour .t,.now-card.hero .hour .wind,
+  .now-card.hero .fday .d,.now-card.hero .fday .lo,.now-card.hero .fday .rain{color:rgba(255,255,255,0.74);}
+  .now-card.hero .back-btn{border-color:rgba(255,255,255,0.65);color:#fff;}
+  .now-card.hero .back-btn:hover{background:rgba(255,255,255,0.14);}
   @media (max-width:700px){
     .forecast-strip{
       display:flex;gap:0.4rem;overflow-x:auto;margin-top:0.7rem;padding-bottom:0.35rem;
@@ -194,6 +205,8 @@
     .hour .ic{font-size:1.15rem;margin:0.15rem 0;}
     .hour .temp{font-size:0.78rem;}
     .hour .wind{font-size:0.61rem;margin-top:0.1rem;}
+    .weather-forecast-inside{margin-top:0.8rem;padding-top:0.7rem;}
+    .weather-subhead{font-size:0.82rem;margin-top:0.65rem;}
   }
 
   /* ---------- Lua ---------- */
@@ -451,22 +464,22 @@
           <li><span class="label">Pôr do sol</span><span class="value" id="w-sunset">–</span></li>
           <li><span class="label">Índice UV máx.</span><span class="value" id="w-uv">–</span></li>
         </ul>
+        <div class="weather-forecast-inside">
+          <div class="weather-subhead">
+            <button class="back-btn" id="hora-back" style="display:none" onclick="mostrarHorasHoje()">← hoje</button>
+            <h3 class="serif" id="hora-titulo" style="font-size:inherit;margin:0;">Próximas horas</h3>
+          </div>
+          <div class="hourly-scroll" id="hourly-strip">
+            <div class="skeleton">a carregar previsão horária…</div>
+          </div>
+
+          <h3 class="serif weather-subhead">Próximos 7 dias</h3>
+          <div class="forecast-strip" id="forecast-strip">
+            <div class="skeleton">a carregar…</div>
+          </div>
+        </div>
       </div>
     </div>
-
-    <div style="display:flex;align-items:center;gap:0.6rem;margin:1.8rem 0 0;">
-      <button class="back-btn" id="hora-back" style="display:none" onclick="mostrarHorasHoje()">← hoje</button>
-      <h3 class="serif" id="hora-titulo" style="font-size:1.05rem;margin:0;">Próximas horas</h3>
-    </div>
-    <div class="hourly-scroll" id="hourly-strip">
-      <div class="skeleton">a carregar previsão horária…</div>
-    </div>
-
-    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0;">Próximos 7 dias</h3>
-    <div class="forecast-strip" id="forecast-strip">
-      <div class="skeleton">a carregar…</div>
-    </div>
-
   </section>
 
   <!-- ===================== MAR / OFIR ===================== -->
