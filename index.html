@@ -108,8 +108,7 @@
   .updated-note{font-size:0.78rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.3rem;}
 
   /* ---------- Weather now card ---------- */
-  .now-grid{display:grid;grid-template-columns:1.1fr 1fr;gap:1rem;}
-  @media (max-width:620px){.now-grid{grid-template-columns:1fr;}}
+  .now-grid{display:grid;grid-template-columns:1fr;gap:1rem;}
   .now-card{
     background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
     padding:1.4rem 1.5rem;
@@ -131,6 +130,22 @@
   .stat-list li:last-child{border-bottom:none;padding-bottom:0;}
   .stat-list .label{color:var(--tinta-suave);}
   .stat-list .value{font-family:'IBM Plex Mono',monospace;font-weight:500;}
+  .now-card.hero .stat-list{
+    display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:0.55rem;
+    margin-top:1.1rem;padding-top:1rem;border-top:1px solid rgba(255,255,255,0.2);
+  }
+  .now-card.hero .stat-list li{
+    min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:0.15rem;
+    padding:0.6rem 0.65rem;border:1px solid rgba(255,255,255,0.12);border-radius:8px;
+    background:rgba(255,255,255,0.07);font-size:0.78rem;
+  }
+  .now-card.hero .stat-list .label{color:rgba(255,255,255,0.72);line-height:1.25;}
+  .now-card.hero .stat-list .value{color:#fff;font-size:0.9rem;}
+  @media (max-width:620px){
+    .now-card.hero .stat-list{grid-template-columns:repeat(3,minmax(0,1fr));gap:0.4rem;}
+    .now-card.hero .stat-list li{padding:0.5rem;font-size:0.67rem;}
+    .now-card.hero .stat-list .value{font-size:0.82rem;}
+  }
 
   /* ---------- Forecast strip ---------- */
   .forecast-strip{display:grid;grid-template-columns:repeat(7,1fr);gap:0.5rem;margin-top:1.2rem;}
@@ -397,8 +412,6 @@
           <span>Humidade<strong id="w-hum">–</strong></span>
           <span>Chuva hoje<strong id="w-rainprob">–</strong></span>
         </div>
-      </div>
-      <div class="now-card">
         <ul class="stat-list">
           <li><span class="label">Máxima hoje</span><span class="value" id="w-max">–°</span></li>
           <li><span class="label">Mínima hoje</span><span class="value" id="w-min">–°</span></li>
