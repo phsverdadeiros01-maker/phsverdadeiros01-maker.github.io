@@ -2,7 +2,7 @@
 
 - **Atlântico (predefinido):** `/?visual=atlantico`
 - **Brisa:** `/?visual=brisa`
-- **Linho:** `/?visual=linho`
+- **Aurora:** `/?visual=aurora`
 - **Original:** `/?visual=original`
 
 O código original anterior à renovação ficou preservado na branch e tag
