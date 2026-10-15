@@ -167,8 +167,13 @@
 
   /* ---------- Forecast strip ---------- */
   .forecast-strip{display:grid;grid-template-columns:repeat(7,1fr);gap:0.5rem;margin-top:1.2rem;}
-  .daily-forecast-panel{margin-top:1rem;min-width:0;}
-  .daily-forecast-panel h3{font-size:1rem;margin:0;}
+  .daily-forecast-panel{
+    margin-top:1rem;min-width:0;padding:0.9rem 0.85rem;border-radius:var(--radius-m);
+    background:linear-gradient(160deg,var(--azulejo),var(--azul-fundo));color:#fff;
+  }
+  .daily-forecast-panel h3{font-size:1rem;margin:0;color:#fff;}
+  .daily-forecast-panel .fday{background:rgba(255,255,255,0.09);border-color:rgba(255,255,255,0.17);color:#fff;}
+  .daily-forecast-panel .fday .d,.daily-forecast-panel .fday .lo,.daily-forecast-panel .fday .rain{color:rgba(255,255,255,0.74);}
   .fday{
     background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
     padding:0.8rem 0.4rem;text-align:center;
@@ -353,11 +358,20 @@
   .sea-table td{vertical-align:top;}
   .sea-cell{display:flex;flex-direction:column;gap:0.1rem;}
   .sea-cell span{white-space:nowrap;}
-  .sea-forecast-panel{margin-top:1rem;min-width:0;}
-  .sea-forecast-panel h3{font-size:0.9rem;margin:0;}
+  .sea-forecast-panel{
+    margin-top:1rem;min-width:0;padding:0.9rem 0.85rem;border-radius:var(--radius-m);
+    background:linear-gradient(150deg,#123a4a,#1a5266);color:#eef6fa;
+  }
+  .sea-forecast-panel h3{font-size:0.9rem;margin:0;color:#fff;}
   .sea-forecast-panel .sea-table-wrap{width:100%;max-width:100%;min-width:0;margin-top:0.55rem;scrollbar-width:thin;}
+  .sea-forecast-panel .sea-table{background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.14);color:#eef6fa;}
+  .sea-forecast-panel .sea-table th{background:rgba(255,255,255,0.1);}
+  .sea-forecast-panel .sea-table td{border-color:rgba(255,255,255,0.12);}
+  .sea-forecast-panel .sea-table td:first-child{color:#fff;}
+  .sea-forecast-panel .sea-table .cella{color:#b9d4e0;}
   @media (max-width:420px){
     .ofir-tempo{padding:1rem 0.75rem;}
+    .daily-forecast-panel,.sea-forecast-panel{padding:0.75rem 0.65rem;}
     .sea-forecast-panel h3{font-size:0.8rem;}
     .sea-forecast-panel .sea-table{font-size:0.7rem;}
     .sea-forecast-panel .sea-table th,.sea-forecast-panel .sea-table td{padding:0.36rem 0.42rem;}
@@ -488,6 +502,8 @@
   html[data-theme="dark"] .flag.mau{background:#3D2422;}
   html[data-theme="dark"] #noticias-list .news-cat,
   html[data-theme="dark"] .fb-h{color:#8FC3D6;}
+  html[data-theme="dark"] .daily-forecast-panel .fday,
+  html[data-theme="dark"] .sea-forecast-panel .sea-table{background:rgba(255,255,255,0.07);}
 </style>
 </head>
 <body>
