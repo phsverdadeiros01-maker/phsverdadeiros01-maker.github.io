@@ -102,7 +102,6 @@
     display:flex;align-items:center;justify-content:center;font-size:1.05rem;flex:none;
   }
   h2.section-title{font-size:1.5rem;margin:0;}
-  p.section-lede{color:var(--tinta-suave);margin:0.2rem 0 1.3rem;max-width:56ch;}
 
   /* ---------- status pill ---------- */
   .updated-note{font-size:0.78rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.3rem;}
@@ -149,7 +148,6 @@
 
   /* ---------- Forecast strip ---------- */
   .forecast-strip{display:grid;grid-template-columns:repeat(7,1fr);gap:0.5rem;margin-top:1.2rem;}
-  @media (max-width:700px){.forecast-strip{grid-template-columns:repeat(4,1fr);}}
   .fday{
     background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
     padding:0.8rem 0.4rem;text-align:center;
@@ -181,6 +179,22 @@
   .hour .ic{font-size:1.3rem;margin:0.25rem 0;}
   .hour .temp{font-size:0.85rem;font-weight:600;font-family:'IBM Plex Mono',monospace;}
   .hour .wind{font-size:0.68rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.2rem;line-height:1.2;}
+  @media (max-width:700px){
+    .forecast-strip{
+      display:flex;gap:0.4rem;overflow-x:auto;margin-top:0.7rem;padding-bottom:0.35rem;
+      -webkit-overflow-scrolling:touch;scroll-snap-type:x proximity;
+    }
+    .fday{flex:0 0 72px;padding:0.5rem 0.25rem;scroll-snap-align:start;}
+    .fday .ic{font-size:1.35rem;margin:0.18rem 0;}
+    .fday .hi{font-size:0.9rem;}
+    .fday .lo{font-size:0.75rem;}
+    .fday .rain{font-size:0.66rem;margin-top:0.12rem;}
+    .hourly-scroll{gap:0.4rem;padding:0.55rem 0 0.25rem;margin-top:0.25rem;}
+    .hour{width:54px;padding:0.42rem 0.2rem;}
+    .hour .ic{font-size:1.15rem;margin:0.15rem 0;}
+    .hour .temp{font-size:0.78rem;}
+    .hour .wind{font-size:0.61rem;margin-top:0.1rem;}
+  }
 
   /* ---------- Lua ---------- */
   .moon-card{
@@ -414,8 +428,6 @@
       <div class="section-icon">🌡️</div>
       <h2 class="section-title">Tempo em Barcelos</h2>
     </div>
-    <p class="section-lede">Previsão em tempo real via Open‑Meteo.</p>
-
     <div class="now-grid">
       <div class="now-card hero">
         <div class="now-place">Agora · Barcelos</div>
@@ -463,8 +475,6 @@
       <div class="section-icon">🌊</div>
       <h2 class="section-title">Mar &amp; Praia de Ofir</h2>
     </div>
-    <p class="section-lede">Previsão horária oficial do IPMA para a Praia de Ofir — mar total, ondulação, período, vento e temperatura da água.</p>
-
     <div id="flag-status" class="flag ok"><span class="dot"></span> a avaliar condições…</div>
 
     <div class="ofir-tempo">
@@ -524,7 +534,6 @@
       <div class="section-icon">🌙</div>
       <h2 class="section-title">Fase da Lua</h2>
     </div>
-    <p class="section-lede">A fase lunar agora, os próximos dias e as próximas mudanças de fase — para noites de praia e passeios ao luar.</p>
     <div class="moon-card">
       <div class="moon-icon" id="lua-icone">🌖</div>
       <div class="moon-main">
@@ -542,7 +551,6 @@
       <div class="section-icon">📹</div>
       <h2 class="section-title">Câmaras ao vivo</h2>
     </div>
-    <p class="section-lede">Câmaras da Nazaré e de Ofir para acompanhar o estado do mar e a ondulação.</p>
     <div class="cam-grid">
       <div class="cam-card">
         <div class="cam-top"><span>🏖️ Praia de Ofir</span><span class="live"><span class="dot"></span>AO VIVO</span></div>
@@ -581,8 +589,6 @@
       <div class="section-icon">📰</div>
       <h2 class="section-title">Notícias</h2>
     </div>
-    <p class="section-lede">Barcelos, Esposende e Mundo — os mais recentes, via Google Notícias.</p>
-
     <div class="fb-h">📘 Vila Cova no Facebook</div>
     <p class="fb-sub">Os últimos posts das páginas locais — em direto do Facebook.</p>
     <div class="fb-grid">
@@ -615,8 +621,6 @@
       <div class="section-icon">🗂️</div>
       <h2 class="section-title">Recursos úteis</h2>
     </div>
-    <p class="section-lede">Ferramentas úteis para acompanhar tempo, mar, ondas e informação em tempo real.</p>
-
     <div class="top3-grid">
       <a class="top3-card" href="https://fogos.pt" target="_blank" rel="noopener">
         <div class="ic">🔥</div>
