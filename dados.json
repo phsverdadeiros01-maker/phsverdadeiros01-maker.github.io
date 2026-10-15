@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-15T11:00:14Z",
+ "atualizado_em": "2026-10-15T17:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-15T11:00:15Z",
+  "atualizado_em": "2026-10-15T17:00:15Z",
   "dias": [
    {
     "data": "2026-10-15",
@@ -1632,6 +1632,30 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Olaria de Barcelos e Bordado de Crivo de São Miguel da Carreira obtêm proteção europeia como Indicações Geográficas - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQSDNENEJ3MzRnNnhUbUxpazJzeTFrb0V4dnpRaW9WbmJqM3FUZHB3UDExbDNfU1Jydm1LRzdORkRzNENqU2kxNkV3SDdaajJZN3p5bzVNQnRjUHdxcGFNcWlxVVFSRUJKTHZNbGcyMkdEaEFGVjBQQ0FSc296WGZZSUw4dmRSQm5lRVZId08zcnlGTjRZVnBYcG9ObjhzaXo0VkFFdXdCdWNlLTRSNV95OW1YOGRQc0Fia1FwQ0dRSzMtZUFjdEJjNmxkSkdPX2ZhLXJQXzNuclZQS3E5bDFhUkZQellzUTg4eU5NcHRiQmJJQjN3QlE?oc=5",
+    "source": "SAPO",
+    "ts": 1792075020
+   },
+   {
+    "title": "Exposição em Barcelos mostra a faceta de ceramista do ilustrador de “Uma Aventura”",
+    "link": "https://ominho.pt/exposicao-em-barcelos-mostra-a-faceta-de-ceramista-do-ilustrador-de-uma-aventura/",
+    "source": "O MINHO",
+    "ts": 1792073587
+   },
+   {
+    "title": "Barcelos já prepara o Natal com a instalação das iluminações festivas - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjJXTXlLYVNZUEFVNEZZRnBPbGViT3NqTTB6em9pTVNIRW1HbDF4QTYwZEJvUjJ4NWdFeTRzcDBuOFluRU9FS2xoc1BER00yQThrTUhkTUJrWFVTdXg1c05FMnRiaGZBdlBDWld3LTB5NXprM01TNWMxczF3b0tVWjNrRW1TNmZSc09iaml2alNzVFk?oc=5",
+    "source": "Braga TV",
+    "ts": 1792070128
+   },
+   {
+    "title": "Feira de Emprego reúne oportunidades profissionais em Barcelos - radioondaviva.pt",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlFLN2NlY0lmVUVfUkhUTnQ2NkFEODhGNUFYX1dyR0xXQVRJa1Y3R3JzZW8zVldCbWswM1F6VjNsaWpKQVdVNWFJWE55YmRhVUNSMUtwTUduWUQ0Wk5zekVjNDF1U2dYMXhYVm1CdFdTSy15aVJUa1pGMFl4RVNQMDlTa2l3TjMtN3RMN1ByWldHZw?oc=5",
+    "source": "radioondaviva.pt",
+    "ts": 1792069233
+   },
+   {
     "title": "Minho: Governo paga até 70 euros por javali abatido em Barcelos, Amares e Vila Verde",
     "link": "https://e24.pt/minho-governo-paga-ate-70-euros-por-javali-abatido-em-barcelos-amares-e-vila-verde/",
     "source": "E24",
@@ -1642,33 +1666,33 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSEtjbm1oTVNTZHZ6dGFwRTdyY2p4aDlmQXdXRkNfLXpIMFR2OHB2NFBqWDJtekdoS0k5NnlsX21rYTZ0aUZ2aHR3UlVMSVJCWGFOaWd5NkQ0d3hVZnBVNkpVVXdrdTBoaWp3Rk1WS3BoQXp3Q1hFWEszUENvV3VQVnVkZzZZRk9ZdzFXS0t1WmhoYW84SVFfajRZZ1U?oc=5",
     "source": "Correio do Minho",
     "ts": 1792058514
-   },
-   {
-    "title": "Barcelos: Feira de Emprego “Grow Your Skills Up” encerra com balanço positivo de Carlos Eduardo Reis",
-    "link": "https://e24.pt/barcelos-feira-de-emprego-grow-your-skills-up-encerra-com-balanco-positivo-de-carlos-eduardo-reis/",
-    "source": "E24",
-    "ts": 1792056450
-   },
-   {
-    "title": "CLuB - Clube de Leitura de Barcelos - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jRzBoTzJzV2tFN2ZjbVZrVTdEMXZfcWplbVlLcVk1Zk4tdmNuSm8xN2VrMjBLbkRyNVZyQXN3ZjR4OHF2NFJKS1FxTi1pejlJa1o2QUVGRGRGT3pBdjdncUhXQkc2dXpOUERlb3ZiaW5Tejg5QV94S2tuZFg?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1792051274
-   },
-   {
-    "title": "BE de Barcelos critica ausência de verba para novo hospital no Orçamento do Estado para 2027 - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcWpSSVRVTXg3UDc1TUpubml1VE9lLXJnX2lDQTJwanRXdU9ZNzd1dG5mSXBPbDZTVExsbFJ2ZVJBOFFwWUJkejV4Nm1Sa0F4a3d3bUtpNEpNcmx6c0dQMXhRZGxLcEgzNllCZnZaemVfR2EtM3RudUJPMVVERkpGWlpKRm1TUUo2RVBQVUpFczFxMjJWRFdHdGlzdnpmZGF0YnFuWWNmQVllWmdZUUJidkU3d0htdWNXbHc?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1792048860
-   },
-   {
-    "title": "Inês Aires Pereira anima Barcelos com “Namastê” - ComUM Online",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSDNoVDZnbXZvMTZ6UXloN2dhTFZiZUZxa3FfZ2RHYnFoeEJ4Y0ZXZlhGSFh6SXFQVWRFUEpnMXE3Ny1SY3I2NzdsTTVNNjhuWDN2dWlUcTVHSlBwVW9tN1JaQXpibkhXeU9nRlFMbUR6eXlMcng0WDF1NXZkcnNpdU92VXg2Zw?oc=5",
-    "source": "ComUM Online",
-    "ts": 1792040242
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Investimento de 600 mil euros em saneamento e ruas na freguesia de Forjães",
+    "link": "https://e24.pt/esposende-investimento-de-600-mil-euros-em-saneamento-e-ruas-na-freguesia-de-forjaes/",
+    "source": "E24",
+    "ts": 1792083503
+   },
+   {
+    "title": "Esposende: Detido por incendiar carro de familiar - TV RECORD Europa",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSE51OTd2Z3VGVVkyaURKV24zUnN5bGZpQWNScXUzMHFmSnc3LWF5UFJsRWJMa3FyeGxoaEpUd1pEa2o0MHJvRFVoMFlzNG13RThGRWxIQnZsbG1zTXZKZUowYWR3SGVjY1FnZndkZUtKSG0zYzl0N21VLXd2Zi1tenExUXNvZ1ZrdHNXTFdsWTVnMkJoRkxobk9aUWRub2Y2YmpVQkxtaDlvdXdzVXc?oc=5",
+    "source": "TV RECORD Europa",
+    "ts": 1792080681
+   },
+   {
+    "title": "Esposende inicia discussão pública do Projeto de Regulamento Municipal de Benefícios Fiscais - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcm0wcjl5SkR5am53bWxma1VGNXpIRU5IRlA0aTRTdXNRemZlanYzTmMxcnVLSzY1UGYxZHF2NFh5dWNSZzJ2WDZZNmhIdTNmQWFFbW9Qdlp0b0IyNXgyaTFObXo1X0ktcEVzUXBQcGRtSGNEWWtZaF9mQ1gzRC1UZDBERm91R1dBeXNKVXlJbFNZNHg4QTRtY1dhcF8tbW9xenpMbEpHTHhmSzl0VnJfOHk0WGl3bS1HVHhJM1B3?oc=5",
+    "source": "TV Esposende",
+    "ts": 1792079336
+   },
+   {
+    "title": "Esposende: Quatro terrenos em hasta pública",
+    "link": "https://ominho.pt/esposende-quatro-terrenos-em-hasta-publica/",
+    "source": "O MINHO",
+    "ts": 1792079278
+   },
    {
     "title": "Rede de Psicologia de Esposende leva experiência a congresso da Ordem - O Amarense – Jornal",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVkFXZUxtcFNNTno0QzBOc2tidnpOUm1KQWpjU3k2RlBuX1dKYTFYSndlSzg1b2Q2QkJRN0ZUeDFZb0NqQnVHcUN0S25aUTJwOWtJemRQcjJnWDhuUXZWZ1Q0Ymp1T2dXUDJZZ0RUenVmSzYyWFZfX1hTeUlGUnduc1ZpbUpGWkdaa2dQVl84SVZIam84dmc?oc=5",
@@ -1680,62 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb25oaGdDem9vNDA0a0NnVFZJVk1HbzNjMUtQTTk3OXRhel8wUXliTG5jWk1BYnROZ2hWRzFXT0Mta09rNWVLYVJITFJHUHotUEI2TUVfNHpONzBkM1lYbnlBaUh4N09OUk9nQnk2VXRSdWstWURkTV9vVjhweHJvbS1VeTM?oc=5",
     "source": "Braga TV",
     "ts": 1792015645
-   },
-   {
-    "title": "Sismo registado em Esposende - o minho",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA3Si11QTFkZUI0b1l2QXlmdC1TRHN4YjNnRTBUOTlVeGtCM2tZMm9ySkJ3eUNvRnRvR0N6X09Ba2FUVFpzRFNyc2RiTDRIVEY4MVV4ZkJfOEZHMWtVbFE?oc=5",
-    "source": "o minho",
-    "ts": 1791960418
-   },
-   {
-    "title": "Município de Esposende assinala Dia Internacional do Património Cultural Imaterial com apresentação de conto juvenil - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUWRXaGEwRGc3QkpiN1JOMUVsWWlCT2o0SXJOWFdSc1RlN01JS2JKLTVqWVdZblFqU3pBUW53U1RfaTN2eWdDN3o5QThqZHlTcmhmUEZLWkVNR3VNekZhVTczMlU4RWI3RDlpRlNxaEFqMnl1YjZmWDBwMUYzM0lkMDhDenA4a00wX181bXd6d2pzTDl3eFpybHk2OUd5TFpYVmgwSFh3TFhjSElZLWFERlFDU1puOHd4dFRyRG94Z1llTzZMQUpFbGZOX01SWXI2NDkyaVRmRWtxeDB4SnRiNms2WnVOY3lfX0taZU5DTjUzemlxckkw?oc=5",
-    "source": "SAPO",
-    "ts": 1791912369
-   },
-   {
-    "title": "Esposende promove sessão gratuita para reforçar competências digitais - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQLTM1c2dEWUstZzRJUEswMk43UTBNNGRaeFlZdWRUbURkcUJROUtud0Y1MEdBbkJ3NEZ2TllLbHROTWtJcnJJdXItbTlhSjQyb2VxQ2NMVEJMcTBTT1M0V1BsTXBCY1dDUUExYkdPVUxYeVhTNGZzNUZPRFloa1pGYTNQTzNVcnVQa1BRRXBFVkVJaDA?oc=5",
-    "source": "Braga TV",
-    "ts": 1791894984
-   },
-   {
-    "title": "Faleceu Maria Lúcia Alves Salgueiro - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWERhVE42c1FMTWhxYUVza0RxTTlPc1R2R3ZrX0JVcEo2cThCSzlVQU9JZmNVa040R0tKSnVURDd1LWt3Y01kaFdYUmd0aEpST1BpaEpWb2pWSVRoT2E4TmtCYldMV3ljUUV0M0dfQUFaUV85bjM5bExZaFc1QmZycG5TdTFTdEFMY3VZ?oc=5",
-    "source": "SAPO",
-    "ts": 1791808581
    }
   ],
   "mundo": [
    {
-    "title": "28 crianças e um professor morrem em desabamento de escola no Paquistão - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFBQNEtHS1ozS3pWLUE5VmtfSG40cWh4TU5UaHlRZHItNloxSktPZ3FfeTZyd1JVT1pZVVFWYksyLU9Lams1d3JGLWEyOW5XWkV5Y0d1bVRoM3V5elJiWmZHOF9kVk5kTkVpZUFqUUVqRUl4ZGNDU1ZabFVoNjFRUXpBT0lZSG0zR2dmcDRLMXVEY1ktLVlET3NBOTNFU0JTTTBWaEtPdE1oMllaTHc?oc=5",
+    "title": "Estado da Nação: João Lourenço diz que os objectivos que tinha quando chegou ao poder não foram esquecidos, mas apontou as crises internacionais como entraves à sua plena concretização - Novo Jornal",
+    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNS1dDUGYzY0xVeFNNcWhIMGFZVUZ1TDZwNEZReUgwZ0J5SlVlaVNrWWhKeGJnajBaUzJZX0lRX2h5aHhhM3lfUWkzdmF1eURyUTFpRmx4eWdSNVVKSVdOcy1pRS1IMkZQT18zenhka0I4RDVDa2xYWnVXNXNLbm9SXy1KZ285NklmY2JfTV9yNXhrR3JDTC1rbU56NjNKVUNWMld2SXpzVFBUeGFBWWw1ejB5T1k4RV80Y0VmS0xYLU5RYVFqMkREZUkyMXZYRWg1aFlFNnhOZ241VnlTb1loa2lfbHhHWE04MnVIV1NaWHBSMlVaTlJsVzZ4cnZuMHFlOW42UlI1eDYyTEJTOEU5WXJvbnRNc0FXSU41dWVEVXRfaEVYeGI3TTVpQnlmcWdUMkh3OXJKdWRoOHhyZEpQeWMtTlI0OHltdHh1anh2YUg1Y2JRd2JOSnlTYi15R0lRbWt2QjFMeDFTbEU?oc=5",
+    "source": "Novo Jornal",
+    "ts": 1792080306
+   },
+   {
+    "title": "NATO convoca reunião de emergência sobre ataques com drones a navios no Mar Negro - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzNHWXhkVjExOXZpNTdxY1FRMUZIU1dTZUVSZjZPU0pCQTNoWmozSnN0SHlFZk1ITVpQc19PZE51QXRzWHZ3cmZRSWpqd0hvTWFWZzRDTFJ1b0JoVmUwbHo1TDlTRzl4eGRHa1ViZ3hGbE9Gd25taTJ2OGF6WkdqX0xzUjZUM3JacGxsVlVDUG8yZ0MyTlhjYWxtT1JTb2hPTEtTZDNWUGFqVERlbEdfb01zY05Sd1pTcEFB0gG2AUFVX3lxTFA3NE5tWEJkMnd4YWR2TkVBUVFWLXphZ0kwalh0MW9RZG9HZXpYMEVmTUtqZFB1a29GSEZoVWJuVTlCWmg0MU9VQlh6RnpsS0ZoR1ZqT0VMUWtxVmoyclFpMVQ4MVFhZVdyQVFTakxMV1l5QXo5RGxERlNHbTY5RkMyLVRMSE5NQ0lRQlZianhUbmotVlhveU94MEtuY0dzQXMwSWdSLXROZlpaZWU5ZmRBVmhadER3?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1792059107
+    "ts": 1792077075
    },
    {
-    "title": "Trump faz acordos com Putin para “evitar derrota excessivamente humilhante nas eleições intercalares” - Público",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNLU1mbllKbTBGc2pkT2xVZnV4OUR2UVlFNXU5WEZWZFpxTWkwVmg3ZWJSRmJIQmcwV21QVWNWaVkwVkQ3b1F0RnBBUy15dnNsUW5aMzFWSUtjTmJDYUJtalV1RTJ2NGNHQi0wQ2g1ci02UzNSU215YnNBVkZuMVp1OEgtSFQybGFpd3J3b0VYZWR1RkFLTlNKX1VCakhPbVlwWlQ5VFZMc3I1VHRxU0FfLTMxQ3EtX3FTdXJxcnA4THZUcW1lTkw1NWpMdTlRYllGWHRQM3hrdGZMUQ?oc=5",
-    "source": "Público",
-    "ts": 1792052400
+    "title": "34 crianças e um professor morrem em desabamento de escola no Paquistão - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTFBQNEtHS1ozS3pWLUE5VmtfSG40cWh4TU5UaHlRZHItNloxSktPZ3FfeTZyd1JVT1pZVVFWYksyLU9Lams1d3JGLWEyOW5XWkV5Y0d1bVRoM3V5elJiWmZHOF9kVk5kTkVpZUFqUUVqRUl4ZGNDU1ZabFVoNjFRUXpBT0lZSG0zR2dmcDRLMXVEY1ktLVlET3NBOTNFU0JTTTBWaEtPdE1oMllaTHfSAagBQVVfeXFMT0dBbDhBLWJ4SlBkWG5SeGNFaTVkdmdXVjJ4b1VtTFNCajNsYkZpQ3M4UkVkNHZfN3o3cU9EdzBiT1dveGFNR0hhdEtIMy1fYlFfSkNneS1XNElrcFZhZWFKVEV0bWNoenJoa2lPSl9tay1WOHhBWkk2V2hKV3l6SWFpNG9zNU5XZkpOMUNOVHVpUktzc0QtRmE2ZTRpb3dhYmZUdm5oUUpG?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1792070838
    },
    {
-    "title": "Pronta há 12 anos, foi inaugurada ponte que liga Coreia do Norte à China - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTVFyd2pHNFUxZnBPNFViakM3OHFBZVdnX2Z6UFc3eDQ1NlZEdWVfdUlfQTAwOXVfV0ZQUEt6aXFzT19iZnBrR2F2ZFg0ZFl4Smo2aWFXSW5FaTh1V1FxXy0waFZzUzViSktHVUtTME9JcmRUQjRIYkpnd0NtMVFTbXFQdlYwblc4WGtRUnpVMDc0bmNkZWFHTU13M0VxVXdCR3M0YWpxUEJiRGhPY2dmb9IBpAFBVV95cUxQVWZGSkRKZ3R1ai1MOHZPV3duRzVjQUVxd2RfVGpGSFVZZHptUXdISXpKTlNadkl1OW82eUUtQjlEWGlhX3Bid0xVbnZUbzU3dlRkNi1QTEtZWldaXzE4WmNidmZuM21UZHFUN3dzWE4wNUU0VWsxMzhZNi1zSGdLOGlRemE2YmZBUkhwLXd3dkZTUU1NWi1DLWVVMWNGeWNHYnNxMg?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792050360
-   },
-   {
-    "title": "Livros de Sally Rooney deixam de ser distribuídos no Reino Unido devido ao apoio a grupo pró-Palestina - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQkduUElWUVkwNnZOYy1hRHpNcVZFajFFa2lRRWkzZlFUNE5fdkNoTnhYUDNVWFI5OExtM2hqOE1nUHRJUlRzWUpVWkhvS2NGUHQ3RTF6eGxHeklPRFFaZjZubW54VHJfUG14U0NRdDdaUXU4OExYVjRMYmNlODE1UVlCNFY3STlBR0dWdWpObW56aUNWSXd5VDlxWGNWZnNOamJKU1Z6QVlfZndEejBYd2IzSnJJSGlNZ0F4YVY4aUwtZXhaM1BlYkJ6V3E0RWRtVFM4OE9TMHZkOTFLZUtacnA0ODVjdVRDMHc?oc=5",
-    "source": "Expresso",
-    "ts": 1792049159
-   },
-   {
-    "title": "Papa passou bem a noite no Gemelli - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPckYwSzhQVm13Njc1a1hYTjNJVG1CUkpIZkk1Nm8zeFF5UWQxWk9uOWFyczdGU19qTFlsSFZ0N3FfSndwejk4NkhDSjF3R2RDeDhCNFpiZi1waVAyOUY0MlR4Yy16aFVGNEJfclI4R0lnRVAzeVNDNWtFQVBOSkVRQUs0UHBNWXFPaVdDdTlHMzFqaEJzLVkwNlFVdnNVNms?oc=5",
+    "title": "Papa apresenta boa recuperação do pulmão - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSjctRnVtVlRaaDRxbHhmTFNCNXMxTUltSnBsTEFCamM5MGtoZHBnaFRyYWpoZGQyN0VIazRfUzRBMEExQ3dUWDFiU1lRSXkyOXVuUm83eXJ2djBLdEFRai1fWmFTT3ZsLTlyVlRMcEk2Q3ItZnJ0alllRXo4aEtFSUVYdTRXdEh0U0htSUVPMEFuQ0kzVjM1QjJGa3RPekNIdzA0?oc=5",
     "source": "Vatican News",
-    "ts": 1792049147
+    "ts": 1792066025
+   },
+   {
+    "title": "GBU-43/B MOAB. EUA ponderam usar \"a mãe de todas as bombas\" contra o Irão - RTP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNU1ZVVEdPcWZfZ2pzTkcxUDJzMldSY0RhZDktVE9ORmhEd0JNWGhRaUFFT0Uzc19LTWtvWDZmUjFtM0NqR3E5VHM2XzcydmkwT2VxXzBYbWFyekxBTXhtVUtOTUJwUmp6TjVxMzVPSVQzUUlJVzNLX3FXM0dZa0hjTFBLR09YSzYzOVBENzdsbF9YcjcyWnJjY0hjTUlHbHlaT0R2UDlLd2lkOWRSTG93Nmtn?oc=5",
+    "source": "RTP",
+    "ts": 1792061861
    }
   ]
  }
