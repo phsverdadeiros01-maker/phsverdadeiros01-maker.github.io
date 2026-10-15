@@ -8,7 +8,7 @@
 <meta name="description" content="Tempo real em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo, notícias da região e os recursos oficiais mais úteis: Fogos.pt, Barragens.pt e Analisa.pt.">
 <script>
   (function () {
-    const temas = ['original', 'atlantico', 'brisa', 'aurora'];
+    const temas = ['original', 'atlantico', 'brisa', 'wall', 'nocturno'];
     const pedido = new URLSearchParams(location.search).get('visual');
     let guardado = null;
     try { guardado = localStorage.getItem('barcelos-visual'); } catch (e) {}
@@ -18,7 +18,7 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Unbounded:wght@500&display=swap" rel="stylesheet">
 <style>
   :root{
     --azul-fundo: #163B4D;
@@ -376,7 +376,8 @@
       <button type="button" data-visual-choice="original">Original</button>
       <button type="button" data-visual-choice="atlantico">Atlântico</button>
       <button type="button" data-visual-choice="brisa">Brisa</button>
-      <button type="button" data-visual-choice="aurora">Aurora</button>
+      <button type="button" data-visual-choice="wall">Wall</button>
+      <button type="button" data-visual-choice="nocturno">Nocturno</button>
     </div>
     <nav class="tabs">
       <a href="#tempo">🌡️ Tempo</a>
@@ -1230,7 +1231,7 @@ const setVisual = (visual, updateUrl = true) => {
     history.replaceState({}, '', url);
   }
   const themeMeta = document.querySelector('meta[name="theme-color"]');
-  if (themeMeta) themeMeta.content = visual === 'brisa' ? '#EAF4FF' : visual === 'aurora' ? '#111014' : visual === 'atlantico' ? '#071B2C' : '#163B4D';
+  if (themeMeta) themeMeta.content = visual === 'brisa' ? '#EAF4FF' : visual === 'wall' ? '#080B11' : visual === 'nocturno' ? '#121416' : visual === 'atlantico' ? '#071B2C' : '#163B4D';
 };
 visualChoices.forEach(button => button.addEventListener('click', () => setVisual(button.dataset.visualChoice)));
 setVisual(document.documentElement.dataset.visual || 'atlantico', false);
