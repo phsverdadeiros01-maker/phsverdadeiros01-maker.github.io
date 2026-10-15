@@ -4,6 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="theme-color" content="#163B4D">
+<script>
+  try{
+    if(localStorage.getItem('barcelos-theme') === 'dark') document.documentElement.dataset.theme = 'dark';
+  }catch(e){}
+</script>
 <title>Barcelos Hoje — Tempo, Mar de Ofir e Notícias</title>
 <meta name="description" content="Tempo real em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo, notícias da região e os recursos oficiais mais úteis: Fogos.pt, Barragens.pt e Analisa.pt.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -67,13 +72,18 @@
   .masthead-inner{max-width:900px;margin:0 auto;position:relative;}
   .masthead-top{display:flex;justify-content:space-between;align-items:baseline;gap:1rem;flex-wrap:wrap;}
   .masthead-date{font-family:'IBM Plex Mono',monospace;font-size:0.78rem;color:#C9D8DD;text-transform:lowercase;}
+  .theme-toggle{
+    border:1px solid rgba(255,255,255,0.24);background:rgba(255,255,255,0.09);color:#fff;
+    border-radius:999px;padding:0.38rem 0.7rem;font:600 0.72rem 'IBM Plex Sans',sans-serif;
+    cursor:pointer;white-space:nowrap;
+  }
+  .theme-toggle:hover{background:rgba(255,255,255,0.17);}
+  .theme-toggle:focus-visible{outline:3px solid #D97A4C;outline-offset:2px;}
   h1.title{
     font-size:clamp(2.1rem, 6vw, 3.1rem);
     margin:0.5rem 0 0.15rem;
     color:#fff;
   }
-  .subtitle{color:#C9D8DD;font-size:0.98rem;max-width:34ch;margin:0;}
-
   nav.tabs{
     max-width:900px;margin:1.6rem auto 0;
     display:flex;gap:0.4rem;flex-wrap:wrap;
@@ -107,14 +117,14 @@
   .updated-note{font-size:0.78rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.3rem;}
 
   /* ---------- Weather now card ---------- */
-  .now-grid{display:grid;grid-template-columns:1fr;gap:1rem;}
+  .now-grid{display:grid;grid-template-columns:minmax(0,1fr);gap:1rem;min-width:0;}
   .now-card{
     background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);
     padding:1.4rem 1.5rem;
   }
   .now-card.hero{
     background:linear-gradient(160deg, var(--azulejo), var(--azul-fundo));
-    color:#fff;border:none;
+    color:#fff;border:none;min-width:0;max-width:100%;overflow:hidden;
   }
   .now-place{font-size:0.85rem;text-transform:none;opacity:0.85;letter-spacing:0.01em;}
   .now-temp-row{display:flex;align-items:center;gap:0.9rem;margin-top:0.4rem;}
@@ -155,10 +165,8 @@
   .fday.clickable{cursor:pointer;transition:transform .12s ease,border-color .12s ease;}
   .fday.clickable:hover{transform:translateY(-2px);border-color:var(--telha);}
   .fday.clickable .ver{
-    display:inline-block;margin-top:0.35rem;font-size:0.68rem;color:#fff;background:var(--telha);
-    padding:0.15rem 0.5rem;border-radius:999px;opacity:0;
+    display:none;
   }
-  .fday.clickable:hover .ver{opacity:1;}
   .back-btn{
     background:none;border:1px solid var(--azulejo);color:var(--azulejo);
     font-size:0.75rem;font-weight:600;padding:0.25rem 0.6rem;border-radius:999px;cursor:pointer;
@@ -173,13 +181,17 @@
   .fday .rain{font-size:0.72rem;color:var(--azulejo);margin-top:0.2rem;}
 
   /* hourly */
-  .hourly-scroll{display:flex;gap:0.65rem;overflow-x:auto;padding:1rem 0 0.4rem;margin-top:0.5rem;-webkit-overflow-scrolling:touch;}
-  .hour{flex:none;width:64px;text-align:center;background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:0.6rem 0.3rem;}
+  .hourly-scroll{
+    display:flex;gap:0.65rem;width:100%;max-width:100%;min-width:0;overflow-x:auto;overflow-y:hidden;
+    padding:1rem 0 0.4rem;margin-top:0.5rem;-webkit-overflow-scrolling:touch;
+    scroll-snap-type:x proximity;overscroll-behavior-inline:contain;scrollbar-width:thin;
+  }
+  .hour{flex:0 0 64px;min-width:0;text-align:center;background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);padding:0.6rem 0.3rem;scroll-snap-align:start;}
   .hour .t{font-size:0.72rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;}
   .hour .ic{font-size:1.3rem;margin:0.25rem 0;}
   .hour .temp{font-size:0.85rem;font-weight:600;font-family:'IBM Plex Mono',monospace;}
   .hour .wind{font-size:0.68rem;color:var(--tinta-suave);font-family:'IBM Plex Mono',monospace;margin-top:0.2rem;line-height:1.2;}
-  .weather-forecast-inside{margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.2);}
+  .weather-forecast-inside{width:100%;max-width:100%;min-width:0;margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.2);}
   .weather-subhead{display:flex;align-items:center;gap:0.5rem;margin:0.8rem 0 0;font-size:0.9rem;}
   .weather-subhead:first-child{margin-top:0;}
   .now-card.hero .hourly-scroll,.now-card.hero .forecast-strip{margin-top:0.4rem;}
@@ -201,12 +213,21 @@
     .fday .lo{font-size:0.75rem;}
     .fday .rain{font-size:0.66rem;margin-top:0.12rem;}
     .hourly-scroll{gap:0.4rem;padding:0.55rem 0 0.25rem;margin-top:0.25rem;}
-    .hour{width:54px;padding:0.42rem 0.2rem;}
+    .hour{flex-basis:54px;padding:0.42rem 0.2rem;}
     .hour .ic{font-size:1.15rem;margin:0.15rem 0;}
     .hour .temp{font-size:0.78rem;}
     .hour .wind{font-size:0.61rem;margin-top:0.1rem;}
     .weather-forecast-inside{margin-top:0.8rem;padding-top:0.7rem;}
     .weather-subhead{font-size:0.82rem;margin-top:0.65rem;}
+  }
+  @media (max-width:420px){
+    .now-card.hero{padding:1rem 0.75rem;}
+    .now-sub{gap:0.65rem;font-size:0.76rem;}
+    .now-card.hero .stat-list{grid-template-columns:repeat(2,minmax(0,1fr));}
+    .forecast-strip{gap:0.32rem;}
+    .fday{flex-basis:66px;}
+    .hourly-scroll{gap:0.32rem;}
+    .hour{flex-basis:50px;}
   }
 
   /* ---------- Lua ---------- */
@@ -268,7 +289,7 @@
     background:linear-gradient(150deg,#123a4a,#1a5266);
     color:#eef6fa;border-radius:var(--radius-m);
     padding:1.2rem 1.1rem;margin-top:0.4rem;
-    box-shadow:0 6px 18px rgba(18,58,74,0.25);
+    box-shadow:0 6px 18px rgba(18,58,74,0.25);min-width:0;max-width:100%;overflow:hidden;
   }
   .ofir-tempo .ot-label{
     font-size:0.72rem;text-transform:uppercase;letter-spacing:0.5px;
@@ -281,7 +302,11 @@
   .ot-stats{display:flex;gap:0.5rem;flex-wrap:wrap;margin-left:auto;}
   .ot-stats span{background:rgba(255,255,255,0.12);border-radius:999px;padding:0.35rem 0.75rem;font-size:0.8rem;color:#e2f0f6;}
   .ot-stats b{color:#fff;font-family:'IBM Plex Mono',monospace;}
-  .ot-strip{display:flex;gap:0.5rem;overflow-x:auto;margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.15);}
+  .ot-strip{
+    display:flex;gap:0.5rem;width:100%;max-width:100%;min-width:0;overflow-x:auto;overflow-y:hidden;
+    margin-top:1rem;padding-top:0.9rem;border-top:1px solid rgba(255,255,255,0.15);
+    -webkit-overflow-scrolling:touch;scroll-snap-type:x proximity;overscroll-behavior-inline:contain;scrollbar-width:thin;
+  }
   .ot-strip .hour{background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.12);color:#eef6fa;width:60px;}
   .ot-strip .hour .t{color:#b9d4e0;}
   .ot-strip .hour .wind{color:#a9c8d6;}
@@ -312,6 +337,18 @@
   .sea-table td{vertical-align:top;}
   .sea-cell{display:flex;flex-direction:column;gap:0.1rem;}
   .sea-cell span{white-space:nowrap;}
+  .sea-forecast-inside{margin-top:0.9rem;padding-top:0.8rem;border-top:1px solid rgba(255,255,255,0.15);min-width:0;}
+  .sea-forecast-inside h3{font-size:0.9rem;margin:0;color:#fff;}
+  .ofir-tempo .sea-table-wrap{width:100%;max-width:100%;min-width:0;margin-top:0.55rem;scrollbar-width:thin;}
+  .ofir-tempo .sea-table{background:rgba(255,255,255,0.07);border-color:rgba(255,255,255,0.14);color:#eef6fa;}
+  .ofir-tempo .sea-table th{background:rgba(255,255,255,0.1);padding:0.5rem 0.65rem;}
+  .ofir-tempo .sea-table td{border-color:rgba(255,255,255,0.12);padding:0.5rem 0.65rem;}
+  .ofir-tempo .sea-table td:first-child{color:#fff;}
+  .ofir-tempo .sea-table .cella{color:#b9d4e0;}
+  @media (max-width:420px){
+    .ofir-tempo{padding:1rem 0.75rem;}
+    .sea-forecast-inside h3{font-size:0.8rem;}
+  }
   .sea-wx{font-size:0.72rem;color:var(--telha);font-weight:700;margin-bottom:0.15rem;}
   .table-note{font-size:0.78rem;color:var(--tinta-suave);margin-top:0.5rem;}
 
@@ -409,6 +446,33 @@
   #back-to-top:focus-visible{outline:3px solid var(--azulejo);outline-offset:3px;}
 
   .skeleton{color:var(--tinta-suave);font-size:0.85rem;}
+
+  /* ---------- Modo noturno ---------- */
+  html[data-theme="dark"]{
+    color-scheme:dark;
+    --papel:#0D1820;
+    --papel-linha:#2B404A;
+    --tinta:#EDF4F6;
+    --tinta-suave:#A9BBC3;
+    --azulejo:#4D8DA5;
+    --verde-ok:#79C690;
+    --amarelo-aviso:#E5B75C;
+    --vermelho-aviso:#EF8276;
+  }
+  html[data-theme="dark"] .now-card:not(.hero),
+  html[data-theme="dark"] .fday,
+  html[data-theme="dark"] .hour,
+  html[data-theme="dark"] .sea-tile,
+  html[data-theme="dark"] .sea-table,
+  html[data-theme="dark"] .cam-card,
+  html[data-theme="dark"] .fb-card,
+  html[data-theme="dark"] .emerg-bar{background:#14252E;}
+  html[data-theme="dark"] .disclaimer{background:#182832;}
+  html[data-theme="dark"] .flag.ok{background:#183326;}
+  html[data-theme="dark"] .flag.aviso{background:#3A301C;}
+  html[data-theme="dark"] .flag.mau{background:#3D2422;}
+  html[data-theme="dark"] #noticias-list .news-cat,
+  html[data-theme="dark"] .fb-h{color:#8FC3D6;}
 </style>
 </head>
 <body>
@@ -418,10 +482,10 @@
     <div class="masthead-top">
       <span class="masthead-date" id="data-hoje">a carregar data…</span>
       <span class="masthead-date" id="hora-agora"></span>
+      <button class="theme-toggle" id="theme-toggle" type="button" aria-pressed="false">🌙 Noite</button>
       <span class="masthead-date" id="upd-note" style="width:100%"></span>
     </div>
     <h1 class="title">Barcelos Hoje</h1>
-    <p class="subtitle">Tempo em Barcelos, estado do mar na Praia de Ofir, câmaras ao vivo e os recursos oficiais que realmente servem para alguma coisa.</p>
     <nav class="tabs">
       <a href="#tempo">🌡️ Tempo</a>
       <a href="#mar">🌊 Mar &amp; Ofir</a>
@@ -524,18 +588,19 @@
         </div>
       </div>
       <div class="ot-strip" id="ot-strip"><div class="skeleton">a carregar horas…</div></div>
-    </div>
-
-    <h3 class="serif" style="font-size:1.05rem;margin:1.8rem 0 0.8rem;">Próximos 5 dias — 10h · 12h · 15h · 18h</h3>
-    <div class="sea-table-wrap">
-      <table class="sea-table">
-        <thead>
-          <tr><th>Dia</th><th>10h</th><th>12h</th><th>15h</th><th>18h</th></tr>
-        </thead>
-        <tbody id="sea-table-body">
-          <tr><td colspan="5" class="skeleton">a carregar previsão do mar…</td></tr>
-        </tbody>
-      </table>
+      <div class="sea-forecast-inside">
+        <h3 class="serif">Próximos 5 dias — 10h · 12h · 15h · 18h</h3>
+        <div class="sea-table-wrap">
+          <table class="sea-table">
+            <thead>
+              <tr><th>Dia</th><th>10h</th><th>12h</th><th>15h</th><th>18h</th></tr>
+            </thead>
+            <tbody id="sea-table-body">
+              <tr><td colspan="5" class="skeleton">a carregar previsão do mar…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
     </div>
     <p class="table-note">Cada célula mostra: ⛅ tempo e temperatura do ar · 🌊 altura da onda · período · 🌡 temp. da água · 💨 vento (km/h). Dados oficiais <strong>IPMA — Praia de Ofir</strong>.</p>
 
@@ -1211,6 +1276,28 @@ carregarNoticias();
       .map(m => '<span class="mp">' + m.ic + ' ' + m.n + ' <b>' + diaSem(m.data) + ' ' + diaMes(m.data) + '</b></span>');
     document.getElementById('lua-fases').innerHTML = mudancas.join('');
   }catch(e){ /* se faltar um elemento, não parte a página */ }
+})();
+
+/* ---------------- Alternar modo claro / noturno ---------------- */
+(function(){
+  const botao = document.getElementById('theme-toggle');
+  if (!botao) return;
+  const metaCor = document.querySelector('meta[name="theme-color"]');
+  function atualizar(){
+    const noturno = document.documentElement.dataset.theme === 'dark';
+    botao.textContent = noturno ? '☀️ Dia' : '🌙 Noite';
+    botao.setAttribute('aria-pressed', String(noturno));
+    botao.setAttribute('aria-label', noturno ? 'Ativar modo claro' : 'Ativar modo noturno');
+    if (metaCor) metaCor.setAttribute('content', noturno ? '#0D1820' : '#163B4D');
+  }
+  botao.addEventListener('click', function(){
+    const noturno = document.documentElement.dataset.theme === 'dark';
+    if (noturno) delete document.documentElement.dataset.theme;
+    else document.documentElement.dataset.theme = 'dark';
+    try{ localStorage.setItem('barcelos-theme', noturno ? 'light' : 'dark'); }catch(e){}
+    atualizar();
+  });
+  atualizar();
 })();
 
 const backToTop = document.getElementById('back-to-top');
