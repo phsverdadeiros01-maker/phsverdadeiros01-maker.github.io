@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-15T23:00:14Z",
+ "atualizado_em": "2026-10-16T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-15T23:00:15Z",
+  "atualizado_em": "2026-10-16T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-15",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 8.9,
-      "periodo_pico": 12.4,
-      "vento_nos": 7.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.1,
-      "potencia": 17.8
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 9.7,
-      "periodo_pico": 12.4,
-      "vento_nos": 6.6,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 16.1,
-      "potencia": 19.4
-     },
-     {
-      "hora": "02h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 9.7,
-      "periodo_pico": 12.3,
-      "vento_nos": 6.0,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 16.1,
-      "potencia": 19.4
-     },
-     {
-      "hora": "03h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 9.6,
-      "periodo_pico": 12.4,
-      "vento_nos": 6.6,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 19.2
-     },
-     {
-      "hora": "04h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 9.4,
-      "periodo_pico": 12.4,
-      "vento_nos": 8.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 18.8
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 12.5,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 17.6
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.7,
-      "periodo_pico": 12.6,
-      "vento_nos": 12.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.4
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 12.8,
-      "vento_nos": 12.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.8
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 12.8,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.6
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.8,
-      "vento_nos": 10.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 15.0
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.8,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 16.1,
-      "potencia": 15.2
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.8,
-      "vento_nos": 12.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 15.0
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 12.8,
-      "vento_nos": 13.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 14.6
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.8,
-      "vento_nos": 13.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 15.2
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 12.8,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 14.8
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 12.9,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 14.6
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 13.0,
-      "vento_nos": 13.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 14.6
-     },
-     {
-      "hora": "17h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 13.1,
-      "vento_nos": 13.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 16.1
-     },
-     {
-      "hora": "18h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 13.3,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 16.1
-     },
-     {
-      "hora": "19h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 13.4,
-      "vento_nos": 15.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 15.7
-     },
-     {
-      "hora": "20h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.8,
-      "periodo_pico": 13.4,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.0
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 13.5,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 13.6,
-      "vento_nos": 15.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.6
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 13.7,
-      "vento_nos": 15.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.6
-     }
-    ]
-   },
    {
     "data": "2026-10-16",
     "horas": [
@@ -1794,6 +1477,12 @@
     "ts": 1792098646
    },
    {
+    "title": "Fotógrafa de Barcelos conquista quase 400 destaques internacionais na Pexels e soma quase 3 milhões de visualizações - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPN212RnR2V3c1TlEyeUgtSkloSFVXNHliSmh2aTBZNF9SXzJkYmk3NEoxOVBGWHdrYTYwYUdZSmI4T0ZheXRGeG9FZ1c3QTlXR3Q5b3JjeXl1bEJXSnJSNDZhUXNNejYyU1I4RGRMZko2WjJiNUJkOEZsZUxYam5OQ3dkS2NqQndBYUpQLVh5enVaM3VVWDNKdGpBaWNmRThjYXVmVnBCMnJQbEZyWUlwdnhrQXBNekJ5aG9JVXF6MlNTOEVrTURXNFZZSTJoa3dJSWIwNjRybVdWN2RCSG94MkhMV25HQW55bVM3UF9mbw?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1792096274
+   },
+   {
     "title": "Descobre o Teu Talento, com o artesão Carlos Gonçalves - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2U2cFhrb254cDdvZXlINnBoTHVWTUpnSXBGSHBfRWpKZFNpVno5Q045NHVZNG40Nk9yOUJCYTdJOWFFVDhxTWpBTVZTYlNUbWdGMi1uWTVnckRPWHB1bzI2bmdKaHhkY3plWi1ELXVIaGtHUjRNbzdPZzZnb3A4LVBLZXVIWFZqUzNHZ1IxY3VRN01CUHp3?oc=5",
     "source": "Agenda Barcelos",
@@ -1816,12 +1505,6 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjJXTXlLYVNZUEFVNEZZRnBPbGViT3NqTTB6em9pTVNIRW1HbDF4QTYwZEJvUjJ4NWdFeTRzcDBuOFluRU9FS2xoc1BER00yQThrTUhkTUJrWFVTdXg1c05FMnRiaGZBdlBDWld3LTB5NXprM01TNWMxczF3b0tVWjNrRW1TNmZSc09iaml2alNzVFk?oc=5",
     "source": "Braga TV",
     "ts": 1792070128
-   },
-   {
-    "title": "Feira de Emprego reúne oportunidades profissionais em Barcelos - Rádio Onda Viva",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlFLN2NlY0lmVUVfUkhUTnQ2NkFEODhGNUFYX1dyR0xXQVRJa1Y3R3JzZW8zVldCbWswM1F6VjNsaWpKQVdVNWFJWE55YmRhVUNSMUtwTUduWUQ0Wk5zekVjNDF1U2dYMXhYVm1CdFdTSy15aVJUa1pGMFl4RVNQMDlTa2l3TjMtN3RMN1ByWldHZw?oc=5",
-    "source": "Rádio Onda Viva",
-    "ts": 1792069233
    }
   ],
   "esposende": [
@@ -1864,34 +1547,34 @@
   ],
   "mundo": [
    {
-    "title": "Colisão entre autocarro e comboio no túnel da Mancha faz 19 feridos - RTP",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSzU5OXNwUTBrUHl6RGtIN3hXWlpDcktIMTBVd1VFRlRCLVJEVDExYldKSnhraDJWakpXTjZjSHNYOHFhaWROSmM0YjBGSHJ4NTdRSXFOd0RXUGdTeEozekJfbTU2WVZaN2lOeFJwX0FORGZWbENuQ1hfUG93cEh0VHZSRTF4TEM3Mndjc0xENDJlZzQybE82RjhvekdVanE2VVdudnJKMUhxSFhBRjg4?oc=5",
-    "source": "RTP",
-    "ts": 1792103366
+    "title": "Atirador abatido após matar pelo menos quatro crianças em escola primária nos EUA - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0l6SVdoYzVOYWowdGR3b1kyX0ZybENEM19vY0hRUnAzcldYYTUzN01NOFB1UFBSY2t3V3dOSVplb19DQkxpVUFBMVJfODZRREcyTDdzWVhsUE9MTDhGLWt5MWNkRG5nWXJyamo3VVdtamdaT1oxY2NJbHJhLTNtd1ZVU0c1OUVMRnA1NjdkSThhMzJkVHJ1eS02XzdCUnpaTFN0ZE80TzFxdUNYV2fSAaIBQVVfeXFMTm5VRHNZdHpEaElQOGpzT19yTll2eEZleTRMWWlDU05STl9jRWdnMUM1ZS1sYnFuWnFJXzk1RXJpWmJfdkN5Y2RvbXlxY2VBTFRPU2tLalpUNWo2QUhrV2tnY1A1XzQ5akJnVUptRGNsSHAwdTJTcEpOcHNWWXhXVmZlVGRzMnZkOTVtSWFjd1NVM0xRQUFlMnhaUDRzcC03dWJn?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1792101900
+   },
+   {
+    "title": "André Carrilho vence World Press Cartoon com trabalho publicado em suplemento do PÚBLICO - Público",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZV9SYnBEeGVVWFNPTThUem9oRW43aGltNXBBTUlMX2RPTDBhckhyaG00WHVvWUwzVk5BZFd3TDFBM3hoS1AzMC1oYUZWM3ZIZmRHcjVFamdIU2ktNWs2UDdTLWx6dEx4RzNReW1fM3BWaGVUbEVRVmZIRU8yS1RncGFwbjVZbklheGQtY0FRTXhpQjB3NndfR0tqaU1qclliZWotQ2FsMlRYekFDZkFEam9WYVItUG1nQlYyNFpoUHFKbnNUSlJkMENDODVSWlROVVZKTzFfV0ktN2s?oc=5",
+    "source": "Público",
+    "ts": 1792101626
+   },
+   {
+    "title": "Acidente com comboio e mini-autocarro no Canal da Mancha, há 19 feridos - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUnlTMnowRHJKUnVlaWpZUlQ0RDJPbHhnZVNEMDZITlVBWm5xc2ZhSklKaXNxNlRHZUp3MnJFUTVqSjlSd1N5Z0o1NDJ3TmpGS1A5aWN5ZmlKblk2YTNySEpzLWZwWjFrUWNtbWljWnJ5b0N1TmdjQmZnZVBkT3kycmRhRVNlQ0dneEZUUVhhSmhZUVJ3bDVwbWtmNHU4OEZ0OS1yTzI4VzdoWDItTVJ5c2M5NVNZTlFYX2c?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1792092063
+   },
+   {
+    "title": "Exame feito na China? Habilitações de Katie Zacharia, nova porta-voz de Trump, estão a gerar polémica - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOTzZzZ2dkczVra2tmZGJuZ21pbDZBVnBYM0lTYmVKQVZzMUFYdmowZGVFcGtfTlp5VGFFcm9yaHZWZ3VJeFV2N00yR0diVmgtb1dIRE5SampoLWFUYmk5b0M0UkszWFZILUI2emxwcV9NRlVQSUI4VWloV3F6dENzNllsNTBQV1RpVHY0Qjl2TlFoa3JIMHAwYjdVUC01WUYtbTlKWUVFNm9HNm9rblExVExHSTZsQTdZbW1VOV92dUpWaHczdHhuMnJjeTc0TE9kVTR1c3dNeDliUFFRbGp0c0FiNEtiaEU?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1792090233
    },
    {
     "title": "China e Coreia do Norte abrem “novo capítulo” nas relações com inauguração de ponte que estava pronta há 12 anos - Público",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPM2d5U3ZkM213MnZLOERwZ0oyU01nLWdLNDNGN21uVjRLUWtyeHhsNkh1T29NODU4QlFFV3ZXeUV5a09uelpfVnA1cE0yOTJMWmJlRVJieXhER3JLa18wNl9WeTB4OV92SHVOejdZT2Rka05KbVdNZDkyVmZRMFRwT014ck1DWUpZN24xTGRyc0VLRGl4MnM2YUhkbGFZOTBQWFdVRjRPTUlOVjBBcVVvOGVxWTd2VmZQM2JWWldMbUd0bnhQcEEtQlNsT2k3Tm9FajN1Zl9R?oc=5",
     "source": "Público",
     "ts": 1792083663
-   },
-   {
-    "title": "Estado da Nação: João Lourenço diz que os objectivos que tinha quando chegou ao poder não foram esquecidos, mas apontou as crises internacionais como entraves à sua plena concretização - Novo Jornal",
-    "link": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNS1dDUGYzY0xVeFNNcWhIMGFZVUZ1TDZwNEZReUgwZ0J5SlVlaVNrWWhKeGJnajBaUzJZX0lRX2h5aHhhM3lfUWkzdmF1eURyUTFpRmx4eWdSNVVKSVdOcy1pRS1IMkZQT18zenhka0I4RDVDa2xYWnVXNXNLbm9SXy1KZ285NklmY2JfTV9yNXhrR3JDTC1rbU56NjNKVUNWMld2SXpzVFBUeGFBWWw1ejB5T1k4RV80Y0VmS0xYLU5RYVFqMkREZUkyMXZYRWg1aFlFNnhOZ241VnlTb1loa2lfbHhHWE04MnVIV1NaWHBSMlVaTlJsVzZ4cnZuMHFlOW42UlI1eDYyTEJTOEU5WXJvbnRNc0FXSU41dWVEVXRfaEVYeGI3TTVpQnlmcWdUMkh3OXJKdWRoOHhyZEpQeWMtTlI0OHltdHh1anh2YUg1Y2JRd2JOSnlTYi15R0lRbWt2QjFMeDFTbEU?oc=5",
-    "source": "Novo Jornal",
-    "ts": 1792080306
-   },
-   {
-    "title": "Trump descarta transmissão em direto de execução por fuzilamento - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaDZ1TDB6dmtsRkxBcVBtTjJOMlVjU1ViN3V4Z2ZrX3RsZ3daVWpVMS00TWljWm0tR0k1eTVVS2dPNDUycl91YmN0QzNHaWNaa2ZGTThDS0p3amI2SEZJRFdZWW81cXYxTTRqQU9ZOGZlaGN3RG5kQ2I4T012YTI3UmZmN0ltd2NBQ0I0YlUxeWtmV1NCekVqRW1nbUNSZk1FTWZRQzhGONIBmwFBVV95cUxPNC1nd2t0T3oyYUJER0s3ZENSeExJTm4tT0o4aFBzZ2ZEcVctUUM4NVFjQzhWYW9nMUJNSXdDQ1BBNm1obTZuQ3FHSWpnanh0MENnVkR0eXdnSkVZUzhSMFBDdi1KRlhGajNKTDdoM29yOW01TFp4amYxcVFMWDllS0FkcmNHcmpfazJOa0UxSXJ6QXUxLVFNOGVzMA?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792075920
-   },
-   {
-    "title": "NATO convoca reunião de emergência sobre ataques com drones a navios no Mar Negro - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdzNHWXhkVjExOXZpNTdxY1FRMUZIU1dTZUVSZjZPU0pCQTNoWmozSnN0SHlFZk1ITVpQc19PZE51QXRzWHZ3cmZRSWpqd0hvTWFWZzRDTFJ1b0JoVmUwbHo1TDlTRzl4eGRHa1ViZ3hGbE9Gd25taTJ2OGF6WkdqX0xzUjZUM3JacGxsVlVDUG8yZ0MyTlhjYWxtT1JTb2hPTEtTZDNWUGFqVERlbEdfb01zY05Sd1pTcEFB0gG2AUFVX3lxTFA3NE5tWEJkMnd4YWR2TkVBUVFWLXphZ0kwalh0MW9RZG9HZXpYMEVmTUtqZFB1a29GSEZoVWJuVTlCWmg0MU9VQlh6RnpsS0ZoR1ZqT0VMUWtxVmoyclFpMVQ4MVFhZVdyQVFTakxMV1l5QXo5RGxERlNHbTY5RkMyLVRMSE5NQ0lRQlZianhUbmotVlhveU94MEtuY0dzQXMwSWdSLXROZlpaZWU5ZmRBVmhadER3?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792074120
    }
   ]
  }
