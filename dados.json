@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-16T23:00:14Z",
+ "atualizado_em": "2026-10-17T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-16T23:00:14Z",
+  "atualizado_em": "2026-10-17T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-16",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 13.7,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 14.8
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.2,
-      "periodo_pico": 13.8,
-      "vento_nos": 15.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.9
-     },
-     {
-      "hora": "02h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 13.8,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 2.1,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 13.7,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.4
-     },
-     {
-      "hora": "04h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 13.7,
-      "vento_nos": 15.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 16.9
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.1,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 13.6,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 16.1
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 13.6,
-      "vento_nos": 13.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 18.4
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 13.5,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 18.4
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 13.4,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 18.2
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 13.4,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 18.4
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 13.3,
-      "vento_nos": 16.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 17.9
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 13.3,
-      "vento_nos": 17.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.9,
-      "potencia": 16.9
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 6.9,
-      "periodo_pico": 13.2,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 16.7
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 13.3,
-      "vento_nos": 17.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.9,
-      "potencia": 16.9
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 13.3,
-      "vento_nos": 17.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.0,
-      "potencia": 16.2
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.2,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 13.2,
-      "vento_nos": 18.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.0,
-      "potencia": 15.7
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.2,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 13.1,
-      "vento_nos": 18.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 16.0,
-      "potencia": 15.2
-     },
-     {
-      "hora": "17h",
-      "mar_total": 2.2,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 13.0,
-      "vento_nos": 16.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.0,
-      "potencia": 15.0
-     },
-     {
-      "hora": "18h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 13.0,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 14.1
-     },
-     {
-      "hora": "19h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 12.9,
-      "vento_nos": 12.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 14.8
-     },
-     {
-      "hora": "20h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.8,
-      "periodo_pico": 12.9,
-      "vento_nos": 11.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 13.6
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 6.8,
-      "periodo_pico": 12.9,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.9,
-      "potencia": 13.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.0,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 12.8,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.8,
-      "potencia": 13.2
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 12.7,
-      "vento_nos": 9.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 13.4
-     }
-    ]
-   },
    {
     "data": "2026-10-17",
     "horas": [
@@ -1803,7 +1486,7 @@
     "title": "Teatro Popular Mirandês – «A Tia Lucrécia» - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUs1ZjRHRjF3LUNudFVGV1ZfVkNjRHhRaFJENUlERjdzVmhab2VUN0dUTFJrdy15eW52LVlJT0h2UU9LZ1RmZDlXLVZIZFFKNFpoazU4ZnZ4S2I3ekkwcG5OLVU3TmVuNnJ6ekJWZDUyTVZKQVcwWTBZdDk4NzVwbk1MZw?oc=5",
     "source": "Agenda Barcelos",
-    "ts": 1792163626
+    "ts": 1792163606
    },
    {
     "title": "ANAFRE e CIM Cávado reuniram em Barcelos para reforçar cooperação institucional - Município de Barcelos",
@@ -1826,16 +1509,22 @@
   ],
   "esposende": [
    {
-    "title": "Concerto de Abertura de Temporada do coro Pequenos Cantores e Ars Vocalis - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVzc3aDgtOS1jNDNkTFkzeW5URkp0akxEU3BOMFFsZ3l2ZXFyTDdyenAxdHpyVXhwSWZFTEtxMkNfUE5zRGZIYmU0S09IRTNiVG9PaHY2MDFCbHUzaEdkcjZ6bnYzaDl5Q0UwVFZwWlpCVjVCbXNKRFRFRW5pNjJjZzZjQVBHZUFxWmdzblJCb3loY2dzVm5ndGlBYUVrMEVMejdyTg?oc=5",
+    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAyWTB3bzFVekxkTmljUno3enk4ZWo5WC1uOTk1aFFaRDBCRnNFZnFZZklJZ0xQWTNLaWszZExOR1ByWGE0VTAzckVWZ1dHS1JPLUplRDh2SWVRR2dPbXNvUU0wUXpFWTN2RFlRNHVIZEVkV1pnZmNPcU5aallyRmc?oc=5",
     "source": "TV Esposende",
-    "ts": 1792185873
+    "ts": 1792216079
    },
    {
-    "title": "Homem incendeia carro de familiar em Esposende e fica proibido de se aproximar da família - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPckMwcFU4S1lESFJiY1lrcHcxLU4yeHBBT3dHMUhPOVpNejBrMkpZUzFxc3EzZEViekE0NS1Yd0ljRjRIa1dRdkpxdlZIQ1g1TTVKLXRKakZGM2N1T3pYdHlLWDJkYWhrZUhSSDZDTjdqWWUwak1fRGpnSW9YcG4tRXdlemlWdW1xQ3dzUkJheGVqZGZzM0pXbUhrMUxDV05sMjU3WnRZRklRVGhEZ21POGw4aTFUblJZR1RXNmo0YjkybkZCVEtiTWRBeWRycjdEYmJj?oc=5",
+    "title": "Concerto de Abertura de Temporada do coro Pequenos Cantores e Ars Vocalis - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNU1FX3pIZW5Qcm1wenNveGJtb3JPRE1SNWZzd19kU2ZNVjNybUFoSzV6LV9LZ25BcUFpOHowX1dlR28wTE1CQnNYRGtIZG50eXhEeFo5M3JtWEx0OVVNcndIeERMQkJ1VXFDTnVzWUtYeXladEFZRUFmR3BhRkh0dmhuemJCVldwS2UzUjdqVEJEcWdWSXpRZHRGaTBueTktdWN5UEVfekVxY0hrcGpfZUh6MXhMb0trd0FyM2FB?oc=5",
     "source": "SAPO",
-    "ts": 1792176300
+    "ts": 1792185731
+   },
+   {
+    "title": "Homem incendeia carro de familiar em Esposende e fica proibido de se aproximar da família - Diário do Distrito",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNEl6eHdVME95SVlQTWIzakVJRnZqRkxkeGhUQ0c2MmhWOHRlLWtTYzZ0V29jbzJ5R1BRdjRGeFJpdEhQY1ozXy1PZlRwakwteFI1QlhWbGpPZ2ZOU04wdmZXQTZjb21NLXFLTXdzbkRJNmRJWEk3M096Y2U1WUs0RlVJaGRzUURJNU1NU0plOVdwbFAwdzJGZlkyZmt0S0dabjZCWUxENENfMy01SnhISElZSXFuVjduV2o2ZERR?oc=5",
+    "source": "Diário do Distrito",
+    "ts": 1792177781
    },
    {
     "title": "Esposende avança com a reabilitação do Forte de S. João Baptista em projeto de 3,7 milhões - Jornal de Notícias",
@@ -1854,15 +1543,21 @@
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPYTlhYjZEcndZbV9HN2RNWERhbm9Wd0VadjZtakFjU1pVUFFaSmZ2ajVuWXRhLWN3YXNCWGhVa2ZkVUVUT1A1MXJvb3VkOWMwc3hwVVVleFB3aFJIQzRqRXlSYUpCMmF1WjQ3anJpaXlNN2NLQUpQVXM2MDRodERKYmVmM19CMHpSZDBOZHNITUg1ZFliMlo3cGdwN1VGdl9maHFCM21MM1FmcFNVMFlfc3hxU1duWDVVcDRjNmk4azA1YnpUYnA0WWZ2N2EzVDUxSlRnYkxTWHAyYTNyUFBmUVVsSTlsRHFmSWl1Q1A5aFBVU3B4Ul94ZQ?oc=5",
     "source": "SAPO",
     "ts": 1792162649
-   },
-   {
-    "title": "Mosquito-tigre identificado nos concelhos de Amares e Braga - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObmxscHdZR3d6TF9ndmVBdU5Wa3R2TEtuSVpnNVNpY2xFUDJLa0I2TmVoR0dPSUx1dVJ1Y3JpM1huQ2JfcWhXalBNeXBhb2hmYXVOUFFpMUl2S0VOWW55WXBpVG1XcFJxMHdRY25pVWR5LU1SaVJxQUVnNXFXajBsQ2tZTkIzR2trdTl2ekxrRG1pUQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1792159659
    }
   ],
   "mundo": [
+   {
+    "title": "Polícia francesa acusada de mutilar estudantes - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFoNFhYaG90ckxncVZ6RkNoYmpkemtHekNGWVNIN2xQWlNlU0cxaDRVU2t6SklTOVQ1YkEzWUpRWndqZmxSUUwwX0VKOHJTTHlTTXdVS2lhQWt1R2NpRnRkODNyTERNQlFMaVZxNU9GZlhxZlhVbHBLb3cxNXBZb0tsVVlzLVVQNmRWStIBhwFBVV95cUxPdlVfeG10ZU16QmZLTmRocG0zOXBnenhrY2hyWWdKeTMwVFlOMDIzNy1JcVlSamNWdWxRUHZaT1J0MnZfYVZXMWlTVDRhcHNHTVVISmZDY0FvdFlNY3p3ZG5xS2pMR1VmLU9PNEJ6cVNkbkE5bWF0T2Q0dGhFNVBlWkJobk1rS3M?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1792197000
+   },
+   {
+    "title": "Autor de tiroteio em escola primária nos EUA foi morto por pai de alunas - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPelN1X2R5cVhhcGhZNmNBeVNOUlI0ZnM2S0tTeVprdWVlMkw0S3VjODVvMkhtNU5BcjhBcU1ySUxxR3d6SkhSeGJjR0ZJV0p0Z1AyV1FsNnpqQlROUE93dHQyX0FNY2ZiTjE3MDhUV2xIUGJ4VENQNWpEaXNpeEhDV3MtenJYQ2FTa0hzOHNxZWg0akN3RjMycXRqeHFYZ295TDhIV3hBRDB2VWVScV9B0gGqAUFVX3lxTE45SzZWWEcwYzlmUXdCX0xVd3VzTWJ1SlY0R3A2VGpldS1MdGpBTE1aeGZjZFdBengwdHVTZmxSNm5ST2V1SldVV2owc3R3cTZEM2NVal91aWdMYzM1ZnNlNU5hWGNsazlONF96WXpSQ0lsZU55S0JuYWdPT01aTElvamJpQ0loU0Zackh6UkFyRVZjTDZhYnlUM1d4c0hRUlFJUDFCUjNraTRn?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1792189740
+   },
    {
     "title": "Porta-voz da Casa Branca nem aqueceu o lugar. Trump demitiu-a - Expresso",
     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVVOMUlYTWdreUtEcUlTMUFQVlhZT0tBU3Q0QWxEX2J4V2t0OWFHLVM5MXlKV1NzV0liSjBJcHJ1MExKa0VPNEZxWG83LU5hZGttT01ucXZoanVfNEZTaTc3eTg1VkFXV1RxX19scWRsbjBfRzJ6UGUwSlFZWkJzT0NhTkFxRGtVYUR5bEJaOTA4MW1HT1dmNmlHT09aaUtRSjl1SjNJMmw?oc=5",
@@ -1870,28 +1565,16 @@
     "ts": 1792174425
    },
    {
-    "title": "Papa conversou ao telefone com Putin e manifestou \"profunda preocupação\" com a cidade ucraniana de Oleshky - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlcxZkEyS3ExQ2hjOHBMN1cxM2dGQmVQMV93ZWlTWGNvMWNNeG0yQVdKRmlQbmV5NzFOYnhJUk10RWxmMUt3NVh5a2FNTWZhaGV0UW0xVTRnSjJ0OEdZcnNOOFNLbG1SYTlwR0tpZUloYk5mcGN1bm1zZUNUNDVlelZiSy1nbEc5U2RDVVc5VjF4X2xERXJYdUlJSV85bzVjRHdaai1BQWt3TFVWa2czXzhEbHlPV1BaSTFfaElBa0FBTDViVklRYTYweGk5X2c?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1792168985
+    "title": "Putin aceitou iniciativa do Vaticano para ajudar população de Oleshky - RTP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPci1JQXFFdHk5aWh0SjZjcFhhVHhxTVhaZWloLVNBaVh5cGFhSWVQWDR6NFdtS2JUN0IwNExCYjVRY2VZbWtFVG9yR2FZeTBFcmpqWkZNOE9LSHRUT2xNdF9mM0hNcFdwdnR6alA2LUNrc2VzcGJtdUVOZGpYQjNZUVVFOE16S0t1dXNqOFdMSmxDT3FGNWJlUGQ1ZjVMVF9mazFwb240OTZ0dUJHVl81eUtR?oc=5",
+    "source": "RTP",
+    "ts": 1792171727
    },
    {
     "title": "Colonos israelitas atacam fotógrafa norte-americana que cobria a violência na Cisjordânia - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZzVlNmcyVWhSRVQzckQwX0JocHZPNGxPSndnMHNhdWtlb19PT00yUU9penVJVVFJSzZMQ3FWcWNKbGJVbkpHN1dPSFdzUENDM25xdlFSSnNCR0xXU2dud0NpSXFlOUZsTDZMMEdBcktGZ2VCQTRPLXlsTzlDQmtYNG95M3Fxb0t3OVdwdF92Y05mZXI2UDZGbHkxUThlbXlESTJPTzkwY1BKRk9zSVp1OUhpUlBfMDROZHRnOTZhVWthbjRHY0NVb9IBvAFBVV95cUxOd0xaZDEyb3lGY3FaNEdBQkdhRDJLc0hKVXRuUGNtZm9Edy1JZzI4Zmp2cWwyQjNJaERfRzFJT084U2J3V1M1QmlhN0ZzS0pjbHVaOTFCd2wtYXVtMHhhRUhPdE9lX1REYVZ3cl9XWVhHcERoTDM0bnRjUTJlSVZlS3R4VWJpeTBGZDg2aUFiU3ZTVHdyREM2ZXpKMWc5eFdTb1ZUR0hGdkFzMjJLeGJBR0Nha0RrMWM4cU93eA?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1792165860
-   },
-   {
-    "title": "Dos pais aos filhos: o histórico de cancro na família de Leão XIV - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNF9lUlF1Ty1BbTRfcnBpcHByZDd4NGI2bmpkZm4tMU1VRVRmUVRpYkR6VGIwa2lwZXZhTG1Pd1daOUR5TURfSjlYR1dNNXBMcE5NZzctSTVQZ241eHpMWUZoN0NOaVBTNnZYT3RLbUdKbXM1LXJDYmNFb25EVGJRcUp1LWlWMUlOeUxuSUNPcTB3dnY5cDBDSkF2Q2ZQa2RhN3pwRHJlUdIBmwFBVV95cUxNcmR3aWRyRFBWdXZkVThDSzlvU0JuZ0E4T2EycXFuY0xoRi00TzFpQzFYdnJKOVFLNkFwbG8yOC1oMXFWWEZnZEctcjJTZDVmVDBFdGtjZ04zTVdXakNFazdEdlZmelQwWnIyM3REQTd2bjZzeURCNWxzcmM5TWw3aFpLTWpzcGhrcllBaVMyZ3Y3UF9vZ2VLVm1LQQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792162860
-   },
-   {
-    "title": "Grato pelo apoio da UE, Zelensky pede mais 70 mil milhões de euros em 2027 - Público",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcDJrYzB0VXFQQVg5dnUzU3Y2Q0xiMkViN0lNdHR2WmdqS0FPSWNmcGg3eGdjTTBMcFVLUE85OE9wQy1tOWV1TGE0b2dqOHNvQzBXTkVkU0FmVmZfa1BmR2k4VktaWGxnczVrdkFkdWZscVRvVEFtOHRNbXFTSmdfeDBtdl9iRmhMbk5tdjFEMERSSVFHZzB4dGdQeXFMMmNmanRzZlVHMzJqQnV6SS00?oc=5",
-    "source": "Público",
-    "ts": 1792162695
    }
   ]
  }
