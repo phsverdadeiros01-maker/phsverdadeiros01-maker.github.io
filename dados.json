@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-17T11:00:13Z",
+ "atualizado_em": "2026-10-17T17:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-17T11:00:14Z",
+  "atualizado_em": "2026-10-17T17:00:15Z",
   "dias": [
    {
     "data": "2026-10-17",
@@ -1632,9 +1632,33 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Três feridos após colisão na estrada Barcelos-Braga",
-    "link": "https://ominho.pt/tres-feridos-apos-colisao-na-estrada-barcelos-braga/",
-    "source": "O MINHO",
+    "title": "ANAFRE e CIM Cávado reforçam cooperação institucional em reunião em Barcelos - O Vilaverdense",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQkt6emFCMEJwcDQ0d2dBOGMyNnFzd2trTllQa3FoNHh1NlppX1R5Y3dTbkVXNHZCSlczTEpsck9fbG5DUnJ5LXRwVE82RXF4U0tiSEhsQUF1LURpS3dZeU54LXNKZnhYVFJIVWE2RWR1UkdzRWJJN3lyRGEyVFM0X3UydnZmaF94aVRPdGNOYUZvTXBLVjZJZUtpalV2ZXBXTXdaMw?oc=5",
+    "source": "O Vilaverdense",
+    "ts": 1792249020
+   },
+   {
+    "title": "Jovem de Barcelos leva debate sobre inteligência artificial à Comissão Europeia - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTGJGenNOMTRCcTJ2V0VwTzJnR213dnQwaHNtbkR6X3JDRHlsMzY3SDU0WGQ4UTJtVVE1bU5lUDlfemZmNFpyOUszczNjMXhLUUdWUGFmaFZ6aUlhYWRUV0ZVODd0VUowbVJvWEFiWkd0ajlNOHk0Sl83THRWLVlxd2p5MTlvRXhNNTIzWm1xeTN1dGxiRENTODFIMlZ5VTZ6?oc=5",
+    "source": "Braga TV",
+    "ts": 1792241757
+   },
+   {
+    "title": "Barcelos: Jovens de Galegos Santa Maria vencem Festival Arciprestal da Canção - o minho",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQM1FPWEllZXN2cl9UbDJMSVl4dDBWVmQ2bWxVb0p1OC13MldJOWk4MWZjWTFwTXFUazZIejZiNVRYMUk1aGlDbGFhV2toSkVOMkZEajBOODBqTHdIOUkySEpTbjhwVlNYemdKSEs0UmluUy01VWh3Y2V3aTRaRkFreTlFYVk1QkVmdmlmWnRjUUItZW9BLTVXMkdR?oc=5",
+    "source": "o minho",
+    "ts": 1792236454
+   },
+   {
+    "title": "Traziam droga de Espanha e vendiam em Barcelos, Ponte de Lima e Vila Verde - o minho",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzBnR0x3emcyNy1ZUFdONENLbEVnU2ZxMmV4NHRzTmdaX1N0MmxZLXpIS0FNZE02c3A4SlpZZ01lTFo1aUluYnZPT3pzRkVZT2JHbFhRVGNEejNCTTdlZjVpdzRsVVAtVk5uNU5scDRLSHBZTmlIMlhUaHB5MUdXLUJ5VndUTWpRaWNzRjNTaWZIeWswNDBV?oc=5",
+    "source": "o minho",
+    "ts": 1792236241
+   },
+   {
+    "title": "Três feridos após colisão na estrada Barcelos-Braga - o minho",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Jb25jdUtPamliNlpOT1JOR0VFRGtucDYybGNydm9SMXU5RVp4QWpRUXBwNnc1bDE5YlhEc1gyTkdydTFiak1PME1nM3JFblZVeXl3QllvRXVmSGt1WVdrOVJhajZXRno0d2hnZFhobXgwRlpaQzVIR1dB?oc=5",
+    "source": "o minho",
     "ts": 1792228995
    },
    {
@@ -1642,33 +1666,15 @@
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdmZCX2xKUzZ5d2hKY1lwLUN4SjNZWF9Edy1tZHctM0tyX1NYQzROY2x1SFlXa3pZODRPbDNWbUstdkJrTmJyRVM4ZndNQ1RVa0tKcU5uY3U5dXVfY3hYVDJ4OTI5Z2U2Z1dvczF1UEUtX1VTbW1WNTBKd2owN2o3aFNR?oc=5",
     "source": "Rádio Onda Viva",
     "ts": 1792224009
-   },
-   {
-    "title": "ANAFRE e CIM Cávado estudam protocolo para apoiar freguesias - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVXpaTkxpaF9OLTZoWlhDbGE0TElNeDZfdnYzLXo0OHpoaEZUV0hZbmVURkx4OEszYjBLdGVDejhMWHVFeTRYaUR3cm5OaGViZFZZZVJJQ0F0Z0hBdkNzMFFySG9icVM5WVd0Sy1iVVRya0thZC13amppdE1lbWJ3ZEYzenI3cWM?oc=5",
-    "source": "Braga TV",
-    "ts": 1792183606
-   },
-   {
-    "title": "Barcelos assinala com desfile ‘Histórias que se Vestem’ programa dedicado à Saúde Mental - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS0VqeWxNaUUydVRNdVhnWG9qaVpIMFZmOG0wT2ZTZUlaMnhjNVB0NndkS25KeWNTSVBqeXdra2hYVWJjNTMxUnh6Mjk2OHBGWDE4Y21WZVd5ckpkUjAyVGxaZHQ3U2h5VzFPOG4yVFpxWTY3Y1hLVWtXQUVjS05kcG84ZC02Mm1kQU1ZeHo4cG4yWjE1Ym9Yc2d4a0NzM0l0RnUtTmYwVkdFZmNS?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1792164900
-   },
-   {
-    "title": "Município de Barcelos melhora condições de atendimento no Balcão Único - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObWRDeFJRWmYzSW5SU0sxaUFvVVJLWnJ5a096Y05OV29qdXdrQWtSZFNuRWZ4RjJQZF9XaGR3dnA2S2tycDQ2Z2s4cC1pOVZJR1ZpaG03Nk9XZnFQMEd6T1NqQkpfdlpyam5uYlhxelotblVWSUxrQk1UOXRIeHU1YzdMZE5aUnhMbGp0SXh6X2YtYkpTcFhJcS1WOVBpS0ZrWnh2Nk1iWDhsdw?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1792164279
-   },
-   {
-    "title": "Teatro Popular Mirandês – «A Tia Lucrécia» - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMUs1ZjRHRjF3LUNudFVGV1ZfVkNjRHhRaFJENUlERjdzVmhab2VUN0dUTFJrdy15eW52LVlJT0h2UU9LZ1RmZDlXLVZIZFFKNFpoazU4ZnZ4S2I3ekkwcG5OLVU3TmVuNnJ6ekJWZDUyTVZKQVcwWTBZdDk4NzVwbk1MZw?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1792163606
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: investimento de 600 mil euros na requalificação de ruas em Forjães - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTU9ENlRJSEdndHdLT1pvaHdwcTVrUHJZNXItdk5ZZVBLUGJNZUFiaGY3YUlCNkdReUNvUVJnYkNUMUlQNWFyOWk3OHlzZ3R4ZE9YRWZGelRfdmo5RFB6R3U4VnUzMzJGUXdfbUhqVFJnOFc4UXRoMUhrdGtJSDBZZlExbXFYNDluY3ZCcU5PUWtDZ1RHcHJsOHpRZmZNM0U2a2pIR1RmQmdJcXBCdTd1M3RDZElUMEllc0tSTEhTZw?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1792247400
+   },
    {
     "title": "Esposende inicia discussão pública do Projeto de Regulamento Municipal de Benefícios Fiscais - SAPO",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPRjdPeHFNbF82LXhoSGMxY21CX2FVc1VrX29yZkkxYjRkUFFPSnhyRTlVZ0lqWExYZzJqU19yeDZTX0NCRlFZWGZNWFNON01RVEcwU0VBSW03dl9IRFNpSU9sZkxjVVE4UENTUnFKN3JXUXBSdlJqWFdvNW1mOFVDRGQta2NiM21tY3A4MTNRcVRpYUIteG1fVTdaVXlVcS1FbE5BcWVWQjFZSDM0QjBiNS1fblQteW9NMERsR3F4TW5EX1pRY0dPbFI2VHdCd0E0eEFXRTN3WQ?oc=5",
@@ -1698,44 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVzVRUURnVXg5bGI5TWNOazhicXRnZXNpbWtDUFg3eXk3WDJGZ3lhdlVkOW0yTGZyM0VoamxkajRTUUc0aEwzSEd5MzlseFl5SUVETXhQWWZYbGRVVGpDakk5YmhzVGx3VnlQU0xPeU1iNEZkM3A0dFlLRTZtNmdoMWZydjRlSDAzcUl3ZkJQcy1GbjE0eWJnYVdtUnlBSU0xa2V2SG9OOHktd29BTmtfY0c4Z3lBcTdtbEdPLVdaSk1BYzNzMGc?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1792170780
-   },
-   {
-    "title": "Esposende: Campo de futebol de Fonte Boa vai receber obras para melhorar segurança das crianças - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdzlnVUc4NVRuWVdValVpNVJCaXFRVDBLRHo0VjRQS2FQcC16TzZ0MHFyamNhTGNiZTJnZkI0SnRmTl9hZ0pVWVlScTRnQ3JaelFnYXVQYmFXMVNteTlGbUhNM3dpa1hZVDNvU0o2MlJ1aXcwdGtKaXRza0N6UU8wYU9KdEpUemQwMnF6Znlsbm5JTDBCV21fZkc4Mm9FSTZOZHRMcnZIaTZTM2d2SVpHMjVMYTA?oc=5",
-    "source": "Braga TV",
-    "ts": 1792167747
    }
   ],
   "mundo": [
    {
-    "title": "Donald Trump adia sanções contra a Rússia aprovadas pelo Congresso - Público",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdmdWandud1o5am5qWUs5NVpDY0plNUEwVWZrSWJTWktHTTVvUDhNMTdXb3BNR2pLTjZhZFJmNVg2ZllnMWxoeGhXbW12X0pCN0Y3STQyT2wzTnZoX3JfRXg1WXZKUXNCMFh3WURUeUpYdUt3ZVliOHJMaG52alFZSTBhTzdtYzJnaklDUUg0TXp0VGRGZk9FelpxeG01NDJQVFp2aTFyQThWMGFy?oc=5",
+    "title": "“Coletes”, estudantes, sindicatos: mais de 270 detidos nos protestos em França | França - Público",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2lrYkxGUnUwaGk2VGhJWDQwZVZ1UHhpNmZjT1MzQ0ZOcFNHa3Rqb1d2Y2RsNzNFV1VWQW1hUC05STFiLWpEUnlVT2xYckhXZm9DX3d5Y2lXNEw2Q2dQd1ZVU29iM1BwcnplMkVCcGxXcFp5SE5oWnduQUVmSFZGeFBFWXZyZVhEZlQ0NFJ1M3J1WnpUbDlBOVVlMjlLZU5Ta0tCQ2hxTXNlSW8?oc=5",
     "source": "Público",
-    "ts": 1792224198
+    "ts": 1792254300
+   },
+   {
+    "title": "Trump adia novas sanções contra Rússia aprovadas pelo Congresso. \"Momento histórico\", diz o Kremlin - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLS1rZ21vTVZJMkhveVQtNUZJYW1WVnFQTWhUOWlsNDBzWUp3NzhmMHhPRF9HQU0zNl9GU1R5ZkdiR3llNUcyd19RSFV6aVJ5YWFXcTBpdzdTY1F3QjBDMkFONDdJdjRWM1pZV0R4aDluMjUxR2hERFE1MjNnc2pDN3dhRWcxejA4ZFZsNmdvSmJPTm5ybGlFMVNZUlRTcXZ6ZV9DUnRTNzhjT2hUbjVidUtrWnNROXdXU3NiVEJ4dUg?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1792250832
+   },
+   {
+    "title": "O Papa deixa o Hospital Gemelli no início da tarde. Amanhã ele fará a oração do Angelus no Vaticano - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOFFJaVBYUXViN1BmX2lmMWY2ekxzUDF1NFpIMXZqanFrMW5MMXNETU9mTzRUMVY1WlFfd2RZQ2dMU0t4Vm1lMjY4TTBXVVhRcFpMX1lQcjZZMDM0ckhnMXU5dVk4c1h0NUV0U0hWZ25FNGVpRlhXSlAwbHlhQVF2ZkhhVHZiT1dBQ0pPY0lXd1Fjai03TVFJNGRXWUtfM0llVHJObExTb1VndmNVbkpZN0lEZw?oc=5",
+    "source": "Vatican News",
+    "ts": 1792241717
+   },
+   {
+    "title": "Putin aceitou iniciativa do Vaticano para ajudar população de Oleshky - RTP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPci1JQXFFdHk5aWh0SjZjcFhhVHhxTVhaZWloLVNBaVh5cGFhSWVQWDR6NFdtS2JUN0IwNExCYjVRY2VZbWtFVG9yR2FZeTBFcmpqWkZNOE9LSHRUT2xNdF9mM0hNcFdwdnR6alA2LUNrc2VzcGJtdUVOZGpYQjNZUVVFOE16S0t1dXNqOFdMSmxDT3FGNWJlUGQ1ZjVMVF9mazFwb240OTZ0dUJHVl81eUtR?oc=5",
+    "source": "RTP",
+    "ts": 1792224485
    },
    {
     "title": "Porta-voz dos socialistas espanhóis demite-se de cargos e desiste de ser candidata - ECO",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZlJLckh4cl93SlcwWDdLWDJ2OWxZUl9mMENJdlViaFVQWDZ1ZWR4REhkeGhGLVAxU0QyTzNVOGJ3VFlLVW5LbUhGRmh0VDdJaklLbzRrdzJJcTZ6LWcxcE5PcjRiTUcwWnJoblpJU0gtRzJ4a3pFYkhuUWF6dXNlekFKTkhNQ2RvVjJvVDFEdnExNGdMb0ZBQmt2bER5TnU0YWJmV1k0b1UyTkg3YTgwd2wxano?oc=5",
     "source": "ECO",
     "ts": 1792217227
-   },
-   {
-    "title": "Polícia francesa acusada de mutilar estudantes - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaUFoNFhYaG90ckxncVZ6RkNoYmpkemtHekNGWVNIN2xQWlNlU0cxaDRVU2t6SklTOVQ1YkEzWUpRWndqZmxSUUwwX0VKOHJTTHlTTXdVS2lhQWt1R2NpRnRkODNyTERNQlFMaVZxNU9GZlhxZlhVbHBLb3cxNXBZb0tsVVlzLVVQNmRWStIBhwFBVV95cUxPdlVfeG10ZU16QmZLTmRocG0zOXBnenhrY2hyWWdKeTMwVFlOMDIzNy1JcVlSamNWdWxRUHZaT1J0MnZfYVZXMWlTVDRhcHNHTVVISmZDY0FvdFlNY3p3ZG5xS2pMR1VmLU9PNEJ6cVNkbkE5bWF0T2Q0dGhFNVBlWkJobk1rS3M?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792197000
-   },
-   {
-    "title": "Porta-voz da Casa Branca nem aqueceu o lugar. Trump demitiu-a - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdVVOMUlYTWdreUtEcUlTMUFQVlhZT0tBU3Q0QWxEX2J4V2t0OWFHLVM5MXlKV1NzV0liSjBJcHJ1MExKa0VPNEZxWG83LU5hZGttT01ucXZoanVfNEZTaTc3eTg1VkFXV1RxX19scWRsbjBfRzJ6UGUwSlFZWkJzT0NhTkFxRGtVYUR5bEJaOTA4MW1HT1dmNmlHT09aaUtRSjl1SjNJMmw?oc=5",
-    "source": "Expresso",
-    "ts": 1792174425
-   },
-   {
-    "title": "Papa conversou ao telefone com Putin e manifestou \"profunda preocupação\" com a cidade ucraniana de Oleshky - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVlcxZkEyS3ExQ2hjOHBMN1cxM2dGQmVQMV93ZWlTWGNvMWNNeG0yQVdKRmlQbmV5NzFOYnhJUk10RWxmMUt3NVh5a2FNTWZhaGV0UW0xVTRnSjJ0OEdZcnNOOFNLbG1SYTlwR0tpZUloYk5mcGN1bm1zZUNUNDVlelZiSy1nbEc5U2RDVVc5VjF4X2xERXJYdUlJSV85bzVjRHdaai1BQWt3TFVWa2czXzhEbHlPV1BaSTFfaElBa0FBTDViVklRYTYweGk5X2c?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1792168985
    }
   ]
  }
