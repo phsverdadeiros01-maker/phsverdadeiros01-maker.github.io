@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-18T11:10:13Z",
+ "atualizado_em": "2026-10-18T17:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-18T11:10:14Z",
+  "atualizado_em": "2026-10-18T17:00:14Z",
   "dias": [
    {
     "data": "2026-10-18",
@@ -1632,6 +1632,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "ACIB promove seminário em Barcelos sobre otimização fiscal e decisões empresariais - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQem51akotSjl6UnRLakY2bTBvSU96anE5dTRRQmVFT2ZMdFRfRU84ZloxcGZiWldlUTRwaVNuMlFPSHJVTl9iSE9HQ2xQZmdzZlZ6bGVZZTVxNjNnUU9aNENSMHB4bkZsOWoxU0pXdnVOWHFyb3NHMzhLU2FWYkxvZW81UmdXWjUxZ1hMa0V6d1NlRElYTk1XUENHQnphVFNTVVM2Vw?oc=5",
+    "source": "Braga TV",
+    "ts": 1792319415
+   },
+   {
     "title": "Construtora de Barcelos termina mais uma ponte na Alemanha",
     "link": "https://ominho.pt/construtora-de-barcelos-termina-mais-uma-ponte-na-alemanha/",
     "source": "O MINHO",
@@ -1660,32 +1666,26 @@
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRzBnR0x3emcyNy1ZUFdONENLbEVnU2ZxMmV4NHRzTmdaX1N0MmxZLXpIS0FNZE02c3A4SlpZZ01lTFo1aUluYnZPT3pzRkVZT2JHbFhRVGNEejNCTTdlZjVpdzRsVVAtVk5uNU5scDRLSHBZTmlIMlhUaHB5MUdXLUJ5VndUTWpRaWNzRjNTaWZIeWswNDBV?oc=5",
     "source": "o minho",
     "ts": 1792236241
-   },
-   {
-    "title": "Três feridos após colisão na estrada Barcelos-Braga - o minho",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Jb25jdUtPamliNlpOT1JOR0VFRGtucDYybGNydm9SMXU5RVp4QWpRUXBwNnc1bDE5YlhEc1gyTkdydTFiak1PME1nM3JFblZVeXl3QllvRXVmSGt1WVdrOVJhajZXRno0d2hnZFhobXgwRlpaQzVIR1dB?oc=5",
-    "source": "o minho",
-    "ts": 1792228995
    }
   ],
   "esposende": [
    {
-    "title": "Município de Esposende atribui apoio extraordinário de 14 mil euros para obras no Campo de Futebol de Fonte Boa - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVjR2T2NiLWg5VFFpWkZiNHRmSU10S0lMNGlaRkNPMXB6V1FrTjJ0cjVFU3cyV2FvYVdLVVNWZWd5QlREa3FDUXhROVdPSEJQVTdRUlFLb2tlc2ZLaURxSmc2SDFGTE9JLTNIR0lUWTJpZExZbElWRXhKTG5ZVHBVT2VwX3c2Z1FrUEF0b1RwbEhWR0N4blpsZXM1OFRiS2FnRE9ranlhb0lqUVdDbzZBM1huelJNaFZEVnAwTVh5T3hzdkZWX1A2VUxpQzF0YWFteWRmcDE0aHZwbktOcjdNdXdneGRGcHpYdGViSVFRQ24?oc=5",
-    "source": "SAPO",
-    "ts": 1792310400
+    "title": "Esposende: Incêndio em Fonte Boa condiciona A28",
+    "link": "https://e24.pt/esposende-incendio-em-fonte-boa-condiciona-a28/",
+    "source": "E24",
+    "ts": 1792339170
+   },
+   {
+    "title": "Esposende: Colisão de mota com carro resulta num ferido nas Marinhas",
+    "link": "https://e24.pt/esposende-colisao-de-mota-com-carro-resulta-num-ferido-nas-marinhas/",
+    "source": "E24",
+    "ts": 1792338294
    },
    {
     "title": "Esposende: START Esposende em encontro de incubadoras - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnJWZ1E5akhmb0xNUjlwWGUtZjBNckJKT1lTTU1RV1E5THBBa1lKOHlUM3BvZVUxc2oyMmZtY2FtcjFzeS05bGdvUFhuSHZSbmozdS14YWFaZmwxS2RCZVpleXdSeGRpY3V6X2pOSldIQUpUWTdKeklrWkFwSzhJZW5obFdkS0dEV1cyYnYyZjBPVGlYNlNSMVdB?oc=5",
     "source": "Correio do Minho",
     "ts": 1792299600
-   },
-   {
-    "title": "Esposende: Dois acidentes a envolver motociclos resultam em dois feridos",
-    "link": "https://e24.pt/esposende-dois-acidentes-a-envolver-motociclos-resultam-em-dois-feridos/",
-    "source": "E24",
-    "ts": 1792264040
    },
    {
     "title": "Esposende inicia discussão pública do Projeto de Regulamento Municipal de Benefícios Fiscais - SAPO",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
+    "title": "Foram detidas mais de duas mil pessoas nos protestos em França, Macron fala às 19h - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZjBZMU9hWlBtc0tvWjZwMDFMM05oRHVpRHRZS0hKenJqX1VRNmNvRzZsRy1oUjE2RHIxazJuWUxMdTNHNjRQMENLZVltd0hoY29SQWstTFRxVkxtd2dNclBWdlVjNVYzUTdxeHdSNmVPSXRleXhnZjVNQW44RFR5VWdjeDliTjdBTW41Z0hKYkluUGZQMFk0ZUh4Z0RYbDBpSXZmdEh1alBWbzg2UFA3anMzVkhkOURhd2M1ZHZadjQ4LU0?oc=5",
+    "source": "Público",
+    "ts": 1792331632
+   },
+   {
+    "title": "Falhas no Starlink, falta de informações e palavras amargas. A corda entre Zelensky e Trump partiu de vez? - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXRwTUVBMVBVNlRGbmdGVzZwejh6VHdibUFrN1R1QU1ndndSbUc3TFpVUzgtR1lYTlBUUElVZEZrMXVFamEzaFFuWVVoa1B2Wm9pczViQ0hJa054WnlvSm8wQWkwdVljbkNkT3MyV1dSNkl5eUg3U2ZEMzVocFk0NHluaGo1YnRsNlJMNVJnYXpnQ1RMdUljRUZETXZiSExOZkpmdVhsaHVMdlBFQTd3M1V4VE01T2hQTGM4NXlaNzRNR2hPcGJTRVhLSUFib2tHY3c?oc=5",
+    "source": "Observador",
+    "ts": 1792321038
+   },
+   {
+    "title": "Objecto não identificado entrou no espaço aéreo da Lituânia - Público",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTTh6Q0RESHY1MDlISE9ZYWhOMnhHeEtrczc1TjJzUlp0Q2JKUkNNQkx0bmNiMnM2RDl3QW00aWNpaEQxT1RFZU1ZNmdFY2gzYlBtNk5aNmRYNWFGVDZWSHZ6VHVjbGlXNV9XbzM4ckRRazZUSGliaF9ZRGpNdUJ5MmFfY0doeGozeXFoNlVTLVl5Y19kU2ZBaVBXRHl5WGJqeW5BSmZPY1d1Z2gwU0E?oc=5",
+    "source": "Público",
+    "ts": 1792320156
+   },
+   {
+    "title": "Tragédia no futebol infantil: carrinha invade relvado e causa dois mortos e 11 feridos - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMmxIZ25jNk14QkRFVXVneGZfVXlsc1hUQU1iZXNLWm01MktnTXdHeVZyM3AzOGh6R0stQVBBZmQyVW42WDI0UXVVaG9ka2tjdERIdWxfcFhZTmZUTTk0VGVGb2FtdHBMUnF0SFU2T3hLWldqZFVaN25TZDM0Z2ltVjBITWxzQncxc2VNVkowQ28wWS1lcU1pUzFrcWNfQmxSdmNxNkNxZWxxNGgtNmI5RXE1U29zN3dadERDQnRlSld0OEZjajVrUnpkbk1GTUxo?oc=5",
+    "source": "A Bola",
+    "ts": 1792314240
+   },
+   {
     "title": "Incêndio em terminal petrolífero de São Petersburgo após um dos maiores ataques com drones de toda a guerra - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQN2kzMlJWQm1PWGptWHhPaGZGeTJkVTFwN3RWRUxhRFA3dm1jNElkdFlReGQwRzlyYTBNRzU1V2psRTVWWF9EQUV4Q09GaFZ6LXQwZUZXWE5McjhxMENXVDNOTHFzWGFkT3lEWGxoeGN5Q3E0NU1zcTViRWs0d19ZRjNQejZ0U01hUlRHUHRRRVY2LTZzWWZONkZYa0xPVVZsbkpBNWV2Z25teDFtRUotcTAxXy00V1Z3UWVWMnhaVlVXaXNOWGZQdW5VRU82Ylh1?oc=5",
     "source": "Diário de Notícias",
     "ts": 1792313575
-   },
-   {
-    "title": "Cinco pessoas em estado crítico após protestos em Paris. Torre de edifício histórico incendiado ruiu - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeHpJb1BMWjB5Y002b2VMLVJZYXRLVWgtZXhSSXhOZGU0QTNSWFRXN1lLajRPaXhEeGFJSmpocmVhN1M3MlptWnN0RFE1VnFhYzFmdDJvb3N1RFVnWmV6WmI1dHp4QV9ncGxVV2Z0b2w3bnNUVnBTUkJTNHdNTUh4dW1SY0pQRHN4ZE5PQlJVOFI1WXVOYS1yUTlqYnJQQWY4dGlNZkh1b1hhZC0yZmlIb29tN2hiMnR2QTlUZlZsdHB6VERXWFF6RDZ1eFcxM254NXA2R0h30gHKAUFVX3lxTE1YcFpXZ0JyOW9DY0ZxOXFEWk5aSFhNTEw4eDhEdVNrRzB0QXFmY0xJM29UX3NvZDZWby1fbzZaODBPWDlYREtXaWtIUXBHZlJIZGowWWJ4T1dvVXV6MzYxaHkta2o3TWh1Z2pVN2g3YVZlckNDbHVSLW1zR2I1OGZDcDlPY3o2eXhLS2J2aGx3dC1XQkVpWTFQdWxTZjA4WllSeEtjeG5tYmQ1SUdFOEZ6MGVGYnpoU0ZYZEE5ekI4Smxpc2J2aGNlUnc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792310940
-   },
-   {
-    "title": "Incêndio em base militar canadiana em Alberta causa vários mortos e feridos - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMEZuSTVWRkRKYlEza1ZYZGI4alRyVWJna1pnRnp5N2JMeTZjcnBmSUdQbWtBOU1rd0oyTjVWVUgtZVZvMlpUWmxjT2hpdGM2Q1lDbEdsVF9FbHc1d2RUYkxZdnhld05raXZNc3FGS28wSXhVN3JUX040T2tUVTBXYkVETjJwTjNsZmF4UXo1bEVqWUhZQk40NHprRVBWdEpXNlhlcGhmZmZLZ9IBpAFBVV95cUxPaGJyMHlyY0lfUFMyMmVlUFdiTWxNQ1Q0RlJya1NLYnV5UTVLdURhSEU4alRtWHFXazV3Q05JLXFkZXlNLUNuSm10eEtJS19nM3ZSekF0czF2TUJiMXNjLWZkdGVJZ01hX1U0UHJTRnhaR3hFblYtNDJobVN5OVdlYWgxdzRMSHVsZUFqLW54VlJCU3p6Ui1wakw1R1gxdVdUNnd3VQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792305240
-   },
-   {
-    "title": "Pela mão dos estudantes, há “uma nova energia na Sérvia” - Público",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYWRNX0dXd1E5RmpvbmVoS0Z3djJWTFpzY3IwZk1uMU5fakhjbHQyUFVuMVVQMEdrOHJtdFJ3XzVmSGFLMnRId3g4SWN1TzI4TEplZ1lGWVJ6Y21pcXhKZ095OGFKR2VxZmdNVm44Q2hnZ3JwLWR4SzYzTDdkXzZleExZeXVlTGJZTmdRU2pjamI5bnlURVBldGw0YTI?oc=5",
-    "source": "Público",
-    "ts": 1792301400
-   },
-   {
-    "title": "José Palmeira sobre a vaga de protestos na Europa: \"Este tipo de fenómenos favorece os extremos\" - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVDNCMDI0UmRvZ2J4ZnpoQXhRcTFtRGJJVGxVNVd2THlCaU1fR0dSVDVZS2JaUF9XUVpsOUR1ZnZhUTNndGx4SUFNZW1zVmlwN3ZxT3k1Rzcyd1F1UEozNW1JTXh4bXpVcTQ4emVfTFo5RXc5Nkg0MG5RUUFCMjdGN20xLXlWWXFZX0llb2pSVWQ1c0RwNUh2NjZCTWF0c1RmVUhxSVlKcDhnWGJVbXBPMUtBOFptdnZiQm1LSGJjYm1xd0lCai1FNUtyTDdoQQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792273260
    }
   ]
  }
