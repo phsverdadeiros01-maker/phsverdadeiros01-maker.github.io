@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-17T23:00:13Z",
+ "atualizado_em": "2026-10-18T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-17T23:00:14Z",
+  "atualizado_em": "2026-10-18T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-17",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 6.9,
-      "periodo_pico": 12.7,
-      "vento_nos": 8.4,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 15.8,
-      "potencia": 13.8
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 12.6,
-      "vento_nos": 4.1,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.1,
-      "potencia": 14.6
-     },
-     {
-      "hora": "02h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.5,
-      "vento_nos": 3.7,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 16.1,
-      "potencia": 15.0
-     },
-     {
-      "hora": "03h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.4,
-      "vento_nos": 4.3,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 15.2
-     },
-     {
-      "hora": "04h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.2,
-      "vento_nos": 4.7,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 15.2
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.1,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.1,
-      "vento_nos": 4.3,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 16.8
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.1,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 11.9,
-      "vento_nos": 3.9,
-      "dir_vento": "NE",
-      "beaufort": 1.0,
-      "temp_agua": 16.0,
-      "potencia": 16.8
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 11.8,
-      "vento_nos": 5.4,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 15.2
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 11.8,
-      "vento_nos": 6.8,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 15.0
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 11.9,
-      "vento_nos": 5.6,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 14.8
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.9,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 11.9,
-      "vento_nos": 5.6,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 13.2
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.9,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 12.0,
-      "vento_nos": 12.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 12.8
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.8,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 12.0,
-      "vento_nos": 13.8,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 10.7
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.8,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 11.9,
-      "vento_nos": 13.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 10.5
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 11.9,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 9.2
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 11.8,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 9.0
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 11.7,
-      "vento_nos": 13.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.2,
-      "potencia": 9.0
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 11.6,
-      "vento_nos": 12.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 8.7
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 11.6,
-      "vento_nos": 11.3,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 16.1,
-      "potencia": 8.7
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 11.5,
-      "vento_nos": 9.9,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.1,
-      "potencia": 7.7
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 11.5,
-      "vento_nos": 7.6,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 7.8
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 11.5,
-      "vento_nos": 6.6,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 16.0,
-      "potencia": 7.9
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 11.5,
-      "vento_nos": 8.2,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 16.0,
-      "potencia": 6.9
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 11.5,
-      "vento_nos": 9.7,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.9,
-      "potencia": 6.5
-     }
-    ]
-   },
    {
     "data": "2026-10-18",
     "horas": [
@@ -1791,7 +1474,7 @@
     "title": "Amigos da Montanha de Barcelos recebem Bandeira da Ética de Prata - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONmhaYjVkSjluQzBzT2JLdGFwTHhYelBDSmxaVXVLdkFrazRhM0stQ0NuN3daM2xpS0JqUFljTDZHcE40T09CNUZYS2RvX0JYVk8xVDFQZTBiRVJhTFBzVnFnWFA0TkpNOWxsczNERlFmVkRJQU1nY2p4YTZBblpCcVZfcEIzc092bUM3Wk53?oc=5",
     "source": "Braga TV",
-    "ts": 1792268951
+    "ts": 1792269784
    },
    {
     "title": "«Sementes de Amor» leva jovens de Barcelos ao Festival Arquidiocesano da Canção - Arquidiocese de Braga",
@@ -1826,10 +1509,10 @@
   ],
   "esposende": [
    {
-    "title": "START Esposende participa em encontro nacional de incubadoras de empresas - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbVJ5RnJqaTd2bUhiNk4zdjlma2t1d3JPNUxBeFhDMmdoakVCdHN0MXZzWEJTMFE3VGRIWGIxc1NfdDFYQllUdlRyT2Nid3ZZS00zY2t5M2VINHJGTkN6ZUtIV2gxSkV5aVpUbW9Qek1rbm1LTExGVV9MemRQemJycGp4WXFKdDJaQ1hkTm8ySVp5dC1uV2pQQ0Ytbw?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1792265100
+    "title": "Esposende: START Esposende em encontro de incubadoras - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbnJWZ1E5akhmb0xNUjlwWGUtZjBNckJKT1lTTU1RV1E5THBBa1lKOHlUM3BvZVUxc2oyMmZtY2FtcjFzeS05bGdvUFhuSHZSbmozdS14YWFaZmwxS2RCZVpleXdSeGRpY3V6X2pOSldIQUpUWTdKeklrWkFwSzhJZW5obFdkS0dEV1cyYnYyZjBPVGlYNlNSMVdB?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1792299600
    },
    {
     "title": "Esposende: Dois acidentes a envolver motociclos resultam em dois feridos",
@@ -1864,10 +1547,22 @@
   ],
   "mundo": [
    {
-    "title": "Coletes amarelos”, estudantes, sindicatos: violência escala nos protestos em França - Público",
+    "title": "“Coletes amarelos”, estudantes, sindicatos: violência escala nos protestos em França - Público",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2lrYkxGUnUwaGk2VGhJWDQwZVZ1UHhpNmZjT1MzQ0ZOcFNHa3Rqb1d2Y2RsNzNFV1VWQW1hUC05STFiLWpEUnlVT2xYckhXZm9DX3d5Y2lXNEw2Q2dQd1ZVU29iM1BwcnplMkVCcGxXcFp5SE5oWnduQUVmSFZGeFBFWXZyZVhEZlQ0NFJ1M3J1WnpUbDlBOVVlMjlLZU5Ta0tCQ2hxTXNlSW8?oc=5",
     "source": "Público",
     "ts": 1792270860
+   },
+   {
+    "title": "Trio que matou surfistas no México condenado a 476 anos de prisão - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTdWamh5RkE5ZUpLcVhEeHdZOG5ZSktpYjAyTHh0MmV0SWpST0FJekU5VFVkdW5Gak11cTFzZEs5UlJlc2lob3dvajBlbVdWOGZIWnFocmdSeXVBSnBjZDlQRWRyM0R1Tk1WUlJHWDBWWi1nc2VRT1A4QzJBWEhVRE9DX1dJUVBVQXY5d1AzVVk1bHMtX2VVVjFEdTYtR09fS1JIbHgxb0s3SnVVRzNNM3hB?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1792265230
+   },
+   {
+    "title": "PS indica Carlos Tavares para a comissão de fiscalização dos investimentos na Defesa - Público",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVHF1MHJPcXpCaUVBOWZnRkxLOVB5VlFObUpiZzFIMC1FVmtEbG8wOC15T3JNN2ZPZXpHY0paWDNfSV93bE50YjdFck9RUkZ0MWE0YmUtbUhoSlY5TXlNR18ydG9FY2NQVW1nQnpKMkozWVZOUTV5MnpCTjd1UjVTb2YzSU5UeFFTTlpoMDZrTnJTRVc3bGhqLUF5bDEwVzVsdU82cGs0bUd3YTY0SHlZRjM5aEVYUEswUk84V2dnTWw1cXFN?oc=5",
+    "source": "Público",
+    "ts": 1792264754
    },
    {
     "title": "Cisjordânia. Colonos atacam comboio diplomático europeu e agridem autarca francês - RTP",
@@ -1876,22 +1571,10 @@
     "ts": 1792260294
    },
    {
-    "title": "Partidos em Berlim propõem expropriar 160 mil habitações a grandes imobiliárias - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQQmNIVWRmc1JRQ3VfeTB3Mk5MdWY5dGRfNF9rVG9vMjNHWHlWd2xNbEl1R0trM3dMT3M2RVVkRkRkMlZTd2JEcEdzVnJOaHlBeGtaZ000azBwNUxLU0s3NF9QRjJnVFZXQjRJZGV5Tnh2cHEtaVlOR0tLZ1dqQ3VYX3BaNDZvSEVHVllkR2VrM0R5bTE3ekQ1U3ZhUGNJLW9Kdkhnc3BOaGE3NmtLNE11Z0NLS0RjZml6alZlaEtPSXVzTWFoVERoWVllcjlkZVRfOTVTcm1JSzBXa3Z2elhUV1BGZUfSAd8BQVVfeXFMUEF3eTdpVDZ2MGdveno5QVFJZ1hfaDljcUc1dUhHeDQwMnlFTFlMWFpBUlM1M2hnaERyVXg4UjNtdjBZNnN1MklzRFFWZkhwNmx1ZXQzV2xhQzZXd2EyTXJiQmFEVUgxMU1tZ0hZZ2hDUXpjYjJYZXZiUkFjeUQ5WVloWjVmM2hfTktQeHZvQ2NRM2NUTTJham5XTXlaZGlZcmQtNDNhbUNHa0ZuR0VUMnUzMzZnM0EybmhvWUFRemFxUFl1MVUxaGx3c2Q5RUI4bzJ1dUlHanV6Y3FZNWpPUQ?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1792259267
-   },
-   {
-    "title": "Trump suspende sanções à Rússia e divide Aliados - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamN2M3VpdXZVUjJQMTcxbC0tcGxxZWpLQ3ZUZXBpRHZ3NWRxdlNLbFd2RWNlLUNoQ0MxUXFaaThPMDZNVm0wWFBIQTBzeHFvRzU3Y080ZXBGdVRfTGhqcTNBRjZRS043Wi11N09uTmhtbVZzaVNnQU4xVnpWYl91WkFfNlVOSVc1amJCMURtLV80d9IBhgFBVV95cUxOMy1kdFJxQ3RUeFR5RzBtSEN3RDYwWkZqZFVQTF9YNnh3cGtUMFlhS0NjNk4yeFpIa0N6bUdCbjA0UDFlX1czdUI2SUU0M3RpMm90ZG8zQVZwTUFHTXZydEpKbEFpSFN3RUlKeFhCUU5IaVVYVXBMYzhyNGJlamI1WDRrcVZDdw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792254660
-   },
-   {
-    "title": "Zelensky acusa Starlink de “operação planeada” para prejudicar defesas da Ucrânia contra a Rússia - Público",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUUtTklMcEVaSGFIdUtCWGpVUk1uWGxpbktXRE1Ud0pHZUhqN0JRamsxOHR4LXhFMHcxSURBbWtOZnFPUzNlV3RCS3RlX2QtU200S0lXclRVeVN2bmhMMVVaYnBOZXZGXy1JaWxUSlhuMG53WGRtbWxOdjJSLU9TeVVFcW1RUklybTdLTmFsR01iY2txQl9XNHpmYmJYSXRSbzJkVFdoS003VF9OeS11N3RTV3phellYdGVhZHFTam5ybUh3b0tOUkxzWQ?oc=5",
+    "title": "França: Bally Bagayoko, o autarca que se tornou o centro das atenções nos protestos - Público",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZU02R2R3aS1TUUpqcS1WdmVjbHgxNlZWMUV2amRWSWg4VDdjOHFmdkh5RjlpeTVpREZzQ09VTVBJTndjOGRNd2tVMWZYdnl1NjlpNWdsNjZtMFhwZDRSTGkzVHVHaUk0TTYyblg3QnpkNGFoQ3NMWXF4ZnFzb0FsTTdOczl5RWpuVkFSQ21XTEIwQ0F2cmo2QWI4bVgyVWd4TmFyMnNVd2V6NXQ4RzZOSUdORlF2NlFz?oc=5",
     "source": "Público",
-    "ts": 1792252059
+    "ts": 1792256335
    }
   ]
  }
