@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-19T11:00:13Z",
+ "atualizado_em": "2026-10-19T17:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-19T11:00:14Z",
+  "atualizado_em": "2026-10-19T17:00:14Z",
   "dias": [
    {
     "data": "2026-10-19",
@@ -1632,43 +1632,49 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Amigos da Montanha distinguidos pelo IPDJ com a Bandeira da Ética de Prata",
-    "link": "https://e24.pt/barcelos-amigos-da-montanha-distinguidos-pelo-ipdj-com-a-bandeira-da-etica-de-prata/",
+    "title": "Barcelos: Grupo de Jovens de Galegos Santa Maria vence Festival da Canção Arciprestal",
+    "link": "https://e24.pt/barcelos-grupo-de-jovens-de-galegos-santa-maria-vence-festival-da-cancao-arciprestal/",
     "source": "E24",
-    "ts": 1792406259
+    "ts": 1792428755
    },
    {
-    "title": "Basquetebol / Liga feminina: Esgueira vence Basquete Barcelos, Sanjoanense derrotada em casa - Notícias de Aveiro",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjBLZmdTYWg3clZVc0NkUmNFSUR3VUt1cnU0QUI3OUtaN1VGQmlycW5zVUs3elZUWHp3dU8wb0lZY2xlVE9KeVhlbE9EZnQ3UUtnQUc2SWRkVGxYdXRrM0lobFZaTHJOMjlBV1A1Q05XSVVCS0tMZW0tdVBNdDBZYlRpYmkyWjdLNWJpbERHZHAyZENSOXI1QVptQzJxendkVzZwWUdZOUx2N3dMOW1TR1VaeW42M3czbjY0MlpB?oc=5",
-    "source": "Notícias de Aveiro",
-    "ts": 1792404585
+    "title": "Barcelos acolhe as Jornadas Distritais dos CLDS 5G dedicadas à arte e à intervenção social - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmpXd1lpRGJ0TkwxR2NNeGJVdWxmMUIwSU11R3N3VTk1WmJxb1lPdS00Y0ZvbFAzTlBycXRtZ3FPNldnSEJZdHhYLUZMbWdzSFRqQXFYUEczRTY0cDVMRW5UbjlZT2plSXNMNkR6eW1CUnpsaVRWY05GNjV4bDF2VlNNWERTdElYUW9kTmFHTnJYQy1iRE8zN0N4bm5WZkpFY29nTXZYVldYTU9nSEtQUFhtTi1XRlZwRnQyY1ZWXy1ub0E?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1792426008
    },
    {
-    "title": "ANAFRE e CIM Cávado reuniram em Barcelos para reforçar cooperação institucional - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbFg1Z1FyUGhjTnNPcnd2UU9ienBVMUJlTlZmbVVyckphRkMxUVhELTVlUHJpZFlrOFFYQnFXVE5pOFcxRGNPVUE3aTFPeXhHTUdfbkd4OEdaNXpOS2ppTWkyWmcwTEliYkNYT0w0dER6UjJVdGlVaGgtVUZDd3hkLW44Q2JDMXZGdnZHSE1IUmVpa1g5YkM4MDhwd1MwSXZmbTZXTXhNRC1vZlhsaU1RLVZxRzFyRVQwMlRIb1UtVkg5SjZvYWc?oc=5",
-    "source": "SAPO",
-    "ts": 1792396800
+    "title": "Vereador da Câmara de Barcelos vai a julgamento no caso Tutti Frutti",
+    "link": "https://ominho.pt/vereador-da-camara-de-barcelos-vai-a-julgamento-no-caso-tutti-frutti/",
+    "source": "O MINHO",
+    "ts": 1792425159
    },
    {
-    "title": "Ferido grave em colisão de mota com automóvel na estrada Barcelos-Famalicão - o minho",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcGszTUl3Z0NTdVVWczJoc2dCdnFTNmMxMnhiVkVMcjNvWkRhQklDdHBPcHNUSFZPeTNSOVBiZ042MWxTcHd6d2dOdlJmWTBpdEowalV3NU8tUm9GOWFqNEpMdXZzbU50c2lRUUNWYWFCS3M2THhPSVFuNHRDb0tyOHljc0d3dUE1Ny0zZ3I5amh4V0JyaWsxTnRn?oc=5",
-    "source": "o minho",
-    "ts": 1792360085
+    "title": "Barcelos: Projeto “In The Box” transforma 12 caixas de eletricidade em arte urbana no centro histórico",
+    "link": "https://e24.pt/barcelos-projeto-in-the-box-transforma-12-caixas-de-eletricidade-em-arte-urbana-no-centro-historico/",
+    "source": "E24",
+    "ts": 1792425084
    },
    {
-    "title": "Castelos de Portugal: Em Barcelos, as ruínas ainda guardam memórias que remontam a D. Afonso Henriques - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWDgzSkNBUlpYWUpibUdCQktEbEpraDY1Y0NvUl9NYlJBSUdXREdDT3hSblM4ZS1SQ0ltT0djR0dRbE5CMjRDY0Rjb1ZXVmtiUTYwMUFrajh4Q1I1NmRXOVBwSmg0UGdhSDgwVU9QV1JRRFF5eGxoZC1OM1NIakhlZnRLXy1vWXlKQkp3SzhkemlKb2pwblcxMDlyaEhScWsxa2ZhcGdlTnRvNk8wcHNaSnZUSjhONFdUZ3ZSbW55YkJ4cXRmTFNPZGlQb0dycWhNRVNGeTkwNV92b0M5RUF5b2UzZGNvdHhmbGc?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1792358732
+    "title": "Festival Mental | “MY STORY, MY SONG”, com J.MYSTERY - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUEl2cFdrdVJKUjN4M21LSXNDaGl0bDNTc0hUX01xTVRuaHJoMzYwQS1tYkJiMy0xR09nYXk1Mmx0Tjh4bTFLQS1uUDRPLVBKUWJNc1JMME1KaE9iNjhVcGdFMmlEa0JFVWp0SkJ5cmNLRkUwQzlpMGp1NlI4bnhVc1otTjRaLTJHbWVHbQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792424709
    },
    {
-    "title": "Barcelos tem ‘novo’ Balcão Único - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1oT0R2S2lJOVBGN19FRi1OdWVkRVdpQXJzT2ZJTVpzQVpYenNqakhyczFWSUJXa280YmJyQmxNM2M2bFliV1R6S3BTREN3MENTTGpSajdyRDNfbXgzX0E5bThB?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1792355700
+    "title": "JP Simões, Marco Rodrigues e outros atuam em Barcelos na Gala Solidária Há Música ao Fundo do Túnel - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNUVnWnR5cHFVTzB1eVpLeWY1YWZkb2NmTDlJWXhKUS1peDBjSTNYd1ZTVXJmenFaVHhPU05jdmFNeldfV2lLZWxGTFh2QTVMc2FGYk93ODdidk5BZnA3RHBlUjRJQXljc3dvVTB0NWZZVmdCc21mR096MzhZQjdJcWVxakZRdzloY09WMXcxWkJxdXhLZEs3NWY0VVZUelBvdjlESmYwLS1ZY2huNzktOFhFWmh6VVdmSW5DYkRHbGpOdw?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1792417476
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Caminhada solidária do Lions Clube reúne 200 pessoas contra o cancro",
+    "link": "https://e24.pt/esposende-caminhada-solidaria-do-lions-clube-reune-200-pessoas-contra-o-cancro/",
+    "source": "E24",
+    "ts": 1792416504
+   },
    {
     "title": "Esposende investe 583 mil euros em saneamento em Forjães - Rádio Onda Viva",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSFBGcWdsTl90SzBJVE5OX0lhSXFRbV9CZHBoUXFIbXV2bDlQTXN1aFhHUVFMN3F5eTVpMVpwQ0Uxc25vTFUwVnRoYVhldkFrVi1tU3FidENHTGlVajlnTEEyb3NqU3ZGeHZBbHlrdS1xZEJqQzkybnZONGpDSTR2RWFGNktfTXc3TXc?oc=5",
@@ -1682,10 +1688,10 @@
     "ts": 1792346207
    },
    {
-    "title": "Esposende junta cerca de 200 pessoas em caminhada contra o cancro - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1dlamlzZGxCdFA2UHNScHRNUU5zOUpmNkt3UXdIZ18xdzBxQ2NnUWowQXRMTlRZNVB0VFdkWG53M0lhSEIzcW5kSzkwQkdJNUhmUEZpamYxTWh0MFMzU2FkQ0xINm5nMU9fN1hOa19FUVhhTXFjaHhKSjd5VXIxVHgwUnE0b2h4NjF5aWRJUkdtVTdLU25Ea1hsMVNTLVg4OHVlMV9xVWs4MmI4cXhvMFV1NXNwSGloaWgtWEdpNVVpUDdBdk13dGpVYmViOVE1UE5mY1pR0gHWAUFVX3lxTE5XV2VqaXNkbEJ0UDZQc1JwdE1RTnM5SmY2S3dRd0hnXzF3MHFDY2dRajBBdExOVFk1UHRUV2RYbnczSWFIQjNxbmRLOTBCR0k1SGZQRmlqZjFNaHQwUzNTYWRDTEg2bmcxT183WE5rX0VRWGFNcWNoeEpKN3lVcjFUeDBScTRvaHg2MXlpZElSR21VN0tTbkRrWGwxU1MtWDg4dWUxX3FVazgyYjhxeG8wVXU1c3BIaWhpaC1YR2k1VWlQN0F2TXd0alViZWI5UTVQTmZjWlE?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1792341960
+    "title": "Esposende: Colisão de mota com carro resulta num ferido nas Marinhas - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYnVocjBWOGF0b0wtQTNtM2ZXMHcwVE9GNEJxXzRhZWw5cHU4YVdUaDhNdWxCMWlGRFg4Z28zU1lTemFHcFNzSkI1SUJ5REJ1OF9aU3ZiRnUxZnhFaDhHTXlVU2s1RmU2TG5hU3c4Rkw4M3lXdUs4cFpJMFh3YmIzUGVRRTA1LVRaYTNR?oc=5",
+    "source": "e24.pt",
+    "ts": 1792338294
    },
    {
     "title": "Esposende: START Esposende em encontro de incubadoras - Correio do Minho",
@@ -1702,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "A coligação eleitoral de Trump, Musk e Putin - Público",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE55emtKWmp4bTlOQUN5LXNCV3J5YmJrOUlUOGVhYVppZ1ZaX0hTOUlzMnkzN3hyaDVzYzZrR2VRRWpEdEEycW5iM1Brd3h2UFBTQkd5bnJ6NC1DUl9PVlFCSmxIWjE1NXIycmc?oc=5",
+    "title": "Chuvas torrenciais e inundações em Espanha fazem quatro mortos: Alicante e Valência mais afectadas - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYi1LZlNOSmRCUi1KN2lOT1VZOGN4d2NhakFWRHozOER1UmlsX0JqRjQ1Yk05REp2N1o1cTRVV2VMdzZtX0ZnRDVGb203TS1qWm9zV1pmQkR5Z0E5MFhmY0JJdXozNE1jdExhb0lrMVJ3NmJwb3dIakN4TlJfcGhPanJJS1BZMzNYdGxmRFFCSlh3b3dvdC1ZLVJpNzlKQmZrMUFlY0tOcmhqZmZ5S0Y5QnJYcXNxNEhteDZxR2VvU0RQNDNDRkNOcmthVDhOa0Rhd1VPMk1R?oc=5",
     "source": "Público",
-    "ts": 1792405859
+    "ts": 1792426800
    },
    {
-    "title": "\"Todos vamos morrer\", diz padre momentos antes de ser atingido por cruz durante missa no Equador - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNb2JhbnR3NnVUMzU4enh0d2NzN0NRSVBuUXBHcEw1ZXVHbWY5VFpmcE1MSFhpbmpvdlg0YnZtaFlfME10cFVRZEJBaDZOaWRoVm5yeldSZlBtQ0JQWHVWYkZpQ3MzVGRxb2NULVFES2xYa1V4aUpTMDlfbWVpbUpGek5OZ21xN19GczJzYTVsUWhzLWdCX1FqVi1tVEtFUFktS0F2UWJENFZtZ3RwZzZucHExTXR0UGtZaElEV0FOZUtXLUsteWtuR2ZLSdIBxgFBVV95cUxOSTZUajF5eGxEVE5YSjlKcDBhMnVBVXVRNzE3N3pUUkRzZDNJYklWeUMycVJzdlZrRENwUG9UZEdXWFlyTFh4d1RPWmlkbG41WEMxQmN5ZWpNWHNDX01RU1ZfYWVuTDNZNEtsX084X2RzOF9pZkFSeXhJNDZ1ZEdxZmxQQndyamdsajNXc2lRNi1ObUNid2hFaHRqbFY0QXRrYTdtZ0t6aW10Qm9McDZZWDV6U0dQMVFVRkNvWXJDU19BTHJPNWc?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792402432
+    "title": "Putin desafiou Trump para cimeira com Xi para discutirem o futuro da Ucrânia - Público",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmltb2UzYTBrblpldGJvUGZIZmN2TlVacHUwQnZwYWtOQTg2cXhyWHd5dE5pUUdNdnRCTnJ4R0pWWmxCc0hQbHktSVB0LXNPOHZnTWhCdHZYb2Z4cl91RldwYWU2ZUJvcjh5NTc2N19jRkcyN0ZPdGJJQWt2UlRnb0wwREl4a0N5d3Nfd2RHZEJCbVBrRXpHcmtuMTVhU2xxaklZcDYwYnBUU3JXY2YxSC1MTVpMNDZCTWhZ?oc=5",
+    "source": "Público",
+    "ts": 1792419360
    },
    {
-    "title": "\"Foi atacada\". Deputada australiana em estado grave após ser atropelada - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQW02TXFQR0szMXZIajVKRFNVWEt2S3lIamk5QmN4RWNBSEJRSEZ3WFVIcy0wZWJWeGNRSE9vYVpPZUg4VUZ5am43SkxkeUtqRVdlZHlub0t1dVl1bVZ2aWNOUGNoTDJkbHpGdVVvVFpxMFRXRVhfUEVSRmdFbkdMN0FkMXY2c1hfdEw0S0hpbFBwX2dJMlA5U0JNbGg0eW9USkxVSA?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1792400259
+    "title": "\"O mundo ficará espantado\": Irão prepara-se para uma nova guerra com os EUA - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNTZlaGMycTZQMGJiTXhBUkhxellrNXpYb3pKbXM5WTFyalRNLVd5b2dBLWE0MkdlejU5aVpySUlidHM2N0NnbXdsR080V2h5b3JmNlZPbzcyUG1OblZFM0JlY3B1d0VNdnkxVElnbmg3RHNsUmxjOC1XMExYSXZDaE1DMV93bWxWQjlBUEJHU1ZYTnh0c3F3VmhYN0J5aU1lMUl4c0tEZGVmUC1wdXJ4NmthZ2xkNE5zM184SEphY3JJcDVSSFlLNjdXU0ltdVhvel9ROXhtWmVPeGoyUkJHVUw3SXpFNlI4S1E?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1792411320
    },
    {
-    "title": "Zelensky sugere que Trump está a tentar forçar capitulação de Kiev perante Moscovo - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZnZVUEJ5aDdmdlNBMjN4cHR3RG9jekJIY2VWVUpZOWpQSHB2b2NYWFpNcTVpMUJuMW9wSTlYaVdSUm5SRkpTSHhiaENUVnZ1TkpmMWE5bHRNellPNHc1Z18wS19uV0s4Tmp3WUoydXVET3ZjU1FUb2drVDdpOGd0VkJUd0V2MVhNZFRnczJWbDZhS1A3eVhKNm9MMzBVbDR1aUtNcEJQcnp0QXRHbjJz?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1792395884
+    "title": "Deputada australiana em estado crítico após atropelamento descrito como “ataque deliberado” - Público",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRHEtMnd4cHprQzMyLUl5Nl9WUVptcTN5Z2o0bHRrRjllRkptRXMwM19sSXpuTHlmRzRjVXdmdW05VUQ1SS1odUs4bkJnUUVrcDNvR0NBQ0F2eE1yQklXRllqVW5UTXlhdjJLUnRDbEFPUC1pNUFuV25uMW5aWi1qOHNDNm9TdEs1Ui1wdnVaUjVzTjVVOVRwNjZzRHZyaVpQdWxYZGtrckZ2eWhRMEI4dENlclY2dVRyblNJNXUtTmVlZUN2dzRaRkhUN1NXQWFmNjJZ?oc=5",
+    "source": "Público",
+    "ts": 1792411298
    },
    {
-    "title": "Putin quer sentar-se com Trump e Xi para discutir fim da guerra na Ucrânia - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQa1h6Uk8weWpVNllrUG9wanZwZWEtbEFsZEdUQjFHMmh1dzdqX1NsQnlEcGstVUlfY0pRNUJkVnlzSldzSkNzRS05SXVUSE91eWhicENGUGhEdGJuNE4za0xrNWpWSnNpUjR1RnhtNDdjbGRUZFlIek1kRkpNNWlXOEkwZG5YM09iUzh2anpnUnVldmR5aDdFcUQxOHQxeHp2MmM3d3c1OVQwSzFhZUl5SGdtMmtrZWcwQzNFaTd1UkVRNDg0QXNLNnBhaTFtYkxaUk1OanZZR1hUYnhsSGxZMmd0Qlk3RlNHVXhEeW9nZGFuTGxwbUhUTGJNNTFVRTFwa2RJ?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1792392825
+    "title": "Lecornu quer recolher obrigatório em algumas cidades francesas - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcV8wM3JlY2dYZjNaakxxWlV6YnZvaDJhR3VOSkxLNmFMcUEzVUlIc2Rhb1FMakFaWDBNZmVXRU1PUzFJZk5BVWRfcU8xOXBBUVV2YVRyNzJIZ2ZjVGdqcVBFNVNQZEFRQ21JVkRlM05teGx6d1UtMHZHVmstU3lmMVZHNEhTSXI0VC0wWmp2NURXZElnVE1uVk8yd09IQjhBZTVZ0gGXAUFVX3lxTFBfc2xQUVhKMVA0bEVMWG9sc1ctY2dxRzRqUTR0djBNMzNad2pwcUFFV2paMVN3ZEtqT1NsNFUtcDB1TVRMUWktd21jSXBXMG5qTF9hVlBpb0EzY2tfTjhaNktLeHBESWliZ0ZOMC1xT09rWExZYVVERWdFeldkSEV4MXNRSkd4cFIwb0VFaU5uU25Ddzk0azA?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1792409460
    }
   ]
  }
