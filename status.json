@@ -1,6 +1,6 @@
 {
  "host": "pi",
- "atualizado_em": "2026-10-20T11:00:28Z",
+ "atualizado_em": "2026-10-20T17:00:22Z",
  "resumo": {
   "total": 7,
   "ok": 6,
@@ -44,14 +44,14 @@
   }
  ],
  "metricas": {
-  "temp_c": 51.0,
+  "temp_c": 52.1,
   "load": [
-   0.2,
-   0.08,
-   0.03
+   0.12,
+   0.03,
+   0.01
   ],
-  "ram_pct": 78.2,
+  "ram_pct": 75.2,
   "disk_pct": 21
  },
- "ultimo_push": "2026-10-20T08:01"
+ "ultimo_push": "2026-10-20T12:00"
 }
