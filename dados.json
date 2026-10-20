@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-19T23:00:13Z",
+ "atualizado_em": "2026-10-20T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-19T23:00:14Z",
+  "atualizado_em": "2026-10-20T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-19",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 3.8,
-      "periodo_pico": 7.9,
-      "vento_nos": 16.3,
-      "dir_vento": "E",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 1.9
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.0,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.4,
-      "vento_nos": 13.8,
-      "dir_vento": "E",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 2.0
-     },
-     {
-      "hora": "02h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.3,
-      "vento_nos": 9.5,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.3,
-      "vento_nos": 8.4,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.7
-     },
-     {
-      "hora": "04h",
-      "mar_total": 0.9,
-      "ondulacao": 0.9,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.3,
-      "vento_nos": 7.6,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.7
-     },
-     {
-      "hora": "05h",
-      "mar_total": 0.9,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.2,
-      "vento_nos": 7.8,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.7
-     },
-     {
-      "hora": "06h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.2,
-      "vento_nos": 7.8,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.3
-     },
-     {
-      "hora": "07h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.2,
-      "vento_nos": 8.0,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.3
-     },
-     {
-      "hora": "08h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "N",
-      "periodo_onda": 4.1,
-      "periodo_pico": 7.4,
-      "vento_nos": 7.8,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.3
-     },
-     {
-      "hora": "09h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.2,
-      "periodo_pico": 8.2,
-      "vento_nos": 7.0,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.3
-     },
-     {
-      "hora": "10h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 9.5,
-      "vento_nos": 6.8,
-      "dir_vento": "N",
-      "beaufort": 2.0,
-      "temp_agua": 15.6,
-      "potencia": 1.4
-     },
-     {
-      "hora": "11h",
-      "mar_total": 0.8,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 11.3,
-      "vento_nos": 10.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 15.6,
-      "potencia": 1.4
-     },
-     {
-      "hora": "12h",
-      "mar_total": 0.9,
-      "ondulacao": 0.8,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 13.6,
-      "vento_nos": 11.5,
-      "dir_vento": "NW",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 1.7
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.0,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 4.4,
-      "periodo_pico": 16.1,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 2.2
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.0,
-      "ondulacao": 0.7,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 16.6,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 2.1
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.1,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.3,
-      "periodo_pico": 16.6,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.7,
-      "potencia": 2.6
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.1,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.5,
-      "periodo_pico": 16.4,
-      "vento_nos": 13.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.6,
-      "potencia": 2.7
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.2,
-      "ondulacao": 0.9,
-      "dir_onda": "NW",
-      "periodo_onda": 4.7,
-      "periodo_pico": 16.2,
-      "vento_nos": 16.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.6,
-      "potencia": 3.4
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.3,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 4.9,
-      "periodo_pico": 16.0,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.6,
-      "potencia": 4.1
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.5,
-      "ondulacao": 1.2,
-      "dir_onda": "NW",
-      "periodo_onda": 5.2,
-      "periodo_pico": 15.8,
-      "vento_nos": 14.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.5,
-      "potencia": 5.9
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.7,
-      "ondulacao": 1.3,
-      "dir_onda": "NW",
-      "periodo_onda": 5.3,
-      "periodo_pico": 15.6,
-      "vento_nos": 19.6,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.5,
-      "potencia": 7.7
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.7,
-      "ondulacao": 1.4,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 15.4,
-      "vento_nos": 15.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.4,
-      "potencia": 7.8
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.8,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 15.2,
-      "vento_nos": 15.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.4,
-      "potencia": 9.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 15.0,
-      "vento_nos": 14.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.3,
-      "potencia": 8.4
-     }
-    ]
-   },
    {
     "data": "2026-10-20",
     "horas": [
@@ -1788,40 +1471,40 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Gil Vicente FC vence SC Braga por 2-1 - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1RMWxBQ3dMRmEwSHFVeW10NzBKUDZ1endJRUNCQXlyYmFlcUM2ZFdpaVpFV3l4WFpMd2RNYUNFWTF1VHZyZHl0QXkya2NfMDFfNVZFMUxRSTBUVV80azMycU82OTNzSDdVa3k5OThKY3k?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1792478914
+   },
+   {
+    "title": "Descobre o Teu Talento, com o artesão Carlos Gonçalves - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNY2U2cFhrb254cDdvZXlINnBoTHVWTUpnSXBGSHBfRWpKZFNpVno5Q045NHVZNG40Nk9yOUJCYTdJOWFFVDhxTWpBTVZTYlNUbWdGMi1uWTVnckRPWHB1bzI2bmdKaHhkY3plWi1ELXVIaGtHUjRNbzdPZzZnb3A4LVBLZXVIWFZqUzNHZ1IxY3VRN01CUHp3?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792455041
+   },
+   {
     "title": "Três condutores detidos por excesso de álcool em Braga, Guimarães e Barcelos - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOUhkd21Vd3p6QUJ5ZXRJVE02ZVE3YXA3dEVCWTB1a1RXanZnUjk4VExfdnIyUlUyemxpbTUzRXBEb2UtOHFCNTh6YTVFa21Rd2xXWFRUSHJMY3p2RW84YVg5VUxheDZDNnFqRTZfS0xXSDFQNXJRWWpaay11MnNPbWNjWTFrVS1CS0lBUE1tZjJRX2s1aWVuZ05oaw?oc=5",
     "source": "Braga TV",
     "ts": 1792442764
    },
    {
+    "title": "Barcelos transforma 12 caixas de eletricidade em obras de arte urbana - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOOHJ1TjZZSVJKMEN2eUdFVHZpelhNdkFWOEJxczdGWTJGTUVwVXhXSzRsNV96d3NfVE16LTNRRDVjazlsZ0kyZjg5US1qOUVia1M3ZV9rclQ5Znc2T1dYamt0blN5Y1NnNEY1SmlodGtDYU1vUWFjTV9ZbWNucGZVU1J3bkxuMHlYX0pLTUhYVFhodm8?oc=5",
+    "source": "Braga TV",
+    "ts": 1792441025
+   },
+   {
     "title": "Petição reclama verba e calendário para novo hospital de Barcelos–Esposende - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTGZxdXZudENHbmY3US1TWlE1RlU1WkY0SXRRTF9PekRxYUJLZ1VWLWd2aE0tdC1uLTUtUkFQb2J4Z2R6RnV1ZW9PRjZJSlN0OW5EdWxYa2FpVktCTjFxOTNNSGUxYWRiSS1MWERIa1dxc3NUNGVpTlU0TWZBRVFNMzJVYlB4cnB3cE44M2tQRzZQY29hMVlzOTlEMA?oc=5",
     "source": "Braga TV",
-    "ts": 1792429553
+    "ts": 1792429523
    },
    {
-    "title": "Barcelos: Grupo de Jovens de Galegos Santa Maria vence Festival da Canção Arciprestal",
-    "link": "https://e24.pt/barcelos-grupo-de-jovens-de-galegos-santa-maria-vence-festival-da-cancao-arciprestal/",
-    "source": "E24",
+    "title": "Barcelos: Grupo de Jovens de Galegos Santa Maria vence Festival da Canção Arciprestal - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeHNHTXk2U0pJdmgzXzRZbjdib0ZFSzdYZ2w4dldVY2xWWnZ1T1NZREg5YXJVa1FGclQ3dGdscTdhdkJEclFvcTBqQzdXSkhacHRyNDYtQUowamdOempQR1otYlAwV1NpdmRSQXhyd1lweWVGUzZxSzlCQXVhVFBDbU5XSDFueDBveU85OHNCMndjbEV2NkpmSk1ocG94anVFTGc?oc=5",
+    "source": "e24.pt",
     "ts": 1792428755
-   },
-   {
-    "title": "Barcelos acolhe as Jornadas Distritais dos CLDS 5G dedicadas à arte e à intervenção social - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONmpXd1lpRGJ0TkwxR2NNeGJVdWxmMUIwSU11R3N3VTk1WmJxb1lPdS00Y0ZvbFAzTlBycXRtZ3FPNldnSEJZdHhYLUZMbWdzSFRqQXFYUEczRTY0cDVMRW5UbjlZT2plSXNMNkR6eW1CUnpsaVRWY05GNjV4bDF2VlNNWERTdElYUW9kTmFHTnJYQy1iRE8zN0N4bm5WZkpFY29nTXZYVldYTU9nSEtQUFhtTi1XRlZwRnQyY1ZWXy1ub0E?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1792426008
-   },
-   {
-    "title": "Vereador da Câmara de Barcelos vai a julgamento no caso Tutti Frutti - o minho",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxON3Rnc3E0dFA3YzRpTTlld0NkWFFXalVEWFNZVnJ4cDZ6c0hHSi13bXBibmdXNHdUMkhlNjd0LWhxRzlZaDN2UGw5aU9NNVFvMUNtVG8xV09xYUlFa0dfLUNsM3lHRnh2aVV5ZGpUTXFLNWlHcFpQalBCbF9KeVJLVEN5ZWRFQml0RnVnc0dBVlU?oc=5",
-    "source": "o minho",
-    "ts": 1792425159
-   },
-   {
-    "title": "Barcelos: Projeto “In The Box” transforma 12 caixas de eletricidade em arte urbana no centro histórico",
-    "link": "https://e24.pt/barcelos-projeto-in-the-box-transforma-12-caixas-de-eletricidade-em-arte-urbana-no-centro-historico/",
-    "source": "E24",
-    "ts": 1792425084
    }
   ],
   "esposende": [
@@ -1835,7 +1518,7 @@
     "title": "Escola de Música de Esposende inicia 40.º aniversário com igreja cheia em São Romão de Neiva - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS2ZHZDhQZHUzVzBWNHdXN09IX0U0LV9jLXhxaDA5dDRCSm01WGR3T0duc3Z4eVNZYk5QcnlIR2pVNlpHLTE3VzdNSUsxTk5GN3h6ZThTUW5wdXQwTkJGUDBLWFJ5ZjBDakZrWHZYQ2NjUk8yX0FRSGhoTEtOc0lHcUZWZUd1LTFwZXk4ZlprdGo4WGhQbUwtM01CYmllc2FqWTUxTlE2bGpPM3kyMHhKX21B?oc=5",
     "source": "Braga TV",
-    "ts": 1792442181
+    "ts": 1792442255
    },
    {
     "title": "Esposende: Caminhada solidária do Lions Clube reúne 200 pessoas contra o cancro - e24.pt",
@@ -1870,6 +1553,12 @@
     "ts": 1792438092
    },
    {
+    "title": "Canadá em risco de divisão? Alberta vota sobre caminho para a independência - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbEh3NTVlbE1zSVpjVjJTQVdMQ05RN1FHNS1PcnB0Z1JsVEtmQ2JNWEZSNkdGZEk0elFNQkdXQUJCOC0zNFNnRzBsU1p0cFVNWFBoM2tUWm9Yc2VfLV8wZ0FoQ1NGbVBJeXkwZ1RFTzA0eTkweko4ejZCODlJbE9uY3dqLVNRYWt3YVZyallGXzJCLW11UHpOTDZORzFneEF5Q0hwUFVRdUVhanJaT1Q2UmRrZHhBN2REUEYwaWtQWUVhUQ?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1792436594
+   },
+   {
     "title": "Jornalista Christiane Amanpour vai deixar a CNN em junho do próximo ano - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZjVMVDdkd1h2S09IVmh3QjBwWV9pQVVDUl8zS2NBTWhCV25HVjEtYnVNYkNYZXdhLTYtWm4wMFZfX1FIcWdEUkdhQjZqOHd2U1ZnLVFrcXhXVmRWOWcxZEdMbmhWR043X0d0T0pYVTFQS3diWEN6Z1dCZVBZZExibkhvNUREWTFUcVNhVExzOGRQWURwcXIzZlE4cUt0cHFfa1hBcW1YZ0JTY01XTWZrV1FR0gGsAUFVX3lxTFBqNjY3cjBxck94LVVRYWtSUDlfeFlWU3pqdTJmdW92WkFJZ05LQ0JMZGk1TGRyVVZVbWgzdVVENHZHeEJ3N1Rsc2VDcmxrTmpFMUplR29qYmRWV1AzOEtBd1daN3RTN2F4Q3cxSUFMUUdYejVLZWZjRjFIbFAxY1Q3MFdSelNSVHd5dEhMbzR6TDcxaVhTWS1hYTBaRkhERTlsMnVfVlRxNnFkOTI?oc=5",
     "source": "Correio da Manhã",
@@ -1880,12 +1569,6 @@
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNenh4NEM5dDJRbG90cVVlcG01YnY5Q3N3NlNhUE9EdEE0alFzWW84VURfcEtseVhLZE1TZF9PZm56aWhQTlRBLThHWGlLeWpoUXNuYmRHbURYck1DbGRmcVFDbExEbF8zdm01cnl0X1RFYjlJQUp0QVl1cC1kWVFQdjBCWGxCT1FaM1U1aVE1QllvZU1nLUxIV3M5UFI0WlZTNV9MVWtQYlpCQ05VUFB4YWFNZGdDT3NRZGfSAa4BQVVfeXFMT0J6dTJHb0RlZm4tV3R6UUxaREhDTlBFZ0NjNVd0VW5ienNGdDF5RDEtSng0UGVxSlZaOEJYNXJ0Yjk3ajh1X1lRalQzZEJVaE4tX1ZHQmozU0pMSFh1eklEbWVCUllqcTMySzlXNFYxZFhhUktzUW9Md1d0VGhUTGxmdjY4UGdIQ1QzN2hIa0xwNVFFVU80eWVob2FZUmxxNlVteGQ0Q09Yc2FUS293?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1792433880
-   },
-   {
-    "title": "Zelensky critica EUA por falta de informação e atrasos na entrega de mísseis intercetores já pagos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQRVBKYXY1Q19YUUx6NTdNOVNkcFMtTnJ3VHpTTzNNTWdjenZ3dHI3WnliNlFuOGRoZXM3aDB2bk5yUlBTRDlISDhOeE9TLWRjMmNOVjdDeWZJVDV5U3l5VFk3VGktcFJuNkRDRk02N3IzSmRUbGJNMURqYWN3Z2UtS3RQT185MDZXS2NCR2xIQVhYOFNDaTVIMmpTZzZUTnhKM0lVUDllaGlnb2dEZ1otcFZrbm02OGp0MUVHOWxmQ2tsMDhxZFM3bVhRRXhIQzVSa0tvcTJINVJuVl9HWnhR?oc=5",
-    "source": "SAPO",
-    "ts": 1792432893
    }
   ]
  }
