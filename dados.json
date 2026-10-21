@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-21T11:00:13Z",
+ "atualizado_em": "2026-10-21T17:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-21T11:00:14Z",
+  "atualizado_em": "2026-10-21T17:00:14Z",
   "dias": [
    {
     "data": "2026-10-21",
@@ -1632,10 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Exposição «Igualdade em cada Traço» inaugurada na ETG Barcelos - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaWFPendsalJSek5vLU12TGlsS2djNkhFVHRZMFF4OFBVcC1DMmZXR29tTWFITFZTRERxbkxOc0lGckxIUWpsVDdiRHczYy1HUVg3MWdHZ3dDZllIZlUtLXhLZjZNTTBITXpHUjlpdnduc3BlWGpvVWZsMm42MF9HdHZlSjlETEF0TjJyUGJJdF9Nck4tMjh1SWhfX3o?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1792600401
+   },
+   {
+    "title": "Barcelos: Areias de Vilar recebe encontro de coros no próximo domingo - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ05IeHltVC1VRXU3Zks5U0pQYlUxSDFOMGpSeHppcTF4WXVNNEhBVUw5Rm5Ka2JuWWRDdHV0S0tBRHA3RGIyVUJxZ21XdkptWndUSWNhclp0Q01yWFFXWGFCckxRVXFCLXlaTi00Z0ZJX1J5a3ZyWlkzcVp3MkQzVVo0bTE3T1dsTjJfY1JUQjJvZw?oc=5",
+    "source": "Braga TV",
+    "ts": 1792591569
+   },
+   {
     "title": "Rodrigo Leão, Surma e Marco Mendonça na agenda cultural de Barcelos até ao final do ano - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVlNMHZKczNMbHRuM2hrYmtDZFFIT0drVUFCLTNnUFIwcGUxNV9TUHpySjZoM1ZuUjNvRlJVNHJxN0lvUmR3R2M4cy1ObG11XzhmN2VWR3MzM2tMY2wwYkE1ZnU3RUVUVHFMdTJoSUY5aGtjc29hbUlLRWUxVEE4ZVhreXM3SXFuRnQ5VzZBT0l5UXJCY0pqUEotZjZIOXJEQVB2azZpdlhtdw?oc=5",
     "source": "Braga TV",
-    "ts": 1792580077
+    "ts": 1792580048
    },
    {
     "title": "Novembro 2026 - Município de Barcelos",
@@ -1654,21 +1666,33 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnJWY0w0RnVDcDVRc1dPSVpEMzYzdThXMGgzV200dXN2RlBDYU5SWDFaSTJsUXEzaXpXNnZfcWdfX1EwYk1PM2xta1ZoRk9zMUZEME5vOGxhc3lKRmp6M25sOFRRc1BsZ0V3RjB2c3UwNDB1OHd3YzNKQUtfYnR1Nkp3bGJmLTFncWJnVw?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1792569800
-   },
-   {
-    "title": "Barcelos transforma caixas de eletricidade em arte urbana - Rádio Onda Viva",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTklNS2Q0VXRLeThoRXZST0U3d3hkemdNREQ0MjRQSVQ0YkRJbFVfN3hhWWtmYVBxYTRCS3diWTBIZnE2UE5sTWozTWZXZWtNdGV6Y1dmWlh5bGF5QUl1RExHV3BnQnRTcTYtUEk4VzEwMFoyT1E0eXBrRTY3NXJNS3ZpUE5HTDNTNEJN?oc=5",
-    "source": "Rádio Onda Viva",
-    "ts": 1792569637
-   },
-   {
-    "title": "ULS de Barcelos/Esposende monta equipa para travar obesidade - HealthNews",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMTRqNllUV2hldWpqXzN0eWhoNU5xUnB2dzdSeDV1NFlPdWhKNHlmNHVwMi1RMkNPSDdKZHNqNUFqRElnUm9uZ0w1X3hlQjNpd3ZUelEwbG9sc2V6cDVGMmttMWFKYkxsMjBzejJaS2QxZTJVYUhSbldRclJHRFZsaFFVdHFyTVllRUkwNUxiMWxZMkpwU0VtaVVB?oc=5",
-    "source": "HealthNews",
-    "ts": 1792563358
    }
   ],
   "esposende": [
+   {
+    "title": "Igreja de São Romão de Neiva acolheu concerto comemorativo dos 40 anos da Escola de Música de Esposende - Notícias de Viana",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYU91andjTzA4MnlTMVUxQndEaFhSdmJmeUJnMjI3MjhYV2hRMDlaT0VyLUhIdzNEZFVtOHlZZXVWRzU2ZUhza1VBVGtKSXNWMC01RGJ1NFVlZmdhQUM2OVBHYkdpNV8tR3dPdXBTd2hGQmlnMkoybmYzaTdvS24zOExON2xObERDVUxxS3hVOXVlQ3VaU3phTmJZUU9HempoNS1uOUFDN0FYZWdSd3Awbmw3LVRBdmtkSFlGWmdTcUVWUDA4Nk9ZajhHYw?oc=5",
+    "source": "Notícias de Viana",
+    "ts": 1792600123
+   },
+   {
+    "title": "Parquímetros de Esposende entram em funcionamento na segunda-feira",
+    "link": "https://ominho.pt/parquimetros-de-esposende-entram-em-funcionamento-na-segunda-feira/",
+    "source": "O MINHO",
+    "ts": 1792599328
+   },
+   {
+    "title": "NKT investe 50 milhões em Esposende e cria mais de 150 empregos - Viana TV",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeXZkTkZNWnVWNUZWY092cHBYTnJiWTdZZ2xmeFFkVGFXRXc1bDlGdVF2RVFoLTZmckJTVXpyQldxNVpVMGVwdHUyaHZ4R1R2VnE3ZVpOYjBiTkY3bW1RSXJEanRIanpuY0pOZGtiTmpLS0o5NGh3RGEzYVU4UG9yRFV0Rm9xd2hrUXc?oc=5",
+    "source": "Viana TV",
+    "ts": 1792594800
+   },
+   {
+    "title": "Esposende Já tem data para X Corrida de Ano Novo - Voz da Póvoa",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazdLUnhXQXcwMlFnQldQeGgtN2FKdnA4VmZBNzhlSEN1Z1B2QXladUFlR2NjRnFaU0JQd1ZWT0dmZmRtTDdTR2pEOTFSSUdNTjdjeXRneGR6Qnd0Y3pQUG9oOU44OWpyMEEwSjlrcGtKMkhWNDhGZDF5TW9GdHdhRjRFeDNuYVBFd0N0UkMxWUFnZnR6dlo0dGU4VkRlQ1k?oc=5",
+    "source": "Voz da Póvoa",
+    "ts": 1792582825
+   },
    {
     "title": "Psicólogos de Esposende debatem intervisão e saúde mental dos profissionais - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3pOdDhoZmJjTExFeERUb2JpUDJjV0ZNM19nT1J4NVFWM21XR1N2YkFVZWlac3dWTzM2MGo1QjlBeEhiaXRxd19PR1B6ekxSM3ZkVnVBdzQ3UHRJamhoUXBodTV2RHBNdGZQLUtIT3M0WVpQOFBmWmV1Qk9kcE9hOEpKS09xTkN3LUpydHBNUUkwelR2N3d6MjBkMA?oc=5",
@@ -1680,56 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnhPNXozekRya2pOcXFLZXZYNmJaR084dUVRT1cwa0MySl8yLS1ZbGxkekNuVkM1a2tielNCQ21MSUNfa1BOYks4Mjl0TTFvVlBOYWtXUVlUSU5XWXRNMmdfZnBzV0FWWXgxcTN3YmFKeGZNUTE3eldoLW9Sa0ZSaS1hbW9ac3FtRVIxUUhqVXh3NjM3QlhhMkNhNExsMVBUa2VFNWJyWkc2bUxNWGgtOVhoUjg0LUxSd0NCV1VyczlyMnM?oc=5",
     "source": "SAPO",
     "ts": 1792573315
-   },
-   {
-    "title": "Mercadona já tem data para abrir em Esposende",
-    "link": "https://ominho.pt/mercadona-ja-tem-data-para-abrir-em-esposende/",
-    "source": "O MINHO",
-    "ts": 1792571594
-   },
-   {
-    "title": "NKT inaugura ampliação da fábrica de cabos elétricos em Portugal - Cision News",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUhUNDQtbkZfcHI1YzhmVUxjTGVpaXAzWTZSZ3FPTUdxN3kzYWt6OXlOUFYtYlpCSUh5UjVpaER1U3pUM1dDOTkyNk1LelpvM0hjbk9mTlc0dHRCUWZMMlhhZEdlbFhaX1kyVTlXYVo4NE1BeG5yaEZBSjAtY2MtdkNaVzBJUVRMY0RpczI3ZDhyS3R6M0xNTDBzVWFrSWdkLUVYbkdqZElYdw?oc=5",
-    "source": "Cision News",
-    "ts": 1792561533
-   },
-   {
-    "title": "Campanha Viaje sem Pressa regista quase 13 mil infrações por excesso de velocidade – Balanço - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSm85a3lFZkFBT0tzdVJXQlVkaV91VkIyTHQ1WWJnLUJjSWNzMmM4eE1oRlk3WE54cEZTaFRpNFB6N0t2Z2w5SEctcEg3WGQxWWVKQ19LNTZTcEFib0FjUHpDbElWX2VrUXhKcUt5SEV5LUNOMmJZVHZldEw4Q1pkOWRycUpSektza2REMmZoWExSYjNySU5hYTEySWV2QkxGNXFEUVFKa0FSdVNSQVN3MkxNTDF0U3FWQzh0RWxxQ3hPUTZ3di1NcWs2TFRVVmE2SE5KeA?oc=5",
-    "source": "SAPO",
-    "ts": 1792533641
    }
   ],
   "mundo": [
    {
-    "title": "\"Lei de Netos\": Por que mais de 160 mil espanhóis podem não ter o direito de voto? - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJNTjBWRW1tNlNzMGhPX2Rwa24za1FyVEx3U0xoX0Y2X0U5NVFWN1RiMWhGWmNxR0o0MFlFdlFPbk9vd2lRN0dheUYxbDVSWFh6a3J5amFvdlRXY0JYU1R6NnNKWkRvOVRLbjR2QXgzbE1TdEplUWdzYTVpZU50aXppSEtENGFRdEs4RHFuVzJWeHJ1MldiX09vMGZwR1hyRmxMU3l1YTFsOFdqRHFJaG1VaUxLZmt0SHY3c19BVU5PM2xR?oc=5",
-    "source": "SAPO",
-    "ts": 1792568978
-   },
-   {
-    "title": "Donald Trump acredita que a Rússia vai \"esmagar a Ucrânia\" e Kremlin vê sinais de vitória - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdlR2UUdrdUpWU2Vva1oxM2IzZnI0SF9EdGZjb3p3V1NpMXMxUGVCTjFTeHZDWW04aDJ2ei00WXJUbWx1XzZoY3lPaHNLZHlWdlFJYlE2WkMyRG0zQkh4ejF3cUZGTjJJSnF2em9sRXN6VTktaFNWUFVoLUF1MTFJc2hseEZTYkV1Y29lU01PQUY2WDMwUHBlb3JMSnBXS0pUdkZKQTJyUHRFOTFfbGp2bUk4YWF1OHNxbUwtZUgzb2RIdkdzQ3NYN2JNNzhaTkRZdUFIWGVvWEE0RXpFMDZRRXlIS2NQbHQwTkx3dEJ6ZlJyS0ZYWTMyVDI2UHp0T1U?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1792567717
-   },
-   {
-    "title": "Deputada australiana perde as duas pernas após atropelamento deliberado - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWlNFYUg2Qk4xVWNmRS1qQ1BOeDV0X2hTVWtoU1FvcnhrZU82NVkzbWFFem9YajlYdks2cHNGTV9mVXctTTdiaFNIUEtuRmNMaDVsQVhLTUQ0RjN5N21zTWgyTUUyWjh4VExoSGs5MzJwbkstRnQ1NjZDTFRDVmVMeFhtcVFMbzd4Qk9waVpYQkJWMEh2Z1RoVkpKdmFpbWQ0ZjE5bllFQkdFbzhfbE1rU1Z6VWNtN08tN200WmRWNDI3dw?oc=5",
+    "title": "Rússia está disposta a reunir-se com Ucrânia e EUA já em Novembro - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONUUzM1ZyWHRJVVFQdVViS1dXZG44NWhLOTdKMjdhTkFxVXBiOUd5bGZMQ3hXOEpRR3V0emMyNURDVjJxNjhEZzFLWXFCZW1oc0pTTzVvLTNHVUhLRkRfMnRaZFJkRUM2S25vTGdYUGFfMmlZS01FbVR5c25rSExrUm5EYW1ZZ0Y0dmJad2wySDcxNlFuc1BJUHRDb1pLbm9JQ2wzQmhvdDAxdnZWbHFxc2dPS1BkR3dPYkptTDZERzA?oc=5",
     "source": "Público",
-    "ts": 1792567647
+    "ts": 1792595509
    },
    {
-    "title": "Le Pen reforça vantagem nas presidenciais francesas de 2027 após distúrbios - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaVc2Wm5EM2thalR2dWRDUTZPaV94cnFfR0JGQzZTWHRpOER6aVR1RmllRzBJY0JMR0tnVkNoSzBUQXU1Q2taSzhpdkFzdE40eFhTYnZhSG0zWDB2ay1qdnI3NldCTTFKaXVhNHBVRkJZOHJTY3NUZVRRdG92UVZ1UGFYVTB4UURmMWxKYnJ0dzJvSXl2YmtzdTlnMklrN2FIamhxeW5XVk43UzdZckhtMUgyal9ITGR1bnA0c0Y5V2VTUQ?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1792561984
+    "title": "Nigéria confirma caso de ébola. Surto alastra a três países - Público",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNa2RWV01aZGZSMHRLV2ltTGQxMXdYTXJ1bjFxU21UeURRMTJGT3FRbDRtV29ZYWhFV2cxX19pTEpXYmhBalhTSFhPNXBaSk5adlFWRTZJZzNkVk1fZllOVHgyaFhtX0h6eEliNTZsVFlpZTdmSExZSVBaUTFXM2trY18wa3h4NlZjY1kwNGNtVGQzUG9SZy1ZdHFrT1dQdkEzM2o2TEhSTHZ5aEt6UWNmR2c0QQ?oc=5",
+    "source": "Público",
+    "ts": 1792577635
    },
    {
-    "title": "Elon Musk ordenou a limitação dos serviços da rede de satélites Starshield na Ucrânia - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNREZpXy10VWdwN2JNcmlWUkpiRkJPWUFkMkg5SkpHUnc5RzVidWdEdVFjTWF4b3ZfR3ppeDh5MEVkdy1xTWVhNWpJbDN6c1NTVTdvVlk0bmNZNkIxN2I3OFpZcXNCZXo1WEtOamF6Rnc2Q2VfSzgtRGRHaXFOam4tUmRManZKRFFkMGthNWtEYkdiNmlTOEwteDhhOU1iT1hsb1ozTVdPdzlhZ19sXzlPRUpxWlFXV2QxeXJaRzdGbmh2VHZMa1A4elVqNVZZT0xuLUxOTG1yUUJISzB1Qk9naFZudXhHWEJiNXNzUW5DWjd4Zw?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1792561144
+    "title": "Deputada perdeu a segunda perna após atropelamento - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdzhrVGlaQzd1ZVBDVkpQc1VmeEtvb0NJcFA2WHJqNURzblJhR0ZiSkl2SDR6ZGI2c3Z4X29Xa05rT2ZpQ2U4UkNlNkttbFlzZUxHZUJoNGs4VTNnNUpZOUZ0aU1yOXdzYmZfY29NN3Rtc0FfVk1RdUdHaFFsRmk1cWlFcldydlVvbkdJc0UxalpIWVZUYUFFS0NPNm9ZRlU3MmdadF9ENUpNRGhsUjJBNGE4M05KMTRoVGFNOW41Z1I5RHRJUXNkRVRxVGxhSnVHcTUtVUVCVUxnb1Rt?oc=5",
+    "source": "Observador",
+    "ts": 1792577001
+   },
+   {
+    "title": "Neta de Bobby Kennedy morre “pacificamente” aos 42 anos - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQS2NvMzhJQnNNZ3FhdzRiaTRMRWlPMWl6YTdENXB1YUk1U2RoZGpzVmtBQTNabFowX0NCT1dINEd2bGtVam1tTVJVdGFfWkprNjE0cGNhdDBzOTJyU1R0aWZLbGN2UExReXNqeEdXUXQyMG5tNDV3TG9VT0pPNTdTVVBBT1p5bDczWDV0cmJKV0tyaDR3MjQyNy1jREhBSkZv?oc=5",
+    "source": "Expresso",
+    "ts": 1792575300
+   },
+   {
+    "title": "Javier Milei apelida Pedro Sánchez de \"ditador inapresentável\" numa visita a Madrid - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNTNzWHRaVnp2cUxHXzFUcW5qbGswOEFPWGQ1YjVLS1VBQTRPXzVleVVJTjRyUWVxd0lXdUFkcTJBOHZrbFA5c3NPbkw1cEhfcVVwSmpBeVJyZHAwTktyRXhCNUZWVDY2UDc3b08yeWtMSjQ2UzNocDhFX01aSTRXcVp3d2psQzl5TUFnMFdYX2QwcXFYcXZjQlB3V1ozVXMxaVFTRnlTam56eURVbmF5YQ?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1792574243
    }
   ]
  }
