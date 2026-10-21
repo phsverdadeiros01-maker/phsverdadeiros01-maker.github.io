@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-20T23:00:13Z",
+ "atualizado_em": "2026-10-21T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-20T23:00:14Z",
+  "atualizado_em": "2026-10-21T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-20",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 14.9,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.3,
-      "potencia": 8.7
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.5,
-      "periodo_pico": 14.7,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.3,
-      "potencia": 9.4
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.7,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 14.5,
-      "vento_nos": 16.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.2,
-      "potencia": 9.1
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.8,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 14.3,
-      "vento_nos": 17.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.2,
-      "potencia": 9.9
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.8,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 14.2,
-      "vento_nos": 17.3,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.2,
-      "potencia": 9.7
-     },
-     {
-      "hora": "05h",
-      "mar_total": 1.8,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 14.0,
-      "vento_nos": 17.7,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.1,
-      "potencia": 9.7
-     },
-     {
-      "hora": "06h",
-      "mar_total": 1.9,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 14.0,
-      "vento_nos": 18.3,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.1,
-      "potencia": 10.8
-     },
-     {
-      "hora": "07h",
-      "mar_total": 1.9,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.9,
-      "periodo_pico": 13.9,
-      "vento_nos": 18.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.1,
-      "potencia": 10.6
-     },
-     {
-      "hora": "08h",
-      "mar_total": 1.9,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 13.8,
-      "vento_nos": 17.1,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.1,
-      "potencia": 10.8
-     },
-     {
-      "hora": "09h",
-      "mar_total": 1.9,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 13.7,
-      "vento_nos": 15.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.0,
-      "potencia": 11.0
-     },
-     {
-      "hora": "10h",
-      "mar_total": 1.9,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 13.6,
-      "vento_nos": 13.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 15.0,
-      "potencia": 11.6
-     },
-     {
-      "hora": "11h",
-      "mar_total": 1.8,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 13.6,
-      "vento_nos": 13.2,
-      "dir_vento": "NW",
-      "beaufort": 4.0,
-      "temp_agua": 15.0,
-      "potencia": 10.7
-     },
-     {
-      "hora": "12h",
-      "mar_total": 1.8,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 6.8,
-      "periodo_pico": 13.6,
-      "vento_nos": 11.7,
-      "dir_vento": "NW",
-      "beaufort": 4.0,
-      "temp_agua": 15.0,
-      "potencia": 11.0
-     },
-     {
-      "hora": "13h",
-      "mar_total": 1.9,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 13.7,
-      "vento_nos": 9.5,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 15.1,
-      "potencia": 13.4
-     },
-     {
-      "hora": "14h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 13.6,
-      "vento_nos": 9.7,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 15.1,
-      "potencia": 12.2
-     },
-     {
-      "hora": "15h",
-      "mar_total": 1.8,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 7.8,
-      "periodo_pico": 13.5,
-      "vento_nos": 6.4,
-      "dir_vento": "NW",
-      "beaufort": 2.0,
-      "temp_agua": 15.1,
-      "potencia": 12.6
-     },
-     {
-      "hora": "16h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 13.3,
-      "vento_nos": 3.7,
-      "dir_vento": "O",
-      "beaufort": 1.0,
-      "temp_agua": 15.1,
-      "potencia": 11.8
-     },
-     {
-      "hora": "17h",
-      "mar_total": 1.7,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 13.2,
-      "vento_nos": 3.5,
-      "dir_vento": "SW",
-      "beaufort": 1.0,
-      "temp_agua": 15.1,
-      "potencia": 12.3
-     },
-     {
-      "hora": "18h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 13.0,
-      "vento_nos": 3.3,
-      "dir_vento": "S",
-      "beaufort": 1.0,
-      "temp_agua": 15.1,
-      "potencia": 11.3
-     },
-     {
-      "hora": "19h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 9.0,
-      "periodo_pico": 12.9,
-      "vento_nos": 6.4,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 15.1,
-      "potencia": 11.5
-     },
-     {
-      "hora": "20h",
-      "mar_total": 1.6,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 12.8,
-      "vento_nos": 8.6,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 15.0,
-      "potencia": 11.3
-     },
-     {
-      "hora": "21h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.6,
-      "vento_nos": 8.7,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 15.0,
-      "potencia": 9.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 12.5,
-      "vento_nos": 8.7,
-      "dir_vento": "SW",
-      "beaufort": 3.0,
-      "temp_agua": 15.0,
-      "potencia": 7.9
-     },
-     {
-      "hora": "23h",
-      "mar_total": 1.5,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 6.6,
-      "periodo_pico": 12.3,
-      "vento_nos": 11.1,
-      "dir_vento": "SW",
-      "beaufort": 4.0,
-      "temp_agua": 15.0,
-      "potencia": 7.4
-     }
-    ]
-   },
    {
     "data": "2026-10-21",
     "horas": [
@@ -1788,10 +1471,28 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Figurado de Barcelos recebe distinção nacional como Património Cultural Imaterial - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc05oRFJxT0ZPd045OUhVdHBOR3NLdUxabWdZQXFyQWVDVDdERU5SUFZHZFVkdFRRQlJrSjdZSzZ6Szl2WDlObUpSM1IzcmpzanVxci1pN0Raal8zR3NXUGY1OXZfcVRDWXJGcmpXTE1oSlExWDl0X20zWFdoNXFwb2ZvU0lrRktKZ3hYT1h6NWxnTlFIOVlwSVJqYWlUb1FDU0VQREV3?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1792528920
+    "title": "Naza - Cinema | Agenda Barcelos - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBEcGF1RjVHRFdOSzlZak93UHdoeWFoQU51bnlaOUVEQTNlT1Vwb09EODhuZUEzSXcyZjRWeS1jWkVIWXZaT3dJWDhGS2tiandNSXc4U0Zn?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792546144
+   },
+   {
+    "title": "Sereias | triciclo - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBUNE5TZ1dJSlM5ckVGRDVkSXVNdWFSbk5YTDhLOUtDeEZJUkNJUWp3UWF0ay05YmNEWU91dEtScXFLcFgweFQ2elJNR1JwYWV0NFpPWDhXZUJqU2ZscGhqcTVmMW9QZw?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792535789
+   },
+   {
+    "title": "Nós, aqui e acolá | triciclo - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9uNjVGaUNjdVc5ZTVCOU9JRnYzTE5TOFVZZmVoVWliWkpqWEFDSjhUaHViNEVDZ0kySmJnZkJfSFhxdzF3XzNISjdXSy1JUFZKZTRFS1dLTHE1YW54V0lpeFhycnhJRXBwSHNuSkRHWTVxQQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792535788
+   },
+   {
+    "title": "Joana Gama | triciclo - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1nLUNkNzFEelR1THVJc1ZncGJmd0NCYnp0YjF2YXJadTFtX3MteWlWSDI4U3BVVnFLTmFCQ1NUenRwdS1MazZQcHRHcElZUkFyNzgxbVZ3MUJVdlVWQ3Z0c1J3MTYzRlZDYkE?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792535787
    },
    {
     "title": "Os que Chegam | Estreia - Agenda Barcelos",
@@ -1804,27 +1505,15 @@
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWHI2eGpwb0NnMldxMDhBVWNXNkZWTFRBVk9zZlV0VzVOT18xTzV3ZkZpSVZ4dVdyNngwSzFkTDB6Q3hBSFJRd3R2Tzkzb0FGb1JEOFZTNERGUG1DUmtqRERvVTRQVmx4TV93OVR6blpDaS1paktOSW1COWVyRFNjTGJFa0Q4c05zaEd2OA?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1792517105
-   },
-   {
-    "title": "Torneio ANMinho - Torneio de Abertura - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9EOUswWTh5cWJSRm5tZTNQVFMtbmJ4SU1KWk4wazB0ZTRpZDh3UzNLR3hKNnNCUzJ6MXdDcl9NTUp5UDR6OURaU2RZQlVFQ0M5SGZSU0dNWWNpbkdyRHdid0owX3luNUVCVjc0N1NYejVkbWFTOWxOdThrVFFzeHc?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1792515191
-   },
-   {
-    "title": "Município de Barcelos estabelece contactos estratégicos na DECOREX 2026 - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPenlZTUtGM3ZXSExHZG1zWEU5bzNhQ204MGVoYjF6cFh4X2dXcUd6Q3paUDZQNFJGN3hfS0lRNjByT09tM2ZBRE81cHdlY2hOZGR0NmZyVmFaMjBYTmJJZFdBS0M5bUxmNHRIeVl4b2lXTDdnRW1yY3pSZnhrYm84cUNhV3NJVURBcU1wTDEtQ0k4VjFGYUFGLTU4SzRTbnpBM05PakhFR3hjOGc?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1792511423
-   },
-   {
-    "title": "PS de Barcelos exige calendário público para construção do novo hospital - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGdEX0pLM1VPMDg3TFJULXRmRUlCQWlSUEJRdTVPSDZqczE5a1JKd1NLazczWkFacVprb2ltTjhTaDNTbXo2bkJmWVVObjhzc3Nfc2lPTDYtRDdfdVFScS1Kc1pxMEdWZUI2US1IWEx0ZHlDZ2lxWEhWWjc2MXNxaUV1b3BEZHRCMjJIQlVtUHdwanZSRXhn?oc=5",
-    "source": "Braga TV",
-    "ts": 1792510734
    }
   ],
   "esposende": [
+   {
+    "title": "NKT inaugura ampliação da fábrica de cabos elétricos em Portugal - Cision News",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcUhUNDQtbkZfcHI1YzhmVUxjTGVpaXAzWTZSZ3FPTUdxN3kzYWt6OXlOUFYtYlpCSUh5UjVpaER1U3pUM1dDOTkyNk1LelpvM0hjbk9mTlc0dHRCUWZMMlhhZEdlbFhaX1kyVTlXYVo4NE1BeG5yaEZBSjAtY2MtdkNaVzBJUVRMY0RpczI3ZDhyS3R6M0xNTDBzVWFrSWdkLUVYbkdqZElYdw?oc=5",
+    "source": "Cision News",
+    "ts": 1792561533
+   },
    {
     "title": "Rede Municipal de Psicologia de Esposende assinala quatro anos com ação de capacitação sobre intervisão - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOUItZzlvOHMyN3JuUks5V2hJRk5SaUwxR3dzMV9ObDNwR0RyYTFOT25SN2REVTlTM3RCOVAwbjltRzJoR0o4NzZaUW05dlRjV00ySkVaXzJkZ2Y3UlUyTU9yZ1cxQWdsUnNOQWFwS1lCUjR4RW9tQ2R3Mm56VEhlWmczV2g0X0ZNNEZFX3RoSkFiTlZQYUUybU5SeGJ4Nm5XUlhtNGpiZWYxYkZkbHRhUXU4Q0NFVW9wQktqR1ZucnA2a2RzdnZJSHdpdWFRb2d0N21RbzBqQ19abmNWTFlqTUtkUQ?oc=5",
@@ -1844,25 +1533,31 @@
     "ts": 1792522521
    },
    {
-    "title": "Empresa amplia fábrica em Esposende após investimento de 50 milhões de euros - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZDBNeUdiUmh4c2h0NV9pYjVra2pYa2pDN0lmSEVuVllGNXJKNGVXX3dleGwzNEVPOTFFcWxsb3AzUENJd255WEVUcG5yTDlXRV9rY2xMSUYxOFpqQXFtWmNPb0VJY2FobnlaYnAtekMyN1BmeU5BUzQteV9UTExLNG5zVWVnNjMtVWZaWDM2NmNXY0NBTHZCZi1ua3ZaWnlsNU1pTw?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1792518660
-   },
-   {
     "title": "Esposende: Município mobiliza PIEP e IAPMEI para reforçar a competitividade industrial",
     "link": "https://e24.pt/esposende-municipio-mobiliza-piep-e-iapmei-para-reforcar-a-competitividade-industrial/",
     "source": "E24",
     "ts": 1792514160
    },
    {
-    "title": "Esposende pede reforço de meios ao Ministro da Administração Interna - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVEI5SUhPRnduRG5SbUZfY0pXMUlUTlZMRUMxZmM3bWRwSDB5RXJYTUxxbGdzTUh1RXJGZm9JaEN0QW5ndU1QeG9vcTF6U0l5bV85RDlkUXdhNVpTQmVzZ1RsaS1JbmVkd1JqM2lUaC01UWd2WG9tYWdEZ2pHdG5sVTdNbGczVHpNRVFyb0VBRmRaa0dmeFdyUlhpcHJVUQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1792510796
+    "title": "MAIS - maissemanario.pt",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaFRiRmJ0SEU2bEVtaURQb2RrZnpOV2w1dGRZbThRSFQtQklvek9nMERPSWhPM0xxWHlvUXF1WkdrWnVnWElnTlpUbmtodTkxTzFxRlBMaFVmLVQyVmx0Y3lkdWRLa2FfQkcyWTJNLWV4blR2RGxTVjdZSzhPb2dFUmlTNFJTUGFPSklCSFZfRnRjZ1dicEJTckFJeUJkVW01QzJaNWNDbmM3N3JhN0E?oc=5",
+    "source": "maissemanario.pt",
+    "ts": 1792513602
    }
   ],
   "mundo": [
+   {
+    "title": "O Papa continua sua recuperação no Vaticano. Fará a Audiência Geral na Praça São Pedro - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYy1OaEhkVmNIeDM5RXcwbUZVMllfNnVSVjVRYXM3SUFOMzUxUUU4QjlpR3ozcFV3ajE1bUV5ZmZxUnZ1SklhZ1NHLU1IQjlHUFZRVHlQZG5YRDJHNlBkRmM5MDVodFc2RTREVHdmQWljV3c0UWQ0VWRtVW9tOUhTWDU3YkN6Q2YzX2VDS2tQbXgtcEcyTmcybWh0Wnp3eUdtZUNOaENXeEZ2VVkzak1J?oc=5",
+    "source": "Vatican News",
+    "ts": 1792540200
+   },
+   {
+    "title": "\"Lei de Netos\": Por que mais de 160 mil espanhóis podem não ter o direito de voto? - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUJNTjBWRW1tNlNzMGhPX2Rwa24za1FyVEx3U0xoX0Y2X0U5NVFWN1RiMWhGWmNxR0o0MFlFdlFPbk9vd2lRN0dheUYxbDVSWFh6a3J5amFvdlRXY0JYU1R6NnNKWkRvOVRLbjR2QXgzbE1TdEplUWdzYTVpZU50aXppSEtENGFRdEs4RHFuVzJWeHJ1MldiX09vMGZwR1hyRmxMU3l1YTFsOFdqRHFJaG1VaUxLZmt0SHY3c19BVU5PM2xR?oc=5",
+    "source": "SAPO",
+    "ts": 1792521922
+   },
    {
     "title": "Campanha de Lula da Silva pede anulação da candidatura de Flávio Bolsonaro por \"ingerência\" da Meta - Diário de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORi1Bck1rV094STctNUd1VHp4cHRuVmQwZnpZM2RtSTJGb0c2cTdaVERvSEdZUmJvdlA3bmtvTTc3aG9yNWJhN2NpakpjQWJaYng1NV9pcW9EcjFKdDlnUGZzUUk0VVR4Sy1QY3kwX0x1b0g5NzFiLVk1LXFQTVpCSkMxdWNtMl95aElkYlV1LVFPd05FVFZlclRFMnBfQnVKVUNjWXhtVGhmWnRIeHB6TDhESHFDRHN2UkxwUXdwbldTY3c?oc=5",
@@ -1880,18 +1575,6 @@
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUlNWcHlraDh2aXI4aHp3cmY1ejRpWFBaVjB0WmRXZVpLSHdBa285bEtCRmZVYl9zVGpHempIYm93OHJPU1NBOE5ENmM1QW85RVJFZXRONXgtRUJfVnpiV1ZsejdOYXVPcG9MMS11M2dmQVdabHAxSENoNGg3UlFZb1d5Q21Jc2RRQS1leVA5Z2hQU21LaXlKYUQxMmw?oc=5",
     "source": "Observador",
     "ts": 1792515384
-   },
-   {
-    "title": "Roménia “não pode esperar mais” e aprovou novo Governo minoritário. Luca Niculescu quer unir o país - Público",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNelVGSnRQekEwYlN3OEdzblhxa2JSdS1RcUdNZHQtOUNWMmo5WWJfVVUxRjdaclJBUWRXRlJpcHNSRGJqUi1kVW9KU3VpUUNNZm9YMzI2UllEblh5cGRLTkpUSS1SRDRtYXN5cl9rT2lUcUtOMzF0S0JGVDcyRnlZcFVOMGhCVXpIdXk3eWdEZTlIWm1KYTRZajM2ajJhQkdqQ280Vk14aGlSMi1rN0FfLW56OEcycjlPOWY5SEdsTFIxZW9RYzlCcURqQk5rbHRIT0Z5bg?oc=5",
-    "source": "Público",
-    "ts": 1792514623
-   },
-   {
-    "title": "Continua a troca de acusações entre Zelensky e Trump, e o Presidente ucraniano voltou a atacar refinarias na Rússia: coragem ou tolice? - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNbnFmV3dSMVdGUUxFWXUyYVBhUmdvY0V6M1IyRk5ETVZfZE5vNEhHSmkzOFRYcEpMVTNfTUQ0aXAyMDNhM2ZlN2hRMUxpakdpWUxrMl9xVnFIQ3dvOGhTb2g3YmQtUktleE12c1FXVGlLWUs3WUNNNXlQZjh6dTNOTlJhcnJHdnJNSGtWdFNvak9pcjBQZGVMWDBnXzBZdFdrTnF4ZkhxLU9JbnFkcjJ4RGRfUjlsRXpxdEZPeXRXQ3hTTDR5NXlUeWhKRldGUGhlbnZUZXZNUGlXYmg2R3JqMXZOdlp2R0JQbnJ4bVEwMkZKNWNmVlh3VUN5akVIUzdUYUhBSlRqOWx3QUQwd3Rsal9hdlVXdVE?oc=5",
-    "source": "Expresso",
-    "ts": 1792513800
    }
   ]
  }
