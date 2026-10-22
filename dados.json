@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-21T23:00:13Z",
+ "atualizado_em": "2026-10-22T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-21T23:00:14Z",
+  "atualizado_em": "2026-10-22T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-21",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 12.2,
-      "vento_nos": 20.4,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 15.0,
-      "potencia": 7.7
-     },
-     {
-      "hora": "01h",
-      "mar_total": 1.6,
-      "ondulacao": 1.5,
-      "dir_onda": "NW",
-      "periodo_onda": 5.7,
-      "periodo_pico": 12.2,
-      "vento_nos": 20.0,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 14.9,
-      "potencia": 7.3
-     },
-     {
-      "hora": "02h",
-      "mar_total": 1.7,
-      "ondulacao": 1.6,
-      "dir_onda": "NW",
-      "periodo_onda": 5.4,
-      "periodo_pico": 12.1,
-      "vento_nos": 15.2,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.9,
-      "potencia": 7.8
-     },
-     {
-      "hora": "03h",
-      "mar_total": 1.8,
-      "ondulacao": 1.7,
-      "dir_onda": "NW",
-      "periodo_onda": 5.5,
-      "periodo_pico": 11.9,
-      "vento_nos": 15.4,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.9,
-      "potencia": 8.9
-     },
-     {
-      "hora": "04h",
-      "mar_total": 1.9,
-      "ondulacao": 1.8,
-      "dir_onda": "NW",
-      "periodo_onda": 5.6,
-      "periodo_pico": 11.5,
-      "vento_nos": 17.5,
-      "dir_vento": "N",
-      "beaufort": 5.0,
-      "temp_agua": 14.9,
-      "potencia": 10.1
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.1,
-      "ondulacao": 1.9,
-      "dir_onda": "NW",
-      "periodo_onda": 5.8,
-      "periodo_pico": 11.1,
-      "vento_nos": 16.7,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.8,
-      "potencia": 12.8
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.3,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 11.1,
-      "vento_nos": 16.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.8,
-      "potencia": 16.1
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 11.1,
-      "vento_nos": 15.9,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 18.4
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.5,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 11.2,
-      "vento_nos": 14.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 20.9
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.5,
-      "ondulacao": 2.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.1,
-      "periodo_pico": 11.4,
-      "vento_nos": 11.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 22.2
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.6,
-      "ondulacao": 2.5,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 11.6,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 25.0
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.6,
-      "ondulacao": 2.6,
-      "dir_onda": "NW",
-      "periodo_onda": 7.7,
-      "periodo_pico": 11.7,
-      "vento_nos": 10.7,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 26.0
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.7,
-      "ondulacao": 2.6,
-      "dir_onda": "NW",
-      "periodo_onda": 7.8,
-      "periodo_pico": 11.9,
-      "vento_nos": 10.3,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 28.4
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.7,
-      "ondulacao": 2.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 12.0,
-      "vento_nos": 10.3,
-      "dir_vento": "NW",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 29.9
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.8,
-      "ondulacao": 2.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 12.1,
-      "vento_nos": 12.8,
-      "dir_vento": "NW",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 31.8
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.8,
-      "ondulacao": 2.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 12.1,
-      "vento_nos": 13.0,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 31.4
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.9,
-      "ondulacao": 2.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 12.1,
-      "vento_nos": 11.5,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 33.6
-     },
-     {
-      "hora": "17h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.1,
-      "periodo_pico": 12.1,
-      "vento_nos": 10.5,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 34.1
-     },
-     {
-      "hora": "18h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 12.1,
-      "vento_nos": 9.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 34.5
-     },
-     {
-      "hora": "19h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.3,
-      "periodo_pico": 12.2,
-      "vento_nos": 8.9,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 34.9
-     },
-     {
-      "hora": "20h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.4,
-      "periodo_pico": 12.2,
-      "vento_nos": 7.6,
-      "dir_vento": "N",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 35.3
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.8,
-      "ondulacao": 2.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.6,
-      "periodo_pico": 12.3,
-      "vento_nos": 6.2,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 33.7
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.8,
-      "ondulacao": 2.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.7,
-      "periodo_pico": 12.3,
-      "vento_nos": 5.2,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 34.1
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.7,
-      "ondulacao": 2.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 12.4,
-      "vento_nos": 5.2,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 32.1
-     }
-    ]
-   },
    {
     "data": "2026-10-22",
     "horas": [
@@ -1788,16 +1471,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Guilherme Pereira de Barcelos melhora recorde pessoal na Meia Maratona de Leiria - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVk55al82aVRkSHA3MTNORVNVX042Vk5IV2lncW9FNkV3T2NfLVFDS01ScWE3Q0NaM3c5S05SV0hRejc2cWxIb1dUei1jdkF2NVVGQXJvblRKcXhrT3FZa05HVnYzdzRRSUM0NUI3RmNGNjI4TDczQkJfdkFrV2RlVGdxWE9URU8wVVp2dTFuX0lLaHZfYTRxSFdwRXUxaUc1WGc?oc=5",
-    "source": "Braga TV",
-    "ts": 1792615282
+    "title": "Apresentação do livro infantil «Lobito», de Ana Oliveira Dias - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVNpZnE4Z3VBUzBjUjd0WjJjQmd1Yi1DWk52dktIMlR4ay1GQXRYZ0F1aUdELTVBSmp4ekNJTFVJdHo4amg0Z0FHVVdXTUZZOHEwOFBfVVVsUjVzbDBXbWpqb1FpbmhEeXplRXZZX3E4bDRRdHlZcmZESVlSaU1xc3Y4cWV0WWwyS1hDUURpa19FLWptd1RIdTZMek9uQQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792619541
    },
    {
     "title": "Adeptos do FC Porto esgotam bilhetes para o jogo de Barcelos - SAPO",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQOVZsT1NrbzZISUtTeHQ3QUM4WWprWmJpQWYxVW5MekVGamE5V255c2djWjJ6VXF3YTNPbzlYWS0yYnU4N2UyaDRicWhuNUxFdF84SF8xSnBXcmxCUXJXM2hJdFl6MHVmMm5WdTlhWVRhNUFEM1RSZWp2NmI4c1ppclgxU2F5Z0FzNkcyN21pWGFkNjRoVGZuX3JfSmJwb3dmY25za1RQLV9hWmlp?oc=5",
     "source": "SAPO",
-    "ts": 1792614788
+    "ts": 1792615227
    },
    {
     "title": "Arte e inclusão dão as mãos na ETG de Barcelos com obras dos utentes da APACI - Braga TV",
@@ -1825,6 +1508,12 @@
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende dá borla fiscal a empresas e descontos no IMI - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0NfalppV3NkQ0JBeGtMcHoxT3BUbWFibWt6d2RwVTBvVG94ZWdWaWg2Y25ldXZvQTBpVUF2cnRnSUxNZE5uSlB4bXNRYlEya0I5bjBPNUR0SGRvUFBrUlNMMnctM2g2LWRoVDZSUWVOWk5UNnM4VmhwQ1FUdGJhZm1nUFFTd2lHOXZVUGpMTzF5ZjJEVHBFQzdn?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1792652160
+   },
    {
     "title": "Esposende Ambiente volta a receber selo de qualidade da água para consumo humano - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc0xtdkNxLW9QLUM1RG9ncjB6LUVGSzFQOG9XUWFvbVotRVFfQkZpREpSQjQtWDRjbklOb1Iza0lRSDFyWmd0c0xELVFVdVJ0d0RLcWVFQi1fTzVWUTl5ZXZOXzRxTl9BM0VfdkZzamRIeHc1TktPcjU0Y29OUXN6S1U5TF9WOEVsV0JaLTZ5cldSN1lieWY3RHZCTGRzNWY1M2c?oc=5",
@@ -1854,38 +1543,32 @@
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN0liVTQ5akhzeFlnYTlmVGdXRW41aldXYmlVMklZYmVzSXN6UTZYMmpMdVJ3aHVOeU1kNV9OTzVkUlFlbHZXZkd4azZ6eXZUWE8zRGVHZ0J1Z2N4QkZaUXNhV2ZKeU1RNm11UDJjSUJuY3l2XzNTUnhBYkRJNGR6QlRkbGFEX3FZdmZtaHBhMFVUbmRmU0NDRldXX0xLWTYzM3hSQ0Yta1k2UQ?oc=5",
     "source": "Braga TV",
     "ts": 1792586136
-   },
-   {
-    "title": "Esposende Já tem data para X Corrida de Ano Novo - Voz da Póvoa",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNazdLUnhXQXcwMlFnQldQeGgtN2FKdnA4VmZBNzhlSEN1Z1B2QXladUFlR2NjRnFaU0JQd1ZWT0dmZmRtTDdTR2pEOTFSSUdNTjdjeXRneGR6Qnd0Y3pQUG9oOU44OWpyMEEwSjlrcGtKMkhWNDhGZDF5TW9GdHdhRjRFeDNuYVBFd0N0UkMxWUFnZnR6dlo0dGU4VkRlQ1k?oc=5",
-    "source": "Voz da Póvoa",
-    "ts": 1792583540
    }
   ],
   "mundo": [
    {
-    "title": "Funcionários da embaixada dos EUA com ordens para deixar Arábia Saudita - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDlmLTZhVUx4X3RDY1pvdGdWbVllZjVGZVFRa2lzcTdid1QyY1dqWE1rQWhPYWowbWZYTnJ6R2tGWU5CVEJ5bXZZZWdFajdIYmFVMjB5Y2lHWmFLZV9MeHZGN29zbVF1UTVJUG9QVVd3bUZjc1lxWVlnU1RlMDE4M2x1YU1NV3BqSFBnUkhwZnNlX0hub1JfYUdKV3hqWHJCcEZyUlEwS0ZCNUZNTGZyUlo4d04tdWtLOGc?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1792611646
+    "title": "EUA ordena a pessoal de embaixada e famílias que deixem a Arábia Saudita - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNEc0ZU9xUVduTWIwekFkOFYtbE1YV2oxeXZyZnpmaTBmLVlVZXJzUmZwdjk5TlJHZWtLWGNub1J3U1VzanIzT3pLZERfOUtURnZFV1hYaFRWeTcySkxmOFQtZkxfa2ZfQjVyMlN0U01wMzcwQU8tS25CdlA5dHNXeUR1VllQWVdHMm9KXzBUUHRrOGNhYm5EVlUzZVBSTXd4OWhOT3RmbTRMYnRxM2ZmSHZn0gGmAUFVX3lxTE5Lc0wybTlka012YWZuTHNLU3F1YkxhYy16d1FDSDk4bkxjT1hUaWxEYlZONDFuWXRxdWdBdHNBc0dLUmdHdXF5RHNKM2Jocy1IalRERjhBdEZmejd6VjJ2SlZBSHMwYkR1WlYzMS1wd0ZHRFlhOTBvR3p2UHV0bDhnTVZKYVRhbko3bFpWN1J3ci01VzNfb3RsblNhS3B2SE41dk9Md3c?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1792613520
    },
    {
-    "title": "Papa não vai precisar de fazer quimioterapia - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdldfTmZrSXBuU01SSWZPSjVSSnhZTXlMMzBWT25WdHd6b0ZNbXVzNDlYQ09jNURCWTcwaUQ4RDBSSm5CVXhGUEJHWjRLTi1tdkpsSjNla0d2RkJHc0hHNzVCWHNZS2lDWWhmQVRyT0pfcFV0Vm5zYWZMTGxoQVR5UFMta2xzQ2M?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792610400
+    "title": "Papa Leão XIV não vai precisar de tratamento após cirurgia a cancro do pulmão - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUUtrWnlSekNTaklUcmNqR2pwR1dNcFhtaXpkRlN5VEQ3R1AyeHl2N0ZzaDhSM2xuaDhUbk9fcFpoSkIzYWVYN3hGQy12RU9OVmsydVJxbDNrRDIzTTdtMEd1Q2FFNWV4OXAxUTBhRldaYVJtdE9aTTc0eWRBQjZEdFBxOUU5cWtZMzlfUVdsNUhIa2RwVDRnSjY1cU45MkZqd3lfd2dUSmNSLWNmWWRxcnpaYUNNZVBWcEcxaWxvR2ZrVnZ1LWNmaXI1WC1mUk9CT2Y1M0UtandIVlU?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1792610200
    },
    {
-    "title": "Também há protestos em Milão, e Giorgia Meloni já mexe no Código Penal - Expresso",
+    "title": "Protestos em França: há suspeitas de desinformação russa e outras interferências estrangeiras online - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3BoSlgweWY2T19UUG5JOWJ0aE0zc0hDeTJXUzFkZnlWLU5HNTI1Y3ZWRmVsbzVnTEkyNFRDTnhMRXZIc3d0emVUQk1EXzNVTHdyNjJXcFgtLTlkX2hVMl9ETHZLeWFOVXU1QzdUU2pXY0dZb2MyVXAzVER3b1NyQWVPNkpONy03UllRdHZlOTZ2RlRNLS1oSkQtVlFyY3JUVmVRQnFrVlFnQWVJNWpxRUJBdmJlOHpNRmhMN1ZMbk9lWFVnVzZ0a1RxQjRvN1FabWJkWFRkYw?oc=5",
+    "source": "Público",
+    "ts": 1792604809
+   },
+   {
+    "title": "Também há protestos em Milão e Giorgia Meloni já mexe no Código Penal - Expresso",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNzEyYUs2MGFNeXJMQXg2MGlUQnZrcnNVSjdoV05Pb3ZSTUplZ1lUci1xVk1NWkwxOUVLVVJmQmYwOG9VSzh3U0tLZjUza1VQZVB1TnJDWXk4THhGN2hVakR0ZE1RYWxBX05nN1ZseTl4NkpxeFZjMFE2eUxseVJlMFFNQ2ZkYzlIN2tNYmdXMWhjQ2tTUktSRG0zcHNoOThHQnBHdU1tYl9YNjBuQ1RfWjMwaV8tbTA?oc=5",
     "source": "Expresso",
     "ts": 1792602707
-   },
-   {
-    "title": "Tendas em Atenas. Depois de Espanha e Portugal, milhares enchem as ruas gregas - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlFNN3pYQkItUEwzWGlXNDNDZkswRHg0TFBwTVBaLVZVMFhuVDlGSVJGQnczR2s0Mm9oYkY4dzhQdWxFWHZFMlJmSmhxNkc3c3l4NGpZXzh0dTBxSVFvbDhmRlRzajJ2Z1BiNm0yRE8xZTZId19qMHB0ZmdlUDVKdzJXUWpjRmRKb1B2YzhzNVZiQ0Y2NU9kM01uZnJ6M25zdHNIeEQ5QmlIZVZXVVhmaHFHQmJaVUV0cTFv?oc=5",
-    "source": "RTP",
-    "ts": 1792602446
    },
    {
     "title": "Putin aceita retomar negociações trilaterais com Kiev e Washington - Jornal de Negócios",
