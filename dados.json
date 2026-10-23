@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-22T23:00:13Z",
+ "atualizado_em": "2026-10-23T07:00:13Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-22T23:00:14Z",
+  "atualizado_em": "2026-10-23T07:00:14Z",
   "dias": [
-   {
-    "data": "2026-10-22",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.6,
-      "ondulacao": 2.6,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 12.4,
-      "vento_nos": 5.1,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 29.7
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.7,
-      "ondulacao": 2.7,
-      "dir_onda": "NW",
-      "periodo_onda": 9.0,
-      "periodo_pico": 12.5,
-      "vento_nos": 6.4,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 32.8
-     },
-     {
-      "hora": "02h",
-      "mar_total": 2.6,
-      "ondulacao": 2.6,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 12.5,
-      "vento_nos": 7.6,
-      "dir_vento": "E",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 29.7
-     },
-     {
-      "hora": "03h",
-      "mar_total": 2.5,
-      "ondulacao": 2.5,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 12.5,
-      "vento_nos": 8.2,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 26.6
-     },
-     {
-      "hora": "04h",
-      "mar_total": 2.4,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 12.4,
-      "vento_nos": 8.6,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 24.5
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.4,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 8.4,
-      "periodo_pico": 12.3,
-      "vento_nos": 8.9,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 24.2
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 8.4,
-      "periodo_pico": 12.2,
-      "vento_nos": 8.0,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 22.2
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 12.0,
-      "vento_nos": 7.8,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 22.5
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.2,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 11.9,
-      "vento_nos": 8.4,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 20.6
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.2,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 8.3,
-      "periodo_pico": 11.8,
-      "vento_nos": 10.3,
-      "dir_vento": "SE",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 20.1
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.3,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 11.7,
-      "vento_nos": 11.1,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.6,
-      "potencia": 21.2
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.8,
-      "periodo_pico": 11.7,
-      "vento_nos": 12.6,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.6,
-      "potencia": 20.6
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.4,
-      "periodo_pico": 11.8,
-      "vento_nos": 13.4,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.6,
-      "potencia": 19.6
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.6,
-      "periodo_pico": 12.0,
-      "vento_nos": 12.8,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 20.1
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.2,
-      "vento_nos": 12.1,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 19.8
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.3,
-      "periodo_pico": 12.6,
-      "vento_nos": 13.2,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 21.0
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 7.0,
-      "periodo_pico": 13.0,
-      "vento_nos": 14.8,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 20.2
-     },
-     {
-      "hora": "17h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.7,
-      "periodo_pico": 13.1,
-      "vento_nos": 17.5,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 14.7,
-      "potencia": 19.3
-     },
-     {
-      "hora": "18h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.4,
-      "periodo_pico": 13.2,
-      "vento_nos": 18.1,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 14.7,
-      "potencia": 18.4
-     },
-     {
-      "hora": "19h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.2,
-      "periodo_pico": 13.2,
-      "vento_nos": 17.7,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 14.7,
-      "potencia": 17.9
-     },
-     {
-      "hora": "20h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 13.1,
-      "vento_nos": 17.7,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 14.7,
-      "potencia": 17.6
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.4,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.1,
-      "periodo_pico": 13.0,
-      "vento_nos": 18.3,
-      "dir_vento": "S",
-      "beaufort": 5.0,
-      "temp_agua": 14.7,
-      "potencia": 17.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.5,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 6.0,
-      "periodo_pico": 12.8,
-      "vento_nos": 16.1,
-      "dir_vento": "S",
-      "beaufort": 4.0,
-      "temp_agua": 14.7,
-      "potencia": 18.8
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.5,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 6.3,
-      "periodo_pico": 12.5,
-      "vento_nos": 10.1,
-      "dir_vento": "SW",
-      "beaufort": 3.0,
-      "temp_agua": 14.7,
-      "potencia": 19.7
-     }
-    ]
-   },
    {
     "data": "2026-10-23",
     "horas": [
@@ -1806,25 +1489,31 @@
     "ts": 1792690485
    },
    {
-    "title": "Barcelos recebe II Congresso Nacional e Mostra de Cidades e Vilas de Cerâmica - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOUtuN0lIZ25OdzZ6Tml0QnF3YkZJUDQ5UlJveGUtbnU4dThzNnluTEtFYUtWWnYyTnV3UzBjVGlrelI4ZHhEOEtidkVlcV9tWFh5eG9YVXpUS1VaN2dtUEExRTI1c3J1bDN4c3d4WUE0RnZmemZ1N055NkNuN2czcTAtR20wY0R3MUx0dWVQb0lKTGtfMFpDdE9wYmVLT1BpR3phX3hn?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1792684495
-   },
-   {
     "title": "Barcelos reforça prevenção e segurança junto da população mais idosa - O Amarense",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRndsUGJteGl6ODgtZU0ybm1kSlFJS2xLNERVdW1iWDF4STk0RFJIR19rQU5oOGFlNTRkVmkzM0EtU3R5UjBHRFFfdGotMHVlYzBmT2pEWU1FOHZOU2YtR0I5YXI5aGtISEt0RmVRN1dYaVcwYWctRXdzYmZseWFjZTNlLVNIR0t1LThndldsN3h5RTRa?oc=5",
     "source": "O Amarense",
     "ts": 1792683360
    },
    {
-    "title": "Juventude de Viana joga em Barcelos para a Taça Crédito Agrícola - Rádio Geice",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcG15Sm1wcnFFTlpiUmlOdTZTYUJ0bUlWVXBHRnFzdmVaTThQWHRKbF9tVnEwLVM2NFdXUFZBWWNhSm1rNVpZNEljbEVvSVFMY2FLMUVLOURDQVB0T3ZWXzdOTW05dHNSZVF5d0E1bXFGSjFRajQycHRMMDFxY19VZWFKMEh0a0o2UWYza2I0aWFXZVFYV3k3UHo5UGI?oc=5",
-    "source": "Rádio Geice",
-    "ts": 1792675737
+    "title": "Barcelos põe a olaria e o figurado em destaque no Congresso Nacional de Cerâmica - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZjRxSEZTSDMtVUxGUWtReXRkRFpQYXdjYU8xVmJQSl9uWDBtYkV3NHNlYS1yNjdUMlBBel90MnA2WFBlbGY0Rkh3dW1XSnp0REd1a09HMlhxSmptdnJpRVB2UmtqUmtHSFlCWFBsYmhQWktFY3RXeXFTRnNxSXlpV2xTM3ZwaS0wSlhvdmJ0MWJmZGNXMkxXZjNkQWdEbW9ZdWc?oc=5",
+    "source": "Braga TV",
+    "ts": 1792666095
+   },
+   {
+    "title": "Apresentação do livro infantil «Lobito», de Ana Oliveira Dias - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeVNpZnE4Z3VBUzBjUjd0WjJjQmd1Yi1DWk52dktIMlR4ay1GQXRYZ0F1aUdELTVBSmp4ekNJTFVJdHo4amg0Z0FHVVdXTUZZOHEwOFBfVVVsUjVzbDBXbWpqb1FpbmhEeXplRXZZX3E4bDRRdHlZcmZESVlSaU1xc3Y4cWV0WWwyS1hDUURpa19FLWptd1RIdTZMek9uQQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1792619541
    }
   ],
   "esposende": [
+   {
+    "title": "Operações da GNR de norte a sul travam redes marítimas de droga: de Esposende ao Algarve - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk9jWWJ2NW1aQzBtREw4RnlhcEhtVjJfOTIxRWhEbnRidUNJMlJjN0VUeUlvQ3ltbjRna0JzczRWcDUzM0hacnNhem1LVktWRUxQSG9PX3kzZE9PaUR3LUFEUjVmTVp2cUp0MWo2MFRXZnY1d3JXNE5pdXJWZWRMeENkZHJrQi1HZlE1bVl2X3JacXdMemJTWXpyNzFNczhFSzd2dndGZjBOM1hXc3ktZnc4Zk4wU0E?oc=5",
+    "source": "TV Esposende",
+    "ts": 1792737665
+   },
    {
     "title": "Esposende: Esposende Ambiente recebe Selo de Qualidade Exemplar da Água da ERSAR",
     "link": "https://e24.pt/esposende-esposende-ambiente-recebe-selo-de-qualidade-exemplar-da-agua-da-ersar/",
@@ -1844,12 +1533,6 @@
     "ts": 1792665232
    },
    {
-    "title": "Esposende sob aviso amarelo devido à agitação marítima na sexta-feira - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdU5rbVFDS3VJN25qbU1IeFI4VWtlOWN6cF9jTnhoZVdEWURYd3VVZmozbEw4SGNBc0xrNUNWRWJfX0VITW11YVp2R3dDUGFWNmRLQ3QyVnRIWmFyb2FyNUVKeGRyXzQ3blc2c3FRUHhRZnRpRmh1U3F2T0hWb0VSYUNmNFRZaXBkcGlXX1VMeFJUMm8?oc=5",
-    "source": "Braga TV",
-    "ts": 1792662189
-   },
-   {
     "title": "Esposende dá borla fiscal a empresas e descontos no IMI - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOU0NfalppV3NkQ0JBeGtMcHoxT3BUbWFibWt6d2RwVTBvVG94ZWdWaWg2Y25ldXZvQTBpVUF2cnRnSUxNZE5uSlB4bXNRYlEya0I5bjBPNUR0SGRvUFBrUlNMMnctM2g2LWRoVDZSUWVOWk5UNnM4VmhwQ1FUdGJhZm1nUFFTd2lHOXZVUGpMTzF5ZjJEVHBFQzdn?oc=5",
     "source": "Jornal de Notícias",
@@ -1864,22 +1547,10 @@
   ],
   "mundo": [
    {
-    "title": "Papa: obrigado a Deus pela generosidade e aos fiéis pelas orações - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM2pTY2FEcmpZWlJYalE4ZVJvY3VHbDVyakZieEdRaVpET3VBMm45V2dneVhuRFhIR2lMWWl1WFh2Nm41WVhwOUdMbTJnZThBUmFfWm0wSFlSNmkzbFYxejFKVnpPMTI0RXNlWG1WTWFCVWlHMWtQdVdlMV9qRjJ1ZUlZYVh6ZUt6cG1GTGZnY1JuSWV0dDhvNE9HZWpvN3hUaVBLMnR5enNqbzZjZGJBZDc3QkNOOXE1?oc=5",
-    "source": "Vatican News",
-    "ts": 1792705051
-   },
-   {
-    "title": "Pesquisa Datafolha hoje (22/10): veja o resultado do 2º turno entre Lula e Flávio Bolsonaro - Portal Tempo Novo",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdDNWLVktMVk0YkhPU2dlS3VGajFyZnNTZl9BTTJmWml5ZjU2NzJFZVEwM1ZkdGpuWTBjNjVjYVpPd0JSb0JPc2hGSlFpR1lLQkhwdHdDblVnbk5WME03ejkzRElsZTRfZUdfZUZWaTdJd3J4ZmNmTGdtLWpqV1VMVF9pWW16VlVleU9UVlFFS3M0bXR4TVg4a0pFcnBpQzBQNnZQV3lfSW1ubDFVeUJGcFk5UFBJQUtFSE5BNnBIY3RiUQ?oc=5",
-    "source": "Portal Tempo Novo",
-    "ts": 1792700400
-   },
-   {
-    "title": "Como os antibióticos chineses baratos ameaçam a última grande fábrica de penicilina da Europa - Público",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVDAwS0t1MlhLVGpORHl3Mkt2LUQwZlRMU0RsNXJKZ3dDZW1XUGEyT0NzNGhZR3hSblc4VU9NVDdoVTdGby1ZelNVY2h0M2dCZ3FrV2lSV0xyekd1Wk1EOEI4VXoyenh5QWZaSEstdEFQcVgtdXh6SkIzT1RyMG9PM0xFYWZIZktoX1VDeURQb0ZLNlJhemp0ZDJTX0Z3SDVoNjVEb1BfNjZ4eFdjZGo3TnlHTksxRDNCQ3J1MVhveDlEOG9sa3dB?oc=5",
-    "source": "Público",
-    "ts": 1792699260
+    "title": "Putin diz que Rússia está pronta para negociar acordo final e não trégua \"curta\" - RTP",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3NFdDdWNHpOa3ZyOHptLVUxWnJ3ZkhLRDB2YTY3N25pZ2UwRXU1Z2dSZzZmUThrVXY1SUFjTGNsa2lDSmt0QzZ1VXQyay02WktvZWd6d3MzdUdrSko4Qk9IbklCT2QzQnhvb3dlS0lFNGQybE05YVBSU2ctNDFlSHZUcGNwc1MyWjhMZ2hOeEFHWmJHbV9jME1KWW5vQk1WYUNUam9OVEhIaE16WGd2NWxZbWVYNkkxWjhkUVln?oc=5",
+    "source": "RTP",
+    "ts": 1792709815
    },
    {
     "title": "Apagão da Starlink cega tropas ucranianas e pressiona Kiev a negociar trégua com Moscovo - Público",
@@ -1892,6 +1563,18 @@
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxONlhueFZvYk9HNFVYWXNBaWFPblMtY1RWM2QwMFlta1NydzZvaHpnZVNpZ3B1a09BMmR1TGoxaHZXVHJNQnJZNXg4MnRPeDBOanU4ZWlpZmg2S1dQclc5MDVCYS1rcGpsckRfMExvdklxUEM3R2ZsbDFzbEhfWndTcXVmazdoYmsyelhvdTVNbnBnNlpfQU9TM3VkZVdac09vV2FlUW1Ud1B1Zms1NkZuTGtFUEFsTUV2OWhYamlpbEgwcHdCYnBWRnprZFlMaUs0UUVNWnFCQUhuTk5ocDJMZlFreWpkbmsyeE8ycUw5Z3g?oc=5",
     "source": "CNN Portugal",
     "ts": 1792681980
+   },
+   {
+    "title": "Sismo de magnitude 7,0 atinge o Tibete - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOWlUeDE3WHNIaUd2OVFONzJub1N5UGxPajNoZFlGRVRUWGNrTFl6YTFZTHBnbFFMRjdsRGN5WmpBc0dGbUhvUlJYVThIY0Z6ZVF1RmtLTndMTXdlcWZBZFlrYjFWM1ExeE1McmRMYkpSR1gyMWJOd2gza3ZpX3FhblhSNEhZZkdEdGo2dFFB?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1792681473
+   },
+   {
+    "title": "Vírus transmitido por insetos a bovinos infeta pela primeira vez um ser humano: o que se sabe sobre o Shamonda? - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdjJZVEFxc0otVzJWRnU2NlBmYnpHcTBXcExxSThaZFQ1U2pyN3pJSUhxX1JwY1FJaDQ3VTJVZW00UnVkaG9XZ3NSelJOOG0wLTZjUWtaSnB4ZjlmeDZiUlRIaGN1bGQzQnVPNlIzWXRVeDRKbkFKN3BjRHh0WVZSeUtac3JLOHNYMkZsb2NxTUp0VFlDd0luMTRSREpkSDI2bjBuX0NCNVEwUHI3Y2VBM0tMOFV0RjhlaGttMUVVMnFla09xOXZQU2I3T2RRNUF4TkVIejV4Zl8xMDJsOTFzbkR6QlRuaDlNNGZJZi1uZHJJNU9iZGR1eHpCQ013R2JmRldIb1ZrakJvVEU2YndCbE11NA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1792678849
    }
   ]
  }
