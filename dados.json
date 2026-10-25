@@ -1,326 +1,9 @@
 {
- "atualizado_em": "2026-10-24T23:00:14Z",
+ "atualizado_em": "2026-10-25T08:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-24T23:00:15Z",
+  "atualizado_em": "2026-10-25T08:00:15Z",
   "dias": [
-   {
-    "data": "2026-10-24",
-    "horas": [
-     {
-      "hora": "00h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.4,
-      "periodo_pico": 12.3,
-      "vento_nos": 11.1,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.5,
-      "potencia": 35.3
-     },
-     {
-      "hora": "01h",
-      "mar_total": 2.9,
-      "ondulacao": 2.9,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 12.3,
-      "vento_nos": 13.6,
-      "dir_vento": "N",
-      "beaufort": 4.0,
-      "temp_agua": 14.5,
-      "potencia": 34.5
-     },
-     {
-      "hora": "02h",
-      "mar_total": 2.8,
-      "ondulacao": 2.8,
-      "dir_onda": "NW",
-      "periodo_onda": 8.2,
-      "periodo_pico": 12.2,
-      "vento_nos": 7.2,
-      "dir_vento": "NE",
-      "beaufort": 3.0,
-      "temp_agua": 14.5,
-      "potencia": 32.1
-     },
-     {
-      "hora": "03h",
-      "mar_total": 2.7,
-      "ondulacao": 2.7,
-      "dir_onda": "NW",
-      "periodo_onda": 8.4,
-      "periodo_pico": 12.2,
-      "vento_nos": 5.1,
-      "dir_vento": "NE",
-      "beaufort": 2.0,
-      "temp_agua": 14.5,
-      "potencia": 30.6
-     },
-     {
-      "hora": "04h",
-      "mar_total": 2.6,
-      "ondulacao": 2.6,
-      "dir_onda": "NW",
-      "periodo_onda": 8.5,
-      "periodo_pico": 12.2,
-      "vento_nos": 4.3,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 14.5,
-      "potencia": 28.7
-     },
-     {
-      "hora": "05h",
-      "mar_total": 2.5,
-      "ondulacao": 2.5,
-      "dir_onda": "NW",
-      "periodo_onda": 8.6,
-      "periodo_pico": 12.1,
-      "vento_nos": 4.1,
-      "dir_vento": "E",
-      "beaufort": 2.0,
-      "temp_agua": 14.5,
-      "potencia": 26.9
-     },
-     {
-      "hora": "06h",
-      "mar_total": 2.4,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 8.6,
-      "periodo_pico": 12.1,
-      "vento_nos": 3.5,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 14.5,
-      "potencia": 24.8
-     },
-     {
-      "hora": "07h",
-      "mar_total": 2.4,
-      "ondulacao": 2.4,
-      "dir_onda": "NW",
-      "periodo_onda": 8.7,
-      "periodo_pico": 12.0,
-      "vento_nos": 2.1,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 14.5,
-      "potencia": 25.1
-     },
-     {
-      "hora": "08h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 11.9,
-      "vento_nos": 2.9,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 14.5,
-      "potencia": 23.3
-     },
-     {
-      "hora": "09h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 8.8,
-      "periodo_pico": 11.8,
-      "vento_nos": 3.3,
-      "dir_vento": "E",
-      "beaufort": 1.0,
-      "temp_agua": 14.5,
-      "potencia": 23.3
-     },
-     {
-      "hora": "10h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 8.9,
-      "periodo_pico": 11.8,
-      "vento_nos": 5.1,
-      "dir_vento": "SE",
-      "beaufort": 2.0,
-      "temp_agua": 14.5,
-      "potencia": 23.5
-     },
-     {
-      "hora": "11h",
-      "mar_total": 2.2,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 9.0,
-      "periodo_pico": 11.8,
-      "vento_nos": 5.8,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 14.5,
-      "potencia": 21.8
-     },
-     {
-      "hora": "12h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.1,
-      "periodo_pico": 11.8,
-      "vento_nos": 5.2,
-      "dir_vento": "SW",
-      "beaufort": 2.0,
-      "temp_agua": 14.6,
-      "potencia": 24.1
-     },
-     {
-      "hora": "13h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.3,
-      "periodo_pico": 11.9,
-      "vento_nos": 4.3,
-      "dir_vento": "SW",
-      "beaufort": 2.0,
-      "temp_agua": 14.6,
-      "potencia": 24.6
-     },
-     {
-      "hora": "14h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.4,
-      "periodo_pico": 12.0,
-      "vento_nos": 3.3,
-      "dir_vento": "SW",
-      "beaufort": 1.0,
-      "temp_agua": 14.6,
-      "potencia": 24.9
-     },
-     {
-      "hora": "15h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.4,
-      "periodo_pico": 12.2,
-      "vento_nos": 4.9,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 24.9
-     },
-     {
-      "hora": "16h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.4,
-      "periodo_pico": 12.3,
-      "vento_nos": 6.0,
-      "dir_vento": "S",
-      "beaufort": 2.0,
-      "temp_agua": 14.7,
-      "potencia": 24.9
-     },
-     {
-      "hora": "17h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.3,
-      "periodo_pico": 12.5,
-      "vento_nos": 7.0,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 24.6
-     },
-     {
-      "hora": "18h",
-      "mar_total": 2.3,
-      "ondulacao": 2.3,
-      "dir_onda": "NW",
-      "periodo_onda": 9.0,
-      "periodo_pico": 12.6,
-      "vento_nos": 8.0,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 23.8
-     },
-     {
-      "hora": "19h",
-      "mar_total": 2.2,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 8.7,
-      "periodo_pico": 12.8,
-      "vento_nos": 7.6,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 21.1
-     },
-     {
-      "hora": "20h",
-      "mar_total": 2.2,
-      "ondulacao": 2.2,
-      "dir_onda": "NW",
-      "periodo_onda": 8.3,
-      "periodo_pico": 12.8,
-      "vento_nos": 9.3,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.6,
-      "potencia": 20.1
-     },
-     {
-      "hora": "21h",
-      "mar_total": 2.1,
-      "ondulacao": 2.1,
-      "dir_onda": "NW",
-      "periodo_onda": 8.0,
-      "periodo_pico": 12.9,
-      "vento_nos": 9.9,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.5,
-      "potencia": 17.6
-     },
-     {
-      "hora": "22h",
-      "mar_total": 2.1,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.7,
-      "periodo_pico": 12.8,
-      "vento_nos": 9.7,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.5,
-      "potencia": 17.0
-     },
-     {
-      "hora": "23h",
-      "mar_total": 2.0,
-      "ondulacao": 2.0,
-      "dir_onda": "NW",
-      "periodo_onda": 7.5,
-      "periodo_pico": 12.8,
-      "vento_nos": 10.3,
-      "dir_vento": "S",
-      "beaufort": 3.0,
-      "temp_agua": 14.5,
-      "potencia": 15.0
-     }
-    ]
-   },
    {
     "data": "2026-10-25",
     "horas": [
@@ -1788,28 +1471,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Prova dos nove em Barcelos bailou ao som espanhol do FC Porto - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQOVZQNVlHY0FsMXozMF9QY3M4T2pYWlBTTXhNM2FvQ2kxV0JjbG1KVTgtdjROWFlVVW5ZZmNXT1JxSW5MLWZPUHpPQUdwQ3doUmtvTWpxMkFTcG84T0VhTnJ1XzM3RDZDQ253YkpwQWZUdklpMnJPM0NPamt5dTFpTWpCbWFQRTNiSDhfdXRDdkZOT3hyQ3Z3ZWREY0ZZM0JaT3lCUzRqUUI5dTZWZ0JTWA?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1792907820
+   },
+   {
+    "title": "Nota 4, negativa, para Luís Godinho na vitória do Porto em Barcelos. Pedro Henriques considera que Pepê \"não ficaria em clara oportunidade de golo\" e que, por isso, Elimbi devia ter visto amarelo. - Facebook",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOdnBqR1lTb29tQy03NUZaZkl5SGQwdV9CN2NpZEhrSTM1UFBwRUh2VEhjWUVfRF96cndYN1hrdXN5YjJCTkZPYXZvR2xPM0Vwa040TjB1X1JlQVFSN2Q2dHh0SHNvRjdLVXFnYzZVQmlzTTNVMjg5QzY4aGxRZ2RseWhSRWF2X1BOaTl0T2Q3bXBIaUFJalhUOEtBWnVKRTJlaVc2RGNfUTlLcFpXRXFIUGNNeHlHVmlLUjU4U1VEQlg4RUVjZFJWTlJMMFE3Wk5DenRFZGNUbVlZRmszRkxuU3VFWlRKa0pZX1lzbw?oc=5",
+    "source": "Facebook",
+    "ts": 1792905616
+   },
+   {
     "title": "Porto 'canta de galo' em Barcelos - SAPO",
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNHNOZGVmZWNETy1CVXg3dWhFQWlUMHZ1V0luOFNxdEQ4OUEwcWFBc2Y5dXhGSVR6UFFHZkFMMGhGcWNRWUV1NXkyNzBtT2N1Y2loM19sdjFBTFA3anJmaEdYWE5LTWNBbmQwQzJ3R19CVnM0X2lMZUI5LW5Kd3BUTXRGNVZkdw?oc=5",
     "source": "SAPO",
     "ts": 1792880848
-   },
-   {
-    "title": "Francesco Farioli e a vitória em Barcelos: «Era fundamental reagir depois da Champions» - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQUs1cjVrWEhFWDNHS0tncUhqTXRfNld6VVVneThJLVFyTWw5anJ4X0taNUp5a3ZHM0N4OVJadmx4RWN2U0Q4dE13MzhIVTFJT2VlM2VtT2xMUlVucGlPTFgzTkN2dzI3c2lCa0xNZUw4emRORHgzZ2R4TjRHYWU0NV9TSDBWQjVobksxMXhqUlBDVFZRMGwxNlcybDZ2aXM1VllMQVBtV0JqZ2d6SGlFdU9hb19EQW54WkZWQktTQW41TURXaDcxMWlMWm4yU1REMXc?oc=5",
-    "source": "SAPO",
-    "ts": 1792878974
-   },
-   {
-    "title": "Fotogalerias - Lusa",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0M21vd3hhOHB4RjF5TEhUQWlrTllGMDNlZ1RkM1NHbGZrdWhIWDlWaDZxdVpVV0IwUkJ5Ym1tV3FqVFNwNFZZZWoyRUlnRjB2QjlqV2txMTM2VFlvX2lR?oc=5",
-    "source": "Lusa",
-    "ts": 1792878132
-   },
-   {
-    "title": "Golo de Borja Sanz garante triunfo do FC Porto em Barcelos na I Liga - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUXBhd0tNN3IzYjJwWHJNTk5JZVdNcl8tRDY3R2IxZkxSVE9ubmhoMndhb0Y5ODVuRTU4THZiMmtYZWQ3dmlIYm9Kdi1mVVZ0dVVZYjFUWTRLYm0zbFVDNl8zNXctOEhiSGJMdGhpRDlzM0lNc2VhZmNLalJ0dVJnbGg1c1gzVk5aM3R3Z2tJdDZGTDd3MzZzd05uRzY4MFF5MjZkR1VxUlF1SXNYN2lnbHVHdENCOHp2TFhGMg?oc=5",
-    "source": "SAPO",
-    "ts": 1792877794
    },
    {
     "title": "Gil Vicente perde com o FC Porto em Barcelos",
@@ -1822,15 +1499,15 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbk5ZbGR4NVAyd2RQSlNfNlBUSmd3bzRkdEVqWUpTYl9wYWtVRmcxeG14SG1DelpXd3RKa2tnUVlQUnJCWFo1MWVRU1d3eEpXcTdTdDUwNkIyOXBKRndmSnh4WjZVa29HVUFiNVVrUXV0aGZ3R1ZDYkdRZmZURVhUMEYzNDVubzhtUnZreTRMSmhQeV8wejNFRHlucjM5WGxPSmdjdk5tVHpTX19UUjZ6V2hhVkppRlBtNDNNck82R0JFNGp2a0d5T29PSdIBuwFBVV95cUxQM2xaZjU0Yk10YkJIX3czcU9iUEZLdW00aGdwRy10ZFZfazFOR29XS0NDU3BIUldRamFCZlZ6bVRvWXhBV2QySFNpeDlYMUhFcDJUYVFpck9PMU93XzlIUWp0a0dUemh6ZXkxTDNZOHdoT0paWFk3a2Vpb0hKOHdnd21MdEcxLWtqeHVEUGF5Y2g1R3ZlTE4yeVJlNWJhWlp1ak13WjI2V0ZSbHVESTBDWkJ2TGhweGY4dm8w?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1792877640
+   },
+   {
+    "title": "EM DIRETO: FC Porto sorri em Barcelos após Arouca segurar quinto lugar - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVDNBUGdBTkpJTkNXYlNNazFJRjRfcHpZdzNZZUxCNDZKVFM1ZkpZZDhGWE9zckd2Y3k3UndiS09zWWw3YTc1dnhSdVZTdFJEMnluQW45aFFYZXpGM1ZXZ1VNUmhBdzhGUWppTmlkaTJUdlNKTXVXcVpkNVVCeXNaTGtUc0FFTURkNzNWcVNsLVpPVjFZdjRjd1ZEMUM2ZU16SUxreGFXeEVQb3EyNm9QYmpHWQ?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1792877340
    }
   ],
   "esposende": [
-   {
-    "title": "Casas nas Pedrinhas não estão em terreno público - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNDRWd3hDMVpOaURYUnVPRUswa0ZjRzJDWmlSUld4ZU5GYmpPNmNVNG11ZkNkenEtMW5SbjFucldnaEpTUnZocGo2cHNhYVluSUNpUDBTbEdqeUVWVUN4VFQ1elRMWXpjT3dXV09VTXZJbGFIVllZNzlxRHdKYXVOMEVMd19ncFJqUzllMENhZjY?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792878180
-   },
    {
     "title": "De Esposende para 40 países: os fios quase invisíveis que ligam o mundo",
     "link": "https://ominho.pt/de-esposende-para-40-paises-os-fios-quase-invisiveis-que-ligam-o-mundo/",
@@ -1860,20 +1537,32 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdm5US3NYcmJyYkREZXBKVlkyLWRoQnJvUEJWVXRBUGlHTjBFOVMydE0zcG9YWkQ0anFzenk0V3JoTEpWeGhsU2diTGh0VHNfem02VEZ5YkRZa1N5MlZIR0M1NDJkYVRfV0NTOTlrSkZTRXBteE90d0pIV2hTcnVhQ3pnc3g4amJwN2FFRmpQaFl2dGc?oc=5",
     "source": "SAPO",
     "ts": 1792829053
+   },
+   {
+    "title": "Esposende abre 2027 com corrida de 10 quilómetros e caminhada para todas as idades - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXRkd0VBZVo4WS1jeVZRa0V4ZUE2Tkx1Tkd3Qk9KV0F1S3RlSWs1SlFJZzNja1JYMUxYUGNBcVBIX2N1RTJZTFFTdFVHTFZIOElaZ1kxSVgwSjRRLWNzTlFOckNIQnBjVFBheTZqSlRFc0lHYjZrSzJ3VVBhNElOeHVYX3BRYnZlajZKSk5JTkx0QUZEbFV1ci1CNUNVV1JDZWh6ag?oc=5",
+    "source": "Braga TV",
+    "ts": 1792788964
    }
   ],
   "mundo": [
    {
-    "title": "Europa enche-se de protestos: há mil detidos em França e um ferido grave na Albânia - Público",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ3k2NUtINHhzdjVzLXVmUktNc0VkR3gta18zODQ0REVFNHBpVjhhaUJfVXBtWk0wdGstTVpGV2liLWhkNWFWYjI2ZmJBNGd2bGU3bHlCSkV3VEJYQ1ZiZy1GUjJkS002bTBmYWR6d2hmeW5NSndlYkg3N3U4YmRqZVB5cVRPT204MjFKOWhWcmg4eHhpc2FIX1ZScks5bVVjd18xdTBxQk5nV1JlMTRLY19yeGdNcEo0aUpB?oc=5",
-    "source": "Público",
-    "ts": 1792877400
+    "title": "Lula defende legado e Flávio aposta na segurança no último debate marcado por ataques pessoais - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHJfU1JvUHE5dWt2VU54NnhVNmZ5UG13cjNWQm5GRk80bU83OGY2cEQ2bVBVbTRXSFpoTHgteEpOLWwyMkZEaGZPbWRQZG9YV2FRZGQydjhYYmhlWjBZZ1oweGVqMUxIbTJZMUV5RlJZcDBERS1mUTBIU1lpRjEtZnA1alV4cXBCRHlVTVA4NWhyMkk3OGc5REVMY3NidnhXZzBnbmFWbUVlUUthU19TR1BNVW50c3VWZ0lhUEkyRTg?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1792886747
    },
    {
-    "title": "“Ninho da Águia”, antigo retiro de Hitler, destruído em fogo posto - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaXhXVW1CRF83U0Y2eTVlZktGWWtQbnR2anJNdTFCTHJ5VlpxYVBUWHZLT3A0Z0pEaHM0N2lSTWhuMWhnMzBEdUNKaXdJMC1UcFl0MmdWOEhLN1FuTFhTRTl0YUVTbDZ0bngyQThaZU1wNUFPTExSbzRBdXhUWVNEa1ZmNVNqOVBLQndueTM1LUcxX21KY3JDSE5mZnBodUhKMDZjVHgwU2QzVklnUXdkUA?oc=5",
-    "source": "Expresso",
-    "ts": 1792867078
+    "title": "Milhares de pessoas protestam em todo o Mundo - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDZJX0I1Vm9qNXcyU3dub1FyZHU0LU9LVkNhTktUNkxrY1ltNmVVc3VlRERwWHc1dGM2WkpLNGJwT3FrVU1MSHZ6MnJxU3Z0LVBqOE54Y05EbGRQamxUbEExQlp0cVJiODZqdUtvci1EdEgtWlRENHJVenlfbVY0Q3I2STZrLUFlYU1n0gGGAUFVX3lxTE5xbmg4Wm1JM2RtR0ljNjJtUEg4OVNrQVN4UEY4R054VC0ycXVtb0lvQ3BvTUpidHBDTWxqVG1vdF93ZDBZUW5ydHo4VV92ZHNyUk9leFZqajlUcjBCTFpMRmdCSG93Y3ZIT0w3TzFrUXluTjV6eWpZS3VxbW10aGw2YUpUamFR?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1792884600
+   },
+   {
+    "title": "Em França, Bardella quer “levar Le Pen ao Eliseu” enquanto protestos na rua continuam | França - Público",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVGVYVWhncnJFYU1MSS1TakVtbHFCcU5OaFNzekdITHNFNThydldWdUlGc1NzQnY4c18yUWlWdi1LY3AzT2hfS2JrQTBiLVhMS3otRWxGTkxXUWVfWjd4cEhUMEhKNkVwNlVOQ3pUYjhJS05KS2tuMVVZUFB2cUMwZXYyN3FtSGJfMnVfQUotTFU3cWhyNDZyN3FUNFdLMm8tYThQVjVmMlNoa3d6dWd3Q0JGSGFCVjRjYnFtNXdrSWFkU0FydFE?oc=5",
+    "source": "Público",
+    "ts": 1792870920
    },
    {
     "title": "Copacabana enche-se de esperança para levar Lula a virada inédita - SAPO",
@@ -1882,16 +1571,10 @@
     "ts": 1792866766
    },
    {
-    "title": "As imagens da batalha campal após a manifestação em Paris - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUzFzSkd6Qml2Z1BKbEd2NlctcTJJeWNKVGNhQWlhUFV5Qjk4MmY4aG9OblJxME5ZZUcwNHFnUmtCSVBEUHREZnV0dWx4cDh1cXFmaEUxNEZHWm9ndmZEVTZ2Ri1VS1BKZERUUTR5cWdvYmpSZEZpeDQzSlZRaWpONFNJQmh3dE85ck9QZVlLRmhzVDVObDRSUzk5ZlhYQdIBkgFBVV95cUxQRjVIM0ZqSlV4M2oxM3pmNW5DQkVfbU8wdVVSMWRwc1QzMVJWckkzODh1ZnRJNHpwckJEQXVpeUxMczN2VVpiSlI1TmFDZWpRSnVVT2ZxVklaV1UxMFl0cjVUOF9EeXNqMXRpREd0OXpHcTYtX0JjY3ZTdzY3a0dLR0VCXzNNaE1DbXZWbHhqaC1YQQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1792860360
-   },
-   {
-    "title": "Itália está em alerta máximo devido a manifestações - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaE9UV09wMElCMHpSMGFKRHdLd1lvRmwyeDJTOWkzaGl0TlFOc2hPLVd6LTAwYXhwY2w3MUNyQ1ZtZlREOW9Rd0FyeDFNLWhMMzNiTGNEZWJwX0tWN3dLQ2JKR25LU0l1bnVrb3FkTzR5UjAyWlphNXExblVDUEktcERRb1h0ZGRiTXQ4bTZBMUpVZTjSAY4BQVVfeXFMUEpEQTgzWXNLbmU1TWxuVGFkckRVWXlGN0NxUUxyclctMGphVXFpU1Fxa0xTYXpYOFBPdnJ6Tk81YnNocjdqTDRHT25ycU1rUDJuVkZZQ2RGWV83T1BVUXNZUjNyQ1Y1SGRpR3RuZEU0WDR1RHNwVV9sMWhkZGVadURjRFVWUTZnMmxMRmUyUQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792841340
+    "title": "Georgia Meloni assinou plano com Kuwait que permite manter preços combustíveis na Q8 - ECO",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSUNaYWNSai1ra0llQ3Bod1JFeFpyWThBSU5oSXg5NV9QNzFvbjdibEo4Qzk4VW5KdjM1ai1fRWNlMWoxb3pBQkktSjhPWEFjb2UtdzRQX0lPRXRNWENIMFBHWVJ6a1k3NFlVSy1yQVdRWlNvaXFRbVdERnFMdDVKM2VLdnZGNDFOU0xTWEdWbUVuWVhDMTBMckgwNUdhdUhRb2U5Ym5KQnJQR1BuclMwVDgzZnJlY0E?oc=5",
+    "source": "ECO",
+    "ts": 1792864328
    }
   ]
  }
