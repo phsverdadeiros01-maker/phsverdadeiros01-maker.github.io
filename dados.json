@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-25T12:00:14Z",
+ "atualizado_em": "2026-10-25T18:00:11Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-25T12:00:14Z",
+  "atualizado_em": "2026-10-25T18:00:11Z",
   "dias": [
    {
     "data": "2026-10-25",
@@ -1632,10 +1632,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Bednarek lidera o FC Porto na ovação dos adeptos em barcelos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUklNa1p2TkZmbFJlZmFweGloeHExLW5wT0t1cVNxdnQzUzBfbFE5VnowdjJtNHI5ZXJORFhOMXhnUUtoUl9yTzRVREc5WWJGdDA4THh6UjlwRnJ6U19uU3lSTlhqaVBheUIzY2RmeEF1U1ZHZFJldkZSMTFIRHh2VHExVU9HSWgxYnNfVlRRWkZSWVAyVlJNT1FjQ3hnRWxWTnFYZ2w4SzBnN2lG?oc=5",
+    "title": "Município de Barcelos integra comunidade de cooperação intermunicipal na área social - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFUxQ2ZnNkN6RkdFdkJGeTU0M1ducjJHZHJuNXE4Vm5EZ25LMGRTLTZOd3hTOGZpXzlWRkpWM2QzNzcweTNfdDhZRlIwM0F2ZDNaNUU1ZXB5cHo0cW93UWN2QzJzTHkxRUZyUkZ6TlVlXy1lRG9KbW40ZGQ4dllsT0ZtcUVUSnMwU2pnWHZDSUdZZmhIR0kyZEV1eEZ4eEN5WHA1enJ6V01JVGN6T1U4Qlo1Yk4tTFE5aF9oVUVhU3dTOWY3QUdfNWNZWlg?oc=5",
     "source": "SAPO",
-    "ts": 1792911960
+    "ts": 1792938300
+   },
+   {
+    "title": "Música, dança e performances ao vivo marcam Noite Preta de Barcelos a 31 de outubro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOVN3dzBpcGJIaG9nS2VJNHd3NllPbXZtbTZMakkzdkswNEZpTGVSM3J2eWJaNHZuQkxEX01XaHJTNmdkLS10NjNfUUpPMXFHdmlybGVsMWlwOXNURkZOcVFQcktrNEhGVmdMay1VX2Y2amUyZUZVbERZZTlFNDZRR2Y1VGJOcllrVHVpQkZCR1c1R3hoRXQwdkhveW5EQU9iUnl5RkNvdw?oc=5",
+    "source": "SAPO",
+    "ts": 1792938120
    },
    {
     "title": "Por cá: Bomba Sainz em Barcelos e ataque demolidor do Benfica - Notícias ao Minuto",
@@ -1660,15 +1666,15 @@
     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNHNOZGVmZWNETy1CVXg3dWhFQWlUMHZ1V0luOFNxdEQ4OUEwcWFBc2Y5dXhGSVR6UFFHZkFMMGhGcWNRWUV1NXkyNzBtT2N1Y2loM19sdjFBTFA3anJmaEdYWE5LTWNBbmQwQzJ3R19CVnM0X2lMZUI5LW5Kd3BUTXRGNVZkdw?oc=5",
     "source": "SAPO",
     "ts": 1792880848
-   },
-   {
-    "title": "Gil Vicente perde com o FC Porto em Barcelos",
-    "link": "https://ominho.pt/gil-vicente-perde-com-o-fc-porto-em-barcelos/",
-    "source": "O MINHO",
-    "ts": 1792877719
    }
   ],
   "esposende": [
+   {
+    "title": "16.º Encontro de Teatros leva quatro espetáculos ao Auditório Municipal de Esposende em novembro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0NvNUdUQW5uWkg5Z2lKSTJvXzVaTEFIbnUwOEVNWTA3NFdSQWx5dnN4WlBxeHRycHlidTZ6cWt3RWZFV2RJM3ZvYldZQVczYURrRnpoMmVRaHhkRUlNcWo4VC1tMUtJM2RzNUY4amJlYW5qZmtBTEMwOXlJTHRWYURvNWFpUktzSTc3SXBqbHBYZE8wN2NFN1pNTVdidW9QWjh4TjhiSGJQV2ZNWDdzc3k2TUVldEF2S21BSGZ3QkpybkpUXzBYaHdvdlVGT1h1TjZXclY0UG9tQQ?oc=5",
+    "source": "SAPO",
+    "ts": 1792929600
+   },
    {
     "title": "De Esposende para 40 países: os fios quase invisíveis que ligam o mundo - o minho",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVREUFdkeXF1YVgzclNGNnNjUkFpTHFvaW5Rd0hiY0FaRWZ2WlF4eXVHVGtQQlZuWlBqNWZYTzY2djVhN05pZTdwdWt5VmI4X1JDSHRoampnNmczSDNXeEZLdkh4WHZoNWJCOTQ3RXJ2X3VpSE5oZUV5dXdSSng1X1A5UWI4MHQ5TDE0XzBMQVVJLXM?oc=5",
@@ -1694,12 +1700,6 @@
     "ts": 1792829053
    },
    {
-    "title": "Esposende abre 2027 com corrida de 10 quilómetros e caminhada para todas as idades - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNXRkd0VBZVo4WS1jeVZRa0V4ZUE2Tkx1Tkd3Qk9KV0F1S3RlSWs1SlFJZzNja1JYMUxYUGNBcVBIX2N1RTJZTFFTdFVHTFZIOElaZ1kxSVgwSjRRLWNzTlFOckNIQnBjVFBheTZqSlRFc0lHYjZrSzJ3VVBhNElOeHVYX3BRYnZlajZKSk5JTkx0QUZEbFV1ci1CNUNVV1JDZWh6ag?oc=5",
-    "source": "Braga TV",
-    "ts": 1792788964
-   },
-   {
     "title": "Narcotráfico: GNR apreende dez mil litros de combustível, nove viaturas e duas Kalashnikov numa noite - Público",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNaE1aYmQ4bFlsOEtpOW54ckg2UTM3RkpNaXkzcHdCU0lJeFNLdGQ2THVpY2otTk94R0JxU0YyVW0xNFU3aTFFamVwMHhMR0NuY3R1VTZFVnVzQURyTUpjanBGWFI4Y1VzVTYtajJaUkZSNHpQOTB0MHA1Ukl4X25zSE5fYU10NnBHS3E3bGlvWTRYWC1SZl93RUdUMGlCdko1RU1zZkh4MExuWk1uYU5hSGtqY2V3WWxhVTBpMTh5TlF1LTUtdjRRMzF5LUNqdzhBUFEzN2VmRHROVENXVnpGa012cw?oc=5",
     "source": "Público",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Lula defende legado e Flávio aposta na segurança no último debate marcado por ataques pessoais - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOdHJfU1JvUHE5dWt2VU54NnhVNmZ5UG13cjNWQm5GRk80bU83OGY2cEQ2bVBVbTRXSFpoTHgteEpOLWwyMkZEaGZPbWRQZG9YV2FRZGQydjhYYmhlWjBZZ1oweGVqMUxIbTJZMUV5RlJZcDBERS1mUTBIU1lpRjEtZnA1alV4cXBCRHlVTVA4NWhyMkk3OGc5REVMY3NidnhXZzBnbmFWbUVlUUthU19TR1BNVW50c3VWZ0lhUEkyRTg?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1792926087
+    "title": "Brasil: Bolsonaro está a liderar no estrangeiro - veja os resultados país a país - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPX19ZT1lvdG5OVl9nblhGeG9od0c0UWxmUkVjdGtLVy1xbktET2ZGNjNOMGhSYWlUWkdrcVVVRjJ2REFRVTAtNC11d3BCSUtmY296Q2ZZUVVweTJhYS05Q3BLNnYtbW1OR3Z2RjJNdU9odFRvN3ZTSzltUlR2VS1vV0I5RjhhX01vYXQ1b2pCdGZOMlVvRHgzYl9HVmcwc1FXM1NJRlJSdGNCcTBNNGx6cmxEbXFiNmdRWklkd0VGRjBGV0cyMWJjSHFBNTUzSVhWMG9DYXN4YWhnRnFhTHROT2VHTk5tNWx1SG5naFFrcXNNMFNLNTdZ?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1792946570
+   },
+   {
+    "title": "Primark despede encarregada que escondia artigos em promoção para os comprar e ensinava colegas a fazer o mesmo - Executive Digest",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeHl6bWxST3ZaSVo1aFN1MU5xVHQ2TzdUN2hOcTJBcUxiMTB5TVVvaEtsZjJLdnVGR01pVWdTenpWX0ZUWEJKTS1LaXQxNDRVX0piOEhvZzNKc19nZzc0OUwwOGpVNGFtdmlUX2c1UG0zNW9SMk8yWDVaZkYyQ1kyVjFsb0FaeFlIU01NeFVXaENfa3FQcW1GMGZ2S2NUYzBNUl9SYko0dHdLOUI4VUNRTnlrWkhWSE5lbUQ5eXJEVGNwUVdDNmc3SUdiMkdOVE83Tng3eDNPUzJKQV95?oc=5",
+    "source": "Executive Digest",
+    "ts": 1792936800
+   },
+   {
+    "title": "Coliseu em Roma invadido por manifestantes em protesto contra o governo italiano e a guerra em Gaza - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNU1ZXZThMLXMzUVpnejVFako4TVlwWWE0Q2xEZXo2TjBvUllibG9iQlZPZUJyQlQ1dHQ3V3gwUkE0Y3ktX1ZrWVRYWjBPSkxpaVFyWWlEREJhbFN3aEpSUEdLc2lyYkFYMUwydzBtN0pYWVltbjhwS3RXY2I0d0w3RlA5dEZHZW54OTFJLWl2djVxLWZQTzhJZnpTY2lieGxreklhLXk5T1ZVMEVmcno2d0dqbnVkSkViS3habDJ5R2htNmx1VkhRdjE0UkFXRDBjb0840gHOAUFVX3lxTE0zQ0xYd3JrWmV5VEM4TkpZdGZfRk5CTmswVkpUOVNGc050RmZOVEtIdUtTckZ5ck1GVlUyT2JEbHBJMXZmM0FabUdWYU1yOXVIeTJVSl80OFUtLV9OOGlVUVZJZVA4REVsbmt1aG14SEFTVFhJaHZjcUFWN09ZSWl2RWlHNVpQRlo2M2FfUEZtT1dRRUFPWGhnNjlRQ0d1dEs2NHRMRTZUM0c5WWV4Uk9xLVctbmI1dnR1V3lxVWpQbER1V051dVEtYjZwc3pR?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1792926720
+   },
+   {
+    "title": "Mais de 120 detidos e 15 polícias feridos em distúrbios em Barcelona - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTY3RzdPOUpFMmZXZVlUXzRBTnBURzdpRGZQSFJac1NDeGdVdnh4Nzcwd3hvcVlqVFphSVBJVEI4dEp3ckpwNEFmc2FFT3hucC04WHBkQVFHRXlPcFpTWW1OazdURmtaTlJWLURieUNEckpvWHdXSjJCRUd6UjhEOEx3ZUhyYVloNG9XU1k2dE1UM2d5VWJwdENPVUpuRkM1U0pDTUp2VWtxQjVvTWtEOWNkaFNkR28?oc=5",
+    "source": "SAPO",
+    "ts": 1792918620
    },
    {
     "title": "Belém, temos um problema - Público",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44cEpvYWN0SXhCN1hNY1E2TVZidlJrdTZhSmtkUS1EalU0MHhYOFdZME1YQmdwakZocUNfZnl4aDhiWVl0bGkyS3h1dkF0X29TaG81NTZxWWpYVDI1X3NsVlYzajhMekJHbXh5aTBCNmUzUWhabnNqOUt0N1Y?oc=5",
     "source": "Público",
     "ts": 1792909980
-   },
-   {
-    "title": "Milhares de pessoas protestam em todo o Mundo - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDZJX0I1Vm9qNXcyU3dub1FyZHU0LU9LVkNhTktUNkxrY1ltNmVVc3VlRERwWHc1dGM2WkpLNGJwT3FrVU1MSHZ6MnJxU3Z0LVBqOE54Y05EbGRQamxUbEExQlp0cVJiODZqdUtvci1EdEgtWlRENHJVenlfbVY0Q3I2STZrLUFlYU1n0gGGAUFVX3lxTE5xbmg4Wm1JM2RtR0ljNjJtUEg4OVNrQVN4UEY4R054VC0ycXVtb0lvQ3BvTUpidHBDTWxqVG1vdF93ZDBZUW5ydHo4VV92ZHNyUk9leFZqajlUcjBCTFpMRmdCSG93Y3ZIT0w3TzFrUXluTjV6eWpZS3VxbW10aGw2YUpUamFR?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1792884600
-   },
-   {
-    "title": "Starlink voltou a funcionar na Ucrânia, Musk acusa Exército de violar termos - Público",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcm53LTROVlBRSGxWRzFSa2d4TnBvcXphb2w0VTlncWVoRjVUQ3MwZGdfci1qQlBZWnBnbzA0cjVJZDVMNjVjWmpKMXBNbVFQSlg4czBDTXhWS0VURGxSazhuT3JZZmxGeHlLM2U3WUdmU2dzcGh0V2gzTnZxcmVNckJCZmZXYzgxSllNU0JmRXFFaHo0REZmQTJsRkVYWXptTEtJNGJGcXRMY3Z0?oc=5",
-    "source": "Público",
-    "ts": 1792873998
-   },
-   {
-    "title": "Sérvia vai a votos dividida entre a “Máfia” de Vucic e o sonho democrático dos jovens - Público",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSnFWN01aUmdfTGlUbmVGV0NpSS1va3BqQ2FpUklhcmwyZ0dMME9GbXNCbTVCRVpBc19MSmFCeG9tOVYwdVFTYTNieF9tRFRtdVpKRGVkbzQtdmJsTlRUWkZoOGJMODZHWldrWHVVYUFTaHNhN3hCQmdyOWVlMkFOVmlZdFc5Y0dmSmFoXzBGSDc4TFVvMHZLaXBtV1pnOTktdGx4Sk5pMFhzOW9VTE1aWTNSMDF4VUJxRGc?oc=5",
-    "source": "Público",
-    "ts": 1792873800
    }
   ]
  }
