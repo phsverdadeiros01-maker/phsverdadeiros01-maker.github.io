@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-26T12:00:10Z",
+ "atualizado_em": "2026-10-26T18:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-26T12:00:11Z",
+  "atualizado_em": "2026-10-26T18:00:11Z",
   "dias": [
    {
     "data": "2026-10-26",
@@ -1632,16 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: 43.º Grande Prémio da Silva junta 650 participantes e consagra Alex Macuácua e Jessara Xavier",
-    "link": "https://e24.pt/barcelos-43-o-grande-premio-da-silva-junta-650-participantes-e-consagra-alex-macuacua-e-jessara-xavier/",
-    "source": "E24",
-    "ts": 1793012191
+    "title": "Homem detido por agredir outro em Barcelos",
+    "link": "https://ominho.pt/homem-detido-por-agredir-outro-em-barcelos/",
+    "source": "O MINHO",
+    "ts": 1793027597
    },
    {
-    "title": "A francesinha de croissant de Barcelos que chamou a atenção dos Gato Fedorento",
-    "link": "https://ominho.pt/a-francesinha-de-croissant-de-barcelos-que-chamou-a-atencao-dos-gato-fedorento/",
-    "source": "O MINHO",
-    "ts": 1793009375
+    "title": "Barcelos ajudou 149 pessoas a sair da situação de sem-abrigo - ECO",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHRBZ0VpdDBSSUJfeUZEb3VRMy05dlVFV0N1XzJaRUpUR3M2VGJvVzFkOS1WVE92c2Q3MDEtc1g3ck1kTmU2bkFXNVgyUnZFQkhiemN6Tk1pMjU5NXhBanFPd3V3TGhkblJpUnNUUVVJRFRQcWlVRG5zdWZ4TVR4eGdKcXZMSE1kUm5qcnJfZnFFMnJjWXQ4?oc=5",
+    "source": "ECO",
+    "ts": 1793022401
+   },
+   {
+    "title": "Barcelos: Município assinala encerramento do Mês da Igualdade com iniciativas dedicadas à inclusão",
+    "link": "https://e24.pt/barcelos-municipio-assinala-encerramento-do-mes-da-igualdade-com-iniciativas-dedicadas-a-inclusao/",
+    "source": "E24",
+    "ts": 1793018596
    },
    {
     "title": "Mais duas claques do V. Guimarães anunciam boicote ao jogo em Barcelos - Record",
@@ -1650,92 +1656,86 @@
     "ts": 1793007570
    },
    {
-    "title": "Dia do amigo | Agrupamento 13 Alcaide de Faria - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0RKNnRDa2daY0tzSmxiUnYyX0d5bVZMcFhVZHF1M0lhNk42UWJYenRYSTNFYjY4UW01OUdSamRmWVhybjhnRk1NVnZZMng3a00yNUc3ZHdLV1JVV2RJak1QQzVpMV8ycXR5ZU83bGpYRmh1MnZBRXRTUzUwc055Rnhic1did0FxdUxr?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1793006710
+    "title": "A francesinha de croissant de Barcelos que chamou a atenção dos Gato Fedorento - o minho",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPeDJnekxTTS1BZ28yOFd0X3VnMHJVbWF6N2JSYk9qQjhwbDk2SWcyUEE4eHJPWmlWVkFiemVZdUxZR1BSS0Y3TnJBRHNSVnNOc3lOcW1vbllsSVZsSkVJMU5Edm1jWDV6MFNSMFdpVEF5SjJhd1l2M0VJM08wSGE1T0Rmd1hHQ1NyWmd2YU83N3FKRXViS1BRNUI4aDk5QQ?oc=5",
+    "source": "o minho",
+    "ts": 1793005740
    },
    {
-    "title": "Os bastidores da vitória do FC Porto em Barcelos - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZVNuaEpmY3RTZmphSlJNVk9qMFZ0NHpLSWpYRVlsa1dfVGZ0dmRuZFZQY25SU2xRVTd0OERITDBUOGFLWGhwSG1WcWNDRVc2Vk8wT24xMzRiYl9ZQ1hqcVA0MV9xZWtTN1VTMkwzRi1iNWhLa2FBbGlVLWxmamNDRDlPVkY4SGk2Y2lScFpyNU9yZEk3YVNsbVA3OA?oc=5",
-    "source": "A Bola",
-    "ts": 1792953960
-   },
-   {
-    "title": "Município de Barcelos integra comunidade de cooperação intermunicipal na área social - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWFUxQ2ZnNkN6RkdFdkJGeTU0M1ducjJHZHJuNXE4Vm5EZ25LMGRTLTZOd3hTOGZpXzlWRkpWM2QzNzcweTNfdDhZRlIwM0F2ZDNaNUU1ZXB5cHo0cW93UWN2QzJzTHkxRUZyUkZ6TlVlXy1lRG9KbW40ZGQ4dllsT0ZtcUVUSnMwU2pnWHZDSUdZZmhIR0kyZEV1eEZ4eEN5WHA1enJ6V01JVGN6T1U4Qlo1Yk4tTFE5aF9oVUVhU3dTOWY3QUdfNWNZWlg?oc=5",
-    "source": "SAPO",
-    "ts": 1792938300
+    "title": "Insane Guys e o Gruppo 1922 também boicotam jogo em Barcelos: \"Não aceitamos a normalização deste tipo de oportunismos\" - Guimarães Digital",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQUEp5RFU2OVp1S01lN3dVSUZ6ejZNY00wSWF1VlZyZmVnY1l0UzJZT2pRbFQ2NWZPOUlpZHRSSGxlT2NmZFZkNW1HTEJzTlJXUmlDTGJGQ0lyVHYwaF9mY2xBVXFQVlBuVGRLMVNZZzdFOXRJYk8zU1l4d0hwaGp6ci01WmZPWE9wejRpRjA0SVN3QnBTX1dPeDN6Nm54QjhaTTAxUW1EU0tURXRhSnhxUnRQazNfT0thZHlrUXYweHp5dFBOMG5IT1ZVYVR4aHhOQkkwV3dRb3c3M2x3aFR5YnY3NDBYak16T3ZCcmVpaG5tNFRQZVREWGc2emI3LXBCN0RhX1Vta3VZQ2hudlJTRGd2SQ?oc=5",
+    "source": "Guimarães Digital",
+    "ts": 1793001600
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Caso “narcolancha”. Detido fica em preventiva e suspeitos são da Galiza. GNR reforçada em semana de reunião com tutela",
+    "link": "https://e24.pt/esposende-trafico-preventiva-galiza-gnr-reforco/",
+    "source": "E24",
+    "ts": 1793033992
+   },
+   {
+    "title": "Faleceu Rosa Maria Neto Gomes Cardoso - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55NWZGRmdOalJfaUJkMEsxbFRIV2RQbS1nOUVHVzVrNzNTbWRyOVJqR3c2U25mdWlIR1NGOGVIY3BzV1lEMC1zYnVwYmZoUk9qSDBMSmtKOUpKTmhiUGdmZG0ySURfNXpnejlpQzFXQUpRNzNN?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793032030
+   },
+   {
+    "title": "Faleceu Maria Armandina Gonçalves de Sá - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HTzNTUjNkcUZWT1RsdWFrNGNEUzhzQzN5SnJTT19sdF9UbG9QQ19lck5fdWx5OG5ITFRILWpQVzl0eTZ1S09sT2dhbEdoZjZ3RHNaR3haaTRrWXBfVGZHNkEyOEdkdS1yWFBkU0RoYmVhU1NEVGVn?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793031727
+   },
+   {
+    "title": "Quase metade das pessoas com paramiloidose apresenta níveis insuficientes de literacia em saúde - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEtpOXBIbGU1NEZtQzdBbjV0M1VmRkxPR2NoZnNIWmI5SjV6cE96NWYtamduNEcxYXJ5QXZZcXdmQnV4NGVGdm1DVXhEcGQxT01nbkdfMm5TNEJ3cGRVNG9SWDJXZWRVNlNhdjhWWElnT2RRTFlRM2RjbDhmWDZrQW41NFFmbnpEb2tFRUNUUllfeE93SVVuZUFRTmJUcC1JeWtmT1NFbk9VSGpRV212UWVpd2pCVlplMUQtSk9LSW9aeFFUNkotTV9jN3Z6dUhaQ18xb2xPczBKS1E?oc=5",
+    "source": "SAPO",
+    "ts": 1793030040
+   },
+   {
+    "title": "Esposende introduz taxa turística em novembro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdno0OThZajJuVXFkTEF2TTN6cXJtamRrSVlBQkZtZTZjbVI0YnNkS09GUG1mbzRESDlDd3pfY3poZm1VcW5CUWFPTVUxMGQ0QlFVNjA3LURjTjBNZVE2RHRaTTFwUmVTVHJMVjhtYTgzdGtmYXllclRHbGk3ZUxDNnVMdThKUUdDc1NzQ0dQeHVKbWRLaEd2SQ?oc=5",
+    "source": "SAPO",
+    "ts": 1793006700
+   },
    {
     "title": "Esposende: Tribunal decide a favor de 18 proprietários de terrenos na Apúlia - o minho",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1VYc25DOEFTYkl1SzZLTzJyZC1kN1VIMmU2b2Qwd1VXTXRWMDhOWUZKMzQwMXN3a0N4LUpLX1Mwd2kySnh0VUFTcnpXUzJONUJVNUxXaW5NdkZ0dlZiZ05nd0IwaGg1RURrX2NfMlZjS3hhTVhydnF4YVVpRHBtbFAyTWdxTUt2WHl2aDNXSG0ycktpaUpieU9n?oc=5",
     "source": "o minho",
     "ts": 1792959060
-   },
-   {
-    "title": "Recolhas de sangue e de registo de medula óssea - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNzdMM1c3M2VnLTlVeFhrbFF3VFl2ZWpEcG9yRUdVYm04RmdBcmd0WnljWlBYY2czcHl3SEcxRndpQXF5NDRROU5DMTNSdG1Dc3Q0ckVCSDZRZHdZR1RRM3pkTXQxYmJjT0FnN3pwQjdtV2N0M25oTDVqY2hvVmJjWGt0aEg3UQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1792953338
-   },
-   {
-    "title": "Fim de semana negro para as equipas do concelho: goleadas sofridas e empate do Antas - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV0h2bDcyUWpadTlsSWhGeVZCZ1ViU0Q4ajZheVEyck8zSGRiZ0hLZWNubXQta1hjNGVqcFd1N0daMHg3Mk1mbjhLOHRpanhJYmtrNkIyY1o2ZWp3amhVRUlzbHJhaW9EWTVWZ2pwMVpwcHN2bldzMEdKM29iN1FkVjJPUWVXMDMwRWttTWYwenY0eUdsVGM3TmhXSTVqX0hoeGxNWUdLazhuMWNDQi03M3V3QmtCVTVnR3NSVEdlVk1EVmZoYzdQSDluMA?oc=5",
-    "source": "SAPO",
-    "ts": 1792949340
-   },
-   {
-    "title": "16.º Encontro de Teatros leva quatro espetáculos ao Auditório Municipal de Esposende em novembro - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS0NvNUdUQW5uWkg5Z2lKSTJvXzVaTEFIbnUwOEVNWTA3NFdSQWx5dnN4WlBxeHRycHlidTZ6cWt3RWZFV2RJM3ZvYldZQVczYURrRnpoMmVRaHhkRUlNcWo4VC1tMUtJM2RzNUY4amJlYW5qZmtBTEMwOXlJTHRWYURvNWFpUktzSTc3SXBqbHBYZE8wN2NFN1pNTVdidW9QWjh4TjhiSGJQV2ZNWDdzc3k2TUVldEF2S21BSGZ3QkpybkpUXzBYaHdvdlVGT1h1TjZXclY0UG9tQQ?oc=5",
-    "source": "SAPO",
-    "ts": 1792929600
-   },
-   {
-    "title": "De Esposende para 40 países: os fios quase invisíveis que ligam o mundo - o minho",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdVREUFdkeXF1YVgzclNGNnNjUkFpTHFvaW5Rd0hiY0FaRWZ2WlF4eXVHVGtQQlZuWlBqNWZYTzY2djVhN05pZTdwdWt5VmI4X1JDSHRoampnNmczSDNXeEZLdkh4WHZoNWJCOTQ3RXJ2X3VpSE5oZUV5dXdSSng1X1A5UWI4MHQ5TDE0XzBMQVVJLXM?oc=5",
-    "source": "o minho",
-    "ts": 1792861380
-   },
-   {
-    "title": "Santa Maria derrota Esposende - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5pTDR5eGJTUVpiTUVCeEFsNzJIRlk5NXVGRzNZMjdHOW43SzZYS1BidFFYaVlHYWNOY3lMbkE2VndNLWgxai1WOHpOZEkydThvYjVkTkNHenRLdnVuY01FbkllRjlucmlWYjlncERyUjBfekZYc2R3eXZ3?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1792857839
    }
   ],
   "mundo": [
    {
-    "title": "Lula reeleito. Presidente louva \"derrota do negacionismo\", Bolsonaro quer anulação das eleições - RTP",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQRjdNc3RtRjl5Z2lLRmRTdUxaT2IxT2tIN1Vsd3RoWTBTSUdDeHB4NVZxbVJxNW1pNmxaMWFYVGg2eW16Tm9kSDVVUi1NVE5fdHVkYUdsbmRyeGxtc1pOWldQZlJOQzFMMDExWVJZWU5PVmJjeENsUkdULUtOdGd2VGNnVUlSMkRJTUcwQzNLNkVBcU42TmJRYjltc0Z4VEVOYkdMaTZnYU9VcWxlVnRwaHZQNU5CT3RBVHZxbGFYcEQwZnhicFVYQm9lbEdEZ3c?oc=5",
+    "title": "Em noite “histórica”, Lista dos Estudantes da Sérvia consegue maioria no Parlamento - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdW4zbVZkUzM5TFVKZTZJTGJyYjhPSmZ4ajNkWUZsNDhKUUQ5UnRDUWkwYV9aLXJnQnVSUFZqdTFNLVFTVEhFTVc3aXkzTFRHanBEOHNzTDgwdG5ndU1Ed243WlYyVUhJM0RiNmdxOEJCUHZqelJjQm0ycjMzRkNXZHJCNHNkaFhuUE5Fb0RZc1F6cXE0VVdRT1ZWSUpSTVc3TW1lZXRmUkVpOHp6TGJYM2RWelNRYkhXMmUxeTBCbnI?oc=5",
+    "source": "Público",
+    "ts": 1793029116
+   },
+   {
+    "title": "\"Virada histórica\". Lula promete \"governar para 215 milhões\", Bolsonaro contesta derrota - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXgybV9NOTFHNTBYZHZwejh3V0M5a05RQVF0ZFRlSkZRU3ZRSzJJcDRpN3lTdDg1QjlWRXpFemZfVTNiZFJ3RzNhRWVYbUlQYkRZMFdkcHBQQVVxN3l6V2xwVjRyQmFpeDgtOGxOVkdQeW9kTDFWRGR3UThqV3g4QmhEX2lHV25pNHZtOGpiSHFsWnA1YmlyY20wOF9OZDMxNnlzNkVBeTV6akFaV0gwcmtXQzBLd05sSVctTThmWDhJdFE?oc=5",
     "source": "RTP",
-    "ts": 1793009708
+    "ts": 1793022197
+   },
+   {
+    "title": "Radar apanha ciclista a 44 km/h numa zona de 30. Levava uma criança e pode escapar à multa - Executive Digest",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRzJCTEdBenViRHJjbXFuNVI1RUV3bVBwNm5rWVpoX045Zy0xdTh6OFk3RHZzYU9RU3JoWGduZUtZdUpQdXpyZGRTNklrUjVEOWc0QVV0cTNnMXc4R09xNE9UOEhrcDY2a0pkUGdRb2ZnaV9aYm9fRDN3dlgteXJNQ3ZESEM3VmE1VDVRY0JuYU0yS1dqM2Q0YXlucHRPUmgxbVVFV0xObWxSZTNzM3VNaWlidEt4ZTZSQl9aNWJWaw?oc=5",
+    "source": "Executive Digest",
+    "ts": 1793015640
+   },
+   {
+    "title": "Estados Unidos querem Viktor Orbán na liderança da ONU e estão a tentar recolher apoio da Rússia e China - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQ0I4M0hkdTI1S0Jtd3BWaUJfMThTZFl4cDhSTjk0R2ZVT3NESE5aeTJjOTRtSzNWMGdjNFN1QVRFMWxMRUVDYVg5d3piYzR2SnB6aUdFdGtGaDhRZnQ0YjE3eUdVOFhqak1vVURLV0Iyc0pIZURhaDBFaDBVMnB6N1FJYkQ1Snk4cmduRlFwUkJBYURFVE9RZVI0VDZhalQtVkZNS1piSXMxendTTE5OWDlkX3JqTGdUSjRlam1rYmEtODZ3ckluUC1BU1VtRVNfMFA3dA?oc=5",
+    "source": "Observador",
+    "ts": 1793008740
    },
    {
     "title": "Corina Machado regressa à Venezuela após 10 meses de exílio - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb2VhQUVvdDQtek9vU3dTU25KT21HQWRUaTlIdlp1VWVUbHJWM3hTV2ZERm9OV3BkaFFIY3JxME5SNU50ZUxsZ3lRaWxsckFNbFhseHBuMU1Bdy1tM1JFNzcwQ3lIVHRrSEx4RXBFVk1VdWJfbFo5UDI1YlQxZnAxX1lZRnJMdWdmbHdFZzlDODVpaU82TDVmYmJ4d1Judw?oc=5",
     "source": "Correio da Manhã",
     "ts": 1792997520
-   },
-   {
-    "title": "Vamos ter de falar sobre as nossas democracias - Público",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQ3FyLTlEX2ZXLS1LcDA0dFg0SldXcnB0bTBmRUo4UUI3TGx0RjlmczBvMjdSYXVtS0dFaFlLdDhZcjNWSEFmYjBrVlpuaEZvd2xlX0IzUlRnenUtQUZyTWR2cWpDdi0xRkRHYU1MWFU5MDZLbTd0YlF1NktDLUczUUp0TjhVQQ?oc=5",
-    "source": "Público",
-    "ts": 1792992840
-   },
-   {
-    "title": "Lula consegue ‘virada’ inédita no Brasil: “Quando a sociedade viu quem é Flávio Bolsonaro, Lula ganhou” - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOSzc1SnZaSHVDamc0NWU0emdPal9Mek1FNjFDZmV5NXhqZmFKY3ZjbDZUalpfc1JzLUNGNldZOGlKeHhNV2psUVk2dzJPNmZZY0xtSVJJbTBkVHBSS2J0X3I3dVhtUkZ4bDFsLXJkZVNLdE80MndqdnlsMkpVN2lxbHAxTlRKM3ZXclVuZlFFblpobmVVT1lHTWNQVXJUVHlHbGFuSDF5cjk1Ym1KZlRORnNVX3N3Qm1CekxPZFN0MWZZeEJ5WjZBeTJPb28yWktCS21QRnRLdnNyV1IzaFFSZjhzcU5ybDlmZ2pkTDU4Z2p5UzIxQlRSYXAyYw?oc=5",
-    "source": "Expresso",
-    "ts": 1792982350
-   },
-   {
-    "title": "Movimento estudantil vence eleições na Sérvia e afasta Aleksandar Vučić após 14 anos - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQcmRsRTBXZWkxei1BUFFoUnFqbXBRc0RXOS1WU3d2QWRwbm1mQkcyOHQtYTJIbTNQZ0JnV3J6VWtycUN0WUtJaS1zV2dHSEJnNDJrUlZMRWlaVXp0eFhxOFoxOTBBRlpJdWs4SVhKd2d2R3ZZOE93MGd6V1lma0NIVTNCbFhKdzRXZU01cmVNajdjT2NrX1VyX21TZzBSa2RzbVBQWnlVeFBsX3p3VENJ?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1792976640
    }
   ]
  }
