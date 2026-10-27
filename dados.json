@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-27T00:00:10Z",
+ "atualizado_em": "2026-10-27T08:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-27T00:00:11Z",
+  "atualizado_em": "2026-10-27T08:00:11Z",
   "dias": [
    {
     "data": "2026-10-27",
@@ -1489,22 +1489,22 @@
     "ts": 1793049973
    },
    {
-    "title": "Homem detido por agredir outro em Barcelos - o minho",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAxY09rV0lIdW5oWnRhbVlTVnp1WU5xcm5YOFVmOUFoTG1VcXQxNkVQY3dZMW1UaUxTcGpxSTJYMnpybFV1S0hlZmtFTTkzTTN2a3ZoQ05YakpPeHdVZmJ4MWhTZEpicUctNHRpdE13?oc=5",
-    "source": "o minho",
-    "ts": 1793023980
-   },
-   {
     "title": "Barcelos ajudou 149 pessoas a sair da situação de sem-abrigo - ECO",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdHRBZ0VpdDBSSUJfeUZEb3VRMy05dlVFV0N1XzJaRUpUR3M2VGJvVzFkOS1WVE92c2Q3MDEtc1g3ck1kTmU2bkFXNVgyUnZFQkhiemN6Tk1pMjU5NXhBanFPd3V3TGhkblJpUnNUUVVJRFRQcWlVRG5zdWZ4TVR4eGdKcXZMSE1kUm5qcnJfZnFFMnJjWXQ4?oc=5",
     "source": "ECO",
-    "ts": 1793022401
+    "ts": 1793046849
    },
    {
-    "title": "Barcelos: 43.º Grande Prémio da Silva junta 650 participantes e consagra Alex Macuácua e Jessara Xavier - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPM2RQdFg0WmdWR1drdzNtRW1vMWNVYnRuZWpUNTRQNW82M0xlR0UzVTF4M28xMHYtYlFjcXNUVHl0NEhjbl9LYUR4eEtMbmZSWnZrZ09KTm5qNHVVQ1BocUJlNXBlSlJ6X3pxSkhEM1hXYzNndmtycmEyUS1IUlRwSDZFOUdubno3bnlxa0tTaEZ1eUVWMG44RE5yTzdBeUh3VHpVVGYtSUVmQVFaN3NXaFFzLVpROTg5eWc?oc=5",
-    "source": "e24.pt",
-    "ts": 1793016389
+    "title": "Torneio de Abertura reuniu 144 nadadores em Barcelos - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSUNDTXBSU3QwbE5yOUhReE1zZW5jbHlhYTNMVFQ1a1c0ZFFGSWFpLU5zaVo2bGxnWW9EaDA0WXJLUmJPWlk4VW5laHVPTXRPcTJ4bnV1WWl5cGloRzFJWE1VMURTVVdTenl5WjlYd1NuWTJtakhjY3gyVC1jTmN3LS1LZHBUT3FNV013bHF1NHI3UmtrTzk2MzZ2djMwdk1iMHF3My04NGVsYmVwVWIxa1JHNHpEN2pGVEhXcnU0eWpyUdIBxwFBVV95cUxNNHl0XzRIQTdhWUxQaHlzWlJ5cHhwLUhMOGxiLWJHTFplQ3VqVVBPZFV2TE5PZjN6S1BBaHMwRzJxeW1pbVpkMk9IU1E0dUh2NkZ6S0tVVTlyRU9jM01TZjJGWWJlb3MwcDBaVDYtWTNQY1hVU3NLQ1ZiQ3lWbWpuVEk4aHdFUGliUU1YZjJpdUVNVk5NM3pqekhGb2hWelFqcmVudGxfcGZxXzA0LU1iZEI4cEVDR2FOTWZORVc4OWZnU3JjLU9N?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1793040000
+   },
+   {
+    "title": "Natação do SC Braga conquista 150 medalhas em Barcelos - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVkRjSVFwMlhQOTE0LUtwTzJBRnVKMVlERUtjbmIwZlBqSTI1TkVseVplRlBoY3lLZlUydG80X2dBb1RIWFlzMTNKQUZLaFloS3pRQTdHYjl3R29jU1pLZjF2T1ZPclNLUHFZZVBucFBmRmZFdnJiRGZMbzZKYU5OMFRLamRlWmI1T0ZCZFFtaUFUTE1ISXhmajJHVnZ3WEtsVDMwRmdORFpqdk1hUWNzYUJSclhMTmY0S19VbkExVU84OHNZ0gHKAUFVX3lxTE44cWFsSWZFVnNUVkJ3V21GMk5HMm5lWHdBOVdYQ0IxZFlheFNLcmlHb1FwcGpMQXFmWVp4d0pQSGVKNjBTTmNWTkRRSTFFV0xZbXZDV3lyZ0plcHYtX1dUWFN3bjJwUGhfSU82SFpuS0lrLW1TdmlrVHM4OV9kMTBBTjlXay1mR1ZnVnRFaUZTZjdFdG5LYVFjX0c3N2R5U0M2c3ExNl9zZlI0S0UtNG5DNDRLOUp3NmhuLUd6TTRnaEw1V3dOa1JSamc?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1793025420
    }
   ],
   "esposende": [
@@ -1533,36 +1533,24 @@
     "ts": 1793031780
    },
    {
-    "title": "Quase metade das pessoas com paramiloidose apresenta níveis insuficientes de literacia em saúde - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUEtpOXBIbGU1NEZtQzdBbjV0M1VmRkxPR2NoZnNIWmI5SjV6cE96NWYtamduNEcxYXJ5QXZZcXdmQnV4NGVGdm1DVXhEcGQxT01nbkdfMm5TNEJ3cGRVNG9SWDJXZWRVNlNhdjhWWElnT2RRTFlRM2RjbDhmWDZrQW41NFFmbnpEb2tFRUNUUllfeE93SVVuZUFRTmJUcC1JeWtmT1NFbk9VSGpRV212UWVpd2pCVlplMUQtSk9LSW9aeFFUNkotTV9jN3Z6dUhaQ18xb2xPczBKS1E?oc=5",
-    "source": "SAPO",
-    "ts": 1793030040
-   },
-   {
     "title": "Esposende: Tribunal decide a favor de 18 proprietários de terrenos na Apúlia - o minho",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1VYc25DOEFTYkl1SzZLTzJyZC1kN1VIMmU2b2Qwd1VXTXRWMDhOWUZKMzQwMXN3a0N4LUpLX1Mwd2kySnh0VUFTcnpXUzJONUJVNUxXaW5NdkZ0dlZiZ05nd0IwaGg1RURrX2NfMlZjS3hhTVhydnF4YVVpRHBtbFAyTWdxTUt2WHl2aDNXSG0ycktpaUpieU9n?oc=5",
     "source": "o minho",
     "ts": 1792959060
+   },
+   {
+    "title": "Recolhas de sangue e de registo de medula óssea - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZW9mb1FVVW1XUVF4UTZkRjBBZk1fUkh6dHhCNFRkRTM3VnRjbHkySS1oVDlMMVp5bzFFaXhYVlJhMXo2eE1NN3k3clFaR3hRMk1JQlFRbnRCOFJ0bl82UHZ5WkdDWi1aRGg1TnlUemNCYkJLOXVFaldZQ0xhQTNXS3pYQjMyRUVBUnBheVRWTjcyakEwUFVia0p1UQ?oc=5",
+    "source": "SAPO",
+    "ts": 1792949640
    }
   ],
   "mundo": [
    {
-    "title": "Supremo proíbe Flávio Bolsonaro de sair do Brasil e ordena entrega de passaportes após derrota eleitoral - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPX1ZRQzZJOUZoZHFqSGRRemU4cTViVFRsWTJIYVV1eUJUWXdKSFFnVjhPal9GX0V0Q19PclNwOUt3RXBxbF9iTHlLZVB2VS1EX0h0aFFRaFhoZUtYNElkN0dnVm9aWm1qYlRrR3BOWHVxclktdHEzSXVvX1c0TVVIZVJnOU1xdXM4ZkFlMEtyM04wOHhqZ01QWDlSck9YQXdUX2docmoxcU1ncjE0eUNDa3h6WTVFVHpBN1NJSExBN0VNS20tYzZPUEhwWGhNQ0t2M2dBU0w5X3owTTc5UHVlZ2tDSUVUaWRTWU5mS0xPNjBpSEtHSVRnYzd4bmpiRkREQUphYg?oc=5",
-    "source": "Expresso",
-    "ts": 1793052025
-   },
-   {
-    "title": "Trump alega que vitória de Lula da Silva foi \"fraudulenta\" - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ2g2XzVkcEx5Yl9hMzh2WnFma2lMbWhlczg2M3IwZ2JYekV3OC12RUVhTXd4bW41XzZ4Um5sYUtCQ0JsY3FEU2ZLYXZEdHE4b0xCYU5SbmdzN2hUOHhOd21IY3NrYWZ4RHBZSk9FYVB1cktBOVpBdWZPOVZXVXdvWWo3X3VtbkI4N1FnNVVfWHZUS1I1b0pQQm5hV0_SAZABQVVfeXFMTUZaQm5zcDN1TEI2NFEyMExQTzlMbTZ3MjNOYklLYm0xRjJMSnNmajBCTnNjRS0xb2l4STJTR3VaWDVvQVpwV1FvNm9SQVdpaVFTeDhKNlFmaks5QnhGYm9BTHZ0VEQwMmVfQmJxM0dENWdyalFjdFJDV0VzeUFnZ1gtLVBhdHRUUTY5cEtBNHR6?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793050260
-   },
-   {
-    "title": "Flávio Bolsonaro terá desistido de pedir anulação da eleição e avança com ação contra Lula por abuso de poder - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeFJNVDJNcFRHV24ybm5sazA5SlVPTF9BLUZVLXFZUmhCVGNZZG13TlFNMTNjVVJnUGxTdC04SUt4ZmpOTzRZZ3ZOdFlBbmlRZ3JpclNnaTBITWhkd0IwOTdmV0hSMmJsQWVPSmtzSjNycHFJa1lsUDdDZEpmMHBrejF3ZDF5clFtMTFUOUlqeDJ3bnZfeVQ1N0FndzZ5Q0c2QURBemdvMHlZcU5Vd0NwUFN6ZzYzdVA4aHBqZlEzZFlPNUt1R182TEJRN1U?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1793049733
+    "title": "Flávio Bolsonaro proibido de sair do Brasil e obrigado a entregar passaporte - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamtWTmFxa3JwcmluMXU1eWFFWV9DZklNSjVPQ1dtajdOd2c4Y0IzT0tYUlRDTFEwQTJxd2o2TGh2MklnX1JhRmhJYnUwOEtITWMtb0pNbDFxYThVNWpzRUJtTDdZUnMzczIyRzFCMzk4Tmh6TVFPREhfbGVHZVNNbTI4ck5McGE1LVBrSy1ENFZtNjRQSTNDR3BHN1A4Mm1Ya3JPRG12SHpYQVV6MW1icUpHRkp3WVUzRmJ4TFc1a0RpUHNEV3BFSlJYeUNVWDUxYlZZaA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1793054682
    },
    {
     "title": "Um voto = quase 500 euros: viagem no avião que partiu de Lisboa cheio de israelitas que só querem ir votar - Expresso",
@@ -1575,6 +1563,18 @@
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3A4eFJUSGJqWGFiZXlvVVBWWGxOd0JpNkJUeUZGWEkySE9JdGNXWjFzYjl4Y2pFSHVVejltc2NGam1zUW5weTRxc2dUbmRuQlJUNkdpMTlIa28tMzhyanZvTGxDbkJIX0wzc2FrQzVtMmlPbHpWS3Z6azBzR1M2OElaUTVOaFJ5R240dV81Ukt1Yko5dDV0NkJYNXZlb0hKcUp1cEZ2LWR3aTZmZEx1bENsS2VVbzhsQUhhdld0ZXVwakxB?oc=5",
     "source": "Público",
     "ts": 1793039041
+   },
+   {
+    "title": "Xi reúne Comité Central do Partido Comunista da China e exige lealdade, disciplina e fim da corrupção - Público",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbjVwYnpvLXBuQ09MR0JmVjZ2MTU1WEsyRHVpRkNaWXdRQjdGaGJGZGNRQm5QRm5MRnhRUkpXemM5QmloTVNhWEJYcEtoUTRJQThaN0lSclpMaUtxNWw5ckVjcENnQ1hxcFZZRE9Ha2xVVkUzdGJaVGJfeURaYjVkUGdDUXVSa2hLUjVLeGRHakI4YWpQUUNaRUs4VVVaSHUzYmtfNGtub01vZkNmRkNRejYxRS13SEJabDFlaEpaNTRRblJXOVFCZGtmbkw5OGU0bldyRVRVa21OX1k?oc=5",
+    "source": "Público",
+    "ts": 1793031041
+   },
+   {
+    "title": "EUA ponderam apoiar Viktor Orbán para secretário-geral da ONU - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbkJPakZZZ0sxdzB3UXk0Q0RlZVZ2TjQ4TWw1QTA2UngxUGtSaWgxM1NyMzJKQTItTW5xTUdwVURfQ3g0Ukhya0tQdlBXZkE2aWUta2phbElzc2VvRjBtSVltdm1mMHpEREhZeWRlUDQ3SklSTVE5WmVJSDZJbnU3Q3dsVkl5eng5MEh4bUExUFZDSDFfd2c?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1793030306
    }
   ]
  }
