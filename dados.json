@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-28T00:00:10Z",
+ "atualizado_em": "2026-10-28T08:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-28T00:00:12Z",
+  "atualizado_em": "2026-10-28T08:00:11Z",
   "dias": [
    {
     "data": "2026-10-28",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Têxtil de Barcelos investe meio milhão para ‘calçar’ negócio da Defesa - ECO",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPXzRHQzFaeEFfVmNMRVR1ek01Vm8zbXhLbEJMMlE4OHM4SWE2SzdQSGFOaVhrYVZmaGdNUDFZeTR1M2hPeU5fTmpDTDRoM0tjU21WSURmc05QM3B3MzNfRmgya2Yyc0xkUU9VUzhiZ3k2QTFrUVVDQzBLdFBCLU02NEI4QW1qSVQwZTRJeUd6dG9STkVKYWRhdl9yRQ?oc=5",
+    "source": "ECO",
+    "ts": 1793169396
+   },
+   {
     "title": "O avô tem uma borracha na cabeça - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KVVo5akFYSEVLTWhrYi13RmF3bUh2REwyZ3A4WUs1TDA2NXp4SEFMR29kZEdIN3BaUjZ6eGtNc19WU1pxbTlTWEFKTUVwR1oyT3FXc053NTF4QUR5b3lnWjc5S21FaVAzNjh4OVdnV3VTY1BBU3ctTDBWdw?oc=5",
     "source": "Agenda Barcelos",
@@ -1481,12 +1487,6 @@
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbmxvRFhTYTROMTRQYW14Q0Y4NktVZ1FDVWVWbjBHRnVrRkdkVFVPTzA2LWx4NEF6cm1ZTWRQSV9iQ3h4c2hYM29IYV9PSGU5VjZoV3lVU3RGS2FiTUxuek9ST2tJY2V0RG11VzZZMEVTVTgwVEdkV0JkMll1cWFXQzczWHUtSUxwMXRNZ2J6TjY3VG9tUmc?oc=5",
     "source": "e24.pt",
     "ts": 1793120877
-   },
-   {
-    "title": "Claques do Vitória SC boicotam o jogo de Barcelos - diadejogo.pt",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMUZZUmxyLUNncDUwblE5QVZOOXFVZmJHc3BvTTBwcnVaYlRDQnNESkEzbXYwRGxwaVNveHI4b0JVcm5ZUnpBS1Z0clJOSTlWTl9sdkFVZnBYeDZtbGxobEhNajlUUC1pX3Y3MUFwdnNGMkhfTXV2eXM2M1I2dmZhdnI0YzNYTUw3VmRJQXV3OVU?oc=5",
-    "source": "diadejogo.pt",
-    "ts": 1793117482
    },
    {
     "title": "Jovens de Barcelos obrigados a procurar fora do concelho condições para treinar - Semanário Alto Minho",
@@ -1509,10 +1509,16 @@
   ],
   "esposende": [
    {
-    "title": "Esposende inaugura novas Bibliotecas Escolares na EB de Esposende e na EB do Barral - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTlBsOTItQnNfRzYzclpGbE5qWkZGVFZaQ19Mb041QkFvSkw2b2xUbGpVSV9lUHExc1dxNlBoeFlwWEJ3VjRKdGZVLWtxTXhjUHdGQy1iejZnanBCQTdLVG9URnZSUHFXRnQ2cXJrU0U1TmtkZGNTc3FrWTdTY1ZEeWM2emFkcW55UFZDR1YxUVNhbFpCbWtrdzNScDFkYk95OG9XbEd5TXhKbV81VFE?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1793138460
+    "title": "Escolas Básicas de Esposende e do Barral, em Palmeira de Faro, inauguraram as novas bibliotecas escolares. - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPU21xR0JLS0NwblI0aXlSRlVMOXR1UzMwal82bEs1VkNFcHZkbmowQno3c01IU0hkVkZIVDJmZ2dpZEFITTNYa0kwSU5DQmh6WHVIbGt2Qml1b0FqZVJOWER2YjlwZWFZdDY1ckJuQ1g4TGlHTFJiQjUteC1CVkJza0EySHlOaTNpTDVER3UxT1hFd1VKaldF?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1793167278
+   },
+   {
+    "title": "Esposende: Chá Solidário junta comunidade “Rotary” em torno do combate à pólio",
+    "link": "https://e24.pt/rotary-esposende-noite-solidaria-taipas-termal/",
+    "source": "E24",
+    "ts": 1793146183
    },
    {
     "title": "Esposende: Incêndio em recuperador de calor leva bombeiros a duas casas em Antas - e24.pt",
@@ -1531,44 +1537,38 @@
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUlKcEVDTlc3ZU9UNVpIYUtrQkIya3ljbzBzNlQ3elZ0dUktRUhsVlVPQjNZanFOUGl6R1dwNks4cnU3MXFjZ3NaSUNSR0FPVlRLUldLOXp6NHJsRTd3ZDdWM0RlUkRPTTNVUUU2VllxeHBXRGVIbkNZdm5ET0tJX0diMGotMFJSYzNIMFJydFVrSUVKVURJY0otRGh4NTlxWHNLTmY2YXpkckZfaGpr?oc=5",
     "source": "O Vilaverdense",
     "ts": 1793116080
-   },
-   {
-    "title": "Gallery of Marginal de Esposende Redevelopment / Victor Neves Arquitectura e Urbanismo - 18 - ArchDaily",
-    "link": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOS0lnR3JYMWtObXhpQm9YbWVSZFE4U2NOdjNDTWhaQnR1aEhZRWdHcVVjdFlkTDNCaTFFdTFBTzNaRGZ6cDZiZ3NVV1h1bmdMeFJ5OE9CTWJSWWIwZVB3eUczQjZkeWh1TGxTRzFpczJTYzRLUm1hQlRHNFpFTUNaMHVjMmpGSk5JOGs0Uy1xMjFjdk9DSkZNdk12OTVOZlRCTXBTVUtrNGtocXNJZVNpZ0JOYm5pRlM4MzBHekZBZG1RY0pSNmVOZGt1YzJ4ZGZGaDl1RXVXTlVYYkFVOHR5b3kxLVFQWDZLZTlybXlYQlhITVNtWU04UUdxYjdsblA5N2xHUTdxSTAwaWt6S2hxSC1OelNKX0VZLTFTT0pITjlRM3FzQVE2X3RwMURoWVFacHN4dDg0VQ?oc=5",
-    "source": "ArchDaily",
-    "ts": 1793072908
    }
   ],
   "mundo": [
    {
-    "title": "Eleições em Israel: Likud é o partido mais votado, mas Netanyahu não tem maioria para formar Governo - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQN05YeXdOVFo5UHhpbXBtbEprT21uaE80aldnRUVGTDBhQmVxWjdtOVpaTFZoczdTZWI3cXhMU0RvYXYtWWVPeDJuYXNTbnRIaGszUG1tcnZsUk1nTFVVQlI2RC1ZN2ZITjZyNFVXcno2Y2FZZHdRLWFjemxFa05kYWsxWjB0OG5VWHRNZ2QxVFVqZlhSM00xMmtITnVJSEIxUENOb3FsZFd5SlhGb3pKak1tT1BPc3hJUW5wNmZRWExBeU5QY3Rjek5xVGhibVB2cW9sSVBsN1AtTUFTVlF4SThNSDVlS1N0b0NQLWkxRHJpTlJtclE3Szl5SXJSWG45dHE0QUdMaXhpMUtBZHpBS2FB?oc=5",
-    "source": "Expresso",
-    "ts": 1793139829
-   },
-   {
-    "title": "Flávio Bolsonaro deixou o Brasil e está a caminho dos Estados Unidos - RTP",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUGhHcEFJYzBIREgzLUNDblVGUDJqWVNFV0lueDRRcXNZZno0LUszbzBoLXFkVXZBWUZoQlRZZ2xjRlpsSUFZT1psWkZXVk1Wb0MzeXBrSUh2SWVsM1Y4UTRSNTFhMzNXaEZsNTdCQ2VyTkVCMU1PWTZRWWRZOV96UUs3ZDhCWnp1azhXS0oyTE9BZjFtWXpGbUlHbm03dkl1TlZ1WlFxOEVxRmpuY2NHSw?oc=5",
-    "source": "RTP",
-    "ts": 1793137061
-   },
-   {
-    "title": "Insultos, cuspidela e tentativa de agressão: pai de Yamal no centro da polémica - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOd081WDRwQnotY3VYWFhGcVM4SXM0dEFFR3lYTkZLVVhBVlBESEtLVDE0ZGJiTUF0cjJ2blZWYkJnRDZhU1FNMTZDa1NXY3BJUHZUdDBCUXdUUkVzemYzelhJMlczWmJUd3NSVlB6WmtXZ09ZS2UybFlDdW5ndU51Qjg3eVVVQ2I1U0JLeFJVNjJxcmxqcDN0RXJKbGFrYTR3S1p3dFBwdEdhNjBiclN6SUwzUUtZcjN5em53NmVubnFnWFNPTXc?oc=5",
-    "source": "A Bola",
-    "ts": 1793135760
-   },
-   {
-    "title": "Ex-Miss Suíça acusa Donald Trump de violação: \"Tentei de tudo para ele parar\" - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbzBzUk5pdkZ3eWN5T05jUWF1V005U01hbTY5ZTN0YW9pcTh2bzE0d2ZrdWN1cU9EQWFrcW1paDdHeE42QlZTUFladkdwQ0RxSng0V0dVRTdNNmFWeVltOGs3WVdCaHItbnM5NThsT2J0UElHTUpQNVJMQTJqak9fNGdLa2ZrOFJiUWNfaEpiZ0s5MzVJbWl6b253MFpJUHpXNm9jTHlNOWRKRFB6T3YxTHZn0gGsAUFVX3lxTE9QUm05bHp1ZllGNExuSDRKcU5RTXc0UjhfSFlWWWZIRjI3U3h4d0FWT2YwdERmNU5QcXk1cUFUazVncVFQR0d0YU5ScmFWb19JM2kwWXNDN0o0OGt0WVVsbTM3UFd3N0ZZanB6UFZLVEcxVG0tU1ZkQ2c4LUtpeHFHcjFERkozZWJZMGdsMXZPZ1JwaXFiQW5iWDkzTHhyYm00SmpfckxWeTNPbVE?oc=5",
+    "title": "Flávio Bolsonaro fugiu para os EUA - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4ejdrTTdGbW9ublBGazVjYXJCcDY1WTR5UmNZZUNyNEltNGtpUGwzRzJWS25aWlhGckFDeDVLb3V3dmtPZ2RoV25sbk1oSUZmOG9tVGk2TUZJWGtyVXlkZ2ZrSkI4TDNBeFNBeHVWNTB5YVA0Ul9DOHRCNlHSAXdBVV95cUxNbXBEaHlEa09sY3pZUW9nQzZTWjJ4REY4S2JRbjg4UjBheUQ2TXZQajRJdnY1XzFHMjhkcnp0ME9oOUVfamRfNlpEb0NnSWdLTWdLTjlHSjNmR20tT080WFVBWHNaMEh0QUZpZEpReDZTOTlsWkZQOA?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1793126280
+    "ts": 1793147400
+   },
+   {
+    "title": "Israel: Eisenkot quer formar Governo e deixa aviso a Netanyahu - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZTdRVWMtdWpNcFhFVUhQVlVodWMxRXoxU0dYLUFZRTNhZjZFNHFQeENwMlV5UW5SY1dpYmZ0bmxzTlZuYVVfUTVwZUw5QnNWUE5WS1RDeC1FNXRtZ282TlRhLXlBSlRrYjVQOFpJb0x0dkhYSm9vQW82OTg5Z29NZ3JBcWRnbGNveDdtOE1QU2ZMbDVZVXZyTTRUakoxR2FQc1NNTFQ3MzJKOGNxbV84Q192ZEQ5U3dTWjlfS1pB0gG4AUFVX3lxTE5VTWhOcGw4N3ZDaTJXWFJwWHBia2NvdjRuN21VYm9pbGw0RWJESnU1OGxJcTF5S3g5QkJQMTNXT1hubC1VdXBUbUZDYmpiTUFvQkpKZmx1WUkxYlp3R1JLMHluaDE0bmxrQjNhai1mN05ZRjNmSXNiTUY1R0REbHhKdTJncUJfOFVDMlZvXzRxd1F1aG1FZ3piTnJ3LXAyRS1naW5YM1pvRkFObzhhTEhHcTBfYkNkU1I?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1793146286
+   },
+   {
+    "title": "Vencedores das eleições na Sérvia exigem saída de direção da radiotelevisão pública - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOV2VSY09VVm10bVlBaGtEZ24zd1c0QzVPWnBXcjVDQkJJTzFQWEZMNjdIYWRDbEg1RUVCR2NhYzdjQ2hKdlBFNFhCbUFBT1hfRHdyM01nWkpvTU1IbWNxODJPRG91a1lwUXAtVGp2VXdVNmFBeDZpVVFiOWp2dTJLSlBBczBwaU9yRUQ0MlJRRXk2RkNtNFJvMm5OZXc5UXlDMEhzaTRaSzh5akZaN0lUU0ZKdVhaVmY1V3RkVTNQSC3SAbQBQVVfeXFMT0d1SVFleEVjREN6VXNFUVY4S1NCSDNIQ1BFeThrNDFSalg0RGloR25NZDNYUTNMUFNtejctNnpGSUU2RXZvRkk2a0p6OVlYMnZRejRiSTUyWlAzZmxYRkZJNjd2TXlMZU9Fci1yM2FXVkRGYXdBWUd4alk5bXVfc1h1cVE5dnNsLXdIX2lBc1EtU3cwclJCcnFrYm9WV1BBZVk1NV9hZldaUGVhMzRuZEF1bVg3?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793126820
    },
    {
     "title": "Papa Leão: temos de reconstruir a paz, não preparar outras guerras - Vatican News",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQYzRVTW5MQkk0RkkwWXFhZjM2VzNSTzItMkVCN3o1TC14SjBtMlFNTGJWVW9RUVFXRmI0cnN1VEhVaWJfLUo2OVAxT25pOEt6YVh1MmY0b0pVQW1RQWlIaXNiRTBHZzFnaEwzNjlDMDJuQUJXU2ZTZXNiUFJ5NnpwTlU3cXk0cHF3a0Jwd1lWX2dYM1M2S0p6ZUpBRzBqY2VSTzQwVjlULU93NG1rRURZd2RMZlpyUQ?oc=5",
     "source": "Vatican News",
     "ts": 1793114453
+   },
+   {
+    "title": "Os super-ricos estão a lucrar com as catástrofes climáticas: ganharam, em média, 1,8 mil milhões em 2025 - Público",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNR2hNc1p2T0JzVnZuSWQ5YmEyZmJMTmRPUW4yRWc4Z3FvbmU4VG5vYjdQRU5pM3ozX0Y4Zm9aQTdiZ3RleDhCbDVUQlM2U3Y4YUNsdlRjMEV5VXEzSjg0bWZGV2xnWkNLRnFrTVNMSnNFVnNKWUZGWlBNQjlBeEhnWjBQMHNZZTFLSnRLUXZDMklyZWVVTGt3bHFOejU?oc=5",
+    "source": "Público",
+    "ts": 1793105958
    }
   ]
  }
