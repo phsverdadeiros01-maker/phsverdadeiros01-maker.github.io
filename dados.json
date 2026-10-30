@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-30T12:00:10Z",
+ "atualizado_em": "2026-10-30T18:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-30T12:00:11Z",
+  "atualizado_em": "2026-10-30T18:00:11Z",
   "dias": [
    {
     "data": "2026-10-30",
@@ -1632,43 +1632,49 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Governo dá passo decisivo para o Novo Hospital de Barcelos-Esposende",
-    "link": "https://e24.pt/barcelos-governo-da-passo-decisivo-para-o-novo-hospital-de-barcelos-esposende/",
-    "source": "E24",
-    "ts": 1793361520
+    "title": "Há 39 restaurantes para comer pica no chão em Barcelos",
+    "link": "https://ominho.pt/ha-39-restaurantes-para-comer-pica-no-chao-em-barcelos/",
+    "source": "O MINHO",
+    "ts": 1793382247
    },
    {
-    "title": "Barcelos: Projeto RECOMEÇO distinguido com Prémio BPI Fundação «la Caixa»",
-    "link": "https://e24.pt/barcelos-projeto-recomeco-distinguido-com-premio-bpi-fundacao-la-caixa/",
-    "source": "E24",
-    "ts": 1793361393
+    "title": "Fim de Semana do Arroz Pica no Chão - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBURWNKdFRjM1J4dE9pVzZjVGVTakxXTTBVZzFRdXdhZXpjWEE2a3VpTml5Mkpfc1pudnh1OW5MUUE4dG1VSTRyX1ZZd2RaYmt4TmZnbDBJSnBZdlNaMjBUNi1NU052UDFfcllRWVVnQ3FKTTRmVlJqLU85OHpKN3c?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1793379632
    },
    {
-    "title": "Claques do Vitória SC: tarjas contra os 25€ em Barcelos - diadejogo.pt",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaUNacnBmT3VaOGtZU1Y5bHdvcjNfMjBIRkxHQWJVRktVeG4xZWRTX05aTTlkdEhvRzVjYUoxVGZYTzR0Z1d1dHpZVlFjT1hNQUQzX0VENGZEQ1ZaQUtaVi1nc2ZFUmgycVVQUWpSb0VVX2ZDd1owak50M2xVdFNhMXBUVlpJMmFIZHRWQmkwNVNZMWtyVUh4LUxR?oc=5",
-    "source": "diadejogo.pt",
-    "ts": 1793361331
+    "title": "Centro Infantil de Barcelos aumenta capacidade de creche em 32 lugares - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd3czUzZWa056N3c1Y2szR0RqY3REdmpMcC1YRGUyZzlZblJRUjBNdHdMd2JPZk0yaEdhc3RhRHBRc1V5MlowbGxxNjhJUkh6VGVYX2dXY0MzZDRsVkIzdzdHeXRaUFNTVGY4N3pWVnN3QS1lOVpjd240Nzk1bEZtQ3BuVEswNWZnY0NBanpKVG9vbDZYOUwzSmRjNE9PWmpTRXhaYlU2VkJZZw?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1793371945
    },
    {
-    "title": "Barcelos: Município reforça rede social com investimento de 4,5 milhões de euros em Alvito",
-    "link": "https://e24.pt/barcelos-municipio-reforca-rede-social-com-investimento-de-45-milhoes-de-euros-em-alvito/",
-    "source": "E24",
-    "ts": 1793359508
+    "title": "Portugal planeia construir um novo hospital em Barcelos - The Portugal News",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM000TjZ6d09iMDl0ZWJXeElTMld2Q2FlbkdtNFpUYWdIR0x3N2hVQ3BqMlNEcndwV0pydk9oYTM3TWE0SGF6UExtNVdLWUFpdE1zcFhSR2Nfa1hGU1IxNHFEb0dxT3BDeWw2MlFrWm1xb1ZjUlZ3a2dCUG1TbExsYVlEd3JaRDFHRkRsMmtDSXJWcmNvS3RmbDljb3RpZGhPMDBrbHBsaG9KOVh2NS1jZmN1YVpGX1lBUmc?oc=5",
+    "source": "The Portugal News",
+    "ts": 1793366839
    },
    {
-    "title": "Barcelos: Centro Infantil da Misericórdia de Barcelos cria 32 novas vagas em creche",
-    "link": "https://e24.pt/barcelos-centro-infantil-da-misericordia-de-barcelos-cria-32-novas-vagas-em-creche/",
-    "source": "E24",
-    "ts": 1793358890
+    "title": "Adeptos do V. Guimarães foram a Barcelos protestar contra o preço dos bilhetes (fotos) - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVkwRVRNWDlQbDdHZUVCa090Z09NWlp5VW8yMmY1Y29BU2JnWWFwM1Y1X2JrdFJNSE9fX2lfd3c2ZDNyWTYxNlZmOGhxWkgzUHRjajVKYW5xRWxYQ3piRWUtTUhMbDNSR0xVTmJkNFlqS1h0N0FtZkg4Y09jclNfWlhwS0NRVDdWZGNEbDVOWExTLWdlbHllaDFnSE0tX2hLNXZfY0pCbEEzU3pialBjQkxDVjUybzFKZ2hOVFlVcEdxcV9za3JSang4U1JNQQ?oc=5",
+    "source": "A Bola",
+    "ts": 1793364660
    },
    {
-    "title": "Regulamento da taxa turística de Barcelos em consulta pública por 30 dias - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNdmF2V3c5SW53OW1iOUNydVFobXZrcGNreXJmeExJRmVpNXY4cTl4NDMzTElwVjFZcVBXVndQb1lsOHNfRFVWbVlOcFg4WW9aUDRLRHF6TnVhMF9DMkZWSFJ6ZFR1anVrZE9QLTNMNm9XSzZ4N0NFMVhkMzBTcWh2eTBEUU5lek1XWUF4eERUV2g1T2JnN1AzcExJcldWRGcyaXdhMGhjdjR4LVM5VnllYXc5VXM2SzlvbzVuQWZjN2tXc0FFVGNZTUpQbGtBU3RLVXpQTFhiVzZzdlnSAeABQVVfeXFMTlVCYURFNGM1WXdkeGRKTEpPaEFwOG1Td21TaXV4TElvVXk4SF9FTHNsMUxyeDFvS0VNOHZ0THJQY3d1Um5CVjJXaDFkZHJQbHZhc0lJb1ptR2NHOUdLVlR4QnN2SXI1cmpNa3UtWGZaeHdSZE1MV0NuUnA0c2FmNVVieG14WGpub29SdlZTSTBVR2ZDM3BQa1lmaXV3YnU4eWpoUE9qX214OHVzdmVfQV94NThRdDFfN1Z4QnBhODJnS09qMHhoSzVRRVBWT1ltUkZVaVlsclg0ZVc3bmpNUnI?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1793313600
+    "title": "Autarca de Barcelos diz que PPP é \"passo decisivo\" para novo hospital - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVWlWVnlLWDNWWlBlQWg0MGRpQl9kV2V5bFI1Q2dEclVfdjJBTnBHWThIamJGb2JZT2l5cmlEdjIzX3JXODNvcEhKRXM3YnJkMDhoTGo3NUd0VXRVcnUxeWMzQVhfTC1mNE5UbWk4Q3p6ZmF0U2dtVU9LLU9DOHZQc2RqUlRUeDlkaHhjbnJhc0twaFZuYXZKdzZSeVhCX3VER2V0cC0ybW5CMi0xSjFOcXRGcw?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1793361840
    }
   ],
   "esposende": [
+   {
+    "title": "Centro Vitalidade nasce em Esposende com foco na saúde e envelhecimento ativo - Voz da Póvoa",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTd4X3d5WS02c1dab00zbXNEOG5zbEtuZEhOaGU4cGJ6UzM4MElBa1Y5VW8zUTU4Tkx1QVpSZGxORmtDRXB0dllyTUR0RFAzRlVwWVRlVmN4OHNuREFnSHFEV2loN2M2SGdGT0dXejlKdlRuc0VLczFsUjNuQWw3Z29uc1JYT3Uzc2s4c3I2bHptTkE0bUNYRDc3c0VuaGExUk5aWUJWLVVGb1J1MlNReFJQRlZJRHA5YWJFamU2VWhhUW1BaHc?oc=5",
+    "source": "Voz da Póvoa",
+    "ts": 1793372615
+   },
    {
     "title": "Esposende: Esposende Ambiente investe 212 mil euros em telemetria para contadores de água - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdVR3OVhNTHJPajZMRDBkT0xydk1fR1l6ekktNTVCeFlrSzNyYU1oeDd1elo3YXBrbFdtZURXTEMtRDZXbF9zWFdOVGxKV0lCUWx0a2hiOHFELWRGd2ctQnFFcm82SDg4Z2VPdFByc1VsTXM2aW5jcEwtZjZlNG9tTWFMZmYzZEh6Qk9RV19EcnRtcG9sd2gta2lvdjF3aC1XTE11UVhCWQ?oc=5",
@@ -1676,60 +1682,54 @@
     "ts": 1793354511
    },
    {
-    "title": "Esposende celebra São Martinho com Magusto-Convívio no Largo do Mercado - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbU43cUMwUEd4TzlValNiZzM2bVNsYUVndUpuV2JpdGxranZDUnJiQkI1a1RKZlpWekxXcGRwWWo0Qkg3MXkwdjUzaEphcnhoVEVRV0FxNUFnMmt6TEJnVE5lNGFUQ1BUSmRoTTFpUThJNHRPdDRfMk1RYXR2bEJOVThpR19uLThBcjZNSWp0TXhOVm9iYnc?oc=5",
-    "source": "Braga TV",
-    "ts": 1793295204
+    "title": "Esposende seduz turistas galegos no Xantar. E pelo paladar… - radioondaviva.pt",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNSFQ1anRLSTBEZkY5TFBCUXJZTzVpNHlGeWlFeFRZYk9VMUtrSUdVLXZPM3BpTU1CRDloZUw1dDJ0TlV1b3o4QlNUaWM2aWFLenFmVXdCc1hzcmVnYXd1Tk1nVHo1SzU1MDhDellZOHJLcEpVcHBlOGdpSS1LRTNaTFhIWG9GVUgzNGY0?oc=5",
+    "source": "radioondaviva.pt",
+    "ts": 1793329121
    },
    {
-    "title": "Biblioteca Municipal de Esposende promove oficinas artísticas inclusivas - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWW5CUkc3Unp2Tnk2U1Brb2RCUVM3eWtXRzJvTUM3WkJ1dlk4Z01zNDl2V2dnd1YxeHlWTG9ITmxUdFNLUFlWTkx3ckFqNXFvZWpuSHAwbURRaVc1dFRsdjNHZkJfRDNpOFJYblJ2Yk5rUXlpMVBSTTFuSE9hMEx2S3ppNFE2OEJCbzVPY24xa1FJVXlzSW5CSkNaZVA0ck40SXBv?oc=5",
-    "source": "TV Esposende",
-    "ts": 1793288528
+    "title": "Esposende: Município promove Magusto-Convívio no Largo do Mercado a 8 de novembro - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQzFhSmdVay1FY2d4SEdlbk1JNzlZTEhlWHpfcW0zMGNzR1pUU1cxbFQwVG5hUV91RFJkclFCU3F5cU16N3lWWExTcHJ5WEd1NmxialN2TXJndlcwOHgxX085ZE5WTGJCeXVDUTJWMkN0OG1PQjFhT3A2NnZ6dHlRZDhENXVkRU0wYzc4ckNDMGQ2S0h6Z0FXbXRhM0Q?oc=5",
+    "source": "e24.pt",
+    "ts": 1793290418
    },
    {
     "title": "Iniciativas recentes do Agrupamento de Escolas António Correia de Oliveira - SAPO",
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS0M0LWpENGhoZVYzQXVNT2tPTVpwTFM4ZFNiRGRzcnFoUmdfMnpseXlsMXVPT1VFU0JIRjE0VXhFcFpsNTdWVm5oNTBETUt2S2RtS2JIbjJxX1VrbXRpTHFvN3pBYUl2ZnNlMnJEanp4dUVRWG9LeUJIeW53UWhjY1FoTnY2dWNsQ3AwWHFrSDVva2ROZFJWRGd0RmxObUR4ZXRyVERXcDhmT2hReEhtVkdZOFNUSFVfOERlZEpZMA?oc=5",
     "source": "SAPO",
     "ts": 1793285520
-   },
-   {
-    "title": "Conto juvenil “Para onde vais, Argaço?” assinala Dia Internacional do Património Cultural Imaterial em Esposende - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPX0pHcGFNT2k2ckZXQUNVSXJ5cHVOeGh2OWRodkpMdFpnVkM5ZXNLYkdrSFlEcC1sWkxTemVheUxWQUtUdzJHenJVZFFkYlVMaEJUcHd5SXFrekNmdm1jdHZVX3Uzd1hGem00VHhJWldtRTYta0VyM1B3MzB4OHMzTnpaNmtTZTZUdjAtOEZiMHJuZXkxNGVmMVJac1FxbmZiWG9VYWZ2cjBsSmJ6dmZnQzM4MkxhNUVIWC04UVotMWI1QUNTZ2pVdVJaQW9XcDYxREhuYUJmVUlxUVFIeEtaVWJjZWhnN0tfYVhKWg?oc=5",
-    "source": "SAPO",
-    "ts": 1793285040
    }
   ],
   "mundo": [
    {
-    "title": "Avião que transportou Flávio Bolsonaro para Miami foi pago a partir dos EUA - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWHRnY2x4SDZhcUhGSmtGNWZEUVdnX1J2THFmN05VT1pRRmxKdEF1VTZHOFctbEdkMDczU1p4NXJjaEZWMkQtTkZTczUzSVlIbTQ3enhNeTE2d1RBempGR1hmMExLSWppU0Y4YTU0ajc5RWxXLW1VbTRNWXBud2xOUXhtN3hTMlRGckxnSVN5dExSOUN5MGVScUYwWnhVODJZbEh5VjhYUi15THpxdVZGc05lUjBtQdIBqgFBVV95cUxNdUp1WUp4M0sxOHFGVmpWNG52Yy1sX1luMHQzSWNYMDNZbklza2F6blRsRllTMHBMOWpieE1EaVFVN0ZIbUdXbWdzVUhFVHpQZUNVeUlBdUpsYlA3TFlqaXZGVUhteUg3RTRJWTNqdURJOXNaRTRKRGd0RlFScmJZbGpBd1FYUlZtaWhiU3hmSXFoeDFXN1VSUEVYNi1VT19SQWFrWnBRZWhRZw?oc=5",
+    "title": "Mulher que sobreviveu a injeções letais: \"Não houve um momento em que não tenha sentido dor\" - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ1Z6Z1NQRmtCM2xIQXVhOWluVzZjRHlwVTdNa3Z3UmJ2d1VWeTFPTkxDaVROSTNJc1F3V0JQYjZRVjBaNUlCLVZ0SEw1ZXF6emxnU3AwbVdqLUNyeWJKdldyUWx3V2NmREZNLXAwckRxSnlxV2hvQkc2R3BQZFFkY3pmTkhMajkwMjh1NGlkbG04S2NOWVktazc4aWxndlE4NE5NZndUUFpndEZaUldNWnRWZzAzdm40Y2NYRjNNNENSQmxhS2p1d9IBvAFBVV95cUxQZUw4S0ZNR2huZVBuN2xtX04yUFRFV3ZQVzJSQWh1Q2xOZDI1RkoxajE5S2VlT0NycU9BZGN6VzhCNEhSVUlqUXU1Tzdjb3I0elo1dnlaajJjZmdaclplN29uYURhbHlnOXh4YXJReWlYWUpYbW9rSVV4aXJxR09YVVBiUVNpUE1xcXliRHBXLVJFT29MbnRIV1VkSFpfcmJyMXAwVmc1blQ3QUFQalBCNC1OejNTM2tOZFZGdA?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1793349840
+    "ts": 1793372880
    },
    {
-    "title": "Luís Andrade Barreira morreu de cancro e quis que o seu dinheiro fosse para a ciência - Público",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVlVVZlVWcTZUZDFHNDkwS1dfczc5Sy1fS3JGMHNCbVBtcEs3R0VXSEQ0WkFhLWlKVmR1Ym5MVUNpU1YxVmFiUlhMeUJxbDBQbGlxZkxGcF93bWFzRm11QnpnTGdIRGFfeTFLSktxa2FhcG5qR0k2S2J4c3R4ZXk4bXlKSmgyQ3FZNy1mWUNuaXFXUGFWOGhVVndkUFdPRDNybUhHYUpfSGNBcVVWQlBKSU9qd3hlUQ?oc=5",
-    "source": "Público",
-    "ts": 1793345400
+    "title": "\"A minha obrigação é resolver o problema\". Ministro espanhol dos Transportes recusa demitir-se - RTP",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTU5wRWgyNFRkQnFlSGtCQlFUNDhTbVFMd3FzckJMTnVBNUVfWjJxMTRXQ1p4aTh3Z2RudVlqSlB6Zk1mLWZvSVhSRFh5UFJ1eEMxcWlDeUxQZWUwV0dXanJtMGNIdko2RnZfc2EySW9VU1hDSGllWE1ubGRMSERySDh6S1VDcHZnSFBDamkzb0c5Y1JSOXJUQUJCb2JLVXBfSWdZU0s3aDNyUVhJbUh1S0FOcmJiZ3NZcDhjV0pweTUzQnJUY2M2d0hiUVBteW8?oc=5",
+    "source": "RTP",
+    "ts": 1793367531
+   },
+   {
+    "title": "Ucrânia ignora Trump e volta a atacar refinaria na Rússia - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjhNZ0lqZU5jQzRPaU56bDZvYW1ST2xtZDU0elJaamVUT040UVFkdl90cThCMUxqamNzUlE5dFNsUkQ0MHVEZk1UcUtjWTBrRmJ1ZUhrY0VyRURoVGRrUkpqZ2RIdmdRZ0dUUFpod1habGF4Z0ZaZnlqekJiSXRMR3dkbTV1bFdERVg1RzlId2tiTnpMWVdyZDFMWjFTTktSRUkwcWhKZ1NlVXBuUXl5bXFIRnRleFNFSVZuSUtOQWltU3RsVHA2M1E1RGdfZw?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1793364318
+   },
+   {
+    "title": "MNE confirma morte de cidadão português no acidente de comboio em Espanha. Fazia parte da tripulação - Observador",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbEVGUEM4S2o1eDh0dVROVGY3V3NDaWFZNWhULXBlZkMwc2VQM3UzRHJ2aWZmM21RYjhTWVpaY3FWWE5jdUhoUVJidXFtaWdFNUNrTFlvU2ZfUzFxNWdyXzlVWDE3elBmTk9fSnJPMldYQ2N3Nm92TXpPUnNsRk1lWkZuTGd0eHc1MzRDQ2JWZVR4ZEs1a3ozOXVQTi1ILTluZmFNX0JrTDRSeTJiNjZrdW1OaXNBb2JpcU5CUHlMTzlHVU5RRllMOGp1TmFMQQ?oc=5",
+    "source": "Observador",
+    "ts": 1793361409
    },
    {
     "title": "Bloco de Netanyahu fica a oito lugares da maioria absoluta. Conheça os resultados finais das eleições em Israel - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPemQtV00waHlkd3FCNEE5NERQdFpSR0d5azJHc0lBOEMtWFFtNktPQVVyc3JnVkdHSktmZkloLU0xUENfSUhzbDV5a0lya0dEN3lfdjl6eXpUUVZlSXVWM1hnNExCYUZ2YWJlVWlPQUtRZjMtNW1YY1FYUVpGb0hZeGctRVlWblZuM2xKY3NoRG10dTg4eHE0bDg2NVRxSmR4eEVrUTd1cU91aFRQOC1fMnZnTm43V2dfWnJyWXdMWlVOM0RmcGk0eVVVclp1bjNCeEd0ZzIyQkZ0Rl9mUFRfdVp6Z3VsR0ZfSmtydEgteXlfQUtReGxHLUpNUWM1Zm16UkYzejdxUURGYVkzYU9FOFFteVE?oc=5",
     "source": "Correio da Manhã",
     "ts": 1793338500
-   },
-   {
-    "title": "Acidente com helicóptero militar italiano faz vários mortos na Bósnia - RTP",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONk56S2tnREt6V2ptUjlFME9QYzJWODRPalR2b1F5WlBpZnRmM0VlUXhQY1cwUWlOMlk1UThJLWNvVlQ1emVrTGp1bGZMOTF1ZUxrLVBfOTVwRG5CMzI4anprdkVqQnNaaFlyZjQwRVdjczhUY0RSN2dPMjRrUElNVmpPMGFwbjJUdXhVUzNDSm9ua05BNlhWckRGUk9zb1lKTHYzSTRFMzN3MWpZNEhrNk5R?oc=5",
-    "source": "RTP",
-    "ts": 1793321776
-   },
-   {
-    "title": "Von der Leyen não desiste da ideia tornar o Canadá o primeiro membro associado da UE - Público",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc1pscWVDVFVFbE9iS1RjQ2FkVG85czZPUm1oN3lkODF0d1FaTjMxcDUtbXItREp6NGFvUVU3eURHR2RvQ0JPTno5WElyRngwZ2RpazJrT1RDVHd2Tmh4QWZPN2pzVVpoVWlDYlc3UlBHUTk3UmVsQVpxVTZVZjNEQ3hJMWZ0RENhUjdhODZtRG4wWm1yNTVBZWctNkFPNHBoOG1VR1pwd3lGZUYtc292dWNyQWs1cEZObGpNT1ZB?oc=5",
-    "source": "Público",
-    "ts": 1793296985
    }
   ]
  }
