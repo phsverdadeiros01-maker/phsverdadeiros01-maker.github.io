@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-10-31T12:00:10Z",
+ "atualizado_em": "2026-10-31T18:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-10-31T12:00:11Z",
+  "atualizado_em": "2026-10-31T18:00:11Z",
   "dias": [
    {
     "data": "2026-10-31",
@@ -1632,10 +1632,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "«Salvou-se o resultado»: Rui Neto comanda o OC Barcelos rumo às meias-finais da Elite Cup - Record",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQd0pMMmdnb3hmWVhIdGJPaUNndE1scjgzTmJMRzliTG5ONHpESFc2LUpCN1gybEd2WlhKa3hXLVZDMThmSms5TkNkczg2TW5jeUNhRDJic0tCc0hMVzhkMDAtdFE5V3A4MFNhSzBTblExZUdNTHg0cWlfTWwzckk2X0FfeTFmZXQtZFhBcGJtZWlCRXk0RkwyQXhwUTJaNk4yQ09pY3RCRXIyUFl5WUJ0N2pUQmJuY3BpZ1dhNFFyUkIzTGE1cmlLbktXb20tckVDZm5RV293Y2s1TVRIZGfSAdgBQVVfeXFMTXQ1S09SNlNKY25uRDlWZG9fc2k2VlFra09fZjlKWll1UExVQ3RZRkU5NFdxdUFfZkM2S0hxQlJSbExSWjVid0NhYlhlSlRfVXV3aFVDMlpndVBjUDhHRnE5dTZvX0E5RXJ5VUVJeEdRamxyU1drVHltTjhKZGNDLVh1US1zcEM5aFpwMnhVRW1FMjhYMVc4Z1MzM1YwUlNFbzhoaG1MdW80RXJLVUdQbEgxSXJkVEVxbGFMOS1Ya3Y2QllkYmh6YWJQcXBmY2Z2RUhDS3REal9R?oc=5",
+    "title": "OC Barcelos vence HC Braga e vai defrontar o Benfica nas meias-finais da Elite Cup - Record",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcHIwNjZzTlhoMXRJOFc5UWJmZkRfUTRPalVSakJWN3V6OVNYbHlHaW9IYVd2MjdFcUY3dFh1WjhfWWNHeUgwMU84YzIzczVGTVVIR3ZaaW5vQk1ZTDFOeUxJTHVLQWhDclNlQnZoUk1TQk95OUxBOVFtMi1BYi01N2N0bk5WSlliUDUxNGZjTDFJZ3ZIMEJQNmdZMHJrWGQ0YTBVWENyYzJmT1pZTjA4TTY2eGnSAa8BQVVfeXFMTmRQejdlMkxHZzRsR3dXSVVRVnk2bEpWRjc2MzJhYmZQVXJWZjQwOHJkU2pVMElTRWlFYjdrOEdpVnNvMXJQY1kzZFB0Mk9Nal9vVnFFNVlxNTF6NTZWblRRY19scmozWHF5SW0tZF8xM2VibjZmbktISEFsd2NhOGdqRWItVHl2V3dXVmctMHYzU2tJcFNTTHJfLXVKZXVHX1MwLVU5MnRVc0VRbzFLOA?oc=5",
     "source": "Record",
-    "ts": 1793408898
+    "ts": 1793409499
    },
    {
     "title": "Barcelos: GNR interceta camião carregado com lancha rápida na A3. Um suspeito detido e outro em fuga - e24.pt",
@@ -1662,10 +1662,10 @@
     "ts": 1793378520
    },
    {
-    "title": "Barcelos ganha novas habitações colaborativas e residências de autonomização - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVVBtWkMyWHZheHpyMDBjTzBUUlBRY04tWGd5VVB5WVQ1MkFtWFpmMXNrdjRUQTNCdTVRQm56U19HdWQ5R0dzNkpzLVpHS0F6Qmt4RmhFN3FOQmdDVkh5aTV4S25PUzQ2Z1BvTGQtZ2tBZG00M2wzckphSS1HZTd3XzdsM1Z4aE9XZG9NallHX0R1MFVxdHB6a0xRZks?oc=5",
-    "source": "Braga TV",
-    "ts": 1793360327
+    "title": "Adeptos do V. Guimarães foram a Barcelos protestar contra o preço dos bilhetes (fotos) - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRVkwRVRNWDlQbDdHZUVCa090Z09NWlp5VW8yMmY1Y29BU2JnWWFwM1Y1X2JrdFJNSE9fX2lfd3c2ZDNyWTYxNlZmOGhxWkgzUHRjajVKYW5xRWxYQ3piRWUtTUhMbDNSR0xVTmJkNFlqS1h0N0FtZkg4Y09jclNfWlhwS0NRVDdWZGNEbDVOWExTLWdlbHllaDFnSE0tX2hLNXZfY0pCbEEzU3pialBjQkxDVjUybzFKZ2hOVFlVcEdxcV9za3JSang4U1JNQQ?oc=5",
+    "source": "A Bola",
+    "ts": 1793364660
    }
   ],
   "esposende": [
@@ -1694,48 +1694,48 @@
     "ts": 1793411265
    },
    {
-    "title": "Centro Vitalidade nasce em Esposende com foco na saúde e envelhecimento ativo - Voz da Póvoa",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTd4X3d5WS02c1dab00zbXNEOG5zbEtuZEhOaGU4cGJ6UzM4MElBa1Y5VW8zUTU4Tkx1QVpSZGxORmtDRXB0dllyTUR0RFAzRlVwWVRlVmN4OHNuREFnSHFEV2loN2M2SGdGT0dXejlKdlRuc0VLczFsUjNuQWw3Z29uc1JYT3Uzc2s4c3I2bHptTkE0bUNYRDc3c0VuaGExUk5aWUJWLVVGb1J1MlNReFJQRlZJRHA5YWJFamU2VWhhUW1BaHc?oc=5",
-    "source": "Voz da Póvoa",
-    "ts": 1793390999
-   },
-   {
     "title": "Governo dá passo decisivo para a construção do Hospital de Barcelos-Esposende - SAPO",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYXZTYmtzNl9tR2Q3WkRrQWJSTjJBMlZhNWFCNnQxOUlXWlBfTFNHcWxTWW8yTVZWSGhia1FGZndMbjhVUTYwRkdnaklLQkpCLXNVZmc4TkpsbjdSWm10LU1QWlk3cHYzUEdnWXFLZjlQUFZHd204SWFYMEUwSFN3a0lwM3NJZUtrYzJGOEE2dFMwMXRYT1FqUE9BaWx3bTRw?oc=5",
     "source": "SAPO",
     "ts": 1793374117
+   },
+   {
+    "title": "CIM Cávado distingue seis organizações com Selo de Igualdade e Conciliação - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWm5uY2RCMEJBNnVnUVh3cHF2TFVsQW5jQzhsTnpuTlpPeWx2RVNId3BUeF9QMmk4ampYOVNtRnRSekNCNk4xRjVEcHlCRkt3dThPNlo2MFZCRmNBQzA2Q1l5VlZvOXNndFR0VE9URjZqajRrT3NKNnd4NDV6Tm1HMTlhLXRVeXl2LVpLVG83RmtHbkFfb1hzbllR?oc=5",
+    "source": "Braga TV",
+    "ts": 1793368369
    }
   ],
   "mundo": [
    {
-    "title": "G20 cancela tradicional foto de grupo depois de um terço dos países ter recusado posar ao lado da Rússia - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOUVZPdWluX2QzZzBPemJfTlV5TmFGZTBKeExQOEZFRDEyRzd6aTl1aUZKMFZXQi1Ka1pSaDlfSnpqd2hNb3RuNFN2eXN6ZG5kZXdrb2JqWERvT1RpV1ZFQkd4V0xpWlZVdFd0Q1V6cER2ZXJkcUE5bkN0X3ZUczczbW04VWNoaXlNVnJKamNZY2VRN2ZvUW1ybWRUaWhLenFqTnVmT3dsbkNlMDA3TldaSFVleDFFakRHMTEzaUZ2TVM0RndyXzVBYVB5Y2lmN0xUWVRTSVQ0WThfc3JWbFlzUUw1NnVBUmVIZ2V3RzVpZw?oc=5",
-    "source": "Expresso",
-    "ts": 1793442121
+    "title": "EUA aprovam venda de mísseis Patriot para a Ucrânia, Zelensky pede rapidez na entrega - Público",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPenhfZlJ1TEtDYl80c0QtWHRaaDc1dWtIY3FKY1kzUTYtNGlrM2VvdUhnNG9ZUUlObTVROGhLVGJKYkVINjdWRG9GbFdXVGlyT0lBalFLMGlhVGhCWUd6dTVlazY2c1ZvWHMyOERtWlc1U2VEek5vaW9vbzRmYnVYb1Nib2NpRUU5WWVaMkU0V0pJNUJ4c0UxcnlkekJ1VGdsNTdZcHFUTHBuTzd0RTk1c2NBZnRzSlNlZHBFdnlHR2tMUmI5OWc?oc=5",
+    "source": "Público",
+    "ts": 1793454120
    },
    {
-    "title": "Presidente polaco ordena à polícia levantamento do bloqueio do Constitucional pedido por Donald Tusk - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN3p5RlY5YldJaGItZ1Z6a2lHLUxtcU9pY3pnbXRfOURXXzhic0lCeGszVUlyMkpEWThNTDVsb3Q2Y0hxUm5leWtxRXhmRnVQRWpQRFlMekMtdEdJeUR3UnRxdmlRd1ZOc2pwWDJrYTFvNEtzaXlndkRPTjV2RTlTMUVUM1gxOERINGNMSldMdVF4UDY5dU5RZEwxSUZjODJTVjJPa2lCQVdwaWozRjVGZFNCMFBON3loT3ZnUVBMMkxyb1ByaWgxWGNNRmRxM1NEOURHQlFneUlQZm1QZDRPSU5fV1kxM3E2WmlMaQ?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1793435140
+    "title": "Dissidentes podem abrir caminho de Netanyahu até à maioria - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOG1WT3ZGbWQtb1FkRVF2SnJrVkphUEItS3MtN0E5Sk9VdFFlbjR4UzlCV0FtX2wwaVpxZVlwajlHbmZFTlFCSnJiY1FyUndvS3FMb3JqOEx6RkN3WW52Z3ZaNDBjeGVvT0dYWThIalNJcG55NUxSaDk5YUhkbU4tbFM4RlhYMm1HcDR1STN6dDktMTFnc2VmSG45Z25Vd0NHN0VtYlI1VkNFUEh1X0FTX3pLNXZISUlnMVhrVVNSMnB5U011VW5ZY01ydlBZU1h3RkxLaEd2OUo1amxrMEZDLWVMaUFBUEtwdDM1My1LVFF2bEE5STYwbDJn?oc=5",
+    "source": "Observador",
+    "ts": 1793449860
    },
    {
-    "title": "Fuga de Flávio Bolsonaro para os EUA custou 134 mil euros - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOaGlIdWpwX2ZUV2p1LU9rcHUzVmdfbWlISXIwUnR2MktVYmFMdEgzV01FUzlqckhTRlNNSkxjYi02U0xGUFl5Tm95MmVKbGt5M0hPMndPM2pwdnRZUTQ4Y2VMMEwzQjlhdFI5MW9lN0phazNwem9IYUhadXozaG05OUdaYldkdGhDbnZYQ2djS1M4MjNSTG11a1NuVdIBlgFBVV95cUxNUmVlV0dkblpBS096NlloVW03SFFMVGQyQjQ2R0tXR2NkU3hRY0Zyck1wVE1pdDVJUDFKTUtYVVI0UjVRMWl3b3MwVVdsNFkxOWJwdEZCOTJsaF9KckREM29MQnV4a3pnM3ZrQnBrMHJrS2JxeWQ3Y3k4TXhodzdCOFc4RTFhRDFxSEVJbGlFY2d5bHpkWEE?oc=5",
+    "title": "\"Que falhado!\" Trump irrita-se com novas interrupções de manifestantes em comício na Flórida - Observador",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaEdMZjF4Q2VMUU84RXBDdTYtWURtRkhuQTVZZHZ0M3ZSNEwyVjBha1hENkNxSm5KdzFHYWNENDlNb0NKaGtuemNldnhJa2lWdzNIenZvaUdHYUx2V2ktbkxOYy1XNFRSUjVWTHk4MV9NUTJ6c2R0U05RVFNXREp6bXNmcDJXbFoxT1JzQnI3dXVDSzhHYkRaNHFtdDZjY3d0Y05tMERHQTVZTFBfQldNZ01hU3Rqb3l1akl1c0daVk8?oc=5",
+    "source": "Observador",
+    "ts": 1793447820
+   },
+   {
+    "title": "Confrontos no Tribunal Constitucional atiram Polónia para crise política e institucional - Público",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzRfODhRa1RNdXdQZlRMNGtBME5PX0pJeEowc0N0UHZBWFQ1S0NwdEppV3R3NWpVdkx4VGEwYklUaTdLak5teFNyTnpBcWp4TTdjUWVXeGxTZlBmaUxET0loQ0ozVGpuUDhzNnF3SnZ2RGI2b3FUM0R6MlFndHJsSXd1N1FpVGlvT1lTcTV4a1hGLWxrN0QxSjBKUzV2MEhiMi0xazYwMk9sRjhGaUNRQThNYkVKY05CQWdJbDZXMXhFc2pTQ0dQbGpaN2tiMHM?oc=5",
+    "source": "Público",
+    "ts": 1793444160
+   },
+   {
+    "title": "Homem que deu a volta ao mundo a pé durante 28 anos chega a casa na segunda-feira - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEZNZHdRUm1lVjhseUc2SGl3d25mN3dwSU4tbGJmVlYtaGY2MmlaRml0VnIzYm5Ob3FQVU44Q2dqYlE0c2tfUl9yWkpJTDVTNFdHTmRyajhDcFlxQ1J3QVBQVjl5WG95dllSMnFvTTdJakZMd3ExNGk4N0prcW9LcmtRcmNFcUphY1AyRnZ3WGxUMl9HcHdNWGtpYm1fdkJyajdJeU9faWV0U3FGTjBPZXptR2RaVGZPSGF30gG2AUFVX3lxTE04OGZNN21ZbVl3dVY3cVNIdXZ0aEx2NVZnNW52MS1XcW1kZ3MzUWVZZkdFVkRCTktiMC1uOVY2THBfMXpqNjlxMGxVdFg2ZEZ5NERSNHFVY3BNWmk3bzVSd0t4WVhxVDNmTDNUcDJfTURhMVF5SENrdGVIbHlDcW9SZzBBX1BfbU1sNzVlbzhteExUTWRRamg0V19aUVREYVpaOTdyeWdjOEx3ZGs0elFJWDVPdk13?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1793406600
-   },
-   {
-    "title": "União Europeia e Canadá selam acordos contra um mundo dominado pelas taxas de Trump - RTP",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTk0zdVZhbEN4Njhrbk9LbjJCaXRCbjN3eGJyWXFJV0tSOFFLWGJORDdkc3N1UXhmR2ZCUUo0WXR0VkdDc2x4Z0VpcTYwSEhCZElnYjdwdFBtMk1UMUlLU0Q4RG81eGZnb19qek1qZHBqWEJnRlJnWm1maXlucFFMU21MemJDb2hYWDduSjRVaVZZck1Obmc3cEJPTXo1Z1dsNzcwdTMzdlRZMWV6RlNFMV9fUlgzZU9sQzVBMFJHNlEyMlpr?oc=5",
-    "source": "RTP",
-    "ts": 1793398624
-   },
-   {
-    "title": "Repórter entre as vítimas mortais do acidente ferroviário em Espanha - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbndITkFnbnJ5ajdVNUN1RF9aeDU3MG9aX19aQmpIZkJ0dFJvcXNlOC1PV0tieDA0OTRxeHZfSXk0cXBRV0o2alUtOXpabzB2YVBXbFRReE41bU9QTEpDdl9RQnd5LXJrTHlySjJxZjJPOWEydUpjel9iUFF1Y3BrRjl2QWpsVXQzSXV4UDFtVEtGMWFNQUtiVFlrdWhaN2J6bFROR2M0MDBCZXVk0gGgAUFVX3lxTE1meDUyenNxWkxmSWZZamxMSXRLSnBFNW52N3kxNldTbW1QSm43MUNCMFFBRGJVNVk1WjZMSEJkZlJrRENTY2FSZDJKbVpveE9UY3UzTGJZSHhwZmo5T05pajZZczVheVFjcktlaDVVblNiNHdMQVNUVDRuQXpGWFlEbl9aZFlFMXNhWkhLaWZtWURrZ01nYmN1aG90VUlWVWM?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793388780
+    "ts": 1793435460
    }
   ]
  }
