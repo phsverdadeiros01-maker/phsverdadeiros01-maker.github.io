@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-01T00:00:10Z",
+ "atualizado_em": "2026-11-01T08:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-01T00:00:11Z",
+  "atualizado_em": "2026-11-01T08:00:11Z",
   "dias": [
    {
     "data": "2026-11-01",
@@ -1474,7 +1474,7 @@
     "title": "Hóquei em patins: Óquei Barcelos e FC Porto jogam final da Elite Cup - TVI",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaEV4UW1mRnNFeTJlOXMwSzRZOFB4OHJ0UTVGRE9YZi1qeFl5bDBZMDllNkhsTVZVMERhQXQ3LVktVDc0OWJNUlJCazN0dEVNcTdwaFdTLThiNS12N3hEZWEwU25zZWtVdG1lVE9qLVVmcTBITHJ2Wkh2TGhFbDJmcGRSQWVpVF9MTG1aZG1xNWltZjV4R2s2ZU5sQUN2d1E1VmNnZU1tRF85em5oWl9DTUJLaW9zMFhLY2dYVEh6dXd0Zw?oc=5",
     "source": "TVI",
-    "ts": 1793491142
+    "ts": 1793491257
    },
    {
     "title": "Foi até ao fim... - Site Oficial do Sport Lisboa e Benfica",
@@ -1509,6 +1509,12 @@
   ],
   "esposende": [
    {
+    "title": "ULS Barcelos/Esposende vence Prémio de Boas Práticas em Saúde com percurso integrado de ortopedia - HealthNews",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0ZoYzA0Z1hpdldyc051T2RNY2Ztemh2SUxhY0NyU3h5X3ZCVHNndFJEZHhyRGZsRDlJOTY2Y3YxY1VaZHJqeExYSW4tR1R1MHFtY3ZTdXNzNEJNbHgtMTFVTU1HUGp3bGt2cWRwLTNaVWsyandKQzZBdW9udG5kTXpueHdwZi1fR2N3NWhfWXYxOVM1OVFWeFZhTko2ZlR5X1dSRTQwVW0wZlNjSE0zWGhudWdZMGVOejRFQ0JaaVdBOWZ4XzliYjBaUQ?oc=5",
+    "source": "HealthNews",
+    "ts": 1793516804
+   },
+   {
     "title": "Esposende passa a cobrar estacionamento em 140 lugares no centro da cidade - Rádio Festival",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnhBdXlvb1dQWE11My1YVW9HNUM5U0ZnNDNRUEZqS2d0SzR6WWtiVzNMNnpZUkxGS2pyYTNhYXFicWJHaWE2dkJsMnRoNmlMU19zOUhPS1N0U1FSZlJIcDY1UkpQOGUxdy1NUE1WUExCTk5OaF9QNVpaSmVRRVFwRldRMWFNTmtlRXZabWN2QzgxSTFmaktFbzk2S3RkbVR0UnJLeU1CRTJFUms2QmJtcDZCRzR4cERKY3hV?oc=5",
     "source": "Rádio Festival",
@@ -1533,12 +1539,6 @@
     "ts": 1793436540
    },
    {
-    "title": "ULS de Barcelos/Esposende vence Prémio de Boas Práticas em Saúde - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZFlTOTNaamo4clJNbWk3YTRiVG1ocDFweXJQMldVb0V6R2lwX3NJVGVEYXJ4Q3lYMTRYLUplRFF4Z2xDaVRVdVkweDg5Rm9tNGRubWdSenk2WXoyN3NlcDN5N29zTDlETDQ5bk0wQ2FmWldvR0pQMkxSTV9ZbWk4TU1aTERKUVlQZ0d6YmFjMTl6czRM?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1793434860
-   },
-   {
     "title": "Esposende: Bombeiros acedem a varanda para socorrer mulher em hipoglicemia em Forjães - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1pNkxrSy1hcEFVNl84QkdJb3c1c0hWanBueGo0QjBseWhpemo4SXRsb1pJTDUzd2ppb28tZjBtVHVTcVRCMENXeUdxMWUxOFJKNVR5M3NtcWJyWUJiWl9yNkJ0V0Fqdy1tbHZ5Y3lfbjllZw?oc=5",
     "source": "e24.pt",
@@ -1559,22 +1559,22 @@
     "ts": 1793478612
    },
    {
-    "title": "Luís Neves terá ameaçado \"destruir e esmagar\" Gouveia e Melo - Observador",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQjV6Zm92cUNJM3hXSG1WOFRxOE1RM2MxT3lyWUwwT2xjOTZjb2NoWHB5MXBYbDE2WjNVcUpfWFpCem1FS05GTDhiaGhDaVVCaXRwVzFKeGpGNVdpU0s0aTNOQ0QzZnNLSnZsc0NZeUQzMkpDbU8waEhwWkhCZHZLNk9rSDBJS0hTWFhqR1I4Qld0U3pOVEdTT2phOWFUT0JfYjN4dno4dmV4OWlnUVJMNjltVTE5VFQwUW13TjZhOWlSSDNZZWc2NW9xdnlhekJCcjltazVQYjhWRElBakhFRWJadEFtZExYdWtR?oc=5",
-    "source": "Observador",
-    "ts": 1793475420
+    "title": "EUA negam ter facilitado saída de Flávio Bolsonaro para Miami - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZU5xTjlPMllGYWtGUW1hY0hIVDZ0UEZrZE41UjJiVzZDdndyT3ZpTVV5S0RJQnUwUTY4MmxteFlhbmZxbXZ2ajZHc2J5dWd2a1R3WlNoMzhId2JqYTc2VndOa2FYRFZ3ZERDeDJsUHlnR0lvZ29mS0ZUV0t2TkFwNWR5NzY5UjBTUE5fWUZ4SjZwTjd1M0ZSeDJOQkY5RTlmQUtn0gGXAUFVX3lxTE4za0p1SkdsVFN6MmFkbmZGeENfUHE1SUdXTlItdFJkeDhTZkhxNm5YQkJiZW84aXdVVnBsVHMxSDlGcTlNZmh1WnR1enFwcEo4alR5Wl95WGhYTUhhWU1lTzBnalZ4MzZ1enlNLW8yZzRyeHFqYlpMS1lsOUl0bDhJajhkUENnMXowUzFCSG9SLTVqUC1Nd0E?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793471940
    },
    {
-    "title": "Moradores retirados de Oleshky, sob controlo russo, chegaram a território ucraniano - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLTYwQUY4ZzgyQTUtNUNScVNEZ1dxdHZ5UzBfRlpnM3puTEk5OVRHY2pzOW5zUWN3bDgzODRNMEFCSTYzYUNuNGhYa1JlWTRqc2h0V0x0a1R6cloyT1hFRjVmZGhzU0VkUDVlQ3c4Nmg5Vkc0MkRZNHVXbDk2aF9wcjBZS09vQ0pDRnZFdkt2cS1mWnVWWTBCanM2bzI4ckdFdWtJMXFHRXNtWG5ydGQxYlNoV0NzN1dGMXc3U3p30gGyAUFVX3lxTE9RQjh2cG5iN3hGZVE1Vkx1cDJWMFpTUG9tc1FPbFEyVmZSWVpGWGZIbzhFbmJWQWZhYzJQa1JlZkJhQ1ZCbEFpR2FBbEpxa1ZiRnUyeDFXeUZmQmdfTTBZbnRwSTZTOFJaZEs3QzRsbkJzeDlDN29PYkRmalY2WlowTGxiQ0pXNllhS3ZsM2xjQnhxNDA0SUxrLVd3ZVE2SHVRUFR1Z2hYYlN4M1JGRjFDVkE?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793458020
+    "title": "Estiveram 1711 dias sem contacto. Hoje, regressam à Ucrânia após um cessar-fogo mediado por Melania Trump - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRGRkekpmdDdNaWdVVEdnVjlJT0FVUlZ4bDFKamhQNlhsTDJnamxrTjc5QVlsYjM0NmJrUmxaR25aX05aQm1PSDBSMG04aDBxOVgyVDVGaTlpUDJ0aDBTa0VNRkpWOUlEdFYzMFlqeE14ZVlYZktGUy1QUXpPaWFLU2xISTRCMU1uT1JuM2RxWVhrZVY0OVpVWW9oWWZUT25CekE3aUhmWDRQMWNTeUlzUjBMLWZIMXU1Ul93Q1dqVXI5bEhDSV9MQUZtZVl3NjFidFRNczA5RU9WRC1YMmt6V3l1Q1g5QXl0ZVkwaW5CNS1DTm8wVTNoS2RfbkRFbE5zMHBVX29jRGFMZW8?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1793469626
    },
    {
     "title": "EUA aprovam venda de mísseis Patriot para a Ucrânia, Zelensky pede rapidez na entrega - Público",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPenhfZlJ1TEtDYl80c0QtWHRaaDc1dWtIY3FKY1kzUTYtNGlrM2VvdUhnNG9ZUUlObTVROGhLVGJKYkVINjdWRG9GbFdXVGlyT0lBalFLMGlhVGhCWUd6dTVlazY2c1ZvWHMyOERtWlc1U2VEek5vaW9vbzRmYnVYb1Nib2NpRUU5WWVaMkU0V0pJNUJ4c0UxcnlkekJ1VGdsNTdZcHFUTHBuTzd0RTk1c2NBZnRzSlNlZHBFdnlHR2tMUmI5OWc?oc=5",
     "source": "Público",
-    "ts": 1793454120
+    "ts": 1793466595
    }
   ]
  }
