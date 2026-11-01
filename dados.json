@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-01T12:00:10Z",
+ "atualizado_em": "2026-11-01T18:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-01T12:00:11Z",
+  "atualizado_em": "2026-11-01T18:00:11Z",
   "dias": [
    {
     "data": "2026-11-01",
@@ -1632,6 +1632,18 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Tiago Margarido e o boicote dos adeptos do Vitória em Barcelos: \"O que me faz mais confusão...\" - O Jogo",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNX1gwRTR4aF9jMExSZUJZdEVXUi1WS3lXWl9kTzRrcHluXzBLUUUxTnVpM1lPalY4UnRHM1VLMGdoQ3ZsVm1pZXVEekM3dUtVMFdhTlU3eHhvMExGWlFRUWNUMFluSE9qcnQxYUtJYUhWTmNmTU9FdG9fWm9IN3FPejZkWXlDTlkxZjkwX1VkbTFYNHRGLW5HTWVOLTV5b2RFaEM1T2l0SDRtLURBODZ5WHl0cFc2VVNueFVMUUp4bkh1ZEFYYjA2N3FFMWFzLXM?oc=5",
+    "source": "O Jogo",
+    "ts": 1793544060
+   },
+   {
+    "title": "\"Novo Hospital de Barcelos deve avançar já e deve ser público\", diz o PCP - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORGdtWE5BTWU0VzNkU29nNmIzemhKMlBxYUZpWV9kMGRXYW0xZm5ZcjBhd3hlaHpmN2RjU0pwTzFfcHZTb2dPZ21acjhlSWtydE5nMXI3Q01IUzJPcGRwUTVyd2I3dzhFUE0xaFZrX0d4SWFJSjBxYndydGlKRE04eUNjQW5FSE5pUXJIWWtxUjFUNTg?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793533440
+   },
+   {
     "title": "Sanjoanense supera GDESSA e Benfica leva a melhor sobre Barcelos - Federação Portuguesa de Basquetebol",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOU2d5X3ZJSWRTWFNDN0tPa2RpN0xXcV8yRUhMcVdMalZieVdaYW9xa0RkdFNydjAxYWtKYmZSR0pNekkxb2xGRjdPLXhHX2pCVElRUjljbUE2YnRHZDdESEJLdl9Ed3hLLW5QZEU5OVR2bVNHUk8xZWVsMXk1aHdGNFlnRl85MG5QRFhRRnJpcVVPbE9BZVUw?oc=5",
     "source": "Federação Portuguesa de Basquetebol",
@@ -1654,21 +1666,15 @@
     "link": "https://e24.pt/barcelos-municipio-participa-em-reuniao-tecnica-do-projeto-transnacional-respira-em-espanha/",
     "source": "E24",
     "ts": 1793383474
-   },
-   {
-    "title": "Há 39 restaurantes para comer pica no chão em Barcelos - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55c0lXRkxpQzlaTGU5VjNSTGh0VHZfVmtnc3VkdDlQa29jY0JQN0FacHc2Zm5ZU0U3QnJDU3kzQ3JySnIzNVh5c0tJei1sZXBZREtZWVBTZDhSc2VxdUtUY3RLOERGbmZqdzBlZjdUdDU2OXVJTmVUdkVtd09IUQ?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1793378640
-   },
-   {
-    "title": "\"Capoeira a preços de luxo!\" Claques do V. Guimarães criticam preço dos bilhetes em Barcelos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcmVtNXhVUnRjMjZtSU13a2YtVDM0aTlaTjM4cTZJUGV1N2RncVU4ZEpodUVDTUNZcV84OVVCODNjUDBSVlhmTmNmdmtaQnVoV3lLX2laNmREQWpSVkpSaWhLdW9FeFRCU3ZHU0NHWmNtcFhhSTJjVjVvSU9sa2NIMU1kS01pUElOX3BGUm1UMDBucGFEazE3S0RaSnI5UDVzeFV3SWM5ZmhTcG1Da1lYOVpkRmtidGpsTTN0VnVJZDlYc1QtRE1qTnc5RdIBuwFBVV95cUxPTjg5TTQ1M1I0ZndJeXFLcGNhVVJjbTNIc2FoRmYtbXZLYUFBYXo3X0RHMWNHUmpLSHctdzJXdU9yVjk2T1RWV19ha3BVSVlEcEtEMDc3V2E0amdZYThiemR5N0VKdFIxZUxkeUphSDRkZkhPekdhQnpqNmpxdno4R3VQTG80eTNHZmpxd1BsWGdpX3dGRWQwYzNTbzJLZVI5NlZ6TnZrSzVyYkJMZHB4U1hqWXllWEpkWXA0?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793362080
    }
   ],
   "esposende": [
+   {
+    "title": "Eucaristia Todos os Santos em Fonte Boa – Esposende - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckJNQnNSZWVjakRnQ0NZMTVaa2J5ZmdqX0V2S2NySk9hTnpZb3drOUR1UnBpUjBtaXZLanFjQmVnendza3ZRYTdoLXAyYnRpaDBSdzhJU0x2YWdzVHlpaHZhR2tjWHBqQnduZmpubV9RTnFFR3BmQllkOWNMdnRQTGM1NnY?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793549601
+   },
    {
     "title": "ULS Barcelos/Esposende vence Prémio de Boas Práticas em Saúde com percurso integrado de ortopedia - HealthNews",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0ZoYzA0Z1hpdldyc051T2RNY2Ztemh2SUxhY0NyU3h5X3ZCVHNndFJEZHhyRGZsRDlJOTY2Y3YxY1VaZHJqeExYSW4tR1R1MHFtY3ZTdXNzNEJNbHgtMTFVTU1HUGp3bGt2cWRwLTNaVWsyandKQzZBdW9udG5kTXpueHdwZi1fR2N3NWhfWXYxOVM1OVFWeFZhTko2ZlR5X1dSRTQwVW0wZlNjSE0zWGhudWdZMGVOejRFQ0JaaVdBOWZ4XzliYjBaUQ?oc=5",
@@ -1680,12 +1686,6 @@
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnhBdXlvb1dQWE11My1YVW9HNUM5U0ZnNDNRUEZqS2d0SzR6WWtiVzNMNnpZUkxGS2pyYTNhYXFicWJHaWE2dkJsMnRoNmlMU19zOUhPS1N0U1FSZlJIcDY1UkpQOGUxdy1NUE1WUExCTk5OaF9QNVpaSmVRRVFwRldRMWFNTmtlRXZabWN2QzgxSTFmaktFbzk2S3RkbVR0UnJLeU1CRTJFUms2QmJtcDZCRzR4cERKY3hV?oc=5",
     "source": "Rádio Festival",
     "ts": 1793468460
-   },
-   {
-    "title": "Governo avança com novo passo para a construção do Hospital de Barcelos-Esposende - Rádio Festival",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaEFyWUNDSEVjWjc1T2F1U05QVk1yVk5qWDllSXo3N0dIdTczaUpId1c3SHp2aUExdTVZamxKVGl6T2loVDcxUHk1dWdIQ2JJRndZWGcyamllUFpmWkhEWmhZa2FGN1VUWm9WWm9xaUVvaGhWd0tNY1kyOXE5SF9CeUhmdDBmUHI3bl95OWt1VlJla3FrZkNJdHhvVmFoM080NFJtdFNMc3o0VXFTMlVCQzI0SnptTGUwdmxDM3pYQzhnOThx?oc=5",
-    "source": "Rádio Festival",
-    "ts": 1793468040
    },
    {
     "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
+    "title": "Depois do dia calmo, a noite trouxe pilhagens e confrontos com a polícia na Alemanha | Protestos - Público",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjVsNlJfdHBtaWRfbGZzTEVrMnAtSG9oa3Ywc0RxRWhMWHhiZk55NmNfclpwdTYtemliNWdtWUlIeFNUbE40R1czSWtraXdOd3dYS2Z3V0xESjVPVVhfSHQwLU5Pekg1QkVZZTUwR2Y2eGVZcXNRbURnQWRBdmlHQzB1T1hoalpCZjVlb2loS1UyOG5saklOWUt6NGhXZHJMWktuOVp5RVd5SHREamJ6clQ1bmtFVGc?oc=5",
+    "source": "Público",
+    "ts": 1793536432
+   },
+   {
+    "title": "“Operação Alba”. A fuga de Flávio Bolsonaro começou a ser preparada antes das eleições: um ex-espião da Mossad e um aliado de Trump terão ajudado - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQZTBLOHlfZWk2YWxaYmpJb1RlbV9CMnNfcUpzcHJ6dEtSYUViQ29FUjdfd2t6SC13c3NGVnA5bXprNDhOS0JhTEFhVjRHR21zUlZDaFpKNWN3bnZkNkg2VzdQWjhyYkFTaGY5cmlIVVM1YnFyV205S2owWjBVbUdHWVJHaTNhYXRIQklrM3FDWUhUdHRmdko1VkMzMDBhMVJZZEJWMWNUaHdaSzNSU2plSlJERGJqRHdkenBJZ0F5THdpZm8wcXlSR1FUcmRGbUNPbjBTeGFRS1pZNzdfRjcyYk1FWnJuNTdJbUxqb1QtZUgxY2NuZkZ0djV4U0xIV3QzT0RvZVdBTThnc2hDbEpzZDNyTmhJTm54R3ZvVWZVbFBZZzZGdEJrMkpRQ19MMzVaWmFHQ1hveWloSVV4ZHdhcmwyRFRPR05pcHc?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1793534783
+   },
+   {
+    "title": "Irão diz que nova guerra com EUA pode ser \"mais longa do que a anterior\" - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQV2FLMmxyalFPWUdTSERBVnh3aFptR3NMS2NaMXA3aW5OYXZHaDBTOXRJdmw1VE1fQW9KclFKVUhOM3dHb2xrS2V2SEt2MTJaczg3b3U1UVdhZkZHLXRaNXJGM3ZmQktnMmphMzNYZ01sVVZMQmdIX2czYzZYTTZwQ0RreWJobHZ2OHMyQU15c0pEaHVQb3dxYktQQlB2T3lzd19TT1hTZVVXamVyNGN5SEw0S3NvUzBSSmQ3TldYSTYzeW9jRFE?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1793529840
+   },
+   {
+    "title": "A culpa não pode morrer solteira - Público",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQXzZMblJMM3hyN2gwenlrWEZURzRscDVLVFJ2NnpOOFBxbktuc0VzRU9ZUVliLWVwVzlhSjhwT1RXMmN6dE8yYkpacEMwa2Y4N3otdVFONGgtTnRQN1RPYkg2SXdVanF6Vm9kRTRFcTZLQV85WjdYOU1FLWNDNUp1YkZmVW55NUJP?oc=5",
+    "source": "Público",
+    "ts": 1793516940
+   },
+   {
     "title": "As eleições intercalares americanas em sete perguntas e respostas - Público",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeV9yNGJkUUp6Y3dtVF96cHp5c3l6ZjdzdkZaQjJreWlzQUdoUWdVQXozZzRFR1dGY0RoQ2FFY3llaDdBbmJ6VllVLVY0ZGptTl9JTDl5VW12YTI1enRJUGs5d0FpNUpoZk13NmpibU5LQkY2eEdselFRUWdRZTk3ODltYkYzN0tCNkttQkk1bWZndUxrcUlFV09LaXVmM2xGWTJRSWhZRXM0WHZkN0d6VlRGMA?oc=5",
     "source": "Público",
     "ts": 1793514840
-   },
-   {
-    "title": "Setenta mil pessoas em protesto em Paris com confrontos com polícia - RTP",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbGNwaXhLSktlb0VxeDdWYVlKeU5HTjBOT1NMdkYyLXNONHh6eXY1R3E3M2JTSk1OMWJnU2tnOWZETC1hQzduSGtxNW9RT1NNcXZadXU4MWNEVmpiQlEySU5fSEN1X3V5QTZIN24tMzVqU0ZDMmxQLVNPMUJjWkJKR2tLUVFCV2V1U1VqcmlPdmk0Q0szRjUzSzVEZGhpY2F5eTQ2NzlJeUJ3dHBQMHRv?oc=5",
-    "source": "RTP",
-    "ts": 1793480799
-   },
-   {
-    "title": "Israel: líder da oposição admite formar governo com partidos árabes - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeDJqVG11TW00UDZlem5ySWFNME5wenpCOWw5UV9mVFpIV2w2ZnRmdjcwYUNRaE1aVUoySVZOakxZcmhTZUxfTVByeV93RVZaZUl1NjJIYWZNak8weGQ2M0psV3BLdloycjVCZTNtT3BvMVd2M0lCOW1OUkgyOFFJZm14dkR3ZGNYN3hOdFNuSFdQTklPalRxU05ISVoyTVg4enNZOGpfT3JnWlZWVjZ0NUtpQ0xETzhDY0lkNg?oc=5",
-    "source": "Expresso",
-    "ts": 1793478612
-   },
-   {
-    "title": "EUA negam ter facilitado saída de Flávio Bolsonaro para Miami - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZU5xTjlPMllGYWtGUW1hY0hIVDZ0UEZrZE41UjJiVzZDdndyT3ZpTVV5S0RJQnUwUTY4MmxteFlhbmZxbXZ2ajZHc2J5dWd2a1R3WlNoMzhId2JqYTc2VndOa2FYRFZ3ZERDeDJsUHlnR0lvZ29mS0ZUV0t2TkFwNWR5NzY5UjBTUE5fWUZ4SjZwTjd1M0ZSeDJOQkY5RTlmQUtn0gGXAUFVX3lxTE4za0p1SkdsVFN6MmFkbmZGeENfUHE1SUdXTlItdFJkeDhTZkhxNm5YQkJiZW84aXdVVnBsVHMxSDlGcTlNZmh1WnR1enFwcEo4alR5Wl95WGhYTUhhWU1lTzBnalZ4MzZ1enlNLW8yZzRyeHFqYlpMS1lsOUl0bDhJajhkUENnMXowUzFCSG9SLTVqUC1Nd0E?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793471940
-   },
-   {
-    "title": "Estiveram 1711 dias sem contacto. Hoje, regressam à Ucrânia após um cessar-fogo mediado por Melania Trump - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRGRkekpmdDdNaWdVVEdnVjlJT0FVUlZ4bDFKamhQNlhsTDJnamxrTjc5QVlsYjM0NmJrUmxaR25aX05aQm1PSDBSMG04aDBxOVgyVDVGaTlpUDJ0aDBTa0VNRkpWOUlEdFYzMFlqeE14ZVlYZktGUy1QUXpPaWFLU2xISTRCMU1uT1JuM2RxWVhrZVY0OVpVWW9oWWZUT25CekE3aUhmWDRQMWNTeUlzUjBMLWZIMXU1Ul93Q1dqVXI5bEhDSV9MQUZtZVl3NjFidFRNczA5RU9WRC1YMmt6V3l1Q1g5QXl0ZVkwaW5CNS1DTm8wVTNoS2RfbkRFbE5zMHBVX29jRGFMZW8?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1793469626
    }
   ]
  }
