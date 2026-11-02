@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-02T00:00:10Z",
+ "atualizado_em": "2026-11-02T08:00:10Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-02T00:00:11Z",
+  "atualizado_em": "2026-11-02T08:00:11Z",
   "dias": [
    {
     "data": "2026-11-02",
@@ -1518,13 +1518,13 @@
     "title": "Santa Maria vence Torcatense; Esposende empatou em casa - Semanário Alto Minho",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDgwSnZWWnBoa0FWSEljaUYtR3lLbUlMQ05vVTF0cTlCdXJIVkJoYXhzelM4dWJnRFEtYnMwb3BIaThwRG5yNjYyeGEzX0J6MlVGbTBXM0t6aDNpbW1ranRWVmtDR3ZFUjZESlpCV3l4WW9iYXJUYWJFZjROMVFlSVFIcnhjR1FYbno2b0tYT3duNEJKeWtNTlBpOA?oc=5",
     "source": "Semanário Alto Minho",
-    "ts": 1793557880
+    "ts": 1793557868
    },
    {
     "title": "Marinhas e Forjães derrotados em casa, Esposende não vai além do empate - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTlBRHAtSFY1NG1fOUtnQWRWMHlGYmRQdWxMbjJGNzJ1ak5BdkZtRWZPZW5iUVE2NjYzNDh1OU92OFFRMDMyVWJ0MDl0TDZDNFo3TzlxanFySklEYlk5VTNPZDVrRF9NVWtHeGM2c1dZcE9ITGxWQVMtT2U0VmliRTBFTm5rMS1ZeEFfX0I0LVlXcE5WRXQ3dDBrc2dDY251?oc=5",
     "source": "TV Esposende",
-    "ts": 1793557244
+    "ts": 1793557248
    },
    {
     "title": "Eucaristia Todos os Santos em Fonte Boa – Esposende - TV Esposende",
@@ -1547,16 +1547,22 @@
   ],
   "mundo": [
    {
-    "title": "Imagens assustadoras: queda de jato privado faz nove mortos (vídeo) - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZk1qT3NfTll3b2VVN2ZCY1lCTEZ5ZE5wTTRsZURZb2hsMEdXWlVXcUpITENBOVh6d3NLQ3RfMkVkLTM3WkVLc3NRaWhfc1AzUmdfOFYxMDhqX3VfVkZrby1IOUtiUTdISDEtRy1qaW9KVFJqemtxSmFLc2VDQ3NfUWJ6SlJXRkR5VTlnRFlOSjVsMG5VcUIwVEFIbm1uMW9WU3dGd0pVN2VuNVZHVWNDdGpnaGw?oc=5",
-    "source": "A Bola",
-    "ts": 1793574060
+    "title": "Polónia em crise política por controlo do Tribunal Constitucional - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdEZ2TnVSdzJ2OVMtTFg1U0FkZlBEbWd6RldOMVg1Mk5DZ0thVWFmOENZcTBqbTNxc2dOUkg4ZGNkUEtGVzljZ0hvVVkwWWUzOXQteUZFTHp6NHRKS2U2ZHo2WElFVF9SaFhsN3lHbWhCOGx4NzRNVkdldzRLT1hJN2k3Slp0WVVmVk55bUxfTFF5ZDBoMWhKQmdrd1pPZldGNDNXZk9kaDXSAZwBQVVfeXFMTTJJZTRQa2FJSFNxNEtDZjJoMlVoQXlVNklZZ3ZPMW9KN2JwcTRVOFJuVUhkS01qUnZkMjhNYkoyTTdfSUVYQVZjZ09aQ3ZmOXF0dFVYNHlCYThCaGlYTUk5U0R5SERCX3lpdzN4aTBDMGRYa21OVFBaZ1F4RGhhellWb2ktdGhYeGUwckhCeTFmamNOWDIybDlZWXEy?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793571720
    },
    {
-    "title": "Avô, filha e netos de dois e três anos morrem em acidente de viação em Espanha - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUjUydFY0QThTSjRtRzlaSXVlT0NjXzBmTmxSVWxzNWdQUE9RM2lJS2hSLTg4M3RPcDI2cVNFX3dNeWNYWWVoZ1l5RzI0dkZIRXhqbFlxUnUzZzkzMHV3dFVjMW1kSkNwT0U5LUFGRU9rSjRBa1RYeW5XaE1xeHJnSHpiSGRMS1Yyak5rSEVXRTJVOWZYclktU2NPQlg2UW81SGsydEZFMnJtalV2RndpdmFEeFJIRlNl0gGsAUFVX3lxTE1oTDFIdWduWWdQcFFuakxKd0ctM21vbUd4TWFBZnNZdDlXeEpQUWpfUkdvLUhkTTQ4TG11RVltcjdFbGxhVjNlMVhJOWNjelp4WkRGRVFZaEhCcjhweko3S1VIMTh1TXF6bzgtNGg0NUxHY3FBdXdCTzJfdGJRYmVmX1p6NDBFQ1B3SXZvWGJpUHZOdkoySHVSRUFKRGhNeHZrVUdKUm5zVjhDTHc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793564340
+    "title": "Sondagem: Pró-russa Iliana Yotova vence as presidenciais na Bulgária - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSWRDcU1YZnlJNUhCR1NycXpaS3AyQ2JFUUxmSVJZeG1VZmNkeExfN2I1MWttay01ZFRJc0ktZTFRTmlJc0JnbmVDTURYMFNINFpxMUd2ZFRQNVRLZTdfTW96OVFrcHBLMGRaYkZEemE4LVJzS0ZWUXdVUE91R2JKQ09fVWVOVnU5OWN5ZlBUelhhcVBvZjk1V0hwTXlkMzlyaFJJWTJjQzJueTkyNnpob1hmMVd0UQ?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1793561640
+   },
+   {
+    "title": "Reviravolta no Michigan. Ex-rival democrata retira apoio a Abdul El-Sayed e endossa candidato republicano - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFltZDU0VHplUlFVNGpucHg5OFVIYU1Dd1o4NFBnQzNUQUs5WUZPRDluWEtJOGtDNzJ6VGtSSjdMX3BXY3BKYm5saFBpSGN0RTNNTVF2cHZydDl4bDhCM0pPMDNiV0tSZnlwZ0pTQWRBaVB6MXdlUmdlNXE5S3hsOWxsaXJwRUNIZ3NRanN0cUV4X0dKa2NDWW1ZM0Zsc3dlLUxyYnhJM3VZUDFzV1FoakVjVkVVaHd3YnNFNXIyc0ZBaXVBSjczNXVpUkcxN0JqaEloaA?oc=5",
+    "source": "Observador",
+    "ts": 1793558400
    },
    {
     "title": "Ucrânia ataca uma das maiores refinarias russas e uma fábrica de mísseis - Diário de Notícias",
@@ -1569,12 +1575,6 @@
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOR1NBcHNmWVVxNTlPRGtUOEZLYUppOEVxdE44Z0dOYXFBRWlQQWNJWTVxb3psXzdVRkRmbVd4Tmc0NXc0b1V6Z0swNkpsZ1QxTkZPUWhRdC0wVmEwN2hWR3BmM1V3ck16MkpqZ3VhRFhPYWQ1R0o2UXpVd0daRE56TXBMaVFZV3lIMGtVelp4VHrSAYQBQVVfeXFMTU82LU51OGQyT2xPRy1XSzh1dFNTQ01OWFYxTmlvVk11YjJ3RGN0aWR1ajJreTNEM3F1VWpDZHduZVRHdC1wdDlqYmR1cnlzcGY5NkJ6Njc5WXBkX1M5MEJHSTBNQkxxdmZLcEZwb3FrdWtwU01hU3B5dk9LNGd0bElGa3dS?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1793553180
-   },
-   {
-    "title": "Depois do dia calmo, a noite trouxe pilhagens e confrontos com a polícia na Alemanha | Protestos - Público",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjVsNlJfdHBtaWRfbGZzTEVrMnAtSG9oa3Ywc0RxRWhMWHhiZk55NmNfclpwdTYtemliNWdtWUlIeFNUbE40R1czSWtraXdOd3dYS2Z3V0xESjVPVVhfSHQwLU5Pekg1QkVZZTUwR2Y2eGVZcXNRbURnQWRBdmlHQzB1T1hoalpCZjVlb2loS1UyOG5saklOWUt6NGhXZHJMWktuOVp5RVd5SHREamJ6clQ1bmtFVGc?oc=5",
-    "source": "Público",
-    "ts": 1793536432
    }
   ]
  }
