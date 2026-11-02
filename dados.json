@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-02T12:00:10Z",
+ "atualizado_em": "2026-11-02T18:00:11Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-02T12:00:11Z",
+  "atualizado_em": "2026-11-02T18:00:11Z",
   "dias": [
    {
     "data": "2026-11-02",
@@ -1632,48 +1632,60 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Fotógrafo de Barcelos vence Maratona Fotográfica de Famalicão - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU200SW5Makg0U1dzc2pSN2VWRUJ6cEhlT1JMNzVuaXZsMnhzU3BUZTRQVURTVjhSLWdENHJfcnBfR21LYlc3OFQyNEhnTk50eWZOUEJyRm80dmJDUlY1OFN3ZG1MR1BwYVd2RmN4Tkcza2daSVZUWjFyMU5sbllmN1NOLUc5V1lt?oc=5",
-    "source": "Braga TV",
-    "ts": 1793619362
+    "title": "GNR apreende lancha rápida em operação de trânsito em Barcelos na A3 - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXB1d3RFQk00MWcxNUZBZ1p0SVNsblRDeE0yeFJfdjlfWVJraGprSm8yNVpzbXN5SU14TDh1aEhEOTFjVXBnREFLU0FTY2hiRjVTZ3BIa3RLbUc5WXg2WVotN256U0pKYk1HSnp2UFJkcm1kcUI2WHFhc01sS3FPUUlHTUMwbGFfMUhhNEtWLVBnV1JmRk5HUHl0MnNwWGFKUlZmdFVUbzZnR1BxY2tLZ1RR?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1793636866
    },
    {
-    "title": "Barcelos: Noite Preta encheu o centro com música, dança e performances de Halloween",
-    "link": "https://e24.pt/barcelos-noite-preta-encheu-o-centro-com-musica-danca-e-performances-de-halloween/",
-    "source": "E24",
-    "ts": 1793616936
+    "title": "Barcelos: Dois incêndio urbanos mobilizaram bombeiros para Tregosa e Arcozelo - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBieHJ3X3dBNzl2bTlkMFdmdmN2bUhiWXY3bGV0QWhiWVByYktERmV5dFVuaXlZZmpoeVNtUjl1M25YRGJ0cUNkWXQwcHFsWnVBTkUxc0Z2aWlFOVpKR1ZxemdwMllOZG1mME82X3Q5WERpT0VibThR?oc=5",
+    "source": "e24.pt",
+    "ts": 1793629649
    },
    {
-    "title": "Barcelos presente na quarta reunião técnica do projeto RESPIRA - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPeDByYXFvRER4dk1BT0R5OUtVXzhVdU50cUFuSUh2anFmRzhIVndEQmlHYmx3Z0tRNWZRVFE1RFJLdXBIX3lCcnR0MENTNVUtbGFhZHF6SW5tb1ZCWHE4Uk9PbF9XWlIxWjBiT0l0UTVmXzFKMU9HNG1zODM4dmtPM3JWNGl5ZDhNc3lvQg?oc=5",
-    "source": "SAPO",
-    "ts": 1793613600
+    "title": "‘Narcolancha’ apreendida na A3 em Barcelos - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZU9QNnU3TlFKVGNjQ29PR2lQS2d4STE0NnF5N2FrTGFnaFExZjZJYnNNQWZsOXZCSWt3dFI4RlRtejZDTHZzeVZiS28xOWFZQ09fZDNHM2pEZW5jdnhDblFrbnlHNGlMS3VR?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793626500
    },
    {
-    "title": "Pancadaria interrompe jogo de futebol em Barcelos",
-    "link": "https://ominho.pt/pancadaria-interrompe-jogo-de-futebol-em-barcelos/",
-    "source": "O MINHO",
-    "ts": 1793610997
+    "title": "Homem andava com catana na rua em Barcelos - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aYlhhMUdqWnA5R2xfN2htdGUxaWRjZjVRLTFMSXpHdnNDVklSeVF5TUtaUTBYWFJaUzY3eDNWeWRTUHdSQmFjLWwtelVUT0dzN2tSMS1zemljcW1DcWdsNE5RTVFyX18wekYxTkNn?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793625600
    },
    {
-    "title": "Jogo entre clubes de Barcelos cancelado após cenas de violência - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdEFXWWdCcWJRZkc3VzlUcTNvUDBaaHZqc1pXdmNEbFM1Vzl0R1BUWW9Lc0lCQkZBZkR6OHliNUsyOVRUOVhSSGkxOGVZd1g2OWptSjcwNzYzQkdPcWJoYWFhSFM2bmt5LWZRdTBDSFd3V0xsbHZpUXZPLVhMXzVOb3ZFVFVJY3h0eWNNTWdfa1Byb3ROMHNIYnhscmlCclRMUnI2QmZfVmp2a3BKZEHSAZ4BQVVfeXFMTlBTbHhkZG4teXF1T0h1TXZYb29sTXhaem90bVAxVVBQSXF6YnBqeDVCYlJMN1BxMk9TTmlia1ltM3ZqN29xYjJrX2NKU1czVDJBUWpxNl9lNkxxakZsZHdZZWxSYTRSRFF5ZDQ5S1NUa2RnY2twd21idnFfNTZEdmczUGh6aHQ1V0pLeXZWeExMOFN0S2VJQlBwVDBuSEE?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793575800
+    "title": "Incêndio destrói cozinha em Barcelos - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFA3SF90RGRQTVBXOWU3UDBzbUg4T25oYllkSXVJbGJxc2kxUVBJTGd1OE9nWmNnVWpOdWpkX1Q4ajJKMkNqZkowLWNOeklhXzJwTV9RQjJaSm5OV3BSNWFONmIxRXg1dw?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793624760
    },
    {
-    "title": "F. C. Porto vence Óquei de Barcelos e conquista Elite Cup - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOb2pCd2JPdUd3QVZsR0ZUYkJBOEVEUGZTTDRQcGlNcmZ0emc4TUppM0p4YmJTeWQtcjg0WFZlZTc0SEx3MlRNM0hfVHhySFlIVjMwNFVuQk0zcmNlVjVJc01nb19wYmtFTU9lQm9ydGZmelpwN2dvUW9HcW9SdWRZNENoZFQ3X1ZfdzdiTXdsbTNzeEpTYWlOemJHOFhkZWvSAY8BQVVfeXFMTmtxSWd3dS03OHktS1h0TjR0UW1KT09YdHdDLVdIUkxSVHliODNyOFpwdVBuMXhYc2p3QVFSQ3lsLURPSXoxRmFyRlF0dWI5emZJSFF2RHdySnJxZW1BOHVGdmx2bkhiOEEtWkF0OXJCWUxTQTBxdzJsY3k4WVFSU0t4eDhLR2h1bDFNU3BoNG8?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793573280
+    "title": "Barcelos acolheu as Jornadas Distritais dos CLDS 5G dedicadas à arte e à intervenção social - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ0xQMmxOTDF0Q2ZnWi1MRGlYTEpQWVRZUk1ldllzTjFZY2ZOa0RqbXVtSGUwV19wZGQ0aURDTW44cldFYURUR3Jzd0ZtR1ZtN0JzX0hoaWpweUV5ZzN1blR0RTBLX1VuMElOb0xBUTJvYVAzbzBOejUyWjQtSHUyc1MwV3N5OG42bVU1NkFjZy05RTJ2aHRRUVhzT3I4bXo2UG04RVI5bG5hREU4dENEbVZvanFFQXFJMXFQaG1VYmhiYUVFU3c?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1793621974
    }
   ],
   "esposende": [
    {
+    "title": "Zendensino distinguida com o Selo Municipal para a Diversidade, Igualdade e Conciliação - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVnJPUHpwR190MFZDMUMwV1VPUjIwUmttRnJjUjhwVndSWUdUemhNQlRhSGNNdVJEZzRQMkJJc2NrMXB6bG5nRE85bXBxelVLMEw1NVhoNGhhemVJNWhlTEZWMWJuMjVkbTVBajRiM09yZ2FOQjdkejR6OXd4bGNsM1dRNy1kS2xoSE1NT1YzWU01M1FkalFSR1d1bGcwM09vMF9zOEVKMWUwX2c3elpLRGJBYVZ6QQ?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793639479
+   },
+   {
+    "title": "Município de Esposende comparticipa em 90% a aquisição de novo autocarro para a Junta de Freguesia de Antas - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb0tYejc5ajUwbkthVEEwVG5lQ2czTjVRamtOY0dlUHFVZ1FRZnlPWHJWYjNtejVOTVFwY2JTQmpBRmI2NXduMFBISWg4ZkIzb2xkbi1HeXB0Uld2cjlSeXVhMWZKbE8zRkxKeFVjWllIUFJld2hMMWU3T1FNeVRodnFkUmpXc21LSmZ2Sjl0TEd2YmdKOXdHa0l6SEdRaGVPQWRMTHRNSE0ycTE0V2VmV096YVhHWWtpWi1BVHUxTDliaDZ2TnhRQ0pTWUxkdm9s?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793638873
+   },
+   {
     "title": "Esposende integra rede de ação social de Braga distinguida como boa prática intermunicipal - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDlESHRLWjFMc0NfM0hxY0pUeTRENU5LcjRmM3hmNVd1blhaMFZfa2NDUHVXRGo1dlFlbkpnSDNDYWwxSjkzVEJJQWVMcWduaUNSVlhlQ05ZQXowOERWZGQ5Y0loZ2FtM050UmJzY0t0c2lhbFo2R01OajdYZGFfSFFZU0JVTF9SMHA4QmJrV1lvRVBjX1RYUmVDeWlub2JlOVRpYkdSNERwakRDaFNz?oc=5",
     "source": "Braga TV",
-    "ts": 1793616366
+    "ts": 1793616324
    },
    {
     "title": "Santa Maria vence Torcatense; Esposende empatou em casa - Semanário Alto Minho",
@@ -1692,50 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOckJNQnNSZWVjakRnQ0NZMTVaa2J5ZmdqX0V2S2NySk9hTnpZb3drOUR1UnBpUjBtaXZLanFjQmVnendza3ZRYTdoLXAyYnRpaDBSdzhJU0x2YWdzVHlpaHZhR2tjWHBqQnduZmpubV9RTnFFR3BmQllkOWNMdnRQTGM1NnY?oc=5",
     "source": "TV Esposende",
     "ts": 1793549601
-   },
-   {
-    "title": "ULS Barcelos/Esposende vence Prémio de Boas Práticas em Saúde com percurso integrado de ortopedia - HealthNews",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQb0ZoYzA0Z1hpdldyc051T2RNY2Ztemh2SUxhY0NyU3h5X3ZCVHNndFJEZHhyRGZsRDlJOTY2Y3YxY1VaZHJqeExYSW4tR1R1MHFtY3ZTdXNzNEJNbHgtMTFVTU1HUGp3bGt2cWRwLTNaVWsyandKQzZBdW9udG5kTXpueHdwZi1fR2N3NWhfWXYxOVM1OVFWeFZhTko2ZlR5X1dSRTQwVW0wZlNjSE0zWGhudWdZMGVOejRFQ0JaaVdBOWZ4XzliYjBaUQ?oc=5",
-    "source": "HealthNews",
-    "ts": 1793516804
-   },
-   {
-    "title": "Esposende passa a cobrar estacionamento em 140 lugares no centro da cidade - Rádio Festival",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSnhBdXlvb1dQWE11My1YVW9HNUM5U0ZnNDNRUEZqS2d0SzR6WWtiVzNMNnpZUkxGS2pyYTNhYXFicWJHaWE2dkJsMnRoNmlMU19zOUhPS1N0U1FSZlJIcDY1UkpQOGUxdy1NUE1WUExCTk5OaF9QNVpaSmVRRVFwRldRMWFNTmtlRXZabWN2QzgxSTFmaktFbzk2S3RkbVR0UnJLeU1CRTJFUms2QmJtcDZCRzR4cERKY3hV?oc=5",
-    "source": "Rádio Festival",
-    "ts": 1793468460
    }
   ],
   "mundo": [
    {
-    "title": "Pelo menos sete mortos em barco com 140 pessoas a caminho de Canárias - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakpfZFRlX2FSRnpNdXgwcDg4WlgtbTRZLWRhR291bFphVVJReC05ZS1taGU2aEpUUExEVVZ3ZXpQYjdvbnNPUDlna0VnVW5OUU5OMlNmbjBWTUlEbHZZRXphZFF3TVhVeUFxdDZ5WjJaRmN2NG9BS2hIUFJ3QlRmZ2dxbzlhd0M5RDgwN2YwM1g4LVUza3NxSDRjRE45Wmt1eDVHSmNBQzgtRGJBOEJ2d1lvMXNSZTVX?oc=5",
-    "source": "SAPO",
-    "ts": 1793611200
+    "title": "\"A descer a 20 mil pés por minuto\". Queda de jato privado mata na Florida - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeDNaT2d3d190VFF2Yy0tbjZ1cFVTeTRIZ0lwZFp0a0tPdnhIM3hONWlxM0IzZ2ZSWFN5aHZyYkRjTnZhNHlQSXJCOHJEMGNXMTRSb0xFWklvVFpEMklXZk5XV2FkaW5KZlhJdDV0bE5CUTNfOUdXNmw4WGVsUjVRNXJ0Vk5wR3RlR1JDbXdhektGVGNEeEl3ZDh4VWR0MjlCY0F2VVZQSWE0UzNTZ1Axa2hYSQ?oc=5",
+    "source": "RTP",
+    "ts": 1793630605
+   },
+   {
+    "title": "“Traição” de democrata abala Michigan, juíza trava queixa de Trump no Alasca | Eleições Intercalares EUA 2026 - Público",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaGtJeWEzaUpFRDIyRU5pVGowbDNNYnFORVpLYzdkN0tTT2xyOXBGU1JJQzlWaE92MFZIaDY1WEQ3ckFLMWlPNW14dzc5Z0lmWHVjbjFBN3VyLWQyMlllcXhhWU5VY2NBNXBEUUpCV09RemJyNlB4aUdCQVJFOV9NckRtT3kyU2JPU1MwOWlBYjAydG92VFRfSWxncTI2VC1qZXAtSVBxSEFRQTRWYlVwbGRQOUJ1T2tHenVjaEFIZ0NGc0lkRlZCNg?oc=5",
+    "source": "Público",
+    "ts": 1793629796
+   },
+   {
+    "title": "Ministro da Defesa alvo de ataque informático que permitiu enviar mensagens em seu nome - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR3VQcG8zdUQxenh3SFhpWlQybDM1ZGVRTjRWUWpFMGo5ZDJlRGRPYnZSVlBQQnY5bEdsbC1lRkJ6eklVNjNiOENDb1RscDVycjdrdVpGY1p5U1BMeXAwTzJtSGcwMGFCczRNZHpnM0l1TzdVbVBKeDB1enB0VGR3TDV3NFJVMzh6cVZGOVFPQnNocUZtaGJvai03bVBBd2V1X0RkYjVwTVRnZFZ1TTc2MmRCT1pydUZ3a2FlM0ZRSlNPY1ZlV3hV0gHCAUFVX3lxTE5vd01paGg2aEdlV3N3d1RtN1JGRWQyWDFuSkdvYktNUEY4NUNMTW1uLXhMY3N4S2xSUjhlOVNQOVZzVTZ3U3Q1YmJvNzRTWWg5RVpHS3NpY2dCOUhCd1k2UlZDd1dxWXJobG8yT1FDT0R3MV9FV212cVdsTUN4cWhZcXVlYzJEcFMzaXYtWVA4dUQ4UEtVX19kYjZlSzZVQ1dVZTZQTXZIQmxDeXktRzIwRDlTUmdDS2tqeXEtRkZrbWN3?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1793628840
+   },
+   {
+    "title": "Sistemas de alerta às populações. Rússia e Ucrânia trocam acusações de ciberataques - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSTlSUjNzekFCMnc5SFRRTkM4V2ZDQ0dZTDFRdHBRZjY0VGg3Y0REOFZTQS0wWnR5d3BTbHBTT1Iwc1lWRU5zOGkxb1dZNUx0NU0xMjlKRUE0WXpOcVhLblpoVzF4c1RNYTNxWGdDOVhVLTU1ODlNT2ZDUW50OThZc0lJSFV5OHUwVG1JRmt2TzNNZENEcmdoY1JpdTEybFM5Y1E5RmJLZy15S1hhQWhqYXhpTlJRT3c2dHpBUFV5aXVGVm8?oc=5",
+    "source": "RTP",
+    "ts": 1793628322
    },
    {
     "title": "Na Bulgária, Iliana Iotova vence as eleições presidenciais à segunda volta - Público",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQczhhOFVZS1NYa01UYk9SU2RBY0NuMlE3Mnp4dWFpVG1LN25kOG41UmlyVUVuc1ZEUkRvRHNPeEtJbnBsR2d6ajRmeER1UC10WG1aSmlqOXpRNzdYa3ZYRkZQVWJBSVhHWFlMRWJYZ0pUMDVFNHNBTEE1QnBtWVBjeXNKQnV1dWlfeVpFQnRPOEhNN0RFWm5mVnhDTF9ScDdXeDFtUG45SGNnUzZUZk5kMnNPNWJyTWdkalVJdDZR?oc=5",
     "source": "Público",
     "ts": 1793610925
-   },
-   {
-    "title": "Embaixador da Suécia: “Imaginem que, no final, temos soldados russos e norte-coreanos a controlar as ruas de Lisboa” - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPb0pKb3Nlcm4xYV92RVdGVUJOWktzbHpVNWRMQ0NaTlRxVDdFRWt0VlNUSFdLVW1UOC1fZEZpcUlfWmQwbFF0NG12V0FpOEs3RTR5clloVjF2YTFuNFJzZDlhNkpoOXZOcGdVNzJ0VE93VUFFZWVvOFJoclZNZXRxSVlMMGEtM0N5QXhfeVVHRUFrUjhyOFNVR3ZZNnk5Y3QzS21UV2pwN2xBT2tjaGZXWTY5MG94WjlSVEVSUnZyMURCdmswUk50Y0xmaHFXX0Zva3NJVzBoeDdOTU1JcmRJc3N2bTlld0VCTmVocXl0WQ?oc=5",
-    "source": "Expresso",
-    "ts": 1793609057
-   },
-   {
-    "title": "Apagão geral deixa ilha de La Palma sem eletricidade. Declarado estado de alerta - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRWV2bWp2eWRtYi1uV2NOYnlDN3RHT2hTUlladDR3TVhvb19yM1pWZHpHLS12UDA5TjFEWl9ncHRWck00X2Y4c3E5Uy0xWUg4dG1pcV9SQk1NMi10T2V3bkx1c0t3S0ZoblRVX3h3NXBWVFd6elAtTkV1ak0ydHVBa1RrQjVocW4teVNPeV9xQmVHckVKMFVvcUpIOEIwVjJreENialBBdUM0NW8tMmIxckhZMDV6TFZZ0gGzAUFVX3lxTE5xZVU5RTdiWHZGQjU2NDNYLXg2NE5zVHJaVGtTMVFublRxQXN5U0RDVXpkQ0VHdm1JV0t4OURkOWNYNDg0X0NlZ2pucEZmd1l1WmNHNVFiMkhreTJEUXJiUWhhWnlhY05Eajd1bVhfbVFTVHFwcWZSS0dZOFl1dnpkeFZWcDY4a1poQUV1SU13d2tNc05UMHRubzNFNDJOUGR0ajBVZ0xYeFNFdmdtQmQzOWlF?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1793606340
-   },
-   {
-    "title": "\"Já não temos tempo, vamos despenhar-nos\": queda de jato na Flórida faz pelo menos nove mortos - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxObW5Ld1psM0hrNUdXa1p4YTE5X0pRbERTYWQzb0VoSnpMV2l6dkhkZmo4ZFp1YVFFdjVud3VKUGRxX2pUNnBOVV93c3B3UngwMlBRYzRfLXkxZW5hdkI4alV5Uy1SOWl1MThTa0ZHbkFDM0tfd3lSOVBxSUYxTU1kYVphNnRzcGZoSXBDaGNVZkMzRnJYcU5MT0RjV0UyVWhWa0MtekVZZmRxN0poakFNTUp6bU5zeWVDQ2pOUk1jU2NoUWhhamZWalVEOUluNDhqNE8xX3F1c3JwQQ?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1793605875
    }
   ]
  }
