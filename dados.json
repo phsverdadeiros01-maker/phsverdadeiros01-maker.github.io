@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-03T12:00:10Z",
+ "atualizado_em": "2026-11-03T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-03T12:00:11Z",
+  "atualizado_em": "2026-11-03T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-03",
@@ -1632,10 +1632,22 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "‘Guerra’ de confeções em Barcelos: Acusados de violento sequestro a família foram novamente absolvidos",
+    "link": "https://ominho.pt/guerra-de-confecoes-em-barcelos-acusados-de-violento-sequestro-a-familia-foram-novamente-absolvidos/",
+    "source": "O MINHO",
+    "ts": 1793724382
+   },
+   {
+    "title": "Encontrámos um outlet em Barcelos com pratos e chávenas entre 10 e 50 cêntimos - NiT New in Town",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUhsVW01VDB5UE5XRW8tMHcwMG5Ldm9HT1RHdjFKbndQWlJycTg4VkRYbzVXNkQ0cDBYVmtYdGVGemowS1ZieUpKa0NSUjlvT3VlbEhfX2FPaDgwZHd2NmZWMGRaZi1QMUx0NFpTeVE2STVMV1pBdzhrVzlBNTA0ekx2djJSSnhBR3llaHlLb2ZCU0J4a0kxQXVDQng4eHNBVGtrbjVkNnIxUmthU21zNmJTdUtzRGZkRjBScA?oc=5",
+    "source": "NiT New in Town",
+    "ts": 1793715300
+   },
+   {
     "title": "Arte e intervenção social em destaque nas Jornadas dos CLDS 5G em Barcelos - ComUM Online",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcFZFcDA1RVdLWnhFZllmdmpJNkVQd1ZPS1hVYXYzd2ZxUDF6ZWhqLWlpZWEyU2ZSUzRZcGFtNFMwd0g3YnRySlZycWR6aHlCY1hUa0piT1BPNHFjWDNTZFdsaWsta1pVZ2pua0Rqc2hXNUF2LUwxTmxxYkRUaG5FazA1MU5xTmRoMFNLSnd6ZjBSbHMzdTlRQl9UVGV2VjF2b1lEVGVCUDlKbXlhOW5reg?oc=5",
     "source": "ComUM Online",
-    "ts": 1793701466
+    "ts": 1793701726
    },
    {
     "title": "Município de Barcelos inaugura três courts de ténis requalificados - SAPO",
@@ -1650,25 +1662,25 @@
     "ts": 1793695868
    },
    {
-    "title": "Futebol: Gil Vicente e Vitória SC anulam-se em Barcelos",
-    "link": "https://e24.pt/futebol-gil-vicente-e-vitoria-sc-anulam-se-em-barcelos/",
-    "source": "E24",
+    "title": "Futebol: Gil Vicente e Vitória SC anulam-se em Barcelos - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1MZmduSFVGNnNYekZxWko2TmM4VVdSTTVtMWVEdG5BU1BMczdkTVJqdFhnT09jTy1TNFNNQWxwZVU1QzB1VXZ4NmNPT2RBRXc5aUU2NXptb1ppa0ZIZk82c05Kc3BfQjlFYzNvOEJhQjB1a3VrNm1Oc2xB?oc=5",
+    "source": "e24.pt",
     "ts": 1793664652
-   },
-   {
-    "title": "Assembleia popular em Barcelos para discutir crise da habitação - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPREYwRjlmV3ZtZjV4QjZhQnpvZVFWejhnendQMkJFc1NiT0hmLW0yanNtajBhUkp2N1NWaW5xOHMtc0ZvZlM5ZEs5eUdBdU5hRU1MdU43YzFMQnp0UHlBWmQwZmxuMmxienRhb3BGcC1Oa2Rqb25OUDYtb1VZQ1pibnBHcFcwSWFfZ0E?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1793660820
-   },
-   {
-    "title": "Treinador do Vitória considera \"justo\" empate em Barcelos - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWNEFnRDBJTDdJUlQ2bWNxcTJ4YkMtOWNUcnI3X3lEbzRqWkdYVlB3eHlENXlFUnlhb1VtdFo1RDRqZDJsblBRUF96ay1WeVRhUkR6Rk9SUlZsWWhMTHFfc0QxSnZWS3h2c1JsRTQ0STJPRW16Z0JHM1J3Vmc2M2s?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1793659020
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Município investe cerca de 58 mil euros em novo ossário em Fão e columbário em Antas",
+    "link": "https://e24.pt/esposende-municipio-investe-cerca-de-58-mil-euros-em-novo-ossario-em-fao-e-columbario-em-antas/",
+    "source": "E24",
+    "ts": 1793725975
+   },
+   {
+    "title": "Esposende recebe três concertos em novembro, entre a experimentação musical, a música clássica e o fado - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNT2tTcDhFNVh0aTNIQ3ZOZXVMWUlzd1ZtY3Nxa1BITGFaejNMNnV1UHA5VjFnbDZEUXhnR1p1MjJaMWpJbjJFVU1FZ0FhdmlnU0pkUEd6TnZSZ0lTZWFvVlI4Q0ZCdk9zUmtOeGNBUzdXNFF0VXFkY2t0QXlWUUNXRUFTVERob2QtemVPN0wxd3NNRjNTc1ZkZmpKM2QwVDh5MS1qWUtydDFiMmhNNXhxRlk1cjBQUHlTR21iUG1XeUR6R2lRd3IwRDUwby14b0JKaXY0d2xGU2VQeE0?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1793720070
+   },
    {
     "title": "Grupos folclóricos juntam-se para celebrar São Martinho em Esposende - O Vilaverdense",
     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQN3plQ09qTmZJS0E5emg5NjJOdTlwZ2doRUFoZUhJSU5NZEdqTDRLM2RPX1RNSng5Nl9IYzc4VWREYnduNVdPcE9fTmtwa3ctQlFZeG02dXMyVWVublVsQ1lDbElBa2lwVThadjBqeHVDa29KUGI3aXFwNm1TN0JaX1dB?oc=5",
@@ -1682,60 +1694,48 @@
     "ts": 1793658060
    },
    {
-    "title": "Esposende paga 90% do novo autocarro de Antas - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hXzlYOFJ1TXNnLXlNWVVGYURvdlN1TjdSR2F4LWdkM2dSSFIzX0ZTQUR6aGtsWkd0bzNoZk1xdnp2d0NLZkpXYTUwQ1hvRkYxNW9UdWxnZ3F2c0lIVnkwMFowYkttYm9iODN6ajdNbWo0UQ?oc=5",
-    "source": "Braga TV",
-    "ts": 1793655703
-   },
-   {
     "title": "Comunidade Intermunicipal do Cávado Distingue Zendensino - Voz da Póvoa",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHNxZ2hiNXZ6cDA1elpfeVN3UDM0Zl93OUdaSzBOUlNIZmUyUEZjZlVxS0kyNEgzc2Q4eDZRWjk0MnMtaEUzdm9DZnR0TUFXT3d0TXJuc0NlRm80cUMzWEF2Q2NVODVKd2RYSGYxQTE0MjBvNVpqcThtdlFPZkpPUUhpS3NzQ1Q2RWxyNFhEZko5VGQ5UzNDdWlDdDlfWGxzWHNVekpZTFZKZw?oc=5",
     "source": "Voz da Póvoa",
     "ts": 1793650477
    },
    {
-    "title": "Relação de Guimarães manda repetir julgamento por morte de idoso em Esposende - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVY5Y1l1cl9rZEhYY29udEFURDViNThMeTBRMW1vcjZpWXNJVG9CcnRqNUpwUkVldWVkYkRmQ3hfb2JUa2o4OGFEbW81VndyenNTY1J5UWJIYTBiNGtBbGlVbjBFb1dodFhlbE1YeHVsU1M5WE05MDFmNFdLakFXVENhM2lVRzBPMjh5UkhKb0tKQnZTUk96N1FJb2NKaEhKZlRJWWpB?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1793640240
-   },
-   {
-    "title": "Esposende integra rede de ação social de Braga distinguida como boa prática intermunicipal - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVDlESHRLWjFMc0NfM0hxY0pUeTRENU5LcjRmM3hmNVd1blhaMFZfa2NDUHVXRGo1dlFlbkpnSDNDYWwxSjkzVEJJQWVMcWduaUNSVlhlQ05ZQXowOERWZGQ5Y0loZ2FtM050UmJzY0t0c2lhbFo2R01OajdYZGFfSFFZU0JVTF9SMHA4QmJrV1lvRVBjX1RYUmVDeWlub2JlOVRpYkdSNERwakRDaFNz?oc=5",
-    "source": "Braga TV",
-    "ts": 1793616324
+    "title": "Esposende integra Comunidade de Prática Social de Braga reconhecida pela ANMP como boa prática intermunicipal - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZnV3UVJPLTlWOHpjZll3SzdLTHFkdWpJS2NlXzFqUlM5OHVNQUhMUFRNRVVKYVBuR1k4ZlpaN1l6ZzdRRl95cTd0dWdHbGQzQXhtREhGSk42dGw1V2o4STR1WDFvZDJCZjhNNDRqVmpRaHFFNnRyZjJWN0s1ekJDWjdTYjdIV0l4VWZXNTd3VTBlNjR6d3NQcWVJY0hrMUxtWE5yazh3bmYzd3pWbmFqRzlaOF9yV1pqcnNDZGtjNDl3a1RWQUs4RlNrVQ?oc=5",
+    "source": "SAPO",
+    "ts": 1793618460
    }
   ],
   "mundo": [
    {
-    "title": "EUA fazem “ataque limitado” contra a ilha iraniana de Qeshm | Médio Oriente - Público",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPLTlGU1NtZGhVNERfSldqaVlnVTBnYU9DcllCU3NDZ3ItajRCdFk3eFlDQzJxTkRtLXkxcUg3S3pSZ3NlQjdXcGxWNGpRbHNEelluOEppTjBJbnpYbURkbDNKeG1zRlUyRVBPSVN6WW5nQmJvNFExaEVNUXJtZjJpZVROZl85VFJIQi1pNWRfUFdQSTZadE9IeHg1M3JfSkFIcnQ0?oc=5",
+    "title": "Resultados das eleições intercalares 2026 nos EUA: atualizações em direto com mapas e gráficos - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaTdLOF9YUVVIV3hsSUUwbjFlVDIxQVh6dXFYeFRlcENEb2xUcDZMNWdrV2RwcFI1blRMZWlUYVdDdXBCRE1HLVczWnMxZi1DUW02bkRlU1Nacmp6TEJVbjVJS1dDd3ZJbEZSZ3M3QUNodEhDcldMUm5jM1VzMkVNRldGQzJKMjFCd1Z6aDlUX3F0MVctSUZPcW1DSmJmUjAtd2RqYW5Eem9JRm1USmg5QnNkQVhPYndJOVVZdzJTcFFCdmc?oc=5",
+    "source": "Euronews.com",
+    "ts": 1793725300
+   },
+   {
+    "title": "Papa: rezemos pelos falecidos e por quem hoje chora as dores da guerra - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTAxTHVwamhfY1p2OURHSlhHVzAtcVo5cy1OZlV4SU5IZ3N2UnZjTkhKQWsyMjZRanM2WU11Ql9CbG9hUzVXU3plRDdnOVhRenhIZUhZWVQ0TlVyR2huMHpZamNGWFowVkxsS09LSHhXNDh2bEE5cXZqbEdEbjFjdEZDZGVyTk0tUWlvZFI5ZVJ2b1VJQm1sY2dqa0pJc3hDRE1ieW9ZcW9wN09LNjRxQk9USTlCck5o?oc=5",
+    "source": "Vatican News",
+    "ts": 1793722923
+   },
+   {
+    "title": "Várias ameaças de bomba em voos europeus nas últimas 24 horas | Aviação - Público",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOFR2MkxVS0VTRS1zTVBINVV3eVBhdE93WjJjX2xxRlUtWk5Za0wzdVlncW5iNUg2ZFBhTFpDYnAxQXloeWpzYUl6V00wc05PZHNJc3NrYTlmemRMMTVmY1lNLTN1bUIxNlpROVplTkhIcEFicGpJblduVm1meFhJNmxyUXdDYWtzeHkyWmt2NEVta3lCV1F5ajZ0ZGIxWk9zUllNWEVfWmpyR2M?oc=5",
     "source": "Público",
-    "ts": 1793696055
+    "ts": 1793722149
    },
    {
-    "title": "Vítimas de queda de jato eram empresário multimilionário, mulher e filhos - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEhuWXV0TklUYks2QnFqTGhITXgtTXN2R2xnX1k5LUNBNUdxU1dkdkZPSUNNSEUxTEl1YkUwOE9zWWoxbVF0d1BRdTg1VWx6WTQ2bDlKaDdxSHQ2MGlmUE1adjUzOGZnTTJJb1c5T2huZXNONFRMdTE3SVlURkRUc2g1WTZQUmtSMXVHdS1sQ3RxYVl3aDFTd0NkZlB6d3hRdGg5eDRuMGVDa1RCSlVqdXNwb3NZRnloTUNZ?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1793694780
+    "title": "Trump anuncia fim da ajuda militar anual dos EUA a Israel - dnoticias.pt",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTmhPbEY1YjNJWk5vRXdWWGRKMGtMMkZLT3lFRHR3M1hlcmZkWVVTaGNGYjlCVlBFYV9xWHFFc3hlMTdBZU8teXNWM1ZETlNUdjVpWkVjRFM3a2lMVXhHWGNhWlRMMTlwamZtWnlBQmpRRDVyclRHNFFfdWZLc2NOaWpxRHVRT1BSRW5YcG1QN3lEcWhjWTVxUWxBUzFXYXYyclE?oc=5",
+    "source": "dnoticias.pt",
+    "ts": 1793717700
    },
    {
-    "title": "América vai a votos com a maioria republicana “em gelatina” e sem saber se os vencidos reconhecerão os resultados - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNWWNUSTJsR1JVTmQxRmtFVm1ZcUxEVUcwM2U5VFBiaDVpYXhpR05sTnUwX2FaRGM4NXZodDViWUVYTVFrYTVvWWJsM21lU0JnUXJBQ0NlZmNLVDBPcDNJbzB4UVRVOGMwcmVFSmFHZlJhbVZ4LWhyTkY3YUJUeE51UzVpaEFFQjk2a0NkLTB1emRzVGFGOTBvNDNFMnVjSWZSOE0tS3J3VEwxSjFCdU1ISUF2S0lnaHppdUhBTkVpSlFkcVZyQ093bUlnR2dsQ0REUmFLOUZSWkhHblNQOEU0ZWhLVFhNbk82cU9F?oc=5",
-    "source": "Expresso",
-    "ts": 1793692394
-   },
-   {
-    "title": "Zelensky denuncia \"massacre\", ataque russo a centro de ajuda humanitária causou 29 mortos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOekgxczVNeFZOUHdBSWRJTnRTeXM5T0oxOUs2X0c5TVBMdUJQR0JjYklOZnJKUnl0NzExRW5HNTFsVk9oS3d1MXNHRVl2ZThpTkdla2dCZHV4ZGwtbVNnMU5xUnYtMldQVmhWMFd3ellRbmxYd3laeWU0cWtJZkRJY0pRSWxFd0Z5OW9LSVhJb0luVU12UFAwbVVjb2xSYm5iNFpKYm5kVUowZWhMbFM2NUJyb1ZnTEExVVFrTnRXX3VnZHNL0gG4AUFVX3lxTFBpNTRsX3lGd3ZtQVA5U2V1Um94c2NwV0Y4WmZXZWo0NjRkR1NndUludDVNX2YxVXRJT3RyUXUwZmZ0NHUtbV8wRlRPeW9OUlgzZ0RTTGNqT3VyY1N4Y3hnS1hwVnZld2lXOUVCLXRZUlB6dDlnbU5RMWpTdEo1eG5MdHJnejZCcDdSMlNCQjIyUkRabk9NVTNhc3R3SzRLMDR6OTgyeHdaSFVpaTh0eTM4S28yZEs5TEk?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793691180
-   },
-   {
-    "title": "Chega o dia do juízo intercalar para Donald Trump - Público",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNGlXSmptbGpXVXNSc05DbGMxZDgtb0Nad1hYRkVNUHliVGZIVUM0SUZLR0lXbU0yMnAyNTU1M0dzejdtMUYyZXhhYmFPbVZZRnV3UXhUd2RUYjNGZzJZN2JIMFBRMlRpMHFlSTBQNWRBcWstUWs4RHpPVFRHM2xtUVNia09ENVk3dmFoWTBPRTR5Q2RheHBhQjIyNA?oc=5",
-    "source": "Público",
-    "ts": 1793685600
+    "title": "Máquina de guerra dos Estados Unidos ataca ilha iraniana em véspera de eleições intercalares - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQLTBZbmZSeF9ETzV4U1Q2cm9lTkZvcDRiQzhTSGV3TG0ycllEc0lmbGRDNUJlQlB5QTRfcEdjLUtka1Btd0NiZUVhb2Y0ek1uUmV0UTVJZlo3cmRiRmRvX3JxVzFzbnhiUlRUY0lxVjdXejJ5SG9xRUhSNzNyalBpT2hLRmNnZmZObEI1WHV3ZEdmSUxZZlVoQmI2ekw0NTJycDFzZDNtclpfc094Umd5NUgwSGk3SVZ3T21UOUFMWUxCUWpTM0pRWmM2b21sOFJ2?oc=5",
+    "source": "RTP",
+    "ts": 1793713484
    }
   ]
  }
