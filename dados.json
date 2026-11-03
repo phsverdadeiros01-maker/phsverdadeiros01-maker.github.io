@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-03T00:00:10Z",
+ "atualizado_em": "2026-11-03T08:00:11Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-03T00:00:11Z",
+  "atualizado_em": "2026-11-03T08:00:11Z",
   "dias": [
    {
     "data": "2026-11-03",
@@ -1471,6 +1471,24 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Dois jovens de Barcelos querem desatar o nó da recolha de resíduos têxteis em Guimarães - ECO",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSGhWd3pZYTBsUDRxbnEtUjNWMk4xbjFJLUxrclltY3Q4UVVzUHJhWklGSDBLNG5icC1kMGtJQkhhcC04THdwVW9weGc2c0gzbjh0ZnIzSnBSYnB6czJjVDZrTnVmU3BKT3hBaXU4RXlUcGtpT1lISGdPQ1F5Q1pNMmJJQ09sNlVxMnBRdnRrNURzYkNueUxIRlVJdmFMMzN1SDJtQkV3amNPbzM4cnZROGFtNGV5Z0VsS1pB?oc=5",
+    "source": "ECO",
+    "ts": 1793689927
+   },
+   {
+    "title": "Futebol: Gil Vicente e Vitória SC anulam-se em Barcelos",
+    "link": "https://e24.pt/futebol-gil-vicente-e-vitoria-sc-anulam-se-em-barcelos/",
+    "source": "E24",
+    "ts": 1793664652
+   },
+   {
+    "title": "Assembleia popular em Barcelos para discutir crise da habitação",
+    "link": "https://ominho.pt/assembleia-popular-em-barcelos-para-discutir-crise-da-habitacao/",
+    "source": "O MINHO",
+    "ts": 1793664450
+   },
+   {
     "title": "Treinador do Vitória considera “justo” empate em Barcelos",
     "link": "https://ominho.pt/treinador-do-vitoria-considera-justo-empate-em-barcelos/",
     "source": "O MINHO",
@@ -1483,28 +1501,10 @@
     "ts": 1793656309
    },
    {
-    "title": "Apesar do boicote das claques, V. Guimarães teve cerca de 300 adeptos em Barcelos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa3lOQ3hTYU16N1lSWjRoTmlkMWJvbXE0d05JblJxZU9TTTNsVFhjMGlYbzZYdTNGdXN2UUVJUG54cjJJZEhjYzZiRl9TdW10Vzl3Q2ZRWDduVE1wUEpESGt2djVxQk1hZ3JrR2lSZUZCZVgzSk90TGtlelRrSkJwM1h3dWxWTG1CbVFTZkIyck1rSmh4bFVUZzhJSUpWdXhyN3Y1MTduOWhJTHNSbzlYN2FzVG9mTEEyd3VxQlpJdS1hM2VhalE?oc=5",
-    "source": "SAPO",
-    "ts": 1793652300
-   },
-   {
-    "title": "GNR apreende lancha rápida em operação de trânsito em Barcelos na A3 - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY0pGZkhick4wM1Z0Rkx0M1lOQUx1d25aVExGUEhQOVNYS3ViTk5ISUpYV2lsZkRvRjljN3RlUHBrTm55ZEdFTm55aWhIVkh1ZS1VYS1UZzlhbm9nN0owWjJ3cXFGNU1TSENpWExwRGEwUG5pOC1Ea2dGdUx5NHFoaklXR3JEYWhsejJBdXY1Tzk2OHZxYkVRajZBTFJKb0wtVHlYbkpBS2FVUjFNN2tEM2ZOMm1oRUk?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1793643794
-   },
-   {
-    "title": "Barcelos: Município de Barcelos inaugura três courts de ténis totalmente requalificados",
-    "link": "https://e24.pt/barcelos-municipio-de-barcelos-inaugura-tres-courts-de-tenis-totalmente-requalificados/",
-    "source": "E24",
-    "ts": 1793642574
-   },
-   {
-    "title": "Barcelos: Campos de ténis estão como novos - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE81ZWJHcWhiUHpCVHZSQXRDQmI1b24ySGhuMnhXazRZbXl2akZoQkZTVDdHc3BVcTZjTU1XdGNMdHhvV0JfSjhXTjhZRVZYbTJJRFZDQXY5WUxTZG1KSmxyVE5DdTNmaUdpa2lUag?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1793640360
+    "title": "Apesar do boicote das claques, V. Guimarães teve cerca de 300 adeptos em Barcelos - O Jogo",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0tfRnFWeTluR3g0aGxfVGllRlhyWFd1SlRFZEVFaUlkT1dMaUZoTUlqX3RWU3BOeC1Gek90eVB1MEFqcmpXWGVWeUtsb1RtbVhQLTVwemthTWpMS2JHU2NyckI4clp4bldnWm5PbGxuUmFCTV82VUM0YTYzdmNqbVdJYUVLaGktLUhFTWFuTC1jM3FtN29pUVI0cnRfUU4zNlhUdW1VNTJKY3dCNVIybFJ0NEY0OERCVjJjWEo2YW5vd9IBswFBVV95cUxPMGpzTnM0OTlpLWVSRmQwUU5IWjJwb2lnTks0UGtnNENfQ3lxdWNjZ3N5Wl9XQy02Q1cweDBaNkhYc3Z5QmRFd2tvT1V4WkVOTDJKbWpzQ0txcVJkN0w5OTB2VzRuRkIyMnlWSjFIT1dyR0p0Q1R2Z2xNQ1JXQVVzWjVmS3RCczY1Zld5WV9EVUhVbW1HSHp6eE1PdldvWlJXM2h3U1UxT0NaTUYtUHZLN2JOOA?oc=5",
+    "source": "O Jogo",
+    "ts": 1793655900
    }
   ],
   "esposende": [
@@ -1521,6 +1521,12 @@
     "ts": 1793655703
    },
    {
+    "title": "Comunidade Intermunicipal do Cávado Distingue Zendensino - Voz da Póvoa",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZHNxZ2hiNXZ6cDA1elpfeVN3UDM0Zl93OUdaSzBOUlNIZmUyUEZjZlVxS0kyNEgzc2Q4eDZRWjk0MnMtaEUzdm9DZnR0TUFXT3d0TXJuc0NlRm80cUMzWEF2Q2NVODVKd2RYSGYxQTE0MjBvNVpqcThtdlFPZkpPUUhpS3NzQ1Q2RWxyNFhEZko5VGQ5UzNDdWlDdDlfWGxzWHNVekpZTFZKZw?oc=5",
+    "source": "Voz da Póvoa",
+    "ts": 1793650477
+   },
+   {
     "title": "Relação de Guimarães manda repetir julgamento por morte de idoso em Esposende - O Vilaverdense",
     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPSVY5Y1l1cl9rZEhYY29udEFURDViNThMeTBRMW1vcjZpWXNJVG9CcnRqNUpwUkVldWVkYkRmQ3hfb2JUa2o4OGFEbW81VndyenNTY1J5UWJIYTBiNGtBbGlVbjBFb1dodFhlbE1YeHVsU1M5WE05MDFmNFdLakFXVENhM2lVRzBPMjh5UkhKb0tKQnZTUk96N1FJb2NKaEhKZlRJWWpB?oc=5",
     "source": "O Vilaverdense",
@@ -1533,19 +1539,19 @@
     "ts": 1793616324
    },
    {
-    "title": "Marinhas e Forjães derrotados em casa, Esposende não vai além do empate - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTlBRHAtSFY1NG1fOUtnQWRWMHlGYmRQdWxMbjJGNzJ1ak5BdkZtRWZPZW5iUVE2NjYzNDh1OU92OFFRMDMyVWJ0MDl0TDZDNFo3TzlxanFySklEYlk5VTNPZDVrRF9NVWtHeGM2c1dZcE9ITGxWQVMtT2U0VmliRTBFTm5rMS1ZeEFfX0I0LVlXcE5WRXQ3dDBrc2dDY251?oc=5",
-    "source": "TV Esposende",
-    "ts": 1793557248
-   },
-   {
-    "title": "Eucaristia Todos os Santos em Fonte Boa – Esposende - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcExYazVDZktuQ3RJMWhCSjdjb25Gd3VDUTJJa1ZDQXlicnZiaHF4ZnFjbENNUGhVTTY1ZE5oZEVYUXUwOWtQckl5aE1vdDVZZXFNN3R5a2dQVVpvMldmc01WYUZyNEE2YzVjMjNtWVVtVUhKcnRUUkJ2YzZ2RXNEcTRpN1ItdGFWTktNeDI3QVFYMnBNbll5bEVEQTFodw?oc=5",
-    "source": "SAPO",
-    "ts": 1793545920
+    "title": "Santa Maria vence Torcatense; Esposende empatou em casa - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDgwSnZWWnBoa0FWSEljaUYtR3lLbUlMQ05vVTF0cTlCdXJIVkJoYXhzelM4dWJnRFEtYnMwb3BIaThwRG5yNjYyeGEzX0J6MlVGbTBXM0t6aDNpbW1ranRWVmtDR3ZFUjZESlpCV3l4WW9iYXJUYWJFZjROMVFlSVFIcnhjR1FYbno2b0tYT3duNEJKeWtNTlBpOA?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1793557868
    }
   ],
   "mundo": [
+   {
+    "title": "Há uma nova versão sobre a fuga de Bolsonaro - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPU0JZSDVFVXl1eWE2dFdoMjY4eC1Ubm5YUjlCZ3RkeHF0M1RJeXpHVW5DZHk5N3RDaXNGZTJyOWVEcnFWNlF3QlVudndNYUNILUFDVnBWVlFSRUlBMkRZSGFBTzF0NDlfS2hCSFZFZDc4X0tKS1NLMi1CQ2lqTmU5U3pkck4waUxFUlHSAYQBQVVfeXFMT2dMMUZjQll3SllBZnNnV05OazdsbEVQRFVsLVoxZmpCZFh4a2NwaXVyY09acHN4aEcyMktka0ZBU09BbU9YMjlmTWFWQjVmWENHcWdDdjhsTUNkQmZxeU5XeUtOYndxVGFfaUxDdHFCdkZxMHNWS282b2FWS2FSTHM0NWlp?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1793665800
+   },
    {
     "title": "Trump promete vetos e democratas dividem-se na véspera das intercalares - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUnZGV0hTa1ZyQ2N2eWZhU2dkbEJERUNadDhjMUppdFJHSTVGdEZ3TER0MjdEZDhqNmxCa3FNT0gtVjRfbDhjWlluY3gzRFAybGRnSFVFeGprcW45ME0xcl9ReXBTa0d4MUhCbGg2S0NRZzhJYUpJekI3d01UMUpGdEt4b2JjV3liWEI0VFFEdklnUGRVMVMySmMzVXhpdjV4TlR0dHI3VVRQLWpDVGUzbFdnUDPSAagBQVVfeXFMTmtlcXNTd3IzcXVqVmYzOUxSMFFINm1NbUpGNnYxUllTS2NGa3FTUXZJXzFKMWVzWVJMeTJRS2xXZFlKZjI0Wmt0bDk0d01pZ0ZsbUtJeWFmcXRlTkVlUVZCV2lyOFg4akRYWmR2SVQxRGlwMnVTcnlIdUQyYmcyZ3B4MXZPYXRjRy14SnNsRjRHYi1JOHhPcDZ6enEwMERaaEZoVEduN1JK?oc=5",
@@ -1559,16 +1565,10 @@
     "ts": 1793649986
    },
    {
-    "title": "Na primeira sondagem pós-tragédia de Toledo, Sánchez não chega a 25% das intenções de voto - Público",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZU5qdXJhaVRtenJiRXRNdEpNRGlZTDNEUU5LZlVsTnNjWGozWHo2ck5PUTlLRlFjM3labm9oZzZYVWdCLXdjUW5XZ0dGU3ZleGQtZ2dLU1ZOQS1sVEMzU1FNYnQySXhvR1NRR215WFl1clN0YVNzYnNqOEZYOWQ3ZVdaX0lic3E5Q2lWZXRnY2VlYkstemdkcmlFMmJQN08xM01CRkhKTEw5cWEtWFBycFhDclppTXNRNTA1V1dTLThWOUNYRmtR?oc=5",
-    "source": "Público",
-    "ts": 1793634955
-   },
-   {
-    "title": "WhatsApp de Nuno Melo usado para pedir dinheiro. Ministro acabou por trocar de telemóvel - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcEtmTzNJRW15NVVueEVELTZDaHJ4XzlWcWQxMVo2c3NpOGJBakZaV2FsNEhHZ3E0TzZ1dnQwWXNwZ01ac0dGd3RUeFRpN25oM29VM1Nid2NnSTlzdm51ZGRfcFRtWFIxRFI5R2pSWDJMZXdzdFhONE1FaXhhcXlXOW9FSU9nUDhNb2p0YkNXSzVNdmJSVXozWHNhLXBBVnlkSzM4Uzg5VnpBbGtVdmVFQ254TGplZ0tRYnVWX0x1NG5GOHFib0FZN1hzZ1FCSlVsYVE?oc=5",
-    "source": "Expresso",
-    "ts": 1793634485
+    "title": "Áudio revela desespero de piloto antes da queda de jato em Palm Beach: \"Estamos a despenhar-nos\" - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYUpzcWM2WnhOeW1OLTVlbHowMHA3SGlUS2VQVVpTTkdTbDROdUo3aEpsMnM1aHE2LVA0RDhVQ2NkTkJmeGxhbkhRLU1RTVlveGJrbExFbDcyYklPUURGMEdqR0NWRjBMZW5lZlBmRHNza1lMV3RaTWtuNTNCcVpYSGxtQ0hpUzN0alVodjRqME5sME40NFprOXR0b0kwMEVqdlRUMGh1aWpmM2dDRGpLMFdMWFQ2VzhXU2JZMjJTZGE2cGtDeGI5RkxrQnFwUjlNM2s00gHCAUFVX3lxTE1fY3RUQi1iSHRqN2s5ZGxxMG9WU2tkeW1wellOdHpMU2FJak5NZmstczI1MUd1b21LM1dVZGpaZGZCbWNvX0duN2lkUXAtYWxQVTYybDE5TGRzdGEwZlJMMUdjM2FJWlU1ZkdLd3BwRkhhbllHeWQzSTIxenBMSWMtc1Y0a1paaHdzMTFTNkxfSWVrekgxVVFXQXd3cldndFEwVlByZzdEN1Y1UzJGUkhfOHZKMUdtME1ZeTB2RVlZZElR?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793639520
    },
    {
     "title": "Papa: rezemos pelos falecidos e por quem hoje chora as dores da guerra - Vatican News",
