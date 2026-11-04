@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-04T00:00:09Z",
+ "atualizado_em": "2026-11-04T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-04T00:00:09Z",
+  "atualizado_em": "2026-11-04T08:00:09Z",
   "dias": [
    {
     "data": "2026-11-04",
@@ -1518,13 +1518,13 @@
     "title": "Município apoia construção de ossário em Fão e columbário em Antas - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVzNPV1JpYV9YbmdiMzNSb3cxNVIweWVkaFoxUG5lM0tNblctaXAyYkRNMXpGTmFiMHp6RGhRek9vNFkwYWZNQUZQTzNkRnRoUlRmSkZBUG1TajRNWFllOEltanFZWE41dGtJQzlxd0E1czZpTHZiVkw3RzU2OW5IQVM1d3ZIem5CNzRJVWU4aW5vZVk5MFlXRWl1VQ?oc=5",
     "source": "TV Esposende",
-    "ts": 1793732872
+    "ts": 1793732948
    },
    {
     "title": "Escola Profissional de Esposende recebe selo municipal pela promoção da igualdade e inclusão - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTlRhY0ZlZkR5X2N2Y2dncmx5Q2JpMU5wbVdVZ1djbUNGTkFtWF81MjVFN19rZS1XSVN4Vl8zZlY2b3RuUmpUVE1SRG00ODN2b3czN1YySGpFcGxJT1p4U1Z5cVhLT3V3aHVLbWhMTE01X3BkT3QzQzd5TkF5RG43UHVwQjdiNDlFc0djc0FRYVU4U01yRDN3Mno4S1IxVzh2eEZPbjFtV05YTy0zelVJdjhR?oc=5",
     "source": "Braga TV",
-    "ts": 1793729679
+    "ts": 1793732399
    },
    {
     "title": "Esposende: Tribunal manda repetir julgamento de homem condenado a 16 anos por homicídio de idoso de quem cuidava - Jornal O MINHO",
@@ -1547,34 +1547,34 @@
   ],
   "mundo": [
    {
-    "title": "Ministro dos Transportes espanhol demite-se evocando exemplo de Jorge Coelho - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdkk5Z01qeG0wVGJMUGw2ekUxX2hRQXVQWkE1VmxBVERfVlBPQkFKcEtiaWdCUDdoQmJFZWZteXhoMVpaS0gwUlRnUVVXSFFjQkROd3VCcV9XUG1KbHlDY2E2RHBNakt2eGFmSlhLQTJsM1BvS2RPV2hTTHpFcS1iUEYyaTFpcFpLZ1ByTHo5TjRuMnJhVGtJLVZqRzc4Z080aVpHeE9OQXFhTEVhNENEbzhaX09JUEhmY2I5bHJPU0tDQQ?oc=5",
-    "source": "Expresso",
-    "ts": 1793739104
-   },
-   {
-    "title": "Montenegro chama líderes do PS e do Chega para falar sobre a crise na habitação - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFNkMDhtTU9Ed1FCcWtTTWRINVVfY0dIWWRuRWs3MHl6UmU4Uk91eGZSLTdJMUM1Qkt5RTRZRkVVeHhKV0dKNGtLQlJRa2tuUFdCSUlNcnRGQ0ZSbDNMUWM1YzBTN0p6U0RGVjRseHd0bVNZQ2pDaWdoNDJuczV2ZWdZVjJvTTBlVGVfVjI0eXR5aUI3SC1DSXBtb0d1d0MydmFJeFdTM2lpWTZpNUxSRU1PNHp3aGUzaXVXX1Z3?oc=5",
+    "title": "Estados Unidos mudaram de cor. Democratas vencem as eleições intercalares - RTP",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUml5ak8yWURWUkpRSEVlVVN5ZW4zWUh6bGRXTHFldjdJZjI0SnVCMi13UnJMeTNDVGZobmM3NGtMamh3alBScTlBR3FoTFpYWWxNNjFKMHp3UGk4b0g2anpMRjFDNUk5TjdSWkVTb3RodzViVGt2VDlVZTJKM0FSYkc3ZDMwamNOVHVZYTQ1MUJvWUstY2tPU1NMUjlJd2stV0hWQVdTNmZrZWUxdk5DMmx4dS1OZw?oc=5",
     "source": "RTP",
-    "ts": 1793736709
+    "ts": 1793775395
    },
    {
-    "title": "Eleições intercalares: EUA referendam Trump e decidem maiorias no Congresso - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZERDdFlkWVFnYXlDbk52SWkxelZnbHlsRHFPM1F6Z01VczRTX0x6NWJWeUIxUjNTV2tOallDbWVuV0ozYXBZXzVObWJsQldJTzF4a05BRlpmc1ZNLWNzT3NfbW9DRXczOEFVc0k2SDV4RWNfT1EyWWJiM1M5NEprLTZmVGxrSmp3cjZKN3lMelFmMW5rTkx2LWx6QmhNMEdaMVJwZDhyaFBESmxrNVhvODRGQWNyeC1wXzh3OXJDcG5Za00?oc=5",
+    "title": "Papa: rezemos pelos falecidos e por quem hoje chora as dores da guerra - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZTAxTHVwamhfY1p2OURHSlhHVzAtcVo5cy1OZlV4SU5IZ3N2UnZjTkhKQWsyMjZRanM2WU11Ql9CbG9hUzVXU3plRDdnOVhRenhIZUhZWVQ0TlVyR2huMHpZamNGWFowVkxsS09LSHhXNDh2bEE5cXZqbEdEbjFjdEZDZGVyTk0tUWlvZFI5ZVJ2b1VJQm1sY2dqa0pJc3hDRE1ieW9ZcW9wN09LNjRxQk9USTlCck5o?oc=5",
+    "source": "Vatican News",
+    "ts": 1793749800
+   },
+   {
+    "title": "Ministro dos Transportes de Espanha demite-se, dias após acidente em Toledo - Público",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaVlLQWZ3QWYwbjVKZlBFTGNBZHA0LWN4ZE5Xei1uX3NsRjV2RGRTbHZidHhjUk5aOEFzZEphVjN6cXE0ZXRqRS1OMHc5TURfU3ZqS184UmtNOU9MV0tJck9ESFBZanNXVUtxTHpUZHBjZEhPZFFvdVVNbXpRRzhHVjRoeVgxWnluY3ZQYTU4QUFlUU1mYTFhYVBiTXY1d25WYjVvdmxBbFI0V2dWMFgyTTlPWkUtbnRGZ3R3?oc=5",
     "source": "Público",
-    "ts": 1793736703
+    "ts": 1793741940
    },
    {
-    "title": "\"É um tsunami\": FMI alerta que IA afetará 40% do trabalho no mundo - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcWVJbG1yVzJHX0gzdW85TlNjR0N6Qk9ERi1jNnRkTGFmNXZhdWdjSzZzMFdLc0JSWnpVSnlnZ1ROX1JWdlpTU3hkVFhaTVdsNTY0bGZJaUdkOEhRdkhsTWdaMWUxVWRZaEttblVXekIwZGtQbW8zTjdycEIzbEdpVHdDcXBPaVNOeGtwQjh2eUdlWU1XV0VfQnhUTEUwRkRZ?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1793713080
+    "title": "Sete voos na Europa alvo de falsas ameaças de bomba. Um partiu de Lisboa - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOT1BUaTRMR2R2NW1Wak10d2pTbmM2VWhTOGpQNnBoYVZ4N1ZzLUZyVmFyX1lZWkU1NEYySDNDZTBsaXJYSzJlX1FJNHhKMkhVOXdnc29MYzF6V0plaTNuaHVuVVFwUzBBSGlGRWtEREgweEVUcGhWa3Zlb3FKOVc1QS1YeDBxSUxGZkVya1pVa3o1ZzdVUXZCdUtSYldyNlRXQklVSXh2YVVWU1c5YUEzNdIBpAFBVV95cUxNTk1tcnp1b2tBRlJVb1c5dnpiWVo4X2RsN3BERGFISkFWTVJvM3hQdzM0VExvS1BGSGo0QmpnSWJaVk1KSVkxLUxyd0tZdE11T093b0syN1RFeG5kbTYtUkJrMENmRUdGcVpTSFFwcjc2TnI4Z1psZ05YQnpqTV81eG1FZ210OEZraXdtX3RSVXcwMWMtZnZxSXRxdklybjdpUGY4Qw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793726040
    },
    {
-    "title": "Aeroportos internacionais em alerta: registadas sete ameaças de bomba em menos de 24 horas - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ0ViUzFDTGNQQkZMTXFQbmRkQ2s1Y2hadGdTVHdxYkJZbDlpajI4U2xrVUYzcXdEdU5DamJFYmRCcWVJUGl2QWloaXE0ZXFjRUN4RU1IMkxJR0NWUjQxV2ZJZ19HQUtjcVhHOVRvTXFfMDV4OEN2bUp0dmhlallld3p2SXdHVU14Tk5qMnZ3S09HanlJLWRvSlI0OWxwZXB2YmRhTmRmaFNIcGpmc1Z1Wm1CVE5XQ0h5VTlkTkZzRkxIWXZ3S1hR0gHCAUFVX3lxTE5MQjI5M3QyT09CX3JrdURVTXoxTHhEclZQWnpFdVMyVHZlQlRacDRYbVZzYzhlT1lTaE55NmFWLUx4aktoUk5CbFhGandwZC1yVEZRWklnNnRRcWFBNWJuMzVqei1JTjlfNmJibU15LTVMMTRzLW15d1dyRDhxR0Q3VTJUdi1kcU52dTBhc1dZM2ZvbFpkZnZRbGhzVXNwdnd1WDhyMzJSeXhCMEViUGZ5cVBxd1UtNHNmV2V3TFNoamVR?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1793708940
+    "title": "Militares europeus vão poder ripostar a ataques russos em caso de cessar-fogo na Ucrânia - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMjgtSG1zTkFJU2xiQTVDQW5GVHJfYVFOc0xnZnUxTGF1TDFFLTBvMG1CSjdtZnZoR1hCQWtVRjg5R2RUSmprMi1nUVQ4VVpveTdBcXR3OG9tSjI3bGZVdkpRVlhQSDJieXNvM0EydUJGNWVIeUpKLWpjcUxrVHRzSlNvUUNrdl96SGt1LVJPa0VXemNGdEF0OEI2WHRJYW5pbk96TWlMSWRQWDFzSzJ0QkthdVNNSVBCcDdVU2R4LWZ2eUpMaGh4djlLZDRERW41SFBWN290MXc4TlMtTktPdDdmOHpHY0V3a1RJMl9YODdhbThWSlJMMjFZdlptR2pVUlVhdVhR?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1793702762
    }
   ]
  }
