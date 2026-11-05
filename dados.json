@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-05T12:00:08Z",
+ "atualizado_em": "2026-11-05T18:00:02Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-05T12:00:09Z",
+  "atualizado_em": "2026-11-05T18:00:03Z",
   "dias": [
    {
     "data": "2026-11-05",
@@ -1632,86 +1632,98 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Colisão entre carrinha e automóvel provoca dois feridos em Carapeços",
-    "link": "https://e24.pt/barcelos-colisao-entre-carrinha-e-automovel-provoca-dois-feridos-em-carapecos/",
+    "title": "Barcelos: Cidade acolhe II Jornadas de Cerâmica entre a tradição e a investigação científica",
+    "link": "https://e24.pt/barcelos-cidade-acolhe-ii-jornadas-de-ceramica-entre-a-tradicao-e-a-investigacao-cientifica/",
     "source": "E24",
+    "ts": 1793895997
+   },
+   {
+    "title": "Antigos autarcas de Barcelos absolvidos de alegado favorecimento a empresários de eventos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQkgzaE1YSGQzVzhZWTE2eDR2Z25UaC04QTJrMWdFaVA5WDA4YjlDUTNSdWtRUXlpSEt2akxLV3REU2o4OXZUSlNhdG1EcHVGWkZMeVhqc1oxTlEyVmR4cXhHVF9pOGowOWVEZmlFcWhKV3VFNkh2cWVONzNrM18zd1QyclktbzB4WVFVUk0tRS1UQ1VRV2ctOFRyMnBJeURMY2dZWWVLSmR2VjRxSWNFNzhULTFUcDQxQlV1MzJlU2xEZXlkTW9UNmJn0gHEAUFVX3lxTE82bTlPbmRYdTcya1F6a2lzV0FjTXdJd3Fab2M3dVBtZUxuMnV6MUpLNkVmQ3lfVmRqLXJnYVZwWFZxQXlHUkJqUE1ZUFEtYzBtSEVMd3NRS2JQV0JaUE1Zbk54dktQSzdoSXFTM25NbGJMbm5QaExuSkQtNWhWUFlqaFdlY2lqb3ZJMEd6TzBYQ2NDQ0N1S3hGNlhMMXpqLTFYb3RUd0FZLUZ0dWxsSmR1VU5ENUdKRUhWSFl2ZmhqRHdZTDY?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1793890800
+   },
+   {
+    "title": "Dia do Cuidador Informal: projeto em Barcelos ajuda quem dedica a vida a cuidar dos outros - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGNXdjFBbDA5WTB4VTNWMl9lQV9rWm9kOFplU0Q3MmQtM0JoZmZHeVR5Skd6SS1IUEtTaWt4U0IyelhWR2dMRmNfQ3FNc096bXEyM0NkTXlZUTQ3dnN3RHNNYndwemJGMHYtUVl4MVp1Sm16WGpOMnQxYV85SEZPM3I2QTNHRHA3dlgzbkFaRFY1VnJLeWY5b0VvMUZEVU5keXp0R2tNTk9oNkR4emZocFFLaXp4MGlkdmpObGlrUURUbzE4VVA0ZmdOYmNUSm9zSlVjTWtkRldSV1U?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1793889986
+   },
+   {
+    "title": "Barcelos: Colisão entre carrinha e automóvel provoca dois feridos em Carapeços - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOXBUZVk2QkpXSk16U2N3TU5pZVVpNDBxeGtWN0tmM2VwZWFULU4zUDV3aDBzajZiSHlCWldYLUlYWTFTUERVMmp1MzlwUlRMM2JUb1B4VnVCaFE3NFVKS0FmZ3lLZXQyOG5wZXAtWlc2SjROQjdkWUJlZEp0Uk9BOFV2a2EtUUc4STlSR0VpRm1wWldXQnFaaw?oc=5",
+    "source": "e24.pt",
     "ts": 1793878324
    },
    {
-    "title": "Museu de Olaria de Barcelos garante financiamento do ProMuseus - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcm8yZEptNWQtNzJDVC11OURTRzRrcGRhWXkyR2R3NTJvZi1rSHRiUmNOcm1KM1hNZ0ZENEVORHJlakRBNGJxQVVqT21lOHRoTDVqTU53Z19EeXRXakY5LXpjeTlKa2pwNDRfeHNJSktac1VTRFFVd1JUYzVXZnVSLVNXUnJSZ2tyeURjNA?oc=5",
-    "source": "SAPO",
-    "ts": 1793877300
-   },
-   {
-    "title": "𝐁𝐚𝐫𝐜𝐞𝐥𝐨𝐬 𝐫𝐞𝐜𝐞𝐛𝐞 𝐞𝐱𝐩𝐨𝐬𝐢𝐜̧𝐚̃𝐨 𝐬𝐨𝐛𝐫𝐞 𝐜𝐞𝐧𝐭𝐞𝐧𝐚́𝐫𝐢𝐨 𝐝𝐨 𝐣𝐨𝐫𝐧𝐚𝐥 𝐂𝐨𝐫𝐫𝐞𝐢𝐨 𝐝𝐨 𝐌𝐢𝐧𝐡𝐨 - Município de Barcelos",
+    "title": "Barcelos recebe exposição sobre centenário do jornal Correio do Minho - Município de Barcelos",
     "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOLWhycl9BMTIwMTZPdDdQc2NrVWk2VnNxTkVqYk9rclE2TkVRcmlKbUVxRGhCR0ExSE15MUxYOEZsLXdTTlBZekhqQVI3SHgxUlJUbHQ2Q3dTNWR2SVNmUVJ5aGFWVVVwQ3FJd0Zhb1VYTjZYRVByOXQtY1ZoODZtU0psbzg5MFdKT3RsdFZaTFJER3VxNDNjeDVwRzRLd3Bkd25mX3lhZUZBa2E1QzdvUlZOSW5PTmNReE9jekV3VUF6M3o5OVp6dXdXS05leVBpTnc2UXZGT0t2UzJHc0c2dkZ6dVByMjBNZ1lKQlNlODhpTVNVVUtrRTBFNWpaN3cycFdwbnNiMFBPQnlrY3JJa25ZNnNxUy1LZTRYcnVsUlo4QUQ4WnhDTUdZYU42VnNycVBoWjVDT3VDNFk0c0NDTUJYY1pvdDRaU0RVVk9lYw?oc=5",
     "source": "Município de Barcelos",
     "ts": 1793876652
    },
    {
-    "title": "Barcelos acolhe II Jornadas de Cerâmica do projeto ‘Nortear a Cerâmica’ - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTS0yLVMzSFBXQ3lqQVNvcjVXc2c0amZ1UjNHSFcza0Vxb29wNlMydXBKMDY3ZnNhZm9RQVlvLWREWDljblBMX3FidW9ZVFZ4OTMyLTRoaGEyd1lQX2FxSWQ3dDRBY0wzV084RHZqNUt4dE5RaXM4alQtOU1wRkUwVUt0T1N2bXFOM0ZWNXBpeVhWY0ctN3c?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1793874900
-   },
-   {
     "title": "Barcelos promove 1.º Encontro Enogastronómico no Convento de Vilar de Frades - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPc0c3UHZYSFJXbElsSHR2c1hwSWVIVGdNOVZwT1cxMEplZldkMFVObUxzeXlEZy1UWFJ1YllseGxudkItRnpTUDdWTXk3UERXTVhyRWotYkVySDRlb1ZBa0htRndwcEtCZmtNUVVfV3RGYzNrcUNVcGF2SEpqZ2tHSFM3NTVRVFZSeDllWEJ6WkE0dDF2MXNPWHFBaG00MjA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaUNvcUF2THgybHdOb0plaWlxemR6N3g5dURkQ0IzUjNURGkwekJjM3J1dmFGZFFwY2NNZ3RVRlB1d2tIUG03MXFsdWZhRTNuSzM3emVoblp2WGYzbVVMVFplanc0a2NTZXE5QW1RbG5LSmNnVUxYakZFSDA2cFpLdDZEUFplV21oZjhMQnVKSDlNSGs0ckhSWFpOYjNzZUQ2WlFrNzFLMWJGWHYyU0hWSmxDRFlWbkd0MkxQSkZnWQ?oc=5",
     "source": "SAPO",
-    "ts": 1793872317
-   },
-   {
-    "title": "Combate à obesidade no hospital de Barcelos não olha só para a balança - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON25hck0zekdpaWhBLW9CZ0dUOHU0eGNXMTRxLVlpS1d6ZlNnQ1pGbkE5eFU5d1o3QWZoVWV2ODJGeU1Ta1F0ZGlQWXhkbjZUQUN6SE8zUVc5clhyUHNKNFlGcmNrMnFFdmNHNWpRdE52U05nb0VrSlRGaTdIbjZaNDBqLXl6QlNUemFDVS1VaWZ6RFY3XzF1a1V0UThhZHpUZ0NVZWV2RENTc29iUXc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793863500
+    "ts": 1793868660
    }
   ],
   "esposende": [
    {
-    "title": "Incêndio destrói anexo de habitação e máquinas agrícolas em Esposende - www.maissemanario.pt",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUdTTEdYNGxDWXlaMVZCSHNkWTdIRjZFQjB0akg5NkVFQkg4S2JSRmVrNUx3bkQ1eHJnSjBXd3NjSGJnRnk4N3R6ajIySGZUVmxyNzhkY2JCb1lDdEVWMUR2LXBnNVV5cmhJUFBibzhTbkJiMW5mYW1FalRMZm1iMUVSazVGdHVIVGpSOVRWekJfMVpSdndDblphalNjQUd6WkJUeWc2OGo?oc=5",
-    "source": "www.maissemanario.pt",
-    "ts": 1793879121
+    "title": "Esposende investe em estrada da Apúlia com muita afluência - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUG5mbi1aUVBNTmlzdUZxQ28wTlNYd1Jmd2ljY2dRSHRwWEVnM1N5aWhUQzlINUY2MENsejBQQV9CTzhRbjg3di1mRHU1bElFTHhEWV9lTUVjVTNleDlOb2oxZ2Y5SHh4cFFrbGZCOEQ5cFFQR01LS3VfNG05eC1fZmxOM2tBUkZWTnBtTzZKLWJhNDA3bUFSOWxYV2dWQdIBkwFBVV95cUxNTWM3UWRXN240QTVrdGZjRHhZS2huNHZ2UnlLQTB1bnA2NllrT2JWRmxIZGRCNlRJc2M3cm1FNlpHbHFIdFdCN2d6U09iQzJaZS1aN1R3VlVINk1FbldRbEN3cVdtSHhBMEcwVU4xVTg1YTl2UmNLMmp1M0k0enZNMEE1WVUzWE1HRVRBQWg3YTlyN1U?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793896440
    },
    {
-    "title": "Câmara de Esposende faz balanço do primeiro ano de mandato com juntas de freguesia - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTVQwVFVVenFlU2l6alNhQ0VmSV9hUWp3RXdtd3laMEtpd1ZZc0J4VHoxdXkxWlAzRVMtYnRIVTJ0TzJFczBTd3pOdVhqZkFKMVEyMjhQcnQ4V1Q3S2UtdlAteFVhMXFabEhWRDBxa2Z5ZDFyVHZfaGRNRFR1aWxyVXVSOXFPOXpuQXBrM2V5MDQxUWNLcWsxU0FYVFJnR19NbG41ZzJhek1wZXpY?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1793857620
+    "title": "Museu Municipal de Esposende de portas fechadas, mas de janelas abertas à comunidade - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd2tHamJWS3V1YUxCOEExdGM3cjJqakd6N29KS1VJS3lOQUZRcnZLTkEyVnZDNENMWkxrMnpmYWVNNW53cS1iandDX09KeUFOUTRnTUZ4UDFoMWRZclVFWHE0LXdXdkFxUnMxWFA2enYtdkZnd1JsMDdlQXZ2WXlZcTBULWJWd2p3d21jOGtQUUlveFdWcXgzLXEzVU1yQmR1OWRIVlVLNnFQNkVwbTE2YTI1bktoZkJ2dEpnNkZrMlVGMndIVHVORQ?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1793895388
    },
    {
-    "title": "IPSS de Esposende juntam-se para discutir desafios do envelhecimento - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWRHLU5WM2hlVmtLV2dkVWQ2R2k3cDVHNXlQcVZheUl5bGRCRk5xSTNsVXplVVZ3eUxnRi1TV3Q1N3dfOERMeW03dTJhVklYQlExZ2cxTV9EWDkwX19lN2Jkd0xSM3Mzc0hqa3E4ZkhYaFVJQm92Zmg0bnp5anRVczA0UERrYlBxcHZlYkUwZE9PR1Ey?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1793831700
-   },
-   {
-    "title": "Esposende: Rua da Salgueira em Apúlia recebe obras de requalificação de 159 mil euros - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNczJOTFZvU2YwUEhqaVBpdzBLOVFCS3hEeENGZE5McTVKUlY2NzJPak8tRHFic012T21ZQkNwdzVNRmxyckVqOXlIejRpekJSYWhCMVlxX0dITzQ1R2U5akpVbkFzWmFPNHVjUDU2bkJQX19FdlpocFV2OHRnVnhxdWVCcm8ycndRQ2FQZ3luYzEzOXBLYXl3NWotcURfNkswNzlNYkJlYw?oc=5",
+    "title": "Esposende regista 323 sinalizações de vulnerabilidade através do Radar Social - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTBWTzlqRXBuN2IwWHpyR0lrRGxKdmRmV3Y4XzZHbHRIQ2oybElTNGJWX3VvRGVNWmNmUmdUMUNIODlMRFRYVWN3U0RZa0pIWk0xR2sxblZUY040QkVWQWFWRWZ5OEN3M2U3eEN0MVlUX3FiQjdfWnBpanV4cm9vVm9mLVFTZWk4bFpVRFBad0FHRVFpNHpyZkpla3RhZw?oc=5",
     "source": "Braga TV",
-    "ts": 1793817576
+    "ts": 1793890404
    },
    {
-    "title": "Câmara de Esposende investe mais de dois milhões nas Piscinas Foz do Cávado - maissemanario",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3RqMTEwWDBDa29zMTNKMTRXRnVmOWltaTN6ZXE4R1daeU03WG1jNzZxQmxhX3VMMTNKVEc3VHBBV1hIdXZBdy1qZFo3SDBrYzFYaG5CU2ZDNFhzZG9MajY5bmVrYmE5endjb0ZMd19xOXRzcDVHWUJRYk00a19FYkZIOUplVmdSaEVaZjhjTXVGampXWGFuLXBNM285TUd4X013dzZVa0U3NGZn?oc=5",
-    "source": "maissemanario",
-    "ts": 1793806038
+    "title": "Museu de Esposende continua atividade na rua durante obras de 1,2 milhões de euros - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQelFMVzktMUprOU05aVRBZXVaVUYxYmlJQlRHdGN0N2hVaG5GVUVZVGNHM0pFZnM2VTNGNmFNeUJJOUNrb1Q2ZUF5M3lXck14OFowRFVYRXVPMWNPYUtYYTVFdTlUQzVZak1ZMXdGZkh0NG5HQXIwaEFhS2NlbGRiU1VoaEVZQkIzYnhrWGk4X3lqVV84UE52VUlqMkM0QTIzZnNLWktyM0VtZFhCZ0FxRHZCS05XdFhWLThiRdIBsgFBVV95cUxQMjJxalFtczM0UllhcW0xOFJpOWFQeTEzdHZYX0hrQzRJR2tRTGx0eFFnSFg1QWNQZVNqcG1xTXoxekU4UThSYVBoWFpmWFZtQ1VRemI4Y0hpTk5DdDBMVUxtdzRpcjhQUjZGYnM5NmctR0VmOGpKczlmTlFLOUdxclhTdzkwb2JJX3RoVVBrMHVwTzF0T3VNVXhsRVItV3RFX0tKYVBJcUNSTzBCOHF0czZR?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793886720
    },
    {
-    "title": "Esposende tira os seniores do sofá com o walking football - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYkE1MG9SOTNKaGhpaVdQd194ZzR6dmZxOTZuRV9iSVRjNzhWc0J6WGpxbEFpZjJwZHBGMUlXU3M2VGYydVdsdVZlemRTdjZUcnhOTDVuamZ0VjNTRnE0VEpob05pdDBqcEdoX0xwdzlmMVZ4QzJIU0JQZWozTDM5MGNyUFlVd3FzeU0zR3pqTWg0Rk1PZHhPLU45WWkyLUU?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1793801558
+    "title": "Instituições de Esposende criam comunidade de partilha de boas práticas na área do envelhecimento - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE1pazktdHlhVkljd05aU290empCYVFqdjVYSEl0Y0xRLTBXQTlLWlh5SWpyZG12TWJBcm5zNVpSdGxRZjlVZ1VGeWpScVRFVlRkUlVDNDZDaUpCckRpZmx3ZGo4N0UyYkNRM096M0laeWJ3M3pPNDk1eEg1V3BRa1dZdXVJd3BkYWluRFhESElySDMxV29vdldvSjdXZk9fZXE3ZlljeUJrVlpvMi1mWGh6bkQySERHQ2s0?oc=5",
+    "source": "SAPO",
+    "ts": 1793883540
+   },
+   {
+    "title": "Esposende investe mais de 2 milhões nas piscinas - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mXzJkczB5OGwyZEFEUllkTVhCTTgtQjlnSC1UYndmSTFXRU43LUdGRzI4a0RVWFJ2N3ZBZUZic1FESWJYWE9EMzlaWG1PSTZ1SnVsQ1R4RnU3VEdlS3RLamFmcjFJdl9YVnVrekctYUtqTWszclE?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793883060
    }
   ],
   "mundo": [
    {
-    "title": "Alertas de bomba obrigam aviões a aterrar de emergência em França, Bulgária e Bélgica | Aviação - Público",
+    "title": "Alertas de bomba obrigam aviões a aterrar de emergência em França, Bélgica e Bulgária | Aviação - Público",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUkV1dGcwb1d4NTA1SHY3cmt0VHFLTEQ3X0xRVi1SQklOZjMxU3NJc2p0ZE1RV2RlZ0dKMFpVSUR3RzNGSFViN1k1ZUl5eFI3ZW44d3ZmQTRaWkhJS0ZBanoxdk03VlZWVThmUGxCcGV0aUMtZGwyckZXRGc1SDVpZDFsMjJZVG56bFFaN09EcnNOa1NxV2FVXzhYemQ5YlhFSVNqR1BNVTJmdGM?oc=5",
     "source": "Público",
-    "ts": 1793871006
+    "ts": 1793889900
+   },
+   {
+    "title": "Simon Sebag Montefiore: “Na Europa está a acontecer algo estranho, existe um fetiche completo por Israel e pelos palestinianos” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNdDhVbXRISDgzSmoxaFVqWkJiU19FZ0RxXzk3cTRYQ1dRc2pwZ2pEVGliTlVUY3lHSWkwLVdya0c1ZEdMOUQyM2pkY0lxM1RVeW1DWjFuMEE0cnZWakZqblF4T1VKclAtYlIwek5ZUm1KVi1hMGtGdUxuQlEzSFFqZHVXd1Q1MVhiWnEtZTJIWk0zbksxcEZXUDFoV0dVaFMxRTJRcnM4dG0xTDFkLVM1eVZxcGFTQWlYZkhENDVQNWNMaFpiaG55NzRpakgxSWszaTNLWnpOTnh3Y3hJdVdwc0E3RXZXbFZBMXZEdTFERFgwQXdmUEJvb2VRbWdEQzlIdHRXUFd0SlJ4RUliNWh4YS0xQXI?oc=5",
+    "source": "Expresso",
+    "ts": 1793888645
+   },
+   {
+    "title": "Israel. Eisenkot ganha força para formar governo em dia de reuniões com presidente do país - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXFIRVpEQlVJMEg5YzRwUWU4YURTSDhxSUxXVnhuSmZhWjBLVHpOSFlKaXFoY3hnNnNkdU1zTHd4S1lDZXR5bUp4V3h1Z1ltclZWLW1VTVpKNDBWTkxGUjhEU28wX1J0WE9JbTVvOTQzZG1ndlUySm9HUjFPMlR2Y0ZkUDFYMC16NDE2a0Y4azhsWHFtTkFoZ0NyQkZTa0FmbmFTMGxIODJHU0t0b3JGYzVuQVdrQ0VtbGc?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1793871776
    },
    {
     "title": "Talarico promete \"não roubar namoradas\": eleição de senador democrata reacende discussão no Brasil - SIC Notícias",
@@ -1720,22 +1732,10 @@
     "ts": 1793864690
    },
    {
-    "title": "Governo garante que alunos carenciados não serão prejudicados pelo descongelamento das propinas - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQTZDMW1BYjJBc1hkSEk0YzliNVhDenowdVc0bWg5MWRYbGJQTVJCZ0xfNzVXODgwVlE5THZlc3ZtUzlVT0xhOENteVRSaWpWSmtFSzNkbjZqOTZuNXZhbVFuSlJVQ2FhZUNSblFpY1llS25PX2JiYmdzMFREcmw2REI1M0pYblF4cEk4dnlMTkVxOE9IbkhVMEVYY2owU2lBVEU5VVlJSENITnVOLVF4WG9nMV9faUQ0VDEzcXcyempZNVE4c2xDZm5feXhYQVBUM05v?oc=5",
-    "source": "RTP",
-    "ts": 1793863674
-   },
-   {
-    "title": "Ativista pró-democracia Joshua Wong condenado a mais 10 anos de prisão em Hong Kong - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUt2blYzVHdHcm9TZEZ0OGVCaHlUQ1VnQjZFZHNfR0pyVUVncks3MTN2ZHg5RG1uMXloaUw1Z2ktcTgxbERpU2VrNWk3akxMeEhNenhkUWN3MkRJeWkyRl9UODNic25KaE9kREFMV1I5Z0VsMXB1ZnFOeXdYY2lJRkJBWERGWnFwZldTZl9nS3hBOUlBUm16RHJJM3dmTmdUdHY0YVJ6d3h1dmYtem02ay1UOE9Sc0Jic1JpVGNR0gG4AUFVX3lxTE5tVXFOa1lfZHFOOXc4YmFSbFFRZUFhSXdCYWR6RHM5WTI5QjNiRzFMWTg3TTJEeHZPdmFWT05oblF1VXFmdmotdG1OZ284V01XUkF5TE9uVEFTUUd2SFBxSk5wWW9CM0ltcncwcldRMTB5WThfRUJpRGctTjdKd05vWGVzREdMdEptdUExdmd0UVJ3M2NQVmtZY2REZi1IdHQwSHg3OXJfS1NteHFvV0t2b0t6dk00a1Q?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1793855460
-   },
-   {
-    "title": "Reino Unido pede desculpa após obrigar crianças ucranianas refugiadas a aprender russo - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbFVaZUJpbHdqYWRFOWZvR0ZSS2F5UGFZbmFzMmFTSU9MVTNWS19WaHBxV0JNME44ekNEN3UwZVlhTHg3bDVxaXA5dDlHME95SkVWUGcxZENhUzduOEpmRzloZzQ0N2pON3dWTTMxT1lLZVVyaWtmT25lZGx4TlBOUnpiWE5vODEzNy1vNENoVkZNVWlSYjV4NklvaktVczVxNUQxdlpsakNWM2l4dWUwV2ZWRllfOFhxeWU5WU5vc1dwM0haVFBPdGlUZ2VOWGs?oc=5",
-    "source": "SAPO",
-    "ts": 1793824020
+    "title": "Ativista de Hong Kong condenado a mais 10 anos de prisão - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMGN4Xy1pY0dhU0dLLVlCUkt0QnROYWUxMURfdWNDU1J1YWtKcDBFWVZ2S3ZKR3FsZHhnaHhELUNZWFRpU2RzX3JOYVo3aGNpRElmV1lIWEtjM2czM1MtX0pNU3E2X2hhXzdLdkRqYVJ2c2ZzcXhRZXV4TFFvbHJfZ0ZKd2cwbjZOMDFObzFWcGpIXzhLUS1zTmRSckx0R09waUdwNDlKZnc3VGRmU0RNM244NUlKa3I4?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1793860962
    }
   ]
  }
