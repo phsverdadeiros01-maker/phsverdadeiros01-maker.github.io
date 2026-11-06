@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-06T12:00:02Z",
+ "atualizado_em": "2026-11-06T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-06T12:00:03Z",
+  "atualizado_em": "2026-11-06T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-06",
@@ -1632,16 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Ponte medieval de Barcelos vai passar a ter só um sentido - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVDNVdFRidzhQQVJIR0JrN0xGRXVZbEkyRlUyUnp3RXU1dFBIU1V0c1EtTWFDSWRYeW9HMmE2eDJQT3FxYVNxMVIzdzNJeFN5SjhhanNFOVYxVHdwcjZVMms1eFp0VVV3Y1VnZXdxTkUwSVRLMko2bzZNaWV2ZVJlZ3cxMEQ2WVVzQy1qaWR4SGVqYXlreWZMZjVBVWM?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793983560
+   },
+   {
+    "title": "Mário Constantino Lopes inaugurou instalações renovadas do ATL de Fornelos - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0JVcUhrMjZrVWhvYjJKczhIcHFORGV0bkttRWtCWG8wLTVvVUhtR3JMcjRFVUtGdnFYdWw0QXpkMUxqU3F2VF9fX0NKN2ZLcDI1UGFxN2FOc3llRXZWN2NFNmR0eHhWUHl5QkplX0FiTlZjbGVmLWFTSEdmb1ZNLUhNTTUtb2RYTUozQm1JNTJXNmlxazB5OC1qOTEwVmxQRVE?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1793982976
+   },
+   {
+    "title": "Município de Barcelos inaugurou três courts que foram requalificados - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ2tBZi16MWFfVE1xbExwZEMyR3VwSGpKdXdMbHdweUVOdXFtanRXR185ZHRFd2RqNXk3Vnk2TVQ1OWtSUXRCMmxrZGdMREN2cXVhZkU4aTVpdmp0S0s4YmVSZzJabVpYWk1RREpBOW1WTkstN01UMjJ0YUhCdWVPNzhQNExINUFCT3JvNlZMTXlJR0lQZ2gxNXRKaEpBS0Fab1BKbkE3ZkV1OXhHNnZFTFdTS1kxQTFIQmRWV20ydXozVEhMQWliN1JSRVlzOU9FQ3NhZzI3UdIB3AFBVV95cUxOUDU0Smlyal9hay11WW53X1lZbldFbnVWQi1KTVdxNDBmcHcyYkM4a1dVNTQyR1VkbFphSE1hRG0zUWdMdW5zajlqaHdscU1BTTVLdHYzN2hjQlJQcnVxa2QwQmlnd21vc0wxVjhtdnlmRTFBemdrM1E1Ul9kb0Y1TzYzTVpTb0U3NGtoVElhNjJXZkpMN3FKWTlZWWFDYkNDTTc4cDlhcVJZbU9pTi1wbURHYVdNTDJjWS1iTjZyZTNmSHJkeXZUQzZnS1h6MWZjVnhFci1kS09OOVh6?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1793979540
+   },
+   {
     "title": "Tribunal absolve antigos autarcas de Barcelos em processo de contratos públicos - Fama Rádio e Televisão",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcGNlMUV4MDlma0FoQ2dEajg5UXI0MXhqNFpGQUd6ejNySllzV2JLSjVFdXprX2xkdFFwQXlCSXJHMUZXRDhlVGpNOEFkNVVCTHBhb09kd25PUm9PLXlMd0dMNC1iUHhaNDh0c0NLTm01dFJGdDZ0c3l2NmcxT0F2UXNMLUZtMnd3R2NHRGM3a0luOHk4bEZWd3RXMGJSYkRLSVFUTS01cnF1MzVGMHhzMHRVOU3SAboBQVVfeXFMTktVcXp3ZFpxQVVsYmtkdkFuQzJIRy1BN2pwZkVVT2NOLWU2aHhYYklBbndNTEF2eU82T3Zfcmw2RXIxUjVBWW5QaVBHc1NNTzlVckNETF9iWWZzc290dHpVMXIzYy1pNEE0eW82TTE0ZzMxMzc3ZFlsb1NCb1J2Mzl4eE5QSEh2SUtxREVheVpFUmZJTXpLX2pXNmdfM3ZiSVBYc3M4ZEpUdWx1WjExSFd1eU1SU1BIN1NR?oc=5",
     "source": "Fama Rádio e Televisão",
     "ts": 1793964281
-   },
-   {
-    "title": "Albergue de Barcelos recebe peregrino número 65 mil. Veio da Coreia do Sul",
-    "link": "https://ominho.pt/albergue-de-barcelos-recebe-peregrino-numero-65-mil-veio-da-coreia-do-sul/",
-    "source": "O MINHO",
-    "ts": 1793956668
    },
    {
     "title": "“Em cada jogo, o Óquei de Barcelos tem de lutar até à morte” - Semanário Alto Minho",
@@ -1650,25 +1662,31 @@
     "ts": 1793955167
    },
    {
-    "title": "Escola Profissional de Barcelos participa no exercício «A Terra Treme» com os Bombeiros de Barcelinhos - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQM2pDd25Wc2JaOHFZbmt0dm5Rak9YSWRwQmV1TWRWeEJndHRrWldsLUJPb3czcnRxa2hHaE80RElweXpNVGFKeGhUN2U1M0tMeWplaVlYV3lxbVV4NVFGeWhIUEw3dnlxbjFEckJWdGJBdnNUaGdwNVRFMEtWQ0lzenlPX3EtcDNXcFFUWC1zbC0tSVZ6aTVvajBWVXJLSlJXcXZKZVVFZHFUOV9vN1dCZ0V3U3pxNlZDNU9qNEtzMm9uaUpi?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1793916060
-   },
-   {
-    "title": "Barcelos: Cidade acolhe II Jornadas de Cerâmica entre a tradição e a investigação científica - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdFJBSkJLZmpFTmE4bEY2M1I5T0dVOTV5TWRYSkNwYXo2eHR1LS1sQ0loOWVvTEMwZ013RmlrZFFCMi03OFdrZmc1TFdYUng5Q3hWU0phZ1BfblpZVzdvLWpYdkZaa1hsTTZZbm95SW5jS2FlLWFpVGc4MEtTalNMZUY0VkZLZDUxSzZfRUgzZ0Y1Sk56UE0ycV9QNURFbEEyRlpka0Z2ODJYM0k?oc=5",
-    "source": "e24.pt",
-    "ts": 1793895997
-   },
-   {
-    "title": "Dia do Cuidador Informal: projeto em Barcelos ajuda quem dedica a vida a cuidar dos outros - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcGNXdjFBbDA5WTB4VTNWMl9lQV9rWm9kOFplU0Q3MmQtM0JoZmZHeVR5Skd6SS1IUEtTaWt4U0IyelhWR2dMRmNfQ3FNc096bXEyM0NkTXlZUTQ3dnN3RHNNYndwemJGMHYtUVl4MVp1Sm16WGpOMnQxYV85SEZPM3I2QTNHRHA3dlgzbkFaRFY1VnJLeWY5b0VvMUZEVU5keXp0R2tNTk9oNkR4emZocFFLaXp4MGlkdmpObGlrUURUbzE4VVA0ZmdOYmNUSm9zSlVjTWtkRldSV1U?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1793889986
+    "title": "Albergue de Barcelos recebe peregrino número 65 mil. Veio da Coreia do Sul - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOEFjV0txQTN3WFROZ3hYV3RSbUNnSkF6ekJ1V1VxUTB0aTFLRXVtM19CY0hHOWdWRXYwMTlLSXk3Mk1uRUU3TkNkbkU1c3NuZ2x5djNhUVJZcWEyOXZWSEJ2OWVRcnpmenpaS255V1QyYi1VREFodzFGMzRLTU1odTZtVTktbUwwQlFoYjdNNjFDSnJ3Ym1Z?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793953020
    }
   ],
   "esposende": [
+   {
+    "title": "Bombeiros Voluntários de Esposende representam Portugal em prova no Rio de Janeiro - www.maissemanario.pt",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTHk2UkNHYkpJS0RCTGlwa3VPcTlCZmNlcHNWVVRaT1Zzb25aeDJ1amM5TTU5VlY3RUYzakRoN21zdW9ONXpxbUNXT1dhSm9fTjNEMXhrSllKbkVadnRiR25YODEtUVktdDM0bldmRmRjTGFSOFFDcEZPVkRxZElEbS16Z0ZteWEzSUZYdDBldXZ4RWhDZC1Ec3hub2x1aGVKQjk5YVZmRE0xUVpvQ2J1cnhSdDdqcjE1WkE?oc=5",
+    "source": "www.maissemanario.pt",
+    "ts": 1793986991
+   },
+   {
+    "title": "Esposende reforça resposta social após sinalização de 323 casos de vulnerabilidade - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVk2SVNweDA5eG55RVdWRWk3QzVSZzBjREtROU1hTXdxMkRXdUlyVDlzYkRYdzc4eFRiak1DQ3U1ZVRNa2I0MWZFMHpxckVfQXNJQU5kZjd6YnBIckR6Mi1sNU5UaWdkUjZ6eDlmWUlvZzhfRGpRT1FmdzNTUGptNFE3bmgwUVVfR2M3OGJZUWdYQjJDWWZoSEFpaDkycVdLQ3E4ZTVFUjdUSzVZQlFvckwzV1ctQWFZZGE1Y05n0gGzAUFVX3lxTFBUOXkxQUVra1ZpVElZR2tuT1h0QUZwSzU1SGxMRmdCeXhQcmU2cjhzX3JnTXBna3YzcTdjQkFOMklYNHVOSURpb0tKQXNyejM3dlNJV0thTnhBamNRcG5ULVlZMHgzYWhYVGItaDJFLTBHYlVUQkQtWkNCeThKSlZuQTBaZk0taUxyOHNLNmpKQXVlTFNxM19qaHpFVmI4M2tQRThyMXJmSHFUeHhSNEdTMWZv?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793984340
+   },
+   {
+    "title": "Vigilantes da Natureza libertam 16 pintassilgos em Esposende. Passarinheiro fugiu - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUtlNHBMeGNING5wanNHSklrdU50WmEyNXc3V05vTjhvTzkxT2xwNTR0U21SZ1V1dGdudFFDSFg0cXdkLXNaZ1d0R2duZUNZQ09obUJlb1pibmtxYUt0X3NRYkR1eEczbE1yb3V6cndEMkVGeUV3bzgtS2ZjbVVlVkZHdUJOZFpKMk5qZ1N5RmlaWE94RGxiNHJIa25nZ3dv?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1793970120
+   },
    {
     "title": "Esposende tem assembleia popular marcada para domingo em plena vaga de protestos pela habitação - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eFlYTVdqYUF5QmpSRTJaSGhiUVNBeFk5cUwzdEp1OTVPN1F2cFJ2MDJKN0RqWnJxenZwX1FCVXF5M3cwUld5YzZCUENiNUZTV2NjcGdaTXJEZmY3Y1RSQmJJRlNQSlc3RnctcmNwSVlFX2Y1Y2c?oc=5",
@@ -1682,60 +1700,42 @@
     "ts": 1793918100
    },
    {
-    "title": "Conselho Local de Ação Social reforça estratégia de inclusão e coesão social em Esposende - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWFpRc3lqcHJFZ0VjRXYtOTZKNzhwdll0c05sT24wSVhGQ0psRUFjTGNVYmxhenNnaFVCVTBnclRkc19TaXBOdDkyRzV6NDhBdG4yWWs1WUxPYTVtbnNQamJsNlFxcjRlOHdPeHhwT0Yxd3VaNzBXaGVfY0ZDQjZkaV9iUWFBeWc2ZU02UFJtQzhHeFJoam5BQW9DNWIwZGR5TVdLX2pSZ3BjWlhLdlBralJXQnd2VlAtOU1Cd05XVVdxcFZqWThrNTlTWTczN2NWc3Bz?oc=5",
-    "source": "SAPO",
-    "ts": 1793909040
-   },
-   {
     "title": "Esposende investe em estrada da Apúlia com muita afluência - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUG5mbi1aUVBNTmlzdUZxQ28wTlNYd1Jmd2ljY2dRSHRwWEVnM1N5aWhUQzlINUY2MENsejBQQV9CTzhRbjg3di1mRHU1bElFTHhEWV9lTUVjVTNleDlOb2oxZ2Y5SHh4cFFrbGZCOEQ5cFFQR01LS3VfNG05eC1fZmxOM2tBUkZWTnBtTzZKLWJhNDA3bUFSOWxYV2dWQdIBkwFBVV95cUxNTWM3UWRXN240QTVrdGZjRHhZS2huNHZ2UnlLQTB1bnA2NllrT2JWRmxIZGRCNlRJc2M3cm1FNlpHbHFIdFdCN2d6U09iQzJaZS1aN1R3VlVINk1FbldRbEN3cVdtSHhBMEcwVU4xVTg1YTl2UmNLMmp1M0k0enZNMEE1WVUzWE1HRVRBQWg3YTlyN1U?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1793896440
-   },
-   {
-    "title": "Museu Municipal de Esposende de portas fechadas, mas de janelas abertas à comunidade - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV3dOSWVERHRCSy1vbmZXMGFZRFdIakFhZXBtd0ZBMVhiYllneWE4dXBqQ1c0aGZuU2g3UEVHaEUxU1hiWDVvLS1zWXVBSkVfZTR6TlBVRVp6R21oYndwNzRxWlFFQ2hWWVFiYWhSdG94UjFYdmNPdXpFNFprSU8tMV91VXZjcTZ0eTlRR0hMcXd5dkZjeEpXR1o1VklueEhSblpXb05reFpKUE9ESl9PWWpyZjMzaWRybnNYSmJLeWwyUDg?oc=5",
-    "source": "Correio do Minho",
-    "ts": 1793895388
-   },
-   {
-    "title": "Esposende regista 323 sinalizações de vulnerabilidade através do Radar Social - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUTBWTzlqRXBuN2IwWHpyR0lrRGxKdmRmV3Y4XzZHbHRIQ2oybElTNGJWX3VvRGVNWmNmUmdUMUNIODlMRFRYVWN3U0RZa0pIWk0xR2sxblZUY040QkVWQWFWRWZ5OEN3M2U3eEN0MVlUX3FiQjdfWnBpanV4cm9vVm9mLVFTZWk4bFpVRFBad0FHRVFpNHpyZkpla3RhZw?oc=5",
-    "source": "Braga TV",
-    "ts": 1793890145
    }
   ],
   "mundo": [
    {
-    "title": "Ameaça de bomba em avião que aterrou no aeroporto de Lisboa. Voo da Ryanair teve origem em Roma - Observador",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObWMwcEFwX2ZsYi1OcE5SeE16S1dhb1p0R21FVktDSDB3SWhEaFF1Ml9tcnJoVVNkcHNtOUdrQVMwWEhPR1k3MmNMMFdCZFQyMkcwalpoZnpVc19UU2hXTkoyM0xJb1g2cF93Q25kZVhwR1FlQVczWDl0SkpBYlhIdVpadkdsakZPVGNJMjV3djdueHRvVkpwb3lKT0Q4c2JSLTVGVGpYWGRxT183OU1YQ3pOWHYtc01uVVU1azRYSkFQNzIwRGhB?oc=5",
-    "source": "Observador",
-    "ts": 1793959936
+    "title": "Falsa ameaça de bomba em voo da Ryanair - RTP",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZ0twMEE2T0lKX1V6cXphSUdBZEQxckRpUFkybVQ1Ukotak9mQzNBREdFQlFkcm1TTjNhbzhySkZBaUVpdW0yVU1UNG1rYjdWaUdZZ0hoNXZnMzVEN2ZKbnBSWjktaGxwSnU4WEM4akdIWkZmMnQ2My1maURUckJzbDZnYnBRRHhR?oc=5",
+    "source": "RTP",
+    "ts": 1793971853
    },
    {
-    "title": "Acidente com autocarro escolar em França faz \"várias vítimas\" - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZnFfUHlPZUxFeW1leG1jQ0FmYThSLVNGRVdTRmZ3MDRiaEhfcWtqTGNKVm9ObVg0UkhqSTRlcHRIbFI5RXBmN1NwbUxoQUpnYmtUQnk1SUpsQ3J3LWRNV00tZ3Bfc2F5M1h4cTlPZjEtSkEtSUFIRGF4eGVnS1Z5QUxuS2h4YjFzM0hVYlZmckFHOVRuVmZUcjVDV0lQQdIBmAFBVV95cUxPWk9Db19Mc3dfckg5MGQzWEpzOTJjVVVNcTkzVE5icjA2WG90ak9JQVRWd2xlLXRPMVU4RHZwUHNDMkUwbGR5RXA4ZlJWT0hFUmt4aldjTGl0TVlIT2VaSXlhSXdaRUJHRU1Ra1o5QjBwNTRwZi1IbXBMeW1jMDdLb2VIankzVEU2aUNMZ3Q1OTdtWmIxd2JmWA?oc=5",
+    "title": "Crise política na Bélgica. Rei recusa pedido de demissão do primeiro-ministro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONDU0VF9RUlE3dTY5WTVnYkR2QzRpanR3QWhvbjRPNHIyQ1JveXZ6REFLN0M2VVpjb1djbjBiNXlCaFNzUUJ6M0ltTnpMeGNrcTR2NlRiS3BpUXJGYldWRUJmR2oxUkNwNDA0NzhzYXA0QlNObVl1ekVzX2lwZUw1NHU5TVpqbFVMYWNLNkVQYWZiQlNXZldHaEJ1UUNaZ2NKYnkwdkRaeVdjWk5EemR0Zk9OdW82YlVSUmQ3Q1ZfekxYdw?oc=5",
+    "source": "SAPO",
+    "ts": 1793961660
+   },
+   {
+    "title": "Procuradoria Europeia investiga possíveis fraudes em fundos da linha onde ocorreu o acidente com comboios em Toledo - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbVd4Y3dubEdVUjJ3MGRJNVAtd085WUhBdlIxcTRQSHpuZXp3cE1iRkhCR0JDUkhTTlFFUXNWdXROWlpsZ1Y5bUZ3S3FUS05ZSk9VMnVZcFNDdmxicTRkOGhNeHhIV1Q2NTFlQ2JLUjBqdjd6OTBKU1dtOHc0czN4VERCVjZhMUVTT3MzVExqcUJ0cDBLVG1XMW5IWWZuSTlvM0FWN1RMNFZPbnlPcjZXT1JsNVhtcm5waEdQd1ZoZEsxYllkYi0zcUtfN2c3WEpDa3VWOVl6UDk0ZFhGMFdUVGpCUk1Gai050gHjAUFVX3lxTFAyRUtWZHhiMGQ3R05TSUJFakxKeUQ5ejRUYXRxNEJVUnpwOHU4Sm5DZFNWVmFaNTI3V2tPZlM1M3FfMW92eEhORzNjSHBUVE9HcFpRN2NCaG9zd3VYQkJYbE9pRHBORUtQSXZXT2syODNpSVpIb3dEbnQyVUhuX0s5TmRJVFRONzhwSUlVLTFUeFN4UnF3eV85VDZ3X2FfLURhY3RBdW9LR29CMlFxeDBLN3hXNVhFTmNRTlh5c2RaWUIyUVNFZGVTVXNVNDNoRnRpV19aSm5NSDVNN1QtQmtKZFd3?oc=5",
     "source": "Correio da Manhã",
-    "ts": 1793951940
+    "ts": 1793961300
    },
    {
-    "title": "Flávio Bolsonaro reaparece em conferência conservadora na Florida após perder eleições no Brasil - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSkNhYTAwa1JRVElRQVZSQW9NV2FBd0pwZEpJdV9qUTc0aEdLVmo5aUF1NlJkdk5KMlJ2U2lveGV5RkVpS1p2Mll2WE1Gd3RTMEdGbkg2bk95ZnVjTFR3N2x4RDFoMllKazU2R2NSTlJoT3VYZnM5LURHRlpLVnFIdWpId2hVekNReDQtaFZsQVl2cXhadjZJa2NFWTVkMVJma0wzRktaaGZrc01GejJVaHg2Zk9acTdGc09hTzhTTHhpLUdoM0hVaEJnOWw5WDQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1793943000
+    "title": "Pelo menos dois mortos e 16 feridos num acidente com autocarro escolar em França - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOW9JSDNESHkzRHdKbGdDWV9vVHliLV9RVFktSEIyS2Ztay1udHQ3TlJXODVSTDg0TWI2UkNtUFNBMzZyWW9raldIRHhoa3g0YjVhV0JiRkNaQjZuWTFNUGYyWlBIRU9FZjhpczRlaDFrQVVMUWFOSFhsVnNYQmJPdUp4ZkdTY0dodVY3Sm1xT1dENjBoRlBaQlR4ZV9xcmRoQzVMRVUzSmFmUU5Md05qY1RPUExMUndfTlBFb9IBsAFBVV95cUxQTmNHMmhxZ1hRVVVOWkp0NFZvQjVVU0llbWFZbnZZYlllNTlrRzZ5UGhuQkEzRjJEdVNIR2FUWDVCMnlVNVBiVlJQcFBWWkxYWTU1SWxTN01rNFRycEpPcVdVdzJ6TlBwaTk0S1pPanVTRHpvXzhXQnhseGMtZXVzTEZVWHVYbWdLTzdqeVZfV2czeERITzhlODUzNlo4TW9Yd3NCelVyRlF6a252RnoxMQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1793960700
    },
    {
-    "title": "Trump prevê acordo \"muito grande\" sobre Ucrânia e até \"toda a Europa\" - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb3RUX2hYN3ZYQTdGR2xyN0E0LS1sTTZ1TC1aUWEwa3FPR1FKOTBDekxNeFZ6YnNJN2MxYnUxd3B2RjNEeXhLOUNQanFaMXFfZUx1TFNkZElLZkFyWjRBb2ExUW41U2ZkaFNNbmVjZTh4aDQyTTlKR2g0czJwVWxsTWhHV01xZnhMN1NaOE5LcWwzUmM2Q0ktRlU4Q05LVFpxTlhIZGFoZXBhSjRzVzVIUzVn?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1793918880
-   },
-   {
-    "title": "Marco Rubio rejeita saída da administração Trump e afasta candidatura presidencial em 2028 - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTF9vZ3VoVHZvcDYtUGlTTy1MX0FsdEh6NTNrT1YzekJlS0NDQzVSQ1ZELXNhYWh6aVJNYVAzQ3BMOHdwVzdwX1psSmhGRXZkdUo5dVFiX3dYMGdTSDFQQUx2cUdKWTBpYW1PVjVSQzNvcjhoUUhpYUFCbXJRM2dWbUhWeU44UnFXWnVlS055S0ZCMUczZkFHTVkxaU9zVjlNR0l3cENsWGhEZWZNU1RpaEhPQlFHX014S3plM0NXSE1ZTEtiY0Fr0gHCAUFVX3lxTE9vNzg5bUZNYnV2TWwyZ3BQMUtqWkNEZ1FLa18yWlRrWVlfb0Zub19GRWJtSzJ0VTdPZXdLU2h4djZMV0RSVkpSU0h1ZzhETXJra29idUw3WXN4QkFEa0V2aV8wY1VMUDRDcEdRRkVVZ0YzOEdSVTdDcS1sZXlodVJsUWpnbTR3b2FFeVpUWEpueHRyNnRTSUkweWVjdVBzVGhCRE5UVV8wY3MzME9vZzBaNEFQY3VsN3FieVdPZ3hpeTNn?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1793917080
+    "title": "Activista português Au Kam San condenado a 12 anos e meio de prisão em Macau | China - Público",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbnR6bFFEb3p6X3ppaFNIekcwODk5eFF3cDI4TWJtN2xRa25GTWVNenFvX2dhQ0ZIZUtGU2Qxdm9YWmNHM0c2SVpHLVI0TWxIeGwyLU5tOTVLMWJVV2ZYZkswLS1vSDktb2FodnFZT2twRnV0S3JoSEEwU1hzMDFfNlo5RWFVSUZUUjhQR1l5OHp3NkdtX1E0QUZYWkd2NGVOQzNfalVQdmpHMVYyS3ZjQWVlbXp4Vm9SdHZXWmhaNA?oc=5",
+    "source": "Público",
+    "ts": 1793955585
    }
   ]
  }
