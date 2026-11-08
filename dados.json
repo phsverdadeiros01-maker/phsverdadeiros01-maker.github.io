@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-08T00:00:09Z",
+ "atualizado_em": "2026-11-08T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-08T00:00:10Z",
+  "atualizado_em": "2026-11-08T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-08",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Sporting, CDEFF, Esgueira, Barcelos e Benfica vencem neste sábado de 6.ª jornada - Federação Portuguesa de Basquetebol",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeldOaWk1MTlKcG5KMXI3V1lSN3RPamJuZ3VJN3pkdEtXVWFoV3owN0ZLNEZQMk9JU08zWnNIWG9Dd3pRYlhmSWRaaGxDNWtrSnh6RTU5a0ZOQ3J1U1lCa1FLNWdudXhlRzUyM2drdTlYcm50alVESW1mNFVFMksxeThBeVJHUUZNMGltM0dwQTZNUUdwajZuY21OLVFCbXl4WWRlYXNTNA?oc=5",
+    "source": "Federação Portuguesa de Basquetebol",
+    "ts": 1794095496
+   },
+   {
     "title": "ULS de Barcelos/Esposende celebrou a dedicação que “não se traduz em estatísticas” - Semanário Alto Minho",
     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOXzZtdGhHa1Bwa0dTY2JRaHVsX0d5TnA0RWRtMTNONHhWOHZWX2M1ZGlEVDl2N2RHSURDRkhKTlJ1R0FLOVNITzU5UTJxbC1waDczZFpsSUI0c3YycnBpWXM3cUNqbEVWSFRtTlFhOUlHNGZFUTZlNW05bGowa0dQRVV4N25QZGx0QUxKTVdvYWxuQWJvYnJFaUpTUUtIVTN1NnotVWdCa3J0bURuR1lfbm0yVEJOMFpSVE5rdWJR?oc=5",
     "source": "Semanário Alto Minho",
@@ -1495,68 +1501,62 @@
     "ts": 1794066360
    },
    {
-    "title": "Arciprestado de Barcelos promove dois encontros de formação para Ministros Extraordinários da Comunhão - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZjYtcXNkaGwzSDBrcjJ6QTFhaDdGbUtRWndSSlZoNURuZWVrT01LM1Ayb0c1a1pmSWFselJ5eEp5MHc0RnlTLWxwZWM3ZjhyY2lueDQyc054bmVZYUtYc2xUbVhRWVBmR1JkZzNGRzkxQnZFdE9SS1RjUnY1UkZjR0QtYlplQzJEcXcxQVJUTHJ1cTFpTlltdC12X19rY2JEenJKa1pxenFKVlI1ZU11SkJ3QVFRdWpuS1FfZHFReUFRY2plODZ4V0pJUXlDeWRqb21tVjhxRFJqQ0Y2Q1VxV0lsRzEyZzBmWjZKY1EzbUFzQlQxanZGOTJIMmlDNzN0MnVTedIBigJBVV95cUxPYUFyZXVJOGlxRFo2elZKcExDaHU2UFBOYkczazNPV1Rud0dxSWVNSWF3NUdJZDhNajR1eDBiQXkwZTRiRDhiZHBoZ0xMY3hFNzBXZlJFc1l0WG1TTmdVVWFudTJFbW1sRUU4RzFCb2pyUGtzNm85YUstaHdmbHJDQ0NEQVNWYmxEQ3Z2MTlvSE1zSFJuaS1hdzF1clJEYVJQVnRLRThFdHJtY000dGdfT0JvQWRISUxSNGpvajVxRGtQQ1l3U1pSczFZRGpwRk92ZF9hYUlUSFVuS2VhRm9WMEFoaXhPRkEtTUlkVTJwejdCNUNqOS1iVjUyeGM5QWtXeE91eXhTZ3lIQQ?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1794052200
-   },
-   {
-    "title": "Basquetebol: Illiabum em Barcelos para travar série de duas derrotas. - TerraNova |",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPT0N0Y01tZzhTTjQyT05HajNkQ1R1ZGl1WjIxeldodlUteUl2TXhNTjgtRFZ2VkRaUEdNc3YtODEwaUlsZkxsbVI1RUgzM19hU3FCWVB5Zjhkbi1PUnFQaXljZTA4RVJTekVzSWpBQXZGazJZOEpLMHVQQ2ZPMkNkb0ktREFlbmJiR1BDWGJTSVNxWjZtcGlkcjZJNzRpeDY2dW81Z3czV2RoQQ?oc=5",
-    "source": "TerraNova |",
-    "ts": 1794036300
+    "title": "Barcelos entregou prémios dos campeonatos de Boccia Sénior e Adaptado - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWGRmUlJiQ0tBZmhxTG1LMktaVVJabW9VckIydmtMaFdHc3JfU2ZLaHpfcXRzaW1ibkN2bXJTM3ZwQnY2WC0xZzk4Qjd4X0E5ZE9iYm9EZEpNcnZDY2lLTHZMZEtrdXR4QUJEa29TOUZDeXRUMklNcGswMVpDSFItVmhIeDhJZ3ZNZ3ZHMHc4a2pmUTJCQ3J1M1hyc0VqQ1BQOTFfdzFkdGk?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1794063629
    }
   ],
   "esposende": [
    {
-    "title": "Boletim Unidade Pastoral Esposende Nascente - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQamtaM0xlWnlrWTJjb0d4SFVpajI0S2ZPbUpMTXI4QWUtYjVQa0R0N2ZCR3lTZllpb3k5Z3pWdC1FVHY5VHcxWnJLRFQ2RTUxbm1mdzdtM0N5a0hEMTVyZG4tVDBVZmlmRHkwWFh0R1pwcXFveTA1c1FRU2N4OTM0Q0Zn?oc=5",
+    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zWGJRazd6Xy1mTENObVJJdEJnd0ZJanRRWUhYMmN4ckxQUVZIREQ1RW5vMVUwazJGTldYUkw4b3JQR28xUmRuYnRxcllNWGdrT3pOczlHdGI4a3VmYkdlNkFWVGJKY2xJY0p6WmU4OFRLNDJJNWpyU3JEWHBBeTg?oc=5",
     "source": "TV Esposende",
-    "ts": 1794036409
-   },
-   {
-    "title": "Boletim Paroquial de Marinhas - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZU1ibDJSQmVreDdRdGVId0VxX3ZwVm45dUl1UXE4WEpTeFUzZU1FQk10aFYtekxZMjBYeU5fUlF1R1B4LUdhdjVYNm5LQ2RIM25RR3dwZUQzSWlRa2tiVEZReUFzdnRBMzR5R0FtVzhTU3g3eDdzQm9EQkZReVgwY2NCVQ?oc=5",
-    "source": "SAPO",
-    "ts": 1794030600
-   },
-   {
-    "title": "ESPOSENDE, UMA CIDADE, MIL RAZÕES PARA CORRER - OPraticante.pt",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA4SmNUN1Y1amc5SDZYZzJBNUdmQ1VFOFZsSlMyRkFRWi1wZ0YtYVdFaWhha0JaZlV0SzEzSXNKdkVaSEN2X2hfSGE5c1NTSmJfMEVlSmNDOHd4aHpucWpFWlh2RnkyMlFQWkZZbw?oc=5",
-    "source": "OPraticante.pt",
-    "ts": 1793994469
-   },
-   {
-    "title": "Esposende reforça resposta social após sinalização de 323 casos de vulnerabilidade - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOcVk2SVNweDA5eG55RVdWRWk3QzVSZzBjREtROU1hTXdxMkRXdUlyVDlzYkRYdzc4eFRiak1DQ3U1ZVRNa2I0MWZFMHpxckVfQXNJQU5kZjd6YnBIckR6Mi1sNU5UaWdkUjZ6eDlmWUlvZzhfRGpRT1FmdzNTUGptNFE3bmgwUVVfR2M3OGJZUWdYQjJDWWZoSEFpaDkycVdLQ3E4ZTVFUjdUSzVZQlFvckwzV1ctQWFZZGE1Y05n0gGzAUFVX3lxTFBUOXkxQUVra1ZpVElZR2tuT1h0QUZwSzU1SGxMRmdCeXhQcmU2cjhzX3JnTXBna3YzcTdjQkFOMklYNHVOSURpb0tKQXNyejM3dlNJV0thTnhBamNRcG5ULVlZMHgzYWhYVGItaDJFLTBHYlVUQkQtWkNCeThKSlZuQTBaZk0taUxyOHNLNmpKQXVlTFNxM19qaHpFVmI4M2tQRThyMXJmSHFUeHhSNEdTMWZv?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1793984340
+    "ts": 1794035245
    },
    {
     "title": "Vigilantes da Natureza libertam 16 pintassilgos em Esposende. Passarinheiro fugiu - Jornal O MINHO",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVUtlNHBMeGNING5wanNHSklrdU50WmEyNXc3V05vTjhvTzkxT2xwNTR0U21SZ1V1dGdudFFDSFg0cXdkLXNaZ1d0R2duZUNZQ09obUJlb1pibmtxYUt0X3NRYkR1eEczbE1yb3V6cndEMkVGeUV3bzgtS2ZjbVVlVkZHdUJOZFpKMk5qZ1N5RmlaWE94RGxiNHJIa25nZ3dv?oc=5",
     "source": "Jornal O MINHO",
     "ts": 1793970120
+   },
+   {
+    "title": "Esposende tem assembleia popular marcada para domingo em plena vaga de protestos pela habitação - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50eFlYTVdqYUF5QmpSRTJaSGhiUVNBeFk5cUwzdEp1OTVPN1F2cFJ2MDJKN0RqWnJxenZwX1FCVXF5M3cwUld5YzZCUENiNUZTV2NjcGdaTXJEZmY3Y1RSQmJJRlNQSlc3RnctcmNwSVlFX2Y1Y2c?oc=5",
+    "source": "e24.pt",
+    "ts": 1793922580
+   },
+   {
+    "title": "Museu de Esposende leva património às escolas e freguesias durante obras de requalificação - O Amarense – Jornal",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYUsyb3pON2dFSmJMbWx2SlkybXB2QW5tVjlscFdlVlg5RlJvVEF1Qll0aW1wbHVITjBHMDhfZWZPZU9TZVhsc2ZBTGNRYmdxNS16TTNfWW5qd21xdkxjVWo5R0lqbWJieEtjSDZ6UTZ5U1prMXEtSkJKY1VnMGtBZE80Xy1PN1Q4LThabzc1WXd1eHBfdVJEVUVnQU1rRk9KRFVDU3FaSXdOVWdQNzZvX1hB?oc=5",
+    "source": "O Amarense – Jornal",
+    "ts": 1793918100
+   },
+   {
+    "title": "Conselho Local de Ação Social reforça estratégia de inclusão e coesão social em Esposende - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHhUOUdvVnlFSUVnMGNCUTF1WEJDYXkxS3NvSk4yQkwwNVlyVHRUemV3dE9WY1I5NDdWei14c1c0Tjg4RUltSnh2OFB3Z0d1SUVUWEw5Mnd5TzJTX0Frc2puVEdORE5RbDB4UWR1ZDM4WlNjVndVU3dLeDM1M1gxdHNYR3lkWDZpZS1HX3RkZ0k0ZDVKQ1FNbFZuTTdITlJpd2Rab3lkUWNfd1VXcDFaNW55eHJfcUNyTnc?oc=5",
+    "source": "TV Esposende",
+    "ts": 1793912902
    }
   ],
   "mundo": [
    {
-    "title": "Suspeito de ataque a tiro em Cracóvia é \"fascinado por ideologias de extrema-direita\" - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTFRXUTRLMl9vMm1RRVJDVXE4TWpPa0dUOFVsY3luVXdpX1NpVW1mN2tKRHpDaTl2Vnh1WkJ4MWdONWV2cHUzQUVkanZvM3EyWExBc0w3R1V2Ul91cU0xRG85VjkwZWJfVGxJdkZ1azQ1LWt6Qnhhd3VVZ1U0TEhaX1JMbXpQX1Q1ZTh5Mnc5NzBma0hlWlBkRTJzT21MNXdiNFZuUEFKb2JBeENfaVhmSTQ2RDdaaF9YWjg4dXZzeUZUMjhiajRMRGRLb2U?oc=5",
+    "title": "Líder do UFC rejeita convite de Trump para ser porta-voz da Casa Branca - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkFGc0oyX0JFS05EaGw3UW5hbXRfYnFpdDBsVTZ2YWNTQWZnR3FLazVhbllaaEhrdl8wVllZbUNodTFqMzVqazRBdTdiSzE0bGxGZDlfdUlCVDJwU2t3Rlp2bWwzd044SDZBam8yMHJXOFg3SWhpaE5UVGJJTkNVWXhFQURpbEhOWUd6ajZKWDFfWmdveVRIQnJXcnYzU1JKYlV6X2FVZjltMjNrS2tzbNIBpAFBVV95cUxPUkRzZWJmQVFYNlJyWHQxX295MU9yc00xb2stQ0k1aTFsbHEyX3JSVk11bE9BWHp1bk40VVY4Z2VNNExfT0NpSGxTbUJQaklQZVFpU0VGRnFzeG5kdzlKWlJlSVN5SllmNDBTaGZQdEd0bFhfRWFOc083WjNZVzZWbWc3WVl0bUFoUzhUbU5JYW5zRUUzNEVvZi1rUmdVbVg0UVBHSw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794099000
+   },
+   {
+    "title": "Três mortos encontrados na casa do autor do tiroteio em Cracóvia - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZXczdW1EamRSYTZ0dG9MNzhTRzdzWTdiYTV1WkNfUDFPTmR6Z3BSR3c2bTl5YW1aQ3VRRVA4NjN0OWNNVEpNXy12bi1NXzIyQXozNmhkWHVXWWdrMHJGTExwbGZXblJNT0pCSXFESzdwMEdveFBuNFFvaUJCX0tfUFFCc0lOR1hFR2pJRWFFYnBpb1cyVENhWkhMVEV4Y1JSamhoajZDRDFRbGFEZnQtMnlLR3lWSWx3R3NiSw?oc=5",
     "source": "SIC Notícias",
-    "ts": 1794087457
+    "ts": 1794087880
    },
    {
-    "title": "“Dana, por favor, aceita o cargo!”: Trump convida presidente do UFC para porta-voz da Casa Branca - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclBLSFNWaWRueDRjVExvUkNZQ2dIcC1FQVdkS0prcXEyYmFhM1M2cmNPSUxGWWdnbmNvVGlycTVhbkUxVGZaR1k3bFl1bW1jX2xUazB2Z1otWkc2YVdlUWZkWDdfYzJpdi13RnE0aWh2YS1DSGFqNjRINC1xV21pZjh4VlRkXzRYOG5ZSjNXdlJVUEZ4ZE9tMUtBaTB3MXJEZHlNR1duZ3FNdWowSTB0Q0VWTldtWGZiaXlJaURFZXVJaVF4andBZ1R2ckxQcEk1?oc=5",
+    "title": "Presidente de Israel convida Gadi Eisenkot para formar Governo - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNEtacVVlV2U0Z3h1N1dhSmtPYlZ1QkEwdEVVNmFxTExhakRqRkpuQWtra1QyYkltSTJEcWpMSWRPYVlQWnRmRnRKb1lLUGhWMGx4dGswRERuT1IzdXVDeWgyR080a1FISFVfeUliZi1IQWl4UXJaSXFnSUdjTTc5dDJPV0t3S29qZzN1YVR3dmJoazlQTjdrbDUyZW1xX1JMS0VOZ0ZXRmVjQS0tZVBBa1hPcU9PTVU?oc=5",
     "source": "Expresso",
-    "ts": 1794082858
-   },
-   {
-    "title": "Presidente de Israel vai incumbir Eisenkot de formar governo - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVlYOEEybTgyQVRGQWY3cFZxNmtuUjBTMHJJaTY1bktRb3djVnJNQ1RNZ1ZuaTl2dnhqUzBnQ251Y2N3ZFg1UjBPQUp1NjJSVUZOVVY1SFlGLVJwdFFUS05KdEcteDBZWHd6SGVUMkxxUVpFME45QjEwUzRMckVOVHdRRzNIQmpLYjMwQmN4WDI1bEhnRzBXc0NHeHFlU0U5TlNSLXdSekpkVHNZOGNzZVA5czlJaWVTSTFhNHFuQmhWcE1NSGIyWlJRbTliS1ZuUVE?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794077700
+    "ts": 1794084426
    },
    {
     "title": "Confrontos violentos em Paris em mais uma tarde de manifestações em França - RTP",
@@ -1565,10 +1565,10 @@
     "ts": 1794076912
    },
    {
-    "title": "Presidente do Paraguai destituído é preso e vice assume - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUUFCdW4zTmYwLUVEX3J2RUgtNFk3Z0Via2VKdzdKVERkbHlkaEhacU9fWnVMYUJkTkpqSGVNd0x6RFpfZTQzZ2I0UWU0Rmw2OUhoN24tbENGUk5mVGZkUC11aVU3SHNKWTFsMTBBeUluMHNaRm9mRWEyOFV0RVg4WV9RVGtFYW51YzZFaVFUNmlMNWw3ZmVhSk9xY9IBjwFBVV95cUxNOUtpRDIzQzF2N3oycGxyVWRDa2RjclNGUWdpYWhRcU14bW1DenhUaGRjcjhUWTdqY0lWX1AxMElXVTF5eHZhUGJscUFkWGN4ejlpSzF1UmgxSWcycUkydE9zOExjTDJuZWEwY2RvcV9wd0luZHFndzJtNU00OUxpbGZFb29wUDloamFPMTdCSQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794063540
+    "title": "Como o veto cruzado de EUA e Rússia no Conselho de Segurança acabou com a missão da ONU no Saara Ocidental - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT2duZnhPU3g5UDhoSEJGVVJjZG14XzJFU3JoVk5aZEJFRDAwZHFGT1B5dHpHcGw0T1RvWlhpMW1xRjRfLUt5aG9pQWJVYnY4Y1MzQ2luTEFUVU00VXJ2bGxQVjhtcnZKUElHeDhHd2k2RUdHYXpqLW5mNFZpX2JWSkZqQTBTRnJuYlRnR3FHS0JCZFNKT3pwdHNtWFFqeGlCUG0zRTFvNk1GZTM5clBqdXBSZ1c5eEVkN1Q5NWdDSWJBcXJtdTNfd2hnMEtVV1p2?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794076802
    }
   ]
  }
