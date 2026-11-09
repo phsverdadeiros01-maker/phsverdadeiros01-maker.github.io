@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-09T00:00:09Z",
+ "atualizado_em": "2026-11-09T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-09T00:00:09Z",
+  "atualizado_em": "2026-11-09T08:00:09Z",
   "dias": [
    {
     "data": "2026-11-09",
@@ -1471,16 +1471,16 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Óquei Clube Barcelos arranca campeonato com triunfo por 7-3 com SC Tomar - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU3NsTXRDcFg1TXhaNmladjZCUkdHSkFESFQyQXAtQ2JOVUNYdHhsajBWU1RBN0xhbkJnYTNMdzVSRHRkdm9EZkpBR0M2LV9mQ1hQYW9PaEVHSEVXN3VLRklKWVQya2JKVWwzbXRURmJsMXh1SFdBRWxWcGpzc1FqTFlkZjlKV1hPcTBlTEVfSlNYNUw3aDVHUVptT1BqaTQ?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1794210389
+   },
+   {
     "title": "Mais de 300 alunos de Barcelos participam em projeto de viveiros escolares - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnFIWGdSNVVSa0NNUEhMVmtnNnV4SmVqZk9mRDNuSnJPY3RDYUxBczJEaVM2TVBRdTUybnR0UkVQa2thY3JoTmVkVGRwUHhickhkVlBFU2FST1prYzRFbDk5cnNnTk9XREFENjBidWkzN2RzNGg2YUI4bGpXVzg4U0VaODdXbV9pWVpIU1dCcng3UXZPZFZibEdn?oc=5",
     "source": "Braga TV",
     "ts": 1794176743
-   },
-   {
-    "title": "HÓQUEI EM PATINS - Liga Placard. Sp. Tomar sem argumentos para travar 'galos' de Barcelos - Rádio Hertz",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1lJa21jVmRZMEFQcTRMX3J5eGR2TXNYaDl5aXF6VlJ6UC1GaVc2LXhzNFRaMEE3amliZEMzLWJQMTc5WkhOWGxSWFJkZzBEUVViTk90SUZ6S0FPQTN5cVZPLWQ5amN0ejdqLS1OSFZxTkd1MWdXVGh2MG9RamFuU1FrOXhLYWIwVW1JZVNhQnp6LUloOVFYeU56eHcybnFaZmsyeGo5OFM1UQ?oc=5",
-    "source": "Rádio Hertz",
-    "ts": 1794168738
    },
    {
     "title": "Gonçalo Gonçalves de Barcelos conquista bronze no Nacional de Karaté - Braga TV",
@@ -1509,16 +1509,16 @@
   ],
   "esposende": [
    {
-    "title": "Esposende: (vídeo) Incêndio em contentores ameaça viaturas junto a escola",
-    "link": "https://e24.pt/esposende-incendio-contentores-escola-bombeiros/",
-    "source": "E24",
-    "ts": 1794171527
+    "title": "Esposende: (vídeo) Incêndio em contentores ameaça viaturas junto a escola - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83dGtjT1NrdzlnOFdfQ0hTbk0zZERqWDVsVkI2ZWhzeFl2MVRPQkQzcUJVWWYzTHRiSDA0VzVMSE5FRWx0Z2tnU0FKS2NkY1d6MkNVYzlMWEpTbmduYVdSSkNHUWpnYkowbGVPNVFuRWY?oc=5",
+    "source": "e24.pt",
+    "ts": 1794172214
    },
    {
     "title": "Esposende, Vila Chã, Antas e Fão vencem, enquanto Marinhas e Forjães saem derrotados - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkkyT3ZvWHg3ZEJ3OU9lcnR0WGZFTngyY1BHNHh0a0I4Q3pfT3pPekxQVUdsb3RZZGFiS1p1RTNZQWtLa0Z6QkNaWVUwaGdldTBZdXc0YkNMSU5MSmVnUjIteUxSSlZIckVaWEtnd2xrMkkxUnlZMDYzQnlXWmRMM1VVUXpncU4wQlZtMHVCTEQ3YWhLel9qLUVWRVk0bnlHUVg1MzloYXZtaU1udkQ0?oc=5",
     "source": "TV Esposende",
-    "ts": 1794163294
+    "ts": 1794163414
    },
    {
     "title": "Domingos de festa e tradição: concertinas continuam a animar Esposende - TV Esposende",
@@ -1547,34 +1547,34 @@
   ],
   "mundo": [
    {
+    "title": "Homem que matou seis pessoas a tiro em Cracóvia morre no hospital - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUDF4SXJwc2tTX1dKOGE0aGdNVHFNNEdMbEs0WHR1SXhvd1ZNZ0ljVjRkQjl2UXV6dWVVQmtiQVg5eXAtdmViVnlLVHpjOVBoenlOaGU4a1FXVjV3OFA4cXJLQVA4aFJleWNKQkVLa0RqNm1wOTJwbWdmbmw5NFYzWUw4VDhacm8taHR1a0MzVk5CQmxDbnQtZERhT3hiZ1RCRWN4SGp3?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794201480
+   },
+   {
+    "title": "Trump admite que política de expulsões em massa de imigrantes foi \"demasiado dura\" - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcVQ0aFZVaG5oNk5FbXROaFVkUnpnbWp5NTVpZGI0N3luTUpGTV9PRXhvbTcxb09CZWwyZFFmby1nMGQ5S1NxYzBuSHdod09NMTRCXzVsY29ta0ttak5IYUI0bUdUMW0wMmVkb2hsVzJDVXMxS0VtVjdfcFRiaGhPSDREekFDSkdCTkVIUnFGWnJDYW1IY21DakoyWldiSU5UckNlYWRrV0MycHFrZFVwTXBTWkNNcXdqeXN0a9IBsAFBVV95cUxPX0E3T256RGRRdUdpSVRxMjEwTHVRZ0NlVkdST2thMzBBbVhVNEtIV1U5LWlUeFI1VnBpREk3R0ZSRjhFQU1QLUJkdkNMV0tST2pPUVZnUmtLUGJNS2VuNm5hUDBidXlyTnQ3WGlyXzRsS1dvRmtQQzlhMXZxOGx0b1QwOUhpYWhSa0R4LUozdWI5NFFrS0dSTFRuVWp4WWdmajgzNjFlR1lZX25saVBTUg?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794177120
+   },
+   {
     "title": "Eisenkot convidado a formar governo afirma que Netanyahu é bem-vindo a integrar futuro executivo - RTP",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQWUxlM3pqSW1hUlFYNHR3dUdjTUliczVCSUxyc3c5cGZjYXNJc1JUUUwwd3VyRmlYOUl0ZjVhTGZuX0VyaVRfelBYMlltZFh3bWtmaTd2TjlUcU1QRmFJUUtvRTdGNEdvVkJNSW1adnM4ME80ZkR6N0dmUWNxMHUyWnZJS3EybXA5RVN1VVAzMmZNOEV6YWtuckVtdVVLN19XamljeUgzOC1tWUdqLVNOY2Q2ckNXaC1jRmdpQnp3VW1lS0JrT3FKekVTZ1Ntb0VkcTQyNTVn?oc=5",
     "source": "RTP",
     "ts": 1794172367
    },
    {
+    "title": "Anúncio de Trump sobre Dana White apanha todos de surpresa, incluindo o próprio - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcUdrTWxQb3VUZnh1TWptWHp3bUhjcjRRaXctWC15c3ppenNqbkdsdk45aXFHWGhDTUIzS1FVY2tDOGdwX2xKNi1ER3VTRU1zUHFlUjRYb2t5ODEwT2hUV2tzWkQ0SGJTMGpIWklLWWVCTUhrblFwc2RUUTVXWEFpMWtaNy14QzhlTkt4bUUyVy1TdldsQmNobjFmclVGRTM0bjhvYUxmQ0Fia1d0MHZocVZsTEVnUDFTODJZQzltMDNGellpRno0UUZ1V2tIR1FUY1NJ?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1794171841
+   },
+   {
     "title": "Trump diz ser \"altamente improvável\" novos confrontos com o Irão - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObnFuRmZwaWRBVWtuOXJqanNkUHd5aGt2Zjh2YnJSekdnYUsxRkhuRkl6QThGcWl4dG00d3hlcXViYUp4ZFJNYUFPdFV4dWdFaEY2LXp0VzkyNEw4UGRUbVVPME1Ld3BnZXFueUhzVEc4NF9JaDN6MHpGck1MQkVVZF9DUWZYWEZFQjE3MEZXcDNJNW1raTVqTHhZUjVFT3FxdExqa9IBmAFBVV95cUxPWnl5V3VvSmJmeGpWVnQ0SURzRHpoaVJNYjdZMnNiS1VSR0FEUGp4X1FwSW5STXdrbS1LMndwQnd6cVk4LXhYTzVLbkR5WEd4Z2NsWl8tYXN0QmhjQjdXaVBabmFkTXEtcHNkR2FTRVFoSG9jVF9KWERuSDE5ZkNlT2pnNTNGUzFURjNOQUN2c01QWE9ZWThiNA?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1794165960
-   },
-   {
-    "title": "Egito. Pelo menos sete mortos e 112 feridos em colisão de comboios a sul do Cairo - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcm1UcFhScXY5RzE5UmlpenpialY4bWFacVhMMnJQYXNmb1VZVVpLRmd5bGxLWmM0cDNiODdRZ2Q2SUVSYXBGWWNPWVExSF9oZk5TTWtLUm1hSE1vZjgycEJ1VW5zQnlEbHlIajU4OTIyd0YycmM4Vkg3T0pnNTlWWHM3b1BpcGVFY3Jmc1d1ekVuR1gtMDB1Mk4xYmNTdlpXc1B3S0ZCUjh0dmd2a2ZFQ2FFNm8xZHBMbFk2bWp5ajU?oc=5",
-    "source": "RTP",
-    "ts": 1794159054
-   },
-   {
-    "title": "Papa aos cristãos uruguaios: não se cansem de transmitir a fé - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeVhhcGdiZUlOeFplSkwtLXVfSnhNOUVyeVR2ZXhtY215ekNnbnFHbFA1S0pOV3lUNlZEN0VoMXJ0LVo0aTE3R3d2eVY5MUpSLUtrNl9EcmpxZEZLclQ2aUdPZHdZSDZzYW1DYjE5RjZaSkRjN2tIaFZtWm4tZkI4aDE0V2N4d1Fnb1V1UGJENlJlaXNOdEVKcFZ1YlFkZlN3MUJKdmpaQUpnVlJ0UDdsMXdINzE?oc=5",
-    "source": "Vatican News",
-    "ts": 1794149469
-   },
-   {
-    "title": "Atacante de extrema-direita terá matado pais e irmã antes de massacre em Cracóvia - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYU1QNk1aRl9CcDUyNHhUY0FHUURQZGZRd0t6eDZ5WF9Pdml5WlY2UWROeFlYTGFXTGRrYkpWazdMMGRrd3k1RUl0T2NNenk1Q19ZeDd5Uk96ekFWSnpWOUM1UnFRaUdreXNoV21HWnpackl2TUticEFtSDVZTUFiUHV2dXV0SjRxUWZENno0d2F0MlpWRmlmekRDVEFOd3dUa3lORFJ3Uk1hMjEtTFhCZmxZbWRsdVdsQko0V3J30gGyAUFVX3lxTFBzSktUU2JaN0RZRFV4eXR0eFhOSXNoNnFwaU45eDlPNnNndHptYm9LZlJ2bGI2ck1KRXJlQ1NSVlRGVVdhSVVwVWdxcHVOOHFacUMtazFheTI4cmp4VkxQbFZsSzVXeTRLRHJkQy1hQkxVNWpoVjNDcW5oRDNFOVBBa0xSczk3NHJabTRaMFg2azBBSnRkV05UT2RULWFWOFJ6MzlIUGdtSUJvazVzT2dDSWc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794144540
    }
   ]
  }
