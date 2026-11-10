@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-10T00:00:09Z",
+ "atualizado_em": "2026-11-10T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-10T00:00:09Z",
+  "atualizado_em": "2026-11-10T08:00:09Z",
   "dias": [
    {
     "data": "2026-11-10",
@@ -1471,6 +1471,18 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "39 restaurantes onde comer pica no chão em Barcelos este fim de semana",
+    "link": "https://ominho.pt/39-restaurantes-onde-comer-pica-no-chao-em-barcelos-este-fim-de-semana/",
+    "source": "O MINHO",
+    "ts": 1794297151
+   },
+   {
+    "title": "Graça, a portuguesa ferida no tiroteio em Cracóvia, \"está estável\", mas sem data para regressar a Barcelos - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRkx3MU81elR6eXF6LTc5ZGhZVU1nX2doX1JPeVVmQWpMVmVpMTFOWXJ5Q1JMd1dMNFpFMHp4Y1hMREJDWXN3Wll1TzQ1Mkd4bXdTalZwcFd0WUpDLUtSazQxU1BycmMxLS1kdkdJcFpxZ1RGYmtSdG56MWd3ZWpFd0Nob3ZRU2dELWRBS3J1R3hEUC02SmRXZ09BQmR6bk1FSDQxYzdCUUJYYmI2TXZkaHc0R3dvdmRmZHJ3akt0WnJsZjlhaUJETkJnZnk3OUhnVERvMDRB0gHQAUFVX3lxTE5LUGptRXJpNFdVQXphQkZHS1dOdkttZUs2NUxyT0oxdVRzRkZmU29uTHVPaExIUFM1Y3I3dFcyZVFKTTQ4aUlaUjFZTm1VUm1LR0tQYk1JQURaV3dEUXNMc3BON3BjV1FCbjBKbU9Dbzg1aW9iU1diVkFNeUJscHI0WEE1R1QxMHlJenROQ0pVUlQ5alhaTEUyMFM2M1lvZVQ5ekwwaEhLRmtWQXNJbWZNYzJxc1lnd0VZLTV0WVNLbVl5YW1Cb2RLME1odmFHZnE?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794270600
+   },
+   {
     "title": "Cerca de 30 pessoas debatem crise da habitação e mobilidade em Assembleia Popular em Barcelos - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlhNMXQyTWZvQ1VKdE43MEhUVVpCdi0zT1VKdzRRRXdUNElMRDU3cVkzbTFVVjd4djc1VmF0OUY4a2VkZE0tQk5kYnk5R0NxRmt6MFNadE9iSjI3T2hkNTBRTW9mWW5JSDNCd2pJVTBhWGdhX2U0cUJsZkttVkpIdWk3anYybjJ2ZFpTRFdib2huRFY0T1NqdW9mSEJYQUttQ2ktZnhZTjJQOGhXc2dSTlEzLS1HS0ZDOWtsNHIxclR5d2x2eTNLZkRJSkzSAcIBQVVfeXFMTmhqRlB1MTlVLS1WWGJSMGk2dWhPTXZ0TjU0Qjc3NzJfNVUwZDN4QVVoVFVHZlQzS3FXcTRLNXIyd2ptQjFORVJPZFVxSWFtMmh1SHZpTzVEaFBnLWVLVTFfczhNaTQzMEQ0NXlVTjlORU0zUWV1MlBoT3pLNllBcWlkZXQ5UW5kOHFQS3htNFJlM0MxZTU5REpRMi00Q1NDNVZ5ZjhsaGJVaEdad1I1NHZRZW53V0tJSEVaRUVHdFZOTHc?oc=5",
     "source": "Jornal de Notícias",
@@ -1493,18 +1505,6 @@
     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPV0Z4UlVtaEtBanlwU19abDd4eFpDVXhJUU5PZndxS2NEQXZGVUVBV3Z0UTc3a0JRcDVaUi1vM0FBbnhkTWViekc4ckRKZTQ2c1VHdDAxREVhUjRSSWtCVllSSXBJV1pvTDdOR19TTkdhbFJhZzNtR1otd016Q0FEal96QlZHOFU?oc=5",
     "source": "O Vilaverdense",
     "ts": 1794256860
-   },
-   {
-    "title": "PS quer garantir construção do Novo Hospital de Barcelos-Esposende no Orçamento de 2027 - Diário do Distrito",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGRYUWhzWHo2MkxiOHZqOVl0cGVCUmhKdUtKbnlNMkZ3a3NYRTdoSXh6LWJjMjlzbmdIWm1WSDlUVDRScms4ODVlNEFEZ0p3V09WLWdEdHhXb0dvVWtlNG44NFc0alB0VDE3a2l2WnE5UXA3dEI3eDNaLU5ENnJDUWNQdkJocW1STVJpRVZYSkFGTGtyMFFlbTFxUU1VQjZ2bU9sV0ZYUnd3ZUxDU1ZNZEpFaXBYN2xjMEI0?oc=5",
-    "source": "Diário do Distrito",
-    "ts": 1794251965
-   },
-   {
-    "title": "Barcelos: CHEGA aponta derrapagem de 2,83 milhões de euros na ligação à Variante da EN 103 - O Vilaverdense",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQeHZ1Rlp1eUZ4NDdiS0F1anVBVEwySzBUbkNQSEU5N0kySDNDUlA2U05GcE1ZTWFETEltZUlXcXpBY0JndXV3N0gteWZJSmVDeWR6dV9udHpCVV91enFvbDdrV2E5SGdYZFdFMkFjQkRsVXh3NUQzWU1iUkdieWxyV2Zkay1Iazg0R0NTa0JvLXdwbFdQbFBCaWNkdGJXMkZucUJTckJGNFhVZE9KYWdNRlJxY2oxNGFO?oc=5",
-    "source": "O Vilaverdense",
-    "ts": 1794247860
    }
   ],
   "esposende": [
@@ -1512,7 +1512,13 @@
     "title": "Operação “MALABIS” – GNR apreende mais de 22 mil artigos contrafeitos - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZDFaUU4td1VhVl9IaFk1eUJvT2ZiQzlJb05WNm0yRDFUcHJRdjBsRnVWRUp1VDhSdU95NTd6LWFuTWsyN180MFIwZHNicTlfc0dXeWF1UFJsX1RTMFMwS3ZtOFZvcGpNbDlTRHFvUXRpZ1BuMEZia1pxckRCX1hKaE43VkZnSG5kVzZBOHloUmVLTjhZUW03V0lB?oc=5",
     "source": "TV Esposende",
-    "ts": 1794262090
+    "ts": 1794262209
+   },
+   {
+    "title": "PS quer garantir construção do Novo Hospital de Barcelos-Esposende no Orçamento de 2027 - Diário do Distrito",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGRYUWhzWHo2MkxiOHZqOVl0cGVCUmhKdUtKbnlNMkZ3a3NYRTdoSXh6LWJjMjlzbmdIWm1WSDlUVDRScms4ODVlNEFEZ0p3V09WLWdEdHhXb0dvVWtlNG44NFc0alB0VDE3a2l2WnE5UXA3dEI3eDNaLU5ENnJDUWNQdkJocW1STVJpRVZYSkFGTGtyMFFlbTFxUU1VQjZ2bU9sV0ZYUnd3ZUxDU1ZNZEpFaXBYN2xjMEI0?oc=5",
+    "source": "Diário do Distrito",
+    "ts": 1794251965
    },
    {
     "title": "Assembleia Municipal de Esposende distinguida nos Prémios ANAM 2026 - Braga TV",
@@ -1533,42 +1539,36 @@
     "ts": 1794172214
    },
    {
-    "title": "Esposende, Vila Chã, Antas e Fão vencem, enquanto Marinhas e Forjães saem derrotados - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVkkyT3ZvWHg3ZEJ3OU9lcnR0WGZFTngyY1BHNHh0a0I4Q3pfT3pPekxQVUdsb3RZZGFiS1p1RTNZQWtLa0Z6QkNaWVUwaGdldTBZdXc0YkNMSU5MSmVnUjIteUxSSlZIckVaWEtnd2xrMkkxUnlZMDYzQnlXWmRMM1VVUXpncU4wQlZtMHVCTEQ3YWhLel9qLUVWRVk0bnlHUVg1MzloYXZtaU1udkQ0?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794163414
+    "title": "Domingos de festa e tradição: concertinas continuam a animar Esposende - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeWk3cUwzM2hYWi0ydWtHci1rMC1xWWlVaGc4LUxxbTYtTmxCUk5COFg0QVdiR01EZFRhZVhuMVdmOFA0V1ItR1RrYURoRUtQQW1wLURDNHE5ZVpra09RY0h6dy1maDFpckdZSEJaN3k0V28wQURxVk0yV2hPbmlNSmYzNlR6Q0RtZnpYMGJWMktGMnpSdmVDdXoyNjR3MXRjZk1mVnhBY2U3UTZMbXRWeVhrLVpYMVZS?oc=5",
+    "source": "SAPO",
+    "ts": 1794159600
    }
   ],
   "mundo": [
+   {
+    "title": "Republicano apresenta pedido de destituição contra secretário de Defesa dos EUA - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUUZ3cVlHdU10Y1Fhb1JaNkpaQlp4ZmViUFpnWW1WeTFqWEh1SUNFYnRiTHR0VUtTbm1Fdlg4VDdwZnJKTGc5a2M2MjlfRlhmOEstblRTekQ5aUhaV2JxN2c4bkh5VS1fZjBBVmQwMmZwNUx3alczSFVhTWF5UGtXbmtuUmRVTVUzRHB5UGl6YXNJVlZRSVZjd2hSS1g1X3MyV1hKZFRNQ1VJakZxYzhnZXBNUEtBZ2o5Vm5jUjJjT1ZiNm1aUG9yNXhUUGY?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1794267052
+   },
+   {
+    "title": "Chegou a hora de negociar com Putin e \"a Europa não tem soluções\". Esta terça-feira é dia de \"música para ouvidos russos\" - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQRjF5VllkMHZNQ1Nld1RwVXZVTmRLN1RReWpBTVJjRUtBd0dmQlNqV0Rsc3J1SXZVRUxvc0hQa3ZGZzBsclpBZmdpd1J4VXJiaUtRMER5UHpjdDNRcVJsN0ZwWTNtblpla3p1OXBVRkhwbmx1aGZ6a0hCOTZ6M1B4UXNtMllkUHF3d3NkLVZ1R05WNFh2dlg3X1VfZk5la05sMGhPN01odGRqWHNZTkVITXFBM1J5TWJWVmo4MlcxUFoyLVJtVmxTTGRRZzdMWUdIZURWWU9mUDhtOHZ2WDVfUmdkR1d2WWFHSDNid21wMnhDd2NhWFQteVI4R2x1SFVuaktZazBDRTdxZ0VvVmx5UFVfekc2dzhZUjFIeQ?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1794263801
+   },
+   {
+    "title": "Trump queria ex-pugilista Dana White como porta-voz da Casa Branca: foi piada, teste ou engano? - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWGFoRkVHaTJxSmxhX3VxZEZjQkVOVS1XdEJCVnYyQnp4UjJxS0JRbTh2bHNfT19KN2l2WHVJdExqZXFlWU83YVo1ZlVaaDkxWXNtbVVqMjA0Z0xHZjMydGpRMDJTbS1JSENXUDNUS2lISkVkYm5LMndDa1ByeDVlVVBLM3JDWnlnelpRR3FfdEVrWnZINkNiVVM2OEdRYVpvRUNKc0Q0Qmdhd2JJcnI2LTF2Wms1VFdjR3UzdWtHMTRITlhYSHdrTF9UY2tHT2htVmJF?oc=5",
+    "source": "Expresso",
+    "ts": 1794257127
+   },
    {
     "title": "Sem acordo na ajuda à Ucrânia não há apoio ao orçamento da UE: Alemanha faz aviso a Costa - CNN Portugal",
     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPT29SMUl0b0lYdXpLZ291OU1nNjF3LTNlbTVpS0ZVOHI2QndMekFURTFaNXlJNW14WHR6dEFsZWhZMmppV0FwOU5LWFh6Vko0aTV5b1lKVXVMNUxQNkNCQUFZVkJJUDk2bnd0cWlzeVR0X0pjakpRVTZRZGVzdG9BOXNrcFJxMmNPb0pwV1FKeVF6VThLVlJVNzNPM1I4S2YtMEVjM1BtLUQwQ1lsWWFYU0NHWDFmT29WNEY1OGNZc1Nmb1ZyT2VqblM0NkUtVk1QNWUzMHNzQUtiNmpXUndzTEN1bEl0Rmxud2lmZkZkVDFIZ0Z1SEFZ?oc=5",
     "source": "CNN Portugal",
     "ts": 1794243650
-   },
-   {
-    "title": "Morreu no hospital o autor do ataque em Cracóvia - RTP",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0NCNEFWN3o3TW5qMllqUlEyQ2UyR3p4YzFUbjBNSjhIX0F1S0E0MkV4cHQ4WXo1alRBMFBWX2JLWDBId1VUTkpsMVE3WmhYM2l1amEtclNDbV8yblZUR2lYbk1YS3F3Yl9YaUpCSklvdWl0RTBFZ1Q2cms1a2lISm5vclJJNk01TG5vM28yZHRvZ1ZoY0E?oc=5",
-    "source": "RTP",
-    "ts": 1794241209
-   },
-   {
-    "title": "Leão XIV: família cristã, baluarte entre as muitas precariedades do nosso tempo - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQjM3RWNqaWdJVldtN3R1aUVSd2EyTlBGaFFiR0djRDJyX1BLYXZiZktyb2h0YlZ1YWtKOVp2WEJwSUt2NVFJY01XUWVCd25ua2JJY09SQnB5UmFabms3d211Nm44aWJzTGZ0RWVLLTJRRWNabk5mTGJNV0RIeE1fVXZyRUpkWS1WN19jb21sMzd3Nl9wTzJxYmtGRnQ1MS1OckU5X1dYOXFndzR1U21JOHhKLS0tVkk?oc=5",
-    "source": "Vatican News",
-    "ts": 1794239331
-   },
-   {
-    "title": "Irmão de Orbán, ex-primeiro-ministro da Hungria, detido por tráfico humano - Público",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbldqUXBvWWxwQWVaMTRwakQ4MnVIb2tmSVhEbjJwQ0M2c1NQQWxGbXk3QWFHcXVVWjh6dTY5VHViUTZYX0JPRW96bEctbTBOMDJHWlc5SWxNUmZfWDdDZGRWWGhib2V0V2tDN2htci03U24zdl9ZMU1VYVpZY1JtaEdBWFBMajJ5cWI3d181bHVTYkhpQnNwemxTVnV1R05oaVRaYjVDbEo4cUltY3Rib0FxT2U5elE?oc=5",
-    "source": "Público",
-    "ts": 1794235696
-   },
-   {
-    "title": "Governo francês aumenta o salário mínimo para travar protestos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUjRVRU1PWVYydjdjczdjS3pvV2VDT3V3bFZaeThZaTVHak9SeXMzR2NiY0VTWkVUNzZ5NGlaQjR2SnNqVzdXSmFHVkJTMHB6QlU3NjR4VjVEckVRdTNjQ0lHMVppZnpTQXBocHJhVDFpaHR5T29IbDBZcUItWnpWazEwT0FJdjI1UXp3bjJsc2tYUVo3TXJYZERUTEN4alF6TDU3Z9IBmAFBVV95cUxNUWFaUmlfOFo3YnZYaDJCODRrUXBqMDlFZndiSTJfTjVBa05TODdxY3d2VnNENGhrMkdUb3NLY1c2aE5qQm51NHJ3S0FnSGZQRmxnY2pKN2lnWm5ibkFNdzhlQi1VWG5pVFAwaFdnSEtfYlB5ME0xdVhDd0g2bkk3YTViWWJueTJSUnhQZ2dNYXE1TmVkcmdHNA?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794235440
    }
   ]
  }
