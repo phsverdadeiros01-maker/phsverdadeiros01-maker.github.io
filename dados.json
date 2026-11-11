@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-11T12:00:09Z",
+ "atualizado_em": "2026-11-11T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-11T12:00:13Z",
+  "atualizado_em": "2026-11-11T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-11",
@@ -1632,10 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Município de Barcelos reforça segurança dos mais vulneráveis com entrega de 76 equipamentos de teleassistência - Fama Rádio e Televisão",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3dWcEJrMWFIQ09oZ3M5VmtEV3ExeldRbjZQQ0lhRUNJcm1Dak54TWwtMS1ic3pkUnlCQ3hVb2piQ1VsVk8tM01heUhCMm5oaXgwNC1QbUc5TEowaUtQMVUzVUM3RHJ2Z0VaYjMxQXFHZmRWR29Pa1M0NjhpaDVhVzZadFUwR0JFU281LWNQUHNnR1Rsd1VZTDZycDl1Qm41YUJGRWM0aW5TZzBIWDM2Ykt0bEJyWHFvUUgzM3NvdnNGelN5Ml81bDRlX0ZMV1RScmR2d1NZczdrc1dLckHSAeMBQVVfeXFMUEUzcUVuTDVzdVhkbEtXci1FZHpmaHFldDhNelNjb0N5YnUzZnB1b3hzcVd5OWU4WklOdVV0SUhFZVRRSGQ2UW5WVEwyb01CbjRWMmZFbGt1a2ZrUWZKUHZJVUVkcGVWdk1aYzNKSjhBQzFGU2lURTh1R1pDeTMtQjZhdVdpSGNIbXdOaTVKUHVTdENpVDh6bXJKQWNtcDdGRkxOa1I4ZmFydzRrX2ZSa0VfMmtKdWtVQ3Ewck1oRVY2cXpUVVl4VkJ4dGVReEl0TzM5eENvdXhXZVRYVmllNjhEc3M?oc=5",
-    "source": "Fama Rádio e Televisão",
-    "ts": 1794391766
+    "title": "Barcelos: Chega denuncia derrapagem de 2,8 milhões de euros nas obras da variante à EN103",
+    "link": "https://e24.pt/barcelos-conclusao-da-variante-a-en103-adiada-para-dezembro/",
+    "source": "E24",
+    "ts": 1794412958
+   },
+   {
+    "title": "PS Barcelos apresenta 13 propostas para o Orçamento Municipal de 2027 com foco na habitação, freguesias e alívio fiscal - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajhicFZiNXBhOXFLNXNCOTljWG5tTzZRb0gwbTdmYVZ3c0Ryb0kyU3hyNC1YdnpUaWh5bHlpbDNpeHlqR0lYNTRfV1pkb0xOZkVMZmpFUnp3Z0VXM1RKYWRJRjA1UXVlWGd3Y3pMLVJOSUpGaU1zTW1sdk5IcEJsdmw5NGRGT01jLU85eElhRU1pSFYyQjFjbG1raktoVTExT0hqWXdBeHEzQmlvWmlpRVJheFRiU0h4VFlzQjFFTTR1bC1fai1QWnkyRk9TSGZWcTlwR0FxR213a1N0?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1794410989
+   },
+   {
+    "title": "ACIB promove seminário sobre transparência salarial em Barcelos - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdVJ4dk5HdnMyTHVJb09vdWw2MUhkNkp4X2dFUVlVMFdBemVEREpIbktybVpKSzVWOEpYdElDODFFU1FWdi1ucEtEdUowX1YtV0RhSVBndEs0LWJHaGZpZDNva3RBWGRKZUVOamUzb3FpMHc3NWc4UFpmeVhzR1BOS21nVXJ6R1BTbUlF?oc=5",
+    "source": "Braga TV",
+    "ts": 1794410518
+   },
+   {
+    "title": "Município de Barcelos conclui entrega de 76 equipamentos de teleassistência em 28 freguesias - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWZUcGo4N2JMbUtjM0tOMzVzLVB5RGpfTkI2bDdiWXNBWnBTMTlZcEFNcUFEa2NXbG1DeldFR2lweE9hdlR0WlJhYmVEZFl1blRXcEpraEd4NjdhdW10YjdmYlZmbmxUdEFkVXIyUFRzQW92V1lLejlNbml6RXZRVGpxNHZmTzJtOFF5bnU1dUVJWVl5RDVkcWE4eGw1NWpDN2xubkRyYVpTejRfWV9wRjJ2SEZtZU8ya083ekI3WHJROGpGd01STXplLXhzRTlYdU53X001NA?oc=5",
+    "source": "SAPO",
+    "ts": 1794398400
    },
    {
     "title": "Do banco em Barcelos à Seleção e à mira dos tubarões: o ano louco de Gustavo Varela - A Bola",
@@ -1644,92 +1662,80 @@
     "ts": 1794390180
    },
    {
+    "title": "Futuro Hospital de Barcelos domina comemorações que distinguiram mais de 50 trabalhadores - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTgwVmhIV211QmtlcXJuMTZsTHpzMEw3NTJ1MjIzZVkybjZIT0wxQU9GY0FlSW5XeHBsMHVwWm9Scjh5cUNIdDA3dkU4alZ1ZXhNVUpQVUNFa2Y1c2tZazB6ekV2SVpRRjQ4X2RsVS10dmhHYWtNUTRpRlFZWDZuNUNXcWo5RFBBQUlwemdoUVo1Y3Vldk9DWWU2OVRaYmJlMnF0R0V6cTJNbXlkQmNNY1lmV3FDcnZrbDNVQVlqSjVweXVEUm9N0gG8AUFVX3lxTFB1b3ZpSmtXN1pJbVdDbGhMQlUyLXdrdU1uR2VCM3ZZaFN5MXFBSkRzdTByS19GQ1hXWTRtRFhkR0s2YzVWSXdOVUwwVkpTckMyNjVoeEtWMi1QX2p2T2tpMGd1cjZLYkVyclpVM1pFeHVlOXE2d1pMSzJHNUdrZzAzSldjenZVOERfS2YwUDMyR3JPWEJkZTBWaUktT1pzY054clNPLTZUTGhJcTA2UW5zNndLY2FXcHF1Qkgz?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794356220
+   }
+  ],
+  "esposende": [
+   {
+    "title": "“AD Esposende precisa de mais campos para treinar” - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelVDb0NWdmp0VDU2eFdlYTlUbmVNa0FNSUFCcWhNTnJnOXlkdDZaSmQ5ZlRfeFo3dEJRVWFyNkJwa2J5OHFkcGpWeG54SlViODhYbjJYUTMyLWtyZmhfYnQ2SENzbUdjdXMwajNjMGE2SEJYMFNraW94bmR0OXo0UVpFRTcxbXlFUEFwRjlreXVPejQ?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1794415732
+   },
+   {
+    "title": "Faleceu Maria de Lourdes Barbosa da Silva - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9jUDVqQUUtTzZObkhhaEhoM3RBVlR2RV9lMnRhT2h6OUdrZEJPTXg5emNReEhDdHl2U3R0ZXpERllmSkNpLTdNR3IwOTExUzhWdWdQdkJKQmc4OUpuTGlOTnExWVhNYkhuLWxlOGQzNlJJc0hCVmNGN1RB?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794415302
+   },
+   {
+    "title": "Caminha, Vila Praia de Âncora e Esposende entre as barras fechadas devido ao mau tempo - O Vilaverdense",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRWd2SUNkYmFWTnlHWEhGUWhQNWtTRlcxd01iMDV6LWdBem5EVDdfMmh4YkFySzlqLWVMV1NacnA5ZVFHNlYybGp6UWFVcFpaSHpGbWhfQlhEbVlvWDY0RE1TbHVHVjV5a3dYdzJOem5vUTloSk01ZUp2bjZUbnc1OGpoamI0YU5CVlhxdGFESlNqaUlSR2sxUkZqYU5NV2xQSndFaWVfTmZKbmpXcjZ2MQ?oc=5",
+    "source": "O Vilaverdense",
+    "ts": 1794396780
+   },
+   {
+    "title": "Esposende procura voluntários para passear com idosos de bicicleta - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1pudHF2M1NrNVZjdWJJNkVXaUVMdXJuQjgxekNKdXdvZVhhRXItT21idnFENnhIYW1JLW5mXy1HakVZMHdtWm80eXRqTzBuaWtxNGNhdjZVZVA1SzVwOFo1V1dMUm9xNTZOM081aDhkUWM5bWI1Z1ZqZjVSbUtMVjBwano1QklWUmZ0SVdfcVU?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1794386760
+   },
+   {
     "title": "ULS de Barcelos/Esposende homenageou mais de 50 profissionais no Dia da instituição - O Vilaverdense",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUExiWUNZRExNQ1BnN1EtOWxjZlBvWDlENmdqalRTblM2WHNNRXlld3FLejdCLWhkT1c1UHBWVFA4RDdLUUp3a1p0b1AwWnFjRjFzR1FrbFdTRldFRm80SlJCZ0h2eUM0enk0MVpBUW9nTGttRm9JV3F2V3hRYVBMZW9LZm9pcVZXM3lDckNkMWlMbFVGUWU5UVQ3VmZsT05Nb0twT01YTGtSWE9FZHc?oc=5",
     "source": "O Vilaverdense",
     "ts": 1794383460
    },
    {
-    "title": "Futuro Hospital de Barcelos domina comemorações que distinguiram mais de 50 trabalhadores - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTgwVmhIV211QmtlcXJuMTZsTHpzMEw3NTJ1MjIzZVkybjZIT0wxQU9GY0FlSW5XeHBsMHVwWm9Scjh5cUNIdDA3dkU4alZ1ZXhNVUpQVUNFa2Y1c2tZazB6ekV2SVpRRjQ4X2RsVS10dmhHYWtNUTRpRlFZWDZuNUNXcWo5RFBBQUlwemdoUVo1Y3Vldk9DWWU2OVRaYmJlMnF0R0V6cTJNbXlkQmNNY1lmV3FDcnZrbDNVQVlqSjVweXVEUm9N0gG8AUFVX3lxTFB1b3ZpSmtXN1pJbVdDbGhMQlUyLXdrdU1uR2VCM3ZZaFN5MXFBSkRzdTByS19GQ1hXWTRtRFhkR0s2YzVWSXdOVUwwVkpTckMyNjVoeEtWMi1QX2p2T2tpMGd1cjZLYkVyclpVM1pFeHVlOXE2d1pMSzJHNUdrZzAzSldjenZVOERfS2YwUDMyR3JPWEJkZTBWaUktT1pzY054clNPLTZUTGhJcTA2UW5zNndLY2FXcHF1Qkgz?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794356220
-   },
-   {
-    "title": "Barcelos: Tribunal anula condenação de condutora por homicídio negligente em acidente na EN205 - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMVg3WDJnazQ1ejJJRW9oQ3oyTHN5cmxwb1h0Yl9IZFVfTy1CcEJTUGRqNHl6d1Q1TXFGZ19ERUttc0c1OGEwa0tDb3dwemdYM3BrWlJ2REwyZEFHenJqMnE5em5yZDBWX25FVE1zWWVpNWdJQWFnSkwtdmc5X09nYTVqSmxoVGotMllSRmlEMVFKRUdkTnppTHZXTXl5VUdSR0syN3RQX1F4Yjk1Vno1ZXdB?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1794336720
-   },
-   {
-    "title": "Barcelos põe a ajuda à distância de um botão - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFg2U3V4VHpWcGU4SWRmVjVMazJiaVBpWWZzRUwtaFFpMXRqbTlCb0RtT0xmNEJ1MWRMX0pzYjdRdUppSlF4SEE3VkdGWWVTZ1NjOWd2eHh5VGlIamplSXY3NVRPb3JLWXViVDloUk9tengzMDluUUV5U1AxXzVMbkRzajNkYWs0OVBhM21B?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1794326043
-   }
-  ],
-  "esposende": [
-   {
-    "title": "Esposende procura voluntários para passear com idosos de bicicleta",
-    "link": "https://ominho.pt/esposende-procura-voluntarios-para-passear-com-idosos-de-bicicleta-2/",
-    "source": "O MINHO",
-    "ts": 1794390366
-   },
-   {
-    "title": "Mau tempo força adiamento de reunião em Esposende - Diário do Distrito",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3QwZ0s0ZXRNaVQ5X2RmR3NTcnZmZ2xXRmV3cjZXUVM4cWU5ZDNsejR0Y0FMU0t3Si1HaWtPUFdzcnhpckRwU1NRVEJ0dEl2aV92NWtOZjl3WE10cEZ2NWZPRlZwTkNwZ01WVzJsbmV6NzdiTy1GaG1va2NRMW1wS0FZSlExdlhV?oc=5",
-    "source": "Diário do Distrito",
-    "ts": 1794362252
-   },
-   {
     "title": "PS Quer Garantir Construção Do Novo Hospital De Barcelos Esposende No Orçamento De 2027 — DD — Instagram (foto Total) - Diário do Distrito",
     "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOT0wxeWFUMlNHejZZTDNMMHBVRGdxMklhcDBjUXVpQ2Q0WWpBbkhVdjRVVnFlUGROMV9MZVpINUFFTjVNcDlPU3Rid1NTY1dxMkhPMzlMYnF3MlBBR2RlVGxfb09sVWcxT054R1VSNWdheFh2TXNXUWxudHlGRFFuV2Q0NnpISml6cndaS0p5ZUdaRTJQRV82dDUyaGVsQkk0VUkteDVxNFpXQ19IVDFWOEtFejF6Z2k4MHV5dmV6RjFseVFpM0owbEJhZV9yTkY3WGxHUHdFVk5hbEdjTFFteWw2VFlRdWpEekJBNGx4ckd5TEJ1R1dyQl92bVZMeDBicmIzUjZLSkdnS3VOQ041Z3Fld1o3ZnJFRmNTR3VXaVZoQ0dRcjlXMUY1cUFwbmVDMWFxMFpVLS1zVVRGaW1nT0FNZ2VZaDNTbWg2OXhTSk0?oc=5",
     "source": "Diário do Distrito",
     "ts": 1794358705
-   },
-   {
-    "title": "Transparência da Assembleia Municipal de Esposende distinguida nos Prémios Nacionais ANAM 2026 - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaHJLS0htcU9rRmU0bGwwV0ZJd2xmaFplcmU4bVRWMmpKZ0VKbUo4aEdwOUJZWHhFRlhnRGFLUDVxR3l4NDRmbGRrRkFRb1l1SVNZa2ZuMHlSd2E2bDhWeTFZOGFZcmVyUnhHMURMR3JQV1ltTWFZQnFPY2d4cFV2d1VBdktIVXBlQ01MbjZYYUR0ZHRCUUJJdS1jSjczVnBLV0l1UGJsckpGVFl1WTlUT21YYTI3bHBrcW5PckJrX1hubHROZHdWS2RuM1RtdVFJUEt2V1VfVnBMdw?oc=5",
-    "source": "SAPO",
-    "ts": 1794322800
-   },
-   {
-    "title": "Esposende: Ligações das Luzes de Natal arrancam a 20 de novembro com espetáculo de fogo de artifício - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOREsxUDRlMmNoRjlXV0w2eTNxWEdiemNvYW9RNnBQdkFVMFY4WW5SdHlEeTI5UTY5bDlQVDM0SDJ5c2lhVnUtcTFzbHUtMy1wdDNUOUdBNEZqOF9rbVBiYnpFR1FSTm1ybVZTeW90eGdWZUM4bkttUXQ5T3BiVml0OThEMEE1M283NzQyanZVQWdhVDlfZl9iczRYQ2lPSFZsWFpzd2lyYm9LU2hmaEZiN29ZdExoZw?oc=5",
-    "source": "e24.pt",
-    "ts": 1794312463
    }
   ],
   "mundo": [
    {
-    "title": "Leão XIV aos jovens: não vos ajoelheis diante do que não vos dá vida - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEg3TXhsMjhMMjZqR1l6cVhRcmp6RTJGM3hUN3NPOGZnRVIza2stby03dS1tUUdQYlpwSW5UY0pvR0JKWkhVNldIanNabmZCYTI2akFhZGMxWjY5NVhiNXo2QlY1UkV6clRVcVRmN1R1TVNMS3UzRlpBOGdhWHJDa0dicGw5RGo2TjlCb2xKQjM0R0VFNkZ0LWhJNWppbmF3SU92UWNKSG9adDdiUEF5Wmp3?oc=5",
-    "source": "Vatican News",
-    "ts": 1794393548
+    "title": "Morreu o embaixador da Rússia nos EUA - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORFpDbUpSdVpqc2ZiOVdVTEpNaU41VXpxak40YXVNdnZFSExDRTdsTmU1MklKVkhaX3lCOEVCNXc3dmZsUVZRSmlPOFVDcUJTVFF3S0dVRnFhYTFLVTZwS21KMmxZRG9FTGV1WWswOWtEVGJpUlBoU01TWkYxYmtvWQ?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794411960
    },
    {
-    "title": "Estradas cortadas e cargas policiais: greve geral em Espanha com adesão entre 41% e 75% - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTmNqMktXZXFkSEZiYlNpY01aV2ktM1ZjMzNKakU4LUwyTy1XUkctSWdISkpjcFB5MkFoOGxxX25aUmlzUFQyOU05aHBDVGhYU3RUamd1ejR3M3JvWDRSY0dnWE1SMHUyTmEyZGtvQ0hqRU5lcjUwTEhINDJDRFdhVWZ4emEwNjZ1V3ZkZ19PRU1ONThCamdEOUJnODNKY1hDZlNPUGR2RWE0cjhBNzMyeERRVGloRUR0RkE5bEZYZzROd9IBtgFBVV95cUxOeDJha2hLVVRLVk5XZUc4cTRQNk9adWZ4Yk5Edk9yR2dFYXowYnNPZGM3Nm1kbDBBdVIwWEE5YndkcVQtUFFtcVdNU21DYUpiZFFMVUl5NFAzZmtEN0c2UHU0QWc0a3BsczZFMjVGZEdXa3N5NmVTSkotMmoxSzIxTllSdWQ4QXZvN0JnN1E0YkcwS2dJQ2tEUlhINURFZU1WbllRMWkwVEJfTDVxVVl5UERqWnEyUQ?oc=5",
+    "title": "O que se sabe da nova \"cidade de mísseis\" subterrânea do Irão? - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa0FDMUVVWXE4OFpMUUNMXzE0TnNjU2FxV1NaOE1GQVhzYlB0d3ZGWHFkTUswQkxuR0U4YTBtNmR6QWhnUVJBLVBGWDFsdWxBUmRZZG9ZaWxGUVFaaU0tQlhCZkJIRkptR0dLZ1RDa3IwWFBlWEpTekJfUjIycVVtR19hZ3pGb0Z2UWFnd20wR0NqUQ?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794409801
+   },
+   {
+    "title": "Ameaças de bomba em centenas de escolas em Itália, Irlanda e no Reino Unido - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYTMtSlkwQXhsU2M0RldkcFItVE0wUm9XYjBUMU9mZHVpTHh3Q3Juc3p4YmNJSkVScEhEMFNPRUhRd3oxc0EzT2daczRfM0REd2pkR3V2bGNULTZ5VWdUTTNKdzB5bWRVSGlycjZfTTRkUDZ0ak40cElnNUdWd0tfcHU1LUg3WGJSX0lRN1JJd0hqdUtvZDY0RVRtN0dobzA1ZW9FeDZPaTRmaFdrQ2RKN3RkeTM1TkY3N2hOU9IBsAFBVV95cUxPbmdrZUNRYWh0UHJxbGFKN1RydDEtRnoyOHhlUGZPejU5VWJFVmF6dzhVekVxMTdYZTg0cl9aM2txcTlxTk9pUndxeFF4OG5maW9NWkRGTzFHMXhveHVxZ1ZaZnNQWDBndmdGNmh2NHRQR2k1ZTFuNkFfOGRNYlN6Z2R1TTZfUHhPU0lLZmx6bG1FM01kSGZZaEdjeGlhWnkyeGZ1bjBjeE43M3d5ZDFVcQ?oc=5",
     "source": "Jornal de Notícias",
-    "ts": 1794392820
+    "ts": 1794409380
    },
    {
-    "title": "Mais de 200 detidos em operação da INTERPOL (que contou com ajuda da PJ) - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ1dhdE00R0RNRHZzWTJ0ajJlYUp3MkpCYlAyeDQxUEliME1SMTRhZW5aOUxaM0pNTldiSTJ2ZVhBZGYwcjRJNkxha2JoTmUycmo2eXE4eG1lRXd4VTZVelJ5Wm5PQU9CS0gzTWYxbGIzaTlIWVZoTXZnQnRLSUNjUmNPZUVHejlGZktVQXFZWDhGSDE3MTJxX0ZERWltNnRvMjJjSjlVbzlUNUFUZk9FdFZzM2lZSlk?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1794387900
+    "title": "À procura de paz em Abu Dhabi. Ucrânia e Rússia acertam troca de prisioneiros \"em grande escala\" - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBFeVVfQ21wY1E3NE44QXR1YmdkbDM4RjhTdU1Ta0FVQ3FUam9tUHF5cGhodjRHYk5QSGVwYVo1NTc3c1A4SWktVElnSWlvaGRMbUhyNG5jYkNvd1hNVWJZRzRIX3ZOekRMMkVnM3ZfQlIyQi1jQ0ZMVWJlYTBoUWZONU5CTUpuNUpteG9EeVhhYmtsMmFMMmJNQ2MzVUYtR1lkaURwNEtqWHNtZG9teHpBa2VzOXQ4aWhuQW5wZHcxS3VTYmRwd29zTmxzVnpmeHc?oc=5",
+    "source": "RTP",
+    "ts": 1794407971
    },
    {
-    "title": "Trump consegue vitória judicial contra a BBC: processo de 10 mil milhões de dólares por difamação vai avançar - Executive Digest",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNb2dwZGc3M05kMzZtSU5Sc3BlRm83RlFaV2lKcTByZVFCSG5ZZk1Gak14OURpV1hlenVfSml0NE16dEloRGk5OHBDcHh4RmNNS21Ma1k1RndncURmQjBobEZoNUlOb2hVTE5WWjZvd3pXdXhHUWpCTE1URHRrNDNHUEhxdmxhNFg5LUl2dHBFMFo4cUs5N0YtRzlzREtwcWZVZmJmbmE4R3JKVHZndlI0SzB6bS1XYjNiN1NSdDBBdFJkaVI0QlVnaUtkYXZkRWtOUVN0aUVJSDk?oc=5",
-    "source": "Executive Digest",
-    "ts": 1794387180
-   },
-   {
-    "title": "Pedido de destituição de Pete Hegseth bloqueado pelos republicanos - Público",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHh1bzV1LWo1SkE0Tm1kN2liVTZ0TVRKTWNLQlpuZEpVUXRtWmx3ZlhtVnJWelJtclR2c1JDR0RCa1hya2k2VXBVcjVVWHREN0ZBSmxlTE9KVmN2WXpzdHhGMW5EbWNCdldhNmhPeV9qZ1FnZTRsaTJjWlhfcnRxcjNkNVl6N0NLSl90dEo5b1pFODdhSlc3MGVPYmYtRWtHdEI0cnRSQVFKWVBlU09V?oc=5",
-    "source": "Público",
-    "ts": 1794382855
+    "title": "Greta Thunberg denuncia cimeiras climáticas COP ‘cheias de lobistas’ - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObFFfNy1jZVN4aVhRdjVZc045bWJFMTBpUFlsUVBRQTdwRDdPYjRuNkFWOTlwYkVyVmlPb3prYnJPaE5IbVZrNldrZjlUNHNGdDdFVDdiVGZIVll2WklLbUpJbXV3a0RuNW1TczFsNG53RGFYc3dmTDlfUW44YVFBYjQ3VWFGUWJTUVVRUDV1QUJnQkQ4YjRjTmxib2JjcnQwTEpZ?oc=5",
+    "source": "Euronews.com",
+    "ts": 1794394941
    }
   ]
  }
