@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-11T00:00:09Z",
+ "atualizado_em": "2026-11-11T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-11T00:00:10Z",
+  "atualizado_em": "2026-11-11T08:00:09Z",
   "dias": [
    {
     "data": "2026-11-11",
@@ -1471,10 +1471,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos entrega equipamentos de teleassistência a 76 pessoas em situação de vulnerabilidade - O Amarense – Jornal",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUE90OGxYTzRKazJwV3lvVEpsQWtLVGNrM2lpWTNpazJobldJR3Z2MnFSWkZ0WmpNRVpCLThGVGk2UEtKaEdONXBfZHRxUWhRUjRQb09aMHNfbklOZnMtc2ZuNG5VY0FWQW91eXpuWFYzeWFldU5sR0FDSWY0RDV1STQzM1RTZ3BRamNWNEpYdXNDTllvQUg2ODhqOFltLXJUMG5ZQ3plQXY1bE43WFdwNklORnk?oc=5",
-    "source": "O Amarense – Jornal",
-    "ts": 1794346500
+    "title": "Barcelos: Autarquia entrega 76 dispositivos de teleassistência no concelho - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNU2ItLU9wOHhuR3pfM200QUVDQzMyYTc1RG1ZUXFEcy1MeUdQWEYyXzYzM0Y0b0s3ZFA3STJmaGZrWm8zbUFZXzZEazlyNDJVSnpPM1ZkblpwMTAtY2VPaVJISC1rMFpUdkVPbWpKQVpXYzZiVlJoekl1QkcxZk5pbTE5YW9ZOEppekJUVEdobF9CblUycXBDdFZ3RUVYMjhnLS1haFdEV3g5WTdkRVhaWThSUFVTM0xqcGk4?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1794376868
+   },
+   {
+    "title": "Futuro Hospital de Barcelos domina comemorações que distinguiram mais de 50 trabalhadores - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOaTgwVmhIV211QmtlcXJuMTZsTHpzMEw3NTJ1MjIzZVkybjZIT0wxQU9GY0FlSW5XeHBsMHVwWm9Scjh5cUNIdDA3dkU4alZ1ZXhNVUpQVUNFa2Y1c2tZazB6ekV2SVpRRjQ4X2RsVS10dmhHYWtNUTRpRlFZWDZuNUNXcWo5RFBBQUlwemdoUVo1Y3Vldk9DWWU2OVRaYmJlMnF0R0V6cTJNbXlkQmNNY1lmV3FDcnZrbDNVQVlqSjVweXVEUm9N0gG8AUFVX3lxTFB1b3ZpSmtXN1pJbVdDbGhMQlUyLXdrdU1uR2VCM3ZZaFN5MXFBSkRzdTByS19GQ1hXWTRtRFhkR0s2YzVWSXdOVUwwVkpTckMyNjVoeEtWMi1QX2p2T2tpMGd1cjZLYkVyclpVM1pFeHVlOXE2d1pMSzJHNUdrZzAzSldjenZVOERfS2YwUDMyR3JPWEJkZTBWaUktT1pzY054clNPLTZUTGhJcTA2UW5zNndLY2FXcHF1Qkgz?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794356220
    },
    {
     "title": "Há um matador em Barcelos na peugada de Pablo e Gustavo Varela - A Bola",
@@ -1499,20 +1505,20 @@
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNFg2U3V4VHpWcGU4SWRmVjVMazJiaVBpWWZzRUwtaFFpMXRqbTlCb0RtT0xmNEJ1MWRMX0pzYjdRdUppSlF4SEE3VkdGWWVTZ1NjOWd2eHh5VGlIamplSXY3NVRPb3JLWXViVDloUk9tengzMDluUUV5U1AxXzVMbkRzajNkYWs0OVBhM21B?oc=5",
     "source": "Semanário Alto Minho",
     "ts": 1794326043
-   },
-   {
-    "title": "Dia da Unidade Local de Saúde de Barcelos/Esposende (ULSBE) homenageou mais de 50 profissionais - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmZRZTZleUFrLUZrUVpNNk1hQVBwNUZDeWFXYnZjcGRMMGNDYWRvazduZFd4S1hVTU9fVlNHSXZFMkFvUTZ5MndlalVON0JBd3RVN1hxWkJ1RUlwa3ZpNnBzZWliRXBjTk5tQVVMMm94SWhfU05URExmXzlwTVBVNXZtS0ZNUFNQRTJWYW40UTBQbGJZNnp2RzV1Sk1abElaSFQtSUtwR1MxOHhjM0FpUFY0MG10ZUZwWVMxZUVoUQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794324624
    }
   ],
   "esposende": [
    {
-    "title": "Câmara de Esposende adia reunião do executivo devido ao mau tempo - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYkU4WmVEb0V5c2dWRGFNazRtdGdWWTRLS3ZBcm1JeXZLWW1XUW9LXzZEN01NVXZUWlR0Q2JZZ2dWQ0RsV2dHZHpMd0RDVnNMLTNSMTd6QXBrN0ZFTzliS2dVejRRN3pINE51NTgzNXBIeGtsaWV4WTZIVllyanhhcXE1QWlHek9NUmdPWXBPVS1JblQwLUx6dnJNTk5va0JUTVJweGNUWmowcFYtelB1bQ?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1794336960
+    "title": "Mau tempo força adiamento de reunião em Esposende - Diário do Distrito",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQR3QwZ0s0ZXRNaVQ5X2RmR3NTcnZmZ2xXRmV3cjZXUVM4cWU5ZDNsejR0Y0FMU0t3Si1HaWtPUFdzcnhpckRwU1NRVEJ0dEl2aV92NWtOZjl3WE10cEZ2NWZPRlZwTkNwZ01WVzJsbmV6NzdiTy1GaG1va2NRMW1wS0FZSlExdlhV?oc=5",
+    "source": "Diário do Distrito",
+    "ts": 1794362252
+   },
+   {
+    "title": "PS Quer Garantir Construção Do Novo Hospital De Barcelos Esposende No Orçamento De 2027 — DD — Instagram (foto Total) - Diário do Distrito",
+    "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOT0wxeWFUMlNHejZZTDNMMHBVRGdxMklhcDBjUXVpQ2Q0WWpBbkhVdjRVVnFlUGROMV9MZVpINUFFTjVNcDlPU3Rid1NTY1dxMkhPMzlMYnF3MlBBR2RlVGxfb09sVWcxT054R1VSNWdheFh2TXNXUWxudHlGRFFuV2Q0NnpISml6cndaS0p5ZUdaRTJQRV82dDUyaGVsQkk0VUkteDVxNFpXQ19IVDFWOEtFejF6Z2k4MHV5dmV6RjFseVFpM0owbEJhZV9yTkY3WGxHUHdFVk5hbEdjTFFteWw2VFlRdWpEekJBNGx4ckd5TEJ1R1dyQl92bVZMeDBicmIzUjZLSkdnS3VOQ041Z3Fld1o3ZnJFRmNTR3VXaVZoQ0dRcjlXMUY1cUFwbmVDMWFxMFpVLS1zVVRGaW1nT0FNZ2VZaDNTbWg2OXhTSk0?oc=5",
+    "source": "Diário do Distrito",
+    "ts": 1794358705
    },
    {
     "title": "Transparência da Assembleia Municipal de Esposende distinguida nos Prémios Nacionais ANAM 2026 - SAPO",
@@ -1521,10 +1527,10 @@
     "ts": 1794326400
    },
    {
-    "title": "Barcelos: PS quer garantir construção do novo Hospital de Barcelos-Esposende no Orçamento do Estado para 2027",
-    "link": "https://e24.pt/barcelos-ps-quer-garantir-construcao-do-novo-hospital-de-barcelos-esposende-no-orcamento-do-estado-para-2027/",
-    "source": "E24",
-    "ts": 1794324466
+    "title": "Dia da Unidade Local de Saúde de Barcelos/Esposende (ULSBE) homenageou mais de 50 profissionais - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmZRZTZleUFrLUZrUVpNNk1hQVBwNUZDeWFXYnZjcGRMMGNDYWRvazduZFd4S1hVTU9fVlNHSXZFMkFvUTZ5MndlalVON0JBd3RVN1hxWkJ1RUlwa3ZpNnBzZWliRXBjTk5tQVVMMm94SWhfU05URExmXzlwTVBVNXZtS0ZNUFNQRTJWYW40UTBQbGJZNnp2RzV1Sk1abElaSFQtSUtwR1MxOHhjM0FpUFY0MG10ZUZwWVMxZUVoUQ?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794324624
    },
    {
     "title": "Esposende: Ligações das Luzes de Natal arrancam a 20 de novembro com espetáculo de fogo de artifício - e24.pt",
@@ -1541,16 +1547,22 @@
   ],
   "mundo": [
    {
+    "title": "Republicanos rejeitam resolução de destituição de Pete Hegseth - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQzMxUnQ3RjFSc1hJLVRScWJvbF9TQ1loT24tSXpsYWs2cklqVDNkaUFYY1N4c3UwX0RyRHh2ZXdzWnJqZ1dnVGp1N3Z3WVliS3N1OENVLW9zTDA4c0tOeEpiSkFPSDlvbkcycmZPdmRobGxHVUNHX1ZtZXQ5M2wxallhbGc1aUhWU01KQjVOTng1Wl8zR09mcm4xZUxYR1J4RFh3N9IBmAFBVV95cUxQR1F2WVNWUDJhV0VzUjk3MEZlbjd3MTM5NzRwSEhMUWxaRUQ4M1RqZkU4MHRQeUQ4dDFVZ3JYZ1VFZG5BSW10TFdCMjc0YW5qMTN4dVAxVThvYjlTeFBPT05xblgxOFpqNUt3UEtHMWR3U25XamNqRFFiZFVQUFAzcFhQYTdnVF9LYWJGcmJVVE5Ldnc1NmV6Zw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794357300
+   },
+   {
+    "title": "Autor de explosão em Oviedo queria matar adolescente: \"Viva por milagre\" - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGlwQndiU3FkbHVreW5DaEJTUXdEWHk4QVM5Y21LUTI2MFBUdWo3R0dldVd3aWVEZnNrM3N5UVVtRWk1XzNJWWVJc2VCYnhvQWtQSVhMaEllRnFxNERtQ2FHM2ppbDlGemxLQkExQUF1eGZQSUttcFNrYTV3aHVwWVliWnA1dnNKYXZHVjJWT3VDdjNwUUFrcXJpTlRqQjFicDNJRWpRTklGMHBTSERzWDdfdExIRWM?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1794353040
+   },
+   {
     "title": "\"Lar do pedófilo\": Espanha quer suspender TikTok devido a vídeos de abuso infantil - SIC Notícias",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNMkx4WGk1Z2pjQ2s4RVRQeVQtOUpQaVpXSEtzWU91WGhWMlVZWXhIXzVubzNubjliaEI5bUFsMFROUXpFellUb3l4cDczNGRRVEE3alFtclplbkJIWWF6VlZpSFJtODdVXzlfTm42WUFoT0VwYkVHajdiWlZxalI5ZTFhbWpnTVdacFpzLUlSTjhTWlZDaUlBTkRIUWFwVGdrRHJiRmZkZlBHd3dndmhycWxrUjN3RkQzTXhLVTJ3MmhVQXVQWng1ZU5BRlY5NUF4LVFMSHBVbFlVckdLNlBGcEZn?oc=5",
     "source": "SIC Notícias",
     "ts": 1794332677
-   },
-   {
-    "title": "Pete Hegseth, rosto da guerra no Irão, entre o impeachment e a demissão - Público",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemVrcUZxdHdjZ0xGbnNmb0doQTVDaDM2R09lZFdScUppem16dXVuUEVDZURrcU15WjZqUm1GWXNpYWR2XzNVcmZVTHJWVTJxd2gyYVdpRVlZa3FXbzZhSTNsUC1fUjF0c0pOTXNMVWFYYnZjZkMzTHNxOGs0UjVqMUlXWWxtM0xTaFJTbTFUWDlnYVBoT2UwcDdid3lLcHpzZTYtWk5vMzFvc1U?oc=5",
-    "source": "Público",
-    "ts": 1794327000
    },
    {
     "title": "Negociações entre Rússia e Ucrânia \"muito produtivas\" - RTP",
@@ -1559,16 +1571,10 @@
     "ts": 1794325512
    },
    {
-    "title": "Eslováquia, Chéquia, Hungria e Bulgária desafiam Merz sobre ajuda à Ucrânia - Euronews",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZGNvSWZJTG9qSmRmX0hRdUVGeEVxSTJMS19TSUN0V25VaHd4OS1LY29XUko3a21EcVJ1Z19VQU1FRXpXTEJLNWZ1OGVGYUVtTG5jeXVzdE1SNmNJNFBRbVRFS0ZpLTZjWnRVSFo2Y3BzdUFVQkhBeWktQUVJN3FHTm1xY3FRenpaVFBfZDBFOG9OZmVIeWNNSjYySXFMMmRVT0l2RU1NYnpVeTRN?oc=5",
-    "source": "Euronews",
-    "ts": 1794322908
-   },
-   {
-    "title": "\"La Revuelta’\": talk show espanhol bate recorde de audiências com polémica entrevista ao líder do Vox - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONUpfTTNUNFIxV3pvVzBzSlhsNnBpcjFxX3JvVFN4ZVZVM1FiS3VjS3gzOUptRHJGQlp2QWJxX21FQnJDT2xQaWpZcVh3bW5KdkpMSkQ5ODFjYjJZWnhIclNxelZPLUNvaUJTOUlkY0U0cHNSSVRXT21GZHVMZWI2d3JDY1pKdDdRZ0dHbTQ2N2FlTEw1RVVqVHM2TlZvWEtGOU42ZFNoSlBKeFJfYVVFeV9MWk1ndFZoWTkyY2ZDVzNCVUVPTWEwU1kxWm9DeHBIS244OGNRbjFiYWpTanc?oc=5",
-    "source": "SAPO",
-    "ts": 1794314460
+    "title": "Papa em Córdoba: “Abram seus corações e sejam santos!” - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDhrbDh3Nm9xNURNSzRoeG5pMGFwYVNwSlhOWE9YRzJGQmgtcmMzVHpGbGw4TFlnUXl6WlAwb2YtclduM1R5VTJqMlJSYkJDNFNOUmVwUXdWMG1iRGJXMFpaUmpWM1RKV1hfMWlFdHRjZkQ3Sk54MjBpQ3V6OVZGVlRIWkFOME12VllnVDdtdkVDYkZyczB5YWhKRXVKejlmWWc?oc=5",
+    "source": "Vatican News",
+    "ts": 1794318767
    }
   ]
  }
