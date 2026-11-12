@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-12T12:00:09Z",
+ "atualizado_em": "2026-11-12T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-12T12:00:09Z",
+  "atualizado_em": "2026-11-12T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-12",
@@ -1632,40 +1632,40 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Comemoração dia do Idoso - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40SU9QQlM2QlJDaUpaSkhxTjRtVUplLUpZLTkzdXQ2cDlJY2J5ZGJtNjdPX3NtMERFcFpJUG56c0hJVmhMSnBnaFljczJBZUt5bzd2dG1nM2ZxV20zSDR1VUM5UVdDWVJTbXpiS0t6WWs?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1794503756
+   },
+   {
+    "title": "Barcelos apresenta Mapa do Potencial Solar do concelho em conferência sobre descarbonização - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOa3NlelNVZzdiQkxQQTRlU1o4b2pjcFI1YVJwTWFNM0d6MjVmQlBIZmtKLVREc3Q2NlhsTDlQMjFDaFJOUU82ZXpOQkVudmpkZHFOQVZkQjl5OGVJZFByaEtESTQxcFJpcEFFZXBmdmdRTEZYWFUzcVRxRmc1ME80OGRiUy1lcngzR0EyQzI5UGJXcHpkd21NOXdGa3VzdV9LSzRYZmpRRlJVdUtGbUJURmM3bzdybERX?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1794499081
+   },
+   {
+    "title": "Festa de S. Martinho - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE95NEZDdTBjT0t1WThIZnIybnlhaXNaMTd1T0JRTkdvV1JXLTFyWXk0LXBBc1VveXViWWx4ZnBQQmlsaU5yRGpRamFBYWVvNTVzaG5yVnYxR281b01RWWdUTWhidjFtY3BnQ0E?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1794497161
+   },
+   {
+    "title": "Dois feridos após colisão frontal em Barcelos - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMkNTRDdmQ3ZINmJNWV9jeE93cXRyZTBzaFFjX2RrUlhTdmw0OXBBNTNCN3R3OGV0Njd2Z0Q2RTRUQ3NWeUtvOC01aWQ4bnhwaWo3NU5VLTItb1FOQ0c3Y1BOTF9DRHdlQ01Bb3IyNlAxdw?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1794497040
+   },
+   {
+    "title": "Barcelos acolhe nova assembleia popular pela habitação - Jornal O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQQmlqWnRfOTg5SGxuaVZXSjZ4TUZ2QTJrQU84bl9vQWM0aFMzV055WE5LdVh5MGV5UUt4d0NQQWhwc2hLdW5PNXdsRDR3QXpBM1paOU1TRmRJdndHX2dDeWl0eE9Za01VTEw0V0o5eG5zWUZNX1pPcXVlTTRkUQ?oc=5",
+    "source": "Jornal O MINHO",
+    "ts": 1794492660
+   },
+   {
     "title": "DESATIVAÇÃO DO PLANO MUNICIPAL DE EMERGÊNCIA DE PROTEÇÃO CIVIL DE BARCELOS - Município de Barcelos",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQN2M0OGxJcXlRUnlObndPczRmY29SdElLUFZ5UjczbFhuSEl6eUw3Z3RyN2FjdGJiWldJRlJYNFZOWmtWQlhSbEl1cTE5ci1sSnk4bW1IUmlkYkZnU1FVOTdRRnZrZ1B5enozQjhmanFqcHdSV2x6QXc0U1BEVHNheDZUeVd3UmJTVUZfUEJpN2E1UVBmdVluRTEzYVNENnotUFdFY000dktmdw?oc=5",
     "source": "Município de Barcelos",
     "ts": 1794480335
-   },
-   {
-    "title": "Choque frontal em Barcelos provoca dois feridos - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSWdFc1RNeFZ2dk0xSmtXQnZLdVNPVnR5Qm51MEdLVm56aXdkNzRteTNacFdGUEF5MlV5VVV2R29vRkFYb1NWSHFMZWtrX2FQLWw2T2JsUTd0T2l6M3VxNlgwbXc4UG5pZmdhSWRmVzVRR2d2eU1HYVZBc1owR1JXaFRPRVhRU1VBR1lvbl9hNNIBhAFBVV95cUxPYjRNbzRPZnp4SkNyUjR4djJFS1dESXVHMFhoWl9uSmVNSTFGZDNueFZmcWFIYXVTdlFHRVVReUVHOEU5aFF1Y0xwejdrYUV3MDdCYW5YM29fdENGakhTdU5rVUR6ZW5OVG9ITG1zUGdkNHRpalliT0Q3SnFkb1dlX09TeDQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794477780
-   },
-   {
-    "title": "PS Barcelos apresenta 13 propostas para o Orçamento Municipal de 2027 com foco na habitação, freguesias e alívio fiscal - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajhicFZiNXBhOXFLNXNCOTljWG5tTzZRb0gwbTdmYVZ3c0Ryb0kyU3hyNC1YdnpUaWh5bHlpbDNpeHlqR0lYNTRfV1pkb0xOZkVMZmpFUnp3Z0VXM1RKYWRJRjA1UXVlWGd3Y3pMLVJOSUpGaU1zTW1sdk5IcEJsdmw5NGRGT01jLU85eElhRU1pSFYyQjFjbG1raktoVTExT0hqWXdBeHEzQmlvWmlpRVJheFRiU0h4VFlzQjFFTTR1bC1fai1QWnkyRk9TSGZWcTlwR0FxR213a1N0?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1794414556
-   },
-   {
-    "title": "Barcelos: Chega denuncia derrapagem de 2,8 milhões de euros nas obras da variante à EN103 - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPblNiTkNUN0xsS3dScDNFT19YZUM0OTNoRzdpT2FPeVF1bU1aem5kWWp5aXJYSXFBQXRhakNRc0lrbURtT3VKYzcxVEVESEZNRm1ZRVhGdnduY1FwRXZNRnRXeG44UEVweWtaYTM4N3VsTjQ3ams3eWdhUUJQNnNfTA?oc=5",
-    "source": "e24.pt",
-    "ts": 1794414487
-   },
-   {
-    "title": "Município de Barcelos conclui entrega de 76 equipamentos de teleassistência em 28 freguesias - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHF3SE5ybXZOLUhoWXVrLWgtZURDX1ZEWlgweXR4N0RBaU5wYVBiLUE1NFNGOHREcFdPZW1TWC1LajVmTzRBNHlQRnZjM0s4M0lGZ2ppRWNhXzRmemJ2NFc3eGpzRmhNVDNvSnZWRHpuRzh3QTRZV0tTd1FGLWRMWWtkQmJCaVVtVXBuTDNmZTZtMXVZWDQxVUVhVXluY0NBQVlqSGFPT193NGszNERXSDhjME0?oc=5",
-    "source": "SAPO",
-    "ts": 1794402000
-   },
-   {
-    "title": "Conclusão da nova variante de Barcelos adiada para dezembro - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXF3MEdPNXJFMEdYTUhtd3htVV9iOTk4X1IwLXZYbUVEMjFJck5ySGp0YlpHckN4R2lJMGJpUW96ZGo3SEVzbWpidWFnczZuSG9VeDQ5SjlVc0tXdEVFcDNLd21QWUZjMTk2RFRmQnFLM3RNQ2JmVERCTFZYZFgwYzBzZHE?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1794400740
    }
   ],
   "esposende": [
@@ -1694,12 +1694,6 @@
     "ts": 1794362252
    },
    {
-    "title": "Dia da Unidade Local de Saúde de Barcelos/Esposende (ULSBE) homenageou mais de 50 profissionais - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmZRZTZleUFrLUZrUVpNNk1hQVBwNUZDeWFXYnZjcGRMMGNDYWRvazduZFd4S1hVTU9fVlNHSXZFMkFvUTZ5MndlalVON0JBd3RVN1hxWkJ1RUlwa3ZpNnBzZWliRXBjTk5tQVVMMm94SWhfU05URExmXzlwTVBVNXZtS0ZNUFNQRTJWYW40UTBQbGJZNnp2RzV1Sk1abElaSFQtSUtwR1MxOHhjM0FpUFY0MG10ZUZwWVMxZUVoUQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794324624
-   },
-   {
     "title": "Barcelos: PS quer garantir construção do novo Hospital de Barcelos-Esposende no Orçamento do Estado para 2027 - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelZLS2g0d0xIVzV6cTcwMEpJTng1YlFYd0xMbHcxMGhMUFhiQTdJZ0xLZG9pcEczZ1FvNVpjTlBGdzVZNkJUM0J2VVpSaFJ6Z2FJWTRobDd6N01xUlc1SXFOOTk2ZTd4blgtdFFOQ3VVRDhSOWNST2h6RVN1anFlcmx1VjBGREdlSFg3M0ExWk1nNzJHcHJaXzdtazlSQV9ESTRhTWxNVXpreUE3V2tMTHl3c2g5b1ZSb29IaEJRZ3laUQ?oc=5",
     "source": "e24.pt",
@@ -1708,34 +1702,34 @@
   ],
   "mundo": [
    {
-    "title": "Autoridades emitem alerta de bomba na estação ferroviária de Calais-Frethun, em França - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb19KdnpsYXZBSllhYVo1VEhtSVY0WVVHZ1VobVA2OUh5XzVBbDRtNGVKUzhhRExCQ1llRzRaSkU2ZGZVQXB1UXFaWjNYUDljSGhsaUxLdlFjM0I2dmMzdjJTTU1GM0p3dFZwYnhQUk80OElzWjhqQU95c0NodGt6ZFNENHpTMmt4QjdBMmM2T2wxN1BFcDhKUE5GQ2oxdGdlR21YX0pfZ1lnQ2lQYUxZUlFXUW9fTjh1RU1JM2FydmpGN3MyelFMTUJJOVA5YnM?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1794474311
-   },
-   {
-    "title": "Habitação e salários na rua. Greve geral em Espanha com mais adesão do que esperado pelos sindicatos - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPR2pLRFdiMDBBS3NEc295TFEtcktaeXcwM1AzZWllamJtR0N4Rm8xOUJ2cWpnRThrcG5sY0xCOG5JdjZNVnp2SU9wWlJTTlZ2OTNvQ3E4aWdtTlBESDJyMW1WQzBkS0pRSmlmel9ydFZjVTRXTnNQYS0zdUwwOVFmazlNWEpoS19MU08zSVl0ck1Ta3FITXdNU3paRXdHV2NkYmJOWHppT2tNeTlIN2pIWmdYTmxJXzlWQVY5V2ppSnYtNHlzVU1aT0xpXzhUQ3BxT3FDN1o4b1RJQQ?oc=5",
-    "source": "RTP",
-    "ts": 1794474204
-   },
-   {
-    "title": "Democrata Scott Colom eleito senador do Mississípi, o primeiro negro em 146 anos - Público",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUEk0aGxMbEVSdHVLa2hqYWtMOUdBZDNVV2VUNGRoczlnYnhkaTEzR1RDM1VOcFo2UC1qYlFsZmtQT0lRSnN3bm1xcG9ReVAwVVZSYzJnTGpNel81cG1pY3UwMGJ4NzltSmFUbUNaSGxESjJIaWVJWVZza1ZYR3VWWThwaU9nMWtfRzhrdUF6bUtDV0ViWVMtNUtSeHQ0eENqclB6c3RFM2lMdnA0TF83WklwQkJ2RGpQSmxHS1lKeEhldUhmeGFsUHZscnFqeDJW?oc=5",
-    "source": "Público",
-    "ts": 1794473910
-   },
-   {
-    "title": "Militar russo morre em explosão de carro em São Petersburgo - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNjRiMnE4Q1M1OXNGQkVZNjF4dzJZNEdQS2xycmtyUEUxZ2Y3dG9TSlF4b0lTNk9DZXpiTk5xb3JZV0N6dTVRMy1ZZEktdGJlamU2ajZFbzhNUTVKRGRwSEU3b3pPOW1UdXlLd1RpTDU2OVNkWmhEYS1VaDQ4aFN1ZTJfbnRyR1p0X21zaEdpODNSdEZySC1OT1l3czNpZw?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794472260
-   },
-   {
-    "title": "Colapso de edifício em Nova Iorque faz pelo menos dois mortos e 16 feridos, bombeiros procuram pessoas presas - Público",
+    "title": "Colapso de edifício em Nova Iorque faz oito mortos e 17 feridos, bombeiros procuram pessoas presas - Público",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjYzdjJyVmF4bE5meTZNLVFRVDJkWDNxanFtMl9DaHM1SXA4Q0xrUDhOMC11M1lFNmpxUlM1NmwxSUZnXzFIUHJXemxnZWZzQnhtQ3JydklERWxTUWExc0JXVTdwejJsQnRrQ1Y2dDBOb0J5NUdUVjNXNDI3ckMyUnFoNDZ3NFpHRU9OVFZjR01veTFuYUNCTUthTndjUklMdFJIc3JrdHRkMWk3LTQ0Ng?oc=5",
     "source": "Público",
-    "ts": 1794471919
+    "ts": 1794500400
+   },
+   {
+    "title": "Montenegro critica Mark Rutte: \"Foi infeliz, ligeiro e desconhecedor de uma realidade que deveria conhecer\" - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFllREtsSVhwemRyUmp2QnZwaXpjM1UyN1NYZFFvVkRadFRROW8yTTFCUEFicHFXSVdmWWJYclFNR052OFlObTNUMmlZRDZ5aXVFXzI1RTNsMFNJM0lpanpKRGlZSFJOdUIxWFNOQVhMeEdhOU1FWFR4OTM1QVdIUW01RDlDVjZGeV96OUsyM0xZZlZJUHRYSlNoMUpXemd4Z0FUaUdoU2EtQU1NQ19pRUoyM29lNDdHaHppWk1GTUZMb08yU1Fjd3ZkVV9oZHBs?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794497762
+   },
+   {
+    "title": "Jensen Huang demite-se do cargo de CEO da Nvidia - RTP",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1JJbGtFWFROY05YSEtNSEVwelZjWDlMUW1CWmxVellRQ2N5M09PWlJwNjFGbEYyMzVtbEpFckhFN2NHdklaXzVxMVRyazVBMUtCR3FWamRJTGc5VWpQZWxfa0M0eUlwS19wT21heUpmclFjMUtMazNMRUlJYllCcFpzODRsMDFoZmRmbG5PakJDejdpQVE?oc=5",
+    "source": "RTP",
+    "ts": 1794495713
+   },
+   {
+    "title": "Um morto e quatro feridos em tiroteio perto da Casa Branca, atirador morreu - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXBRdHE5M3FtOHQwbWRSdzFpbEZfalRITGdWTEM5ZUdVaExCMnZkbnpWVjFoNTc5ZDRZbF9La1NCMmo0d0lSMTFfaGExX0h6VXo1Z3ZrR1lHQmFXUEYxRnh3RjQ4TUJwQlY3R1ZuOEFDWlo5am5EU3JtRThLSENoWUVpRGozY0lldnZRd2FQSHJ3YlJZN1V5YU10MkdITHM2U2tiLURXdGV3SUJla1VyTzN4WEc1T05hSzkwbzRzN1dKQXpHZzNr?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1794491985
+   },
+   {
+    "title": "Espanha: Governo consegue aprovar primeiro decreto sobre habitação no Parlamento - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3hoMFNLZUkybDFvUVlRd2RvTld6aXVSaG9STWN2Q0xMVGZFNVRTVUlKZTFWVzdHdVRiZWZPOFBIb0FQZG01MzJ1S1R6NGJsbTBLTWoxbWczbTVmMmdURGdCNUh2VXNpdW1pSmQxZ21hTUJtYXQ0U2hYRkFMa2dzNkkwYUJSWjZITHk5cTMzakRYeGJ0VUtHUlpSa2Ryd2oweEE2MmVCOFh0LVFHZFdvNVpWUUo?oc=5",
+    "source": "Euronews.com",
+    "ts": 1794487706
    }
   ]
  }
