@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-12T00:00:09Z",
+ "atualizado_em": "2026-11-12T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-12T00:00:09Z",
+  "atualizado_em": "2026-11-12T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-12",
@@ -1471,10 +1471,10 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "CHEGA apresenta propostas para Barcelos no âmbito do Orçamento do Estado para 2027 - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc2RmcGMzdndjSFloaFBTd3N4elAyUVJJWnN6RkdOa2Fhbzd1VHl3dEVXdVRKdmp2QlRRYjQ4UjAzWS1rNnJFUlJVVDRWdDhFN1ljNDM0c09wOGN6eXVtNzVVY1dORURhY0FnaVlhR0RTUXlTejk2X3J4dWFNX2JPYzhLWjRmSUFucWhBZUZVek9nM19WRjg1aEVid0YtSWMwOGQwM2FyeU5OR2U0?oc=5",
+    "title": "PS Barcelos apresenta 13 propostas para o Orçamento Municipal de 2027 com foco na habitação, freguesias e alívio fiscal - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajhicFZiNXBhOXFLNXNCOTljWG5tTzZRb0gwbTdmYVZ3c0Ryb0kyU3hyNC1YdnpUaWh5bHlpbDNpeHlqR0lYNTRfV1pkb0xOZkVMZmpFUnp3Z0VXM1RKYWRJRjA1UXVlWGd3Y3pMLVJOSUpGaU1zTW1sdk5IcEJsdmw5NGRGT01jLU85eElhRU1pSFYyQjFjbG1raktoVTExT0hqWXdBeHEzQmlvWmlpRVJheFRiU0h4VFlzQjFFTTR1bC1fai1QWnkyRk9TSGZWcTlwR0FxR213a1N0?oc=5",
     "source": "| Radio Barcelos",
-    "ts": 1794419665
+    "ts": 1794414556
    },
    {
     "title": "Barcelos: Chega denuncia derrapagem de 2,8 milhões de euros nas obras da variante à EN103 - e24.pt",
@@ -1483,16 +1483,16 @@
     "ts": 1794414487
    },
    {
+    "title": "Município de Barcelos conclui entrega de 76 equipamentos de teleassistência em 28 freguesias - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdHF3SE5ybXZOLUhoWXVrLWgtZURDX1ZEWlgweXR4N0RBaU5wYVBiLUE1NFNGOHREcFdPZW1TWC1LajVmTzRBNHlQRnZjM0s4M0lGZ2ppRWNhXzRmemJ2NFc3eGpzRmhNVDNvSnZWRHpuRzh3QTRZV0tTd1FGLWRMWWtkQmJCaVVtVXBuTDNmZTZtMXVZWDQxVUVhVXluY0NBQVlqSGFPT193NGszNERXSDhjME0?oc=5",
+    "source": "SAPO",
+    "ts": 1794402000
+   },
+   {
     "title": "Conclusão da nova variante de Barcelos adiada para dezembro - Jornal O MINHO",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcXF3MEdPNXJFMEdYTUhtd3htVV9iOTk4X1IwLXZYbUVEMjFJck5ySGp0YlpHckN4R2lJMGJpUW96ZGo3SEVzbWpidWFnczZuSG9VeDQ5SjlVc0tXdEVFcDNLd21QWUZjMTk2RFRmQnFLM3RNQ2JmVERCTFZYZFgwYzBzZHE?oc=5",
     "source": "Jornal O MINHO",
     "ts": 1794400740
-   },
-   {
-    "title": "Município de Barcelos conclui entrega de 76 equipamentos de teleassistência em 28 freguesias - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWZUcGo4N2JMbUtjM0tOMzVzLVB5RGpfTkI2bDdiWXNBWnBTMTlZcEFNcUFEa2NXbG1DeldFR2lweE9hdlR0WlJhYmVEZFl1blRXcEpraEd4NjdhdW10YjdmYlZmbmxUdEFkVXIyUFRzQW92V1lLejlNbml6RXZRVGpxNHZmTzJtOFF5bnU1dUVJWVl5RDVkcWE4eGw1NWpDN2xubkRyYVpTejRfWV9wRjJ2SEZtZU8ya083ekI3WHJROGpGd01STXplLXhzRTlYdU53X001NA?oc=5",
-    "source": "SAPO",
-    "ts": 1794398400
    },
    {
     "title": "Do banco em Barcelos à Seleção e à mira dos tubarões: o ano louco de Gustavo Varela - A Bola",
@@ -1537,38 +1537,44 @@
     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmZRZTZleUFrLUZrUVpNNk1hQVBwNUZDeWFXYnZjcGRMMGNDYWRvazduZFd4S1hVTU9fVlNHSXZFMkFvUTZ5MndlalVON0JBd3RVN1hxWkJ1RUlwa3ZpNnBzZWliRXBjTk5tQVVMMm94SWhfU05URExmXzlwTVBVNXZtS0ZNUFNQRTJWYW40UTBQbGJZNnp2RzV1Sk1abElaSFQtSUtwR1MxOHhjM0FpUFY0MG10ZUZwWVMxZUVoUQ?oc=5",
     "source": "TV Esposende",
     "ts": 1794324624
+   },
+   {
+    "title": "Barcelos: PS quer garantir construção do novo Hospital de Barcelos-Esposende no Orçamento do Estado para 2027 - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNelZLS2g0d0xIVzV6cTcwMEpJTng1YlFYd0xMbHcxMGhMUFhiQTdJZ0xLZG9pcEczZ1FvNVpjTlBGdzVZNkJUM0J2VVpSaFJ6Z2FJWTRobDd6N01xUlc1SXFOOTk2ZTd4blgtdFFOQ3VVRDhSOWNST2h6RVN1anFlcmx1VjBGREdlSFg3M0ExWk1nNzJHcHJaXzdtazlSQV9ESTRhTWxNVXpreUE3V2tMTHl3c2g5b1ZSb29IaEJRZ3laUQ?oc=5",
+    "source": "e24.pt",
+    "ts": 1794324466
    }
   ],
   "mundo": [
    {
-    "title": "Prédio desaba em Nova Iorque. Há vítimas presas nos escombros - CNN Portugal",
+    "title": "Pelo menos um morto e dois feridos graves após desabamento de prédio de Nova Iorque - CNN Portugal",
     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQaUNOakhlbkt5dE1rS3RfZUYtNi1WVklkblJCZUdzc1BKYVd5VzNqTlpacFBWMU1OaGNjaG1nWXJRQVRlRGZDLXBLMG8yZWt4bWpkRld1bDhUYjJPNEZkelJEVnVqbGNwZlhSODUyb3AwTTIwVzdsY3dVcWQzalg0QVlJaG90UFdwdTZfTEJ1Y0RYVVFTcTNYc1VfWVhHajlGR1RXRXcyNklDdEQzUV81N0wwLVluRU1TcktSMWtNQUxvczVTN1V0ci01ZWhxRkhGMTF2blJuaGJWSkFBWFBYcVR6eWRaczA?oc=5",
     "source": "CNN Portugal",
-    "ts": 1794437990
+    "ts": 1794456224
+   },
+   {
+    "title": "Republicanos bloqueiam destituição de Hegseth - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZnZUY1BxejF1QlF5TENMdmVxMGZSZmo3YndnMkN3R3d3VU52RDFVTHFhaHpCN3lPSHBfX3NvZEpBVXpRMF9kS0lJUFRHZU83NjAyOG1QTGtDRHlOWW1mbmdTY2pHelhscTFVVjdjN2F5cjhuVDRyb3UyMXlzREd3MDZlcC1IMkpWekVv0gGGAUFVX3lxTE9NLXRBSTJvLXVEVEx2T2Fsb29IM1dqbnM5VXU5WUNmeWhCQTdPVnNNNWJxYU11c1RTYVlPQXU2dEx5dTFaVklsVXJLNklTaWdwbW5ZaFE1NmdVcXBmZS1JMHAyS3ZYVkZPQ2JQQkY0eWVqWmZKaGR1WE83SEhUbVZ6NWJZLXVn?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794443400
+   },
+   {
+    "title": "Scott Colom vence no Mississípi e pode ser o primeiro senador negro do estado em 146 anos, projecta a CNN - Público",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUEk0aGxMbEVSdHVLa2hqYWtMOUdBZDNVV2VUNGRoczlnYnhkaTEzR1RDM1VOcFo2UC1qYlFsZmtQT0lRSnN3bm1xcG9ReVAwVVZSYzJnTGpNel81cG1pY3UwMGJ4NzltSmFUbUNaSGxESjJIaWVJWVZza1ZYR3VWWThwaU9nMWtfRzhrdUF6bUtDV0ViWVMtNUtSeHQ0eENqclB6c3RFM2lMdnA0TF83WklwQkJ2RGpQSmxHS1lKeEhldUhmeGFsUHZscnFqeDJW?oc=5",
+    "source": "Público",
+    "ts": 1794436903
+   },
+   {
+    "title": "Espanha. Greve geral leva a mais de 70 detidos e cerca de 1.500 incidentes. 'Charles' afeta algumas manifestações - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNNHNySXF4NXZDS0JudS1YdGNjOExZLUs4YTRaMEdTYTNoX2RkVEpjajJ4OFB4TWVWQTQwc0d5S2xFSFJMZHd6clN6VWpFS3JGRDh4empRNjN2ZWFsRTc4SGJMdk9KbWdKa0ZUUVhGQ29aY0lIdEREdHJnRm9sa0NWZ2hqeGE2b3dibVVQSnRFeWQ4LVdkYUpWVHJZeUd2U1VBNTRUS29hN2lkZXhzUGs4ek95WEZlYTJUTHpaX3pCWEJwYlRNQkhlcFlRNjJtSTVJRl9YcWNydmVCLVc2TWN1cTd2bV82MUk?oc=5",
+    "source": "Observador",
+    "ts": 1794435359
    },
    {
     "title": "À procura de paz em Abu Dhabi. Ucrânia e Rússia acertam troca de prisioneiros \"em grande escala\" - RTP",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZlBFeVVfQ21wY1E3NE44QXR1YmdkbDM4RjhTdU1Ta0FVQ3FUam9tUHF5cGhodjRHYk5QSGVwYVo1NTc3c1A4SWktVElnSWlvaGRMbUhyNG5jYkNvd1hNVWJZRzRIX3ZOekRMMkVnM3ZfQlIyQi1jQ0ZMVWJlYTBoUWZONU5CTUpuNUpteG9EeVhhYmtsMmFMMmJNQ2MzVUYtR1lkaURwNEtqWHNtZG9teHpBa2VzOXQ4aWhuQW5wZHcxS3VTYmRwd29zTmxzVnpmeHc?oc=5",
     "source": "RTP",
     "ts": 1794434562
-   },
-   {
-    "title": "Transparência conclui que deputado do PS insultou e ofendeu Rui Paulo Sousa, do Chega - Público",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNT2Y5YjZwNG9SQWdNb1M0NjZPeGlOQjZPbUNTbGdMOUl2OUJ4NHRXYnk5cjU3R3lGYWJlVkJheWlKYnYxejRoZmFqM3ZGcmJCdUkweGo0M3A3cGdsR2FUNmFrNU9CRDU0dkYxTlpwMDlQTzUxWTAwNURJZ2F5N1NwNU02cTF5TDdzUVBsMzZpQXVIZ1RJVG5RLUF6UFpUbnBkRV83WWpHbjJ2UE9jbWF4eGFEQjdETXdsTXBHdEt4TUpnTGJNZzNxUVA4RQ?oc=5",
-    "source": "Público",
-    "ts": 1794424649
-   },
-   {
-    "title": "Embaixador da Rússia nos Estados Unidos morre subitamente - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQTlVaEhZS1ZUUUtReHJMSWJkNmVoU3ZjenVYN1ZvZVJFSm9LcGR1NTU1Rk53TjZnSnp1OU1NUGZrbVlybWEtMkx0bXFrQ0VOX0RkcV94RVMyLUtOV0QxTGxMd3JGSU9XeGR6U25XMlNNbmlqWTRJVUZaRzJSSkh1MUgxemhvdE1WVTBEc2xFd3pLZE1GczFMSW1UNEI4TXVKUjlGNkF6MA?oc=5",
-    "source": "Expresso",
-    "ts": 1794419707
-   },
-   {
-    "title": "\"Não nos limitamos às bases próximas\". Irão ameaça atacar bases norte-americanas na Europa - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdDdEcWMzWWxaQkFNWFc4ZTJlVkF6ak9jcVhPSHpNa21PZGlfeHp6ZXZ2dHlFTTBFUjMzS3I5U2l6b1ZHSkxvTHQ5UzdQRzFrWnR6MHpQTGptckkwTFU4bW85d21JMUhjc3VMSXc5ME0zNW9md0M5blRPRmJ3Tlg5X1p6VHhhSTlYOTJOeU0xYjVlcTBVY3NoeXh6bGEyYjV0bUZtdm9TR1ZvRk1Od3RpZ3dKcXpiN0lyR2ZpbzlyWGZNSDM1WFgtX2dn?oc=5",
-    "source": "RTP",
-    "ts": 1794416372
    }
   ]
  }
