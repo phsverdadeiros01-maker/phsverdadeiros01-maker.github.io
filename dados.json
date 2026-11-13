@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-13T00:00:10Z",
+ "atualizado_em": "2026-11-13T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-13T00:00:10Z",
+  "atualizado_em": "2026-11-13T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-13",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "“Desculpem a demora. Muitos carros na rua”: o teatro em que as crianças fazem política climática - Público",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWJsT1FwMGdSU2JQV291UEl5MWRNaVpsNi04ZnRTUmVnSWhXemg2YnNLaU85T0l6TWlvNFNOMGM1cWR2MjlpcTRQMzBzV184SVJUMllPRkVQTWpWSG1uUDNNWWNqT2ZJak9KRlZsb3VqUGtkdmhRUmlWRUJIUGtKbzVvWjlEUE44dHJkZXZmdlI5eGRhblRfbGdlT1ZKMlFaUmZsN3VxWXNZVWl2T0xCM1Nqc3QtMDNtamRvczhkVjB2MExB?oc=5",
+    "source": "Público",
+    "ts": 1794555420
+   },
+   {
     "title": "PCP pede ao Governo que divulgue estudos sobre a PPP do novo Hospital de Barcelos-Esposende",
     "link": "https://e24.pt/novo-hospital-barcelos-esposende-pcp-pede-estudos-ppp/",
     "source": "E24",
@@ -1480,7 +1486,7 @@
     "title": "Iniciativa Liberal de Barcelos questiona atrasos nas obras da Estrada Municipal 505 em Chorente - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONU1QdjNsWDA2aXBneG1NLUVyZTE2RGQ4NXRIMFBZR19mdEFVTFBMVVN6eE9RaU1yeENUZ0R1V0NiY3E0SXdDYW5JR0lCT1I3cTlQaWh1amV4eUlLdjZFTlhSRUQxY1lTeG9fWjktQXd0T05aUHRDWmpsZmNmcGIxVVhsWGptSjB4bUlfNmFXQ0E4emg2aXpQYWNHdEYwNFRGVUlnZER3bWF0YjJXZXo4RkF5VWQwUQ?oc=5",
     "source": "Braga TV",
-    "ts": 1794521796
+    "ts": 1794522359
    },
    {
     "title": "Barcelos apresenta Mapa do Potencial Solar do concelho em conferência sobre descarbonização - Município de Barcelos",
@@ -1499,26 +1505,20 @@
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40SU9QQlM2QlJDaUpaSkhxTjRtVUplLUpZLTkzdXQ2cDlJY2J5ZGJtNjdPX3NtMERFcFpJUG56c0hJVmhMSnBnaFljczJBZUt5bzd2dG1nM2ZxV20zSDR1VUM5UVdDWVJTbXpiS0t6WWs?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1794503756
-   },
-   {
-    "title": "Dois feridos após colisão frontal em Barcelos - Jornal O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJMkNTRDdmQ3ZINmJNWV9jeE93cXRyZTBzaFFjX2RrUlhTdmw0OXBBNTNCN3R3OGV0Njd2Z0Q2RTRUQ3NWeUtvOC01aWQ4bnhwaWo3NU5VLTItb1FOQ0c3Y1BOTF9DRHdlQ01Bb3IyNlAxdw?oc=5",
-    "source": "Jornal O MINHO",
-    "ts": 1794497040
    }
   ],
   "esposende": [
+   {
+    "title": "Reunião da Câmara Municipal de Esposende - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MQmxxZHBtdDlEMlVyUGhKTEdHc1lta0xrcXNkY19IcXI3YkZBbkYwS3loNllfWEEzM2pKd0RPWC01RTdLOXhfOXdIengzVWFqbnhnVVhnTGpxTVVPaWVjakNzbEJ3LTlFazQ1ZUZTbHREd1BFRnhpa1hrbjk?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794521446
+   },
    {
     "title": "Operação “Cloaca Máxima” – 16 detidos por crimes ambientais - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2FPMkExeHByTVJUaWFKX2hzb3FiSTF0M19NOVBTUUlxeTNReFJqR1hUSXZsaHg4eXBvUjhka3dRbW1TNWd5MEFjMS1JUkhWSkpwOE1ZU3lGTXkxc0FLaUxZOXdqOVBsQTc1TU9ybGZZaDNDQW9JTTd4MkNULWphdzcxZHRlTndFd3lDdQ?oc=5",
     "source": "TV Esposende",
     "ts": 1794519268
-   },
-   {
-    "title": "Reunião da Câmara Municipal de Esposende - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MQmxxZHBtdDlEMlVyUGhKTEdHc1lta0xrcXNkY19IcXI3YkZBbkYwS3loNllfWEEzM2pKd0RPWC01RTdLOXhfOXdIengzVWFqbnhnVVhnTGpxTVVPaWVjakNzbEJ3LTlFazQ1ZUZTbHREd1BFRnhpa1hrbjk?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794512695
    },
    {
     "title": "“AD Esposende precisa de mais campos para treinar” - Semanário Alto Minho",
@@ -1541,6 +1541,24 @@
   ],
   "mundo": [
    {
+    "title": "Leão XIV no Peru: amar um povo é desejar que todos possam viver com dignidade - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZktocklGVDBiQmVQdHVGbFkteUdwOUJmNGpUVV9sZGpjQVRCUlpZYWtlQWQ2YU05TXhtS2NqQ2pTYnMyS0pyTUxtWkFtSURENWNpMEJPNTl0ajRtMUNEN2dpUEI1SEtON2V1OEV2UkpyYjRXZktTUnRsZHp2V2xXaU52anAzMHh2Nk9GbUFrdTNKM2ZDWERDMkt6TlFmbmo3cHpOZnFsNkZhU01QaXhQMW4wR19lZUI5?oc=5",
+    "source": "Vatican News",
+    "ts": 1794535200
+   },
+   {
+    "title": "Hegseth condecora militar que o repreendeu por gargalhadas no Túmulo do Soldado Desconhecido - Observador",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPc1hXYnVDNElLdTFOVlhNVlczekxTNEZqRkF1NGwxUkxiYVpMOUtzR09MQ0poNGNub0E1aWRpWVZqdThOamdIUjYwa0tYT1NPVFdXbEJ5WU9IVkVfRWtEQjRHX2k1cUdUR1BzNFNGS1pRZS1uNHNOYWxFWXdSMXpHR09rcVkybHNwUFpzemsybEhFN2RSNm85T3A0YlJxM2hEaHBNNHg2cFluZUk4Rkd4M2h0N1o1d0NNeWJod29LbmxaY1h6?oc=5",
+    "source": "Observador",
+    "ts": 1794511080
+   },
+   {
+    "title": "Trump diz a JD Vance para esquecer o Irão: \"Não precisamos de um acordo\" - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMk1FNWdLaFJFNHNmUTZMVzl3M2E1TGxkZ3NBM0UyeVZmUGVzRVNDOHNDMUxZUFNKOUI3NVdCOWthNlJxdzZOdkFMa0ZzZzVBcHlJRmxIaDFCU3I4T19aTTBaeW93Ylh1UUx1SDE0SnltVVJ0YkJ4QjE2bEVlVE9xOFBOT2R0cnNNdWJvTVVCU3RtdmY1RXJZc2ZBYVBySTVB?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794509610
+   },
+   {
     "title": "Montenegro lança Costa e Durão Barroso para negociadores da UE com Putin e critica Mark Rutte - Expresso",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM3lFeGZSMVh3Rm9lTzFpQVZmcDlfbHAyY3dueXRHbXg4RVJldndVSFhHQkxRdzUybHRUUmJJdnp2OG5DTDByUnJRdVRrZmxxNHM3M2xHdXU2T2Q1YnNfS2F4dnR6VnN6aE5wS0NaUWNMZHZNeVpLUnFXZjVDWjdtajNHdU82aWtwTFF0QVpwOXZOZF9nSnJyVVZGeUs1NWdHX0pxamZKOGxwTVF0RU50R2dRVGZLWVpfZ0YzdDllbTVPd3JFUXpPazBpb3JzSWZWUEdxYzk0YVB2SUpqUFE?oc=5",
     "source": "Expresso",
@@ -1551,24 +1569,6 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQT2xrOFdxNzMxWlRxaVk1b2F1ZmItdmVqUXkzTHU4LWlOYkxyMzVsTlR1UXl0ZTlQOUFtT2xfWV9NeWpSaGFteTZYYWhmUEpfVDZ1X2pmc08xMHJlWWkzYU9DSWxQV2RaODJuMkNnLWhIVU5CZ3p0amdTcGN2Z19mU0VpcUw3N013M21MUHJBdGFTb29fZGhtLXAwcXQ2dHJYRHRydGItdkoxSXJk?oc=5",
     "source": "Público",
     "ts": 1794500955
-   },
-   {
-    "title": "Habitação. Espanha aprova medidas que anteciparam as eleições no país - RTP",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRTZVMmVzeDZxYmJRX1FvRnJGVFNXY1N6TUhxT25LTTZfX1c1OE1aTFlZYkE3Y0d2SzJsNm0xSDNtc2M0OUl5Mnp1MU9vWUIyRkhIc0REdjMtTC1HTWppZnVQa290Sk9OcEg1M19US3o3TkFpYzNaUldnOWcxTEhCNzNkUXNGMzRwU0NFNE10b29ZVEMyUk5xdEhDbmNRZDA3TE8tdlV5MWxqWEVjVmxYOA?oc=5",
-    "source": "RTP",
-    "ts": 1794497894
-   },
-   {
-    "title": "Disparos junto à Casa Branca: um morto e quatro feridos, atirador também morreu - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVXBRdHE5M3FtOHQwbWRSdzFpbEZfalRITGdWTEM5ZUdVaExCMnZkbnpWVjFoNTc5ZDRZbF9La1NCMmo0d0lSMTFfaGExX0h6VXo1Z3ZrR1lHQmFXUEYxRnh3RjQ4TUJwQlY3R1ZuOEFDWlo5am5EU3JtRThLSENoWUVpRGozY0lldnZRd2FQSHJ3YlJZN1V5YU10MkdITHM2U2tiLURXdGV3SUJla1VyTzN4WEc1T05hSzkwbzRzN1dKQXpHZzNr?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1794491985
-   },
-   {
-    "title": "Xi Jinping diz que \"reunificação\" com Taiwan vai ser alcançada - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQWJrNjRkUVE2TTlzWXNpSThwTGZiNmdDdmdYYkZYYW83bVdWRGVqcGFqQ2hJbWNQYXhXdkl2VUVyRE5kY1Z1cFRQRUUyLXYtS2xXdll6dVUzenVtc1JzNXJHaXctdXRESm42eVFjMGo4VUtlTjU1aUt5SEpNYnBFUmRwX2hySlNzUlhCSENVdE5PdEc5ZnJIY2NJRmEwRkxPNVRMMy1oVjZUSnV0V01EcFB6RzkzOGxPWkFWctIBtwFBVV95cUxOTm9EZkpHSWgzbkNKaXNyVDVvSXozZVJBdUlvaWVKM0prNWtFaVQ2LW9sWXAybGRQQVdBT29zRkc0N1daWC1IUGoyTXZhak1LRkxKS3ZSWExjQVpPckstLWpDNzZtdEVJZXpjRnBkRXNocXhXVUcwc3k5WHUtbXZlc0V1UXd3LUlHSmRlZldybVlrcEZXLUIzQm9FZDY0RE5kUThDV29KSTZwc2U0NHFtMmRJN2JQNkE?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1794484342
    }
   ]
  }
