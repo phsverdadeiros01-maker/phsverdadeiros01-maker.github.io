@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-13T12:00:09Z",
+ "atualizado_em": "2026-11-13T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-13T12:00:10Z",
+  "atualizado_em": "2026-11-13T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-13",
@@ -1632,10 +1632,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Mulher suspeita de burlas de mais de 160 mil euros detida em Barcelos - TVI",
-    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNRUhmNzB2YWFoMktDNDgyakRFTk5xQWdac1E0d0xlQnowaDlLYVNZSy12UWkxRGpjMUZRNUFGWW0weXl3eTZtWVdZR0t0WG0ybFNHTWttVGZPVlZfVUhES1ZUNFJnZnlicmdoLWZBNklNbzZybkI3cEJzWm9NVlNPN0FMb0J2akdVUVlxdlVidDd4NEtRUWYyY01TV1FkZThtbnVaNlBjVVREbldQMHZaR3NpejF5NjhtMmpPWHNDQjZQUkZxWnZ3OG5idE1PS2g2WkpURjc3SnRWVnJaZDdrY1B5VU5aam5IOXR4NGI4MDltVnY2WGFldg?oc=5",
-    "source": "TVI",
-    "ts": 1794570149
+    "title": "LIVRE Barcelos apresenta propostas à Câmara Municipal para o Orçamento e as Grandes Opções do Plano de 2027 - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUMtYVVlaGlqamYzajVrRFZ3aTg1M3p2X056MGNsdmZXRlc5bWtieURENjNsN2o4b0F2TzdxNm9RTzBEU1JVWFNxME1iMnpFaEV1OU13TzdEbGtZNXE1emZPQzR0a25LZDA4NnRKX2Z5Q3BaYUhRTzBoczVlUFl3LTh2U0FrbHVmSms1cTZBVHJ0ZHFrVnc4MzNIcDZNTFY0bWZ2U0J1WUloeTB0UC1TZFNoeGRsZGVkWU05MnFQWnU3YU9UenQ0a3RNUkgzQQ?oc=5",
+    "source": "| Radio Barcelos",
+    "ts": 1794586974
+   },
+   {
+    "title": "Mulher suspeita de burlas de mais de 160 mil euros detida em Barcelos - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQenh2bTdjaDZpMEx0UnZwLTRmbTJtTVA4NlUzbmVEQUdYRzlZVE5vMkE2dUM0ZHRsUl9xVEJTd01uMW1YRnRYSFUzT0ZPYkItbjQwS2NubHp3Zm9kdW5KNEVDRnI1UEI2eHRCTjlLMDZva0hkcFgtdXl1SU5TZ3ZvOFRDQzV3QmJKQ1ExbFUyb0taUXFRNTEzNXNxN2x5WDlwZDV6dHFtZHFTQW1QbGJxYjBtYlUxQnFHQWxVTzAzQnJiSFdaWnBvRm5TajZWdzJra2pmSEJMVVV5TnY1Vm5BcS1pMkxNTXNOalBKdXJyeklGS2hTSUVJ?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1794570281
    },
    {
     "title": "Burlona comprou carros com documentos falsos em Barcelos - Semanário Alto Minho",
@@ -1660,52 +1666,46 @@
     "link": "https://e24.pt/novo-hospital-barcelos-esposende-pcp-pede-estudos-ppp/",
     "source": "E24",
     "ts": 1794525952
-   },
-   {
-    "title": "Iniciativa Liberal de Barcelos questiona atrasos nas obras da Estrada Municipal 505 em Chorente - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONU1QdjNsWDA2aXBneG1NLUVyZTE2RGQ4NXRIMFBZR19mdEFVTFBMVVN6eE9RaU1yeENUZ0R1V0NiY3E0SXdDYW5JR0lCT1I3cTlQaWh1amV4eUlLdjZFTlhSRUQxY1lTeG9fWjktQXd0T05aUHRDWmpsZmNmcGIxVVhsWGptSjB4bUlfNmFXQ0E4emg2aXpQYWNHdEYwNFRGVUlnZER3bWF0YjJXZXo4RkF5VWQwUQ?oc=5",
-    "source": "Braga TV",
-    "ts": 1794522359
    }
   ],
   "esposende": [
+   {
+    "title": "Município de Esposende reforça investimento nas freguesias com mais de 112 mil euros para Fão e Belinho - maissemanario",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUjZaZEZaaGM3MzFVYmlTd3pHTWxoZFFuU1drNWQtUjFfTDd2a2FOYnJzN19lQXRpdm1oTTB5Uk94a2VSOE4tRnhjSDNyTEVyb2Z0T2ZkNW5WRDZKMXhNNWJLWkJPNEZCclVJdjdha2VOdjhxbmhadUg4eUVibEdqQ2hwYktfclRlYkZDaXhJMTR3cWwyZzU2M2FaNm9XTG1lbjZxSHdGTGJ4Y0hCVUk2bWVFZjdZMTRRdWhQdXBkTUItZXVsRVFWNjRyanFvdnlfZll1MlFn?oc=5",
+    "source": "maissemanario",
+    "ts": 1794591585
+   },
+   {
+    "title": "ESPOSENDE TERRA A TERRA – EM BREVE NA TV ESPOSENDE! - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHpYWTZGRDhIczB1MmtPM3hUOEpYYzdMT1FLYVhkc1ZJR2U5SERjMFJqWG02N1BmS1VTOXJsX0pQN3g4NVZXUUhBR1U2NHlaNnh3OXpKaG1ob0Qtb05XTkFVLVlCNDZ3Q0tHRU1oejF2VUplRkRDOUs0Nmd4Z0R1ZlZhbw?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794590963
+   },
+   {
+    "title": "Esposende cria Estúdio de Digitalização no Arquivo Municipal - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcGdIck16TW1sbVRsUVlodUJCVVdTWmhEWmdWRWJ1UlVBbktxeEpFakZRTjQwQVNlaTlvaUYxUE9RS2JNSXlFVUhpN0RSNWJJMWkyS19vcVdJdnFqUmFXTG0zTlBicnBxRmx0Wnl2WkF0ckFwM05OT0YtUVFYenBZRzYyN3VnNHF2X3EwTGVlWXRXdDQ?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794585218
+   },
+   {
+    "title": "Esposende reúne 800 jovens atletas no Campeonato Concelhio de Futebol Infantil - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQzNvZDVmZUVfSEphS3YxNDRTSEVjMXA5Ujg3Qi1GcDZHN0NhNUZtcjRTQ2tMTGc0U1ZKTjdQUEtRSVViOGpFVEY4cklqRnA5T2NkQXAwaWo2b1g0Z1dRRWxaUVg3dE5GRnpkTWh4Mm83SEtZNVR3SUVvLXJSVktWMEVIZHlzaWtUaGh0MEpQcE1teEFFX1RmZzlSTHdfUUJPcW9aOXd1dXhXSElwZnFMYUFEMUljY2tn0gGuAUFVX3lxTE55dkV2S3dnZUVxXy1Qc251cG9FRXVCQkZXZ2QxRmt5cmo4ekFTVk0yb0VDZW1qNHNVclFOa0lndDcyQWlPUDUyNWctZUxBWjc4bDJ1VkI4VnduTmt1MjRPWWl2QzFDSkRMNVJhNHluWkFwd25LSW11cEduOWFBenJsN09RMGRGcmk5NlMxTXFVSWhUajQtOWFTSUhPNzY5Vkh0cGl4ZmZDSWdkUklhUQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794579660
+   },
    {
     "title": "Reunião da Câmara Municipal de Esposende - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MQmxxZHBtdDlEMlVyUGhKTEdHc1lta0xrcXNkY19IcXI3YkZBbkYwS3loNllfWEEzM2pKd0RPWC01RTdLOXhfOXdIengzVWFqbnhnVVhnTGpxTVVPaWVjakNzbEJ3LTlFazQ1ZUZTbHREd1BFRnhpa1hrbjk?oc=5",
     "source": "TV Esposende",
     "ts": 1794521446
-   },
-   {
-    "title": "Operação “Cloaca Máxima” – 16 detidos por crimes ambientais - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2FPMkExeHByTVJUaWFKX2hzb3FiSTF0M19NOVBTUUlxeTNReFJqR1hUSXZsaHg4eXBvUjhka3dRbW1TNWd5MEFjMS1JUkhWSkpwOE1ZU3lGTXkxc0FLaUxZOXdqOVBsQTc1TU9ybGZZaDNDQW9JTTd4MkNULWphdzcxZHRlTndFd3lDdQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794519268
-   },
-   {
-    "title": "“AD Esposende precisa de mais campos para treinar” - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQelVDb0NWdmp0VDU2eFdlYTlUbmVNa0FNSUFCcWhNTnJnOXlkdDZaSmQ5ZlRfeFo3dEJRVWFyNkJwa2J5OHFkcGpWeG54SlViODhYbjJYUTMyLWtyZmhfYnQ2SENzbUdjdXMwajNjMGE2SEJYMFNraW94bmR0OXo0UVpFRTcxbXlFUEFwRjlreXVPejQ?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1794415732
-   },
-   {
-    "title": "Esposende procura voluntários para passear com idosos de bicicleta - o minho",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1pudHF2M1NrNVZjdWJJNkVXaUVMdXJuQjgxekNKdXdvZVhhRXItT21idnFENnhIYW1JLW5mXy1HakVZMHdtWm80eXRqTzBuaWtxNGNhdjZVZVA1SzVwOFo1V1dMUm9xNTZOM081aDhkUWM5bWI1Z1ZqZjVSbUtMVjBwano1QklWUmZ0SVdfcVU?oc=5",
-    "source": "o minho",
-    "ts": 1794386760
-   },
-   {
-    "title": "Dia da Unidade Local de Saúde de Barcelos/Esposende (ULSBE) homenageou mais de 50 profissionais - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmZRZTZleUFrLUZrUVpNNk1hQVBwNUZDeWFXYnZjcGRMMGNDYWRvazduZFd4S1hVTU9fVlNHSXZFMkFvUTZ5MndlalVON0JBd3RVN1hxWkJ1RUlwa3ZpNnBzZWliRXBjTk5tQVVMMm94SWhfU05URExmXzlwTVBVNXZtS0ZNUFNQRTJWYW40UTBQbGJZNnp2RzV1Sk1abElaSFQtSUtwR1MxOHhjM0FpUFY0MG10ZUZwWVMxZUVoUQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794324624
    }
   ],
   "mundo": [
    {
-    "title": "O Papa: o bem comum é a conquista conjunta de um bem maior - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdHQ2Nlc2TDNGYmlqa19CTEp4RWNBWHQwdmtKWEZDa2lKNGtaUV9MX1NpbHExQUt5bEZtbVNtNWw2eXFaUG1LLTdGOFZuQURXTmw2aEZ4alc3UlEtUFJ3cGxXYkZuOXFKSmJEeURtcm9rNThsdDZGM2E3WnRzYnduMEROcjF4TXVfWFdHRnB4Y2hnZGFjTEEwOTROMnVZSXh5VzhVYWJkaDUyWU1DZEo5cg?oc=5",
-    "source": "Vatican News",
-    "ts": 1794566228
+    "title": "Putin aceita que representantes europeus participem nas negociações de paz com a Ucrânia - Público",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMUpKX3FDNGpMUDg2ZnFYaXlJbk9DTUdyNTcySHN5cWd4ay1fX01qSkxNci0yTnpGQTMxaWFwUFdWTDFYYkpVSWlhTENqd0FaUURjT01wUWZVdmc0aWtHVEVZUW9qamUxelA1bnB4UUVUZzZUclJIQ3d4QkhiQ3Q1dHlZRGw3ZjluNGVHWWtIRV9Hdm9VYThVOFpZNlJWam5LOGZQcUJNLThOai13aWp0dzdlUEZLNmRSS0VHYW1PdjY4dzVtaHc?oc=5",
+    "source": "Público",
+    "ts": 1794569387
    },
    {
     "title": "Trump diz que EUA não precisam de acordo com o Irão e pede a Vance que se concentre na corrupção - RTP",
@@ -1714,22 +1714,22 @@
     "ts": 1794566034
    },
    {
+    "title": "Do 'puxão de orelhas' à medalha: Hegseth condecora militar que o mandou fazer silêncio - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWGZFSTRkSV85NFFGTVpIWUlnek45dl9ETEtjU3haS1hqUVphYmR3LTIyNHNKand1d1RVaEowUjMwY3lLNG1pQk5lS2ZoU2hoS2RUUlY5MEp4SnM5UDFielFZTUQ5RFNMNU91NE12cnFOOWF4VnNuSURTVGxybkZpLXpiZHdsSkJROVdiQzRJRVlESEZSdUlteXZnRVh6LWhBSm56T05vTVo3Rnd3eUFqSVBsZllyT181d1VqQUdoaTBQQlNnLWdTQ21QbExPcURHZWc?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1794563311
+   },
+   {
+    "title": "Médicos Sem Fronteiras acusam Israel de ataques sem justificação: 1.700 profissionais de saúde mortos em Gaza - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZUhienZhc25PZ2NQUy01UGNPUl9pU2l6d3ZCel90QWh2YnMtbGJqb014T1pmYmhJTGVtbVFPdlNvY2NHMC1icURDeG1ZNjBnUnI0Zm10ODlmdzdmR2FmeFZMaDB1LXhDWXVuZTUtUFZRQTBEbmVHZkl4YWVWVjFHdEtrSkZuaThBOTFMcXVLc3BkanhTZ3lmeXVFMDJiakpCVFk0TXptVkszZFpXd0VYbVE5NWl2T3F1bnUwck80bGkyVy12QlJJTFJpM0Y2SjkyLUMzNHE2UEJPMFFBRURvdElpYXY?oc=5",
+    "source": "RTP",
+    "ts": 1794561950
+   },
+   {
     "title": "Começa a campanha para as legislativas em Espanha com a direita a liderar sondagens - RTP",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNGR4bjlQRVlfUWdtYlZSWklxTnVIOEhUTzZvTDItYmg1bTh4U1pHU3JsZ1A4S0ZOaVN6QlZDSHVJSjY2REh4SmEwcVFhTkxqbGlFSzZNTmtTbEdJMm9RYzZLX25McTFnNXVELU9pbGktZ3lmUWFoaWYzYnh0M1FXbWIyTVFYNmdjdEZrLUlUQnVfcUZJVE5tSWtQVlREak5XZldEQ0hLNGU0YkxBblp3TFdDLTJXa19ZME9Td3JRVG51LXk1?oc=5",
     "source": "RTP",
     "ts": 1794561739
-   },
-   {
-    "title": "Médico, bolor e disputa judicial: o que já se sabe sobre o tiroteio em Washington D.C. - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYVRzR1N1R0JpRHhhelBnTUxwQnM1cXZsb3RTc2diZTU4a0lhalktWTdwcFIzcm81X2dqZWxKOGMwcThFTUROV1I0QXJZTEFuVnh4RUFRWDM3bGxQc1pPMEJvLWVxVnNuT3FSbFhRa1p4cThZWXNTNi1NX25sWm9xM05NQWxfdVNHT2c3MDJ5UDZ6NEFwdzNZRm0wNy1UbEh6OVV6c3BLd1FfZWdOS01OVkQtdV9IVklWOTVka2ZubFczMUkteUNQV2NHNGpiY1Z0a1E?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1794557272
-   },
-   {
-    "title": "Ex-CEO da Nvidia teve afinal duas relações com funcionárias da empresa, além de uma terceira com a alegada espiã chinesa - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUURScG5hdmI0ZXFyRm5GOWR6ZkUwdHh1YXpYN1lwb2xVOGc3WVVYVFJDNW5WZVV3MXQwb01lYUZFX2FhT2ZNek0zWlVvT0pyVHlkMVdva0N5V1RhTFRlemJkNUp6bUJvNE53UV9lb0lzR3ZJeU5xVzhCQjlMSEFYLXRCbFJQR2tZd3hocWlQS1ZXNHNza0R5VHJRb1Z4WUdTVUxHWmpSQ3JKUkE5S0d4N05vX2VieWswbnpBVDNQbFNkUVJNc2NscVU3YlliQlJpQ0Q1T2dld0lOeDQyNWxpX3pTQy01VEJnX20xb2M0RjZja2xoVHBPZ3ZUdTRwSGl2aVd1clNvcThoVXVRR0hudVJXOGM?oc=5",
-    "source": "Expresso",
-    "ts": 1794519300
    }
   ]
  }
