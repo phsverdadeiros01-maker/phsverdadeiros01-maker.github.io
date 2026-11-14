@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-14T12:00:09Z",
+ "atualizado_em": "2026-11-14T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-14T12:00:09Z",
+  "atualizado_em": "2026-11-14T18:00:10Z",
   "dias": [
    {
     "data": "2026-11-14",
@@ -1632,10 +1632,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Despista-se e derruba poste: Estrada Barcelos-Viana cortada várias horas",
-    "link": "https://ominho.pt/despista-se-e-derruba-poste-estrada-barcelos-viana-cortada-varias-horas/",
+    "title": "Cerâmica, património e território em diálogo em Barcelos O Vice-Presidente da C… - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaVB0azlwQl9ZQ0lNVk9fQi05Sy1Pb0h3ZGdydW44WVU5Smg0d1lrUTZRVnRabHFqTGJXUDVxZ3BicTJLeGp3WUt6TmFoY2Z4WWdWUXdiNzY0TTF1Ui11dUk5YWhQYjY3c2UxdmxFZ1JtcXRsRWk5N3JLWEI0VEZTeXVUSzI4TDlzTWdsZS1oOTZLbTZaRVI5ZDdDVTVmV25DYy1VcEpxTmVjdVRzTUl6MkExd0Z6WkY1Z2Z5YUxUQ3pXMVJY?oc=5",
+    "source": "SAPO",
+    "ts": 1794664800
+   },
+   {
+    "title": "Despista-se e derruba poste: Estrada Barcelos-Viana cortada várias horas - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXAzaVZzeUd6VzBjOC1waDRHV29BQlV1Zk9GRnhRUTMzQnVLcjZHMFVwTnFuVDVjeDRWbS02ZzBoSjNGSkQ0NkE4ME9wTGJfZFhOZkdod2dsOTBPR3otdzlTeHdzYkQ3b0NSYV81Nlh5eDdqZlFsc0gtU00tdEhMM0x5QzFHTE9fcHNnZ0ZCRkJPejI3?oc=5",
     "source": "O MINHO",
-    "ts": 1794642733
+    "ts": 1794639120
    },
    {
     "title": "Magusto - Agenda Barcelos",
@@ -1644,22 +1650,16 @@
     "ts": 1794632549
    },
    {
-    "title": "PJ deteve mulher suspeita de burlas superiores a 160 mil euros em Barcelos - dnoticias.pt",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0dVUlUzc2w1VTJjSHFvWHhPZEVwQVh5U1NYZnhRQmNidUVIUnVqTGdZQmRTQjdxTlQtazBqV2NHUGh2a3NqWTk5ZGI3ald2ZHVtakZhV2JLVDJHNzRSRkphdWl1T0NRcjZQUmdOalpKSXZ3d1ZuelRVQk44bXB6QUw3cG1KRmR3ckhQZkxEMUh1Zk5qTXhqM2tCRDdsZEI3WUYzTlMxdW82cUJsOU5sSm9SZXEyWGExLUE?oc=5",
-    "source": "dnoticias.pt",
-    "ts": 1794616680
+    "title": "PJ deteve mulher suspeita de burlas superiores a 160 mil euros em Barcelos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaGtTTWFPbldSdDhseFQtVG1ZTW9MTnR4VmxrQ1RsaXRZSUdHQV9kTWR6WnlXVEFtWW93Vmo3ekcxZVFhYmhsQk5ZWTMwMl9sa19EVEMwaFB0QXZtc1BqSWhjZEE3d084ZWU5Ulo0YUswZEdKNTd4Uk41a2hzaFozVkhhbHRJVDRINHhEMFNueTdrd3BEaXowaDNHMUt3VlY1d2p2MXpoNFZoSkcyZWN4OUxRYVN5Ul9iVjJiRmp0QQ?oc=5",
+    "source": "SAPO",
+    "ts": 1794613080
    },
    {
     "title": "Dívida de 12 milhões ‘rasga’ têxtil de Barcelos com dono canadiano que já vestiu o Benfica - ECO",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRndvdGpoWnZPYmxzbU1WMDJSNTlBUVNmX3VzQ0VsMlpZY0ZoTmp5UWV5NVpjV05WVXh5cTdaclJoLWp6T0kyN3o2YUtNQUZXNlR1blBxbW5UVzZfclVVUk9ZeWhWWEFoemYxMi1RYzVQWEQxblhhVUV2X2pMSE56TU1KUDJaeHF5SFBnNlVybTBzMmU2TWJ6ZmJiLW9DWVpqemRBVWJFc2E3cnFkTG5nX2FYYk5nQWM0NjhkNQ?oc=5",
     "source": "ECO",
     "ts": 1794598301
-   },
-   {
-    "title": "LIVRE Barcelos apresenta propostas à Câmara Municipal para o Orçamento e as Grandes Opções do Plano de 2027 - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTUMtYVVlaGlqamYzajVrRFZ3aTg1M3p2X056MGNsdmZXRlc5bWtieURENjNsN2o4b0F2TzdxNm9RTzBEU1JVWFNxME1iMnpFaEV1OU13TzdEbGtZNXE1emZPQzR0a25LZDA4NnRKX2Z5Q3BaYUhRTzBoczVlUFl3LTh2U0FrbHVmSms1cTZBVHJ0ZHFrVnc4MzNIcDZNTFY0bWZ2U0J1WUloeTB0UC1TZFNoeGRsZGVkWU05MnFQWnU3YU9UenQ0a3RNUkgzQQ?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1794587380
    },
    {
     "title": "Barcelos apresenta Mapa do Potencial Solar do concelho em conferência sobre descarbonização - SAPO",
@@ -1669,6 +1669,12 @@
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende premiou José Carlos Vasconcelos, que vinha de \"pasteleira\" escrever n'O Fangueiro - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOE16ZlhpWG1UQUh1UW5GS01QalhTdHJqWFVGcDgxeEh0OXRyZ1JxTEJKcjZSZkpNR3o2TnlmQUlPQ1Qtb2NXSjBSRV8zZjB6SU1pbjZjZW1TbS1DN0o0QnJVZHlKNHJndkY5ZE1nS1g2LWEtM1lGRmhYcFUtVE03MU1kMkdhWGI4U1lHRllFamxzM240elVxdElSYUZ5aE1CaTJLenY2c2pXN0UzY1Y3ZUxuV2o2OTl5SFVONWFoWnVxSmJnRGg0?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1794674545
+   },
    {
     "title": "Esposende: Imagens mostram violência do despiste em Forjães que cortou a EN103 hoje de madrugada",
     "link": "https://e24.pt/esposende-imagens-mostram-violencia-do-despiste-em-forjaes-que-cortou-a-en103-hoje-de-madrugada/",
@@ -1682,28 +1688,22 @@
     "ts": 1794641969
    },
    {
-    "title": "EN103 cortada em Esposende devido à queda de um poste - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQby12b0RYemNuSnFzQ1NhVWtMRWNYWG9xSlJJc0tickx2eVZFSWxUMlpJMjFKa3JEMzFpaG9TMzZvbl9SZzBMZmNNVW43UUI5TWxINFZtcTFjT1RoWEpoR09rWW1ucTBBOTZIbDBYNGZBLU5lcGdFdnFGS2ZKMDRvdEswRndVQ0xidFNvUnk0MkJTUE9mcFZKWmJwM1BhQQ?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1794639162
-   },
-   {
     "title": "Boletim Paroquial de Marinhas - SAPO",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNhYmZNaktMLU15OHJ2bXpjZ2labnpVYXprbDlFMnB3aDROS3dna2F6QlZJR0ltemx5UDUzVUhOb2xLZks0SmR6N1JSeUM5T0FDalVhVTNFOHo2aDBVQ3BXdTFuUm12aGtDT1dMcmJVZ1haem0tVG9fbWlZVzJSYjJmVQ?oc=5",
     "source": "SAPO",
     "ts": 1794637560
    },
    {
+    "title": "EN103 cortada em Esposende devido à queda de um poste - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWU5SFNDZ21CTGtveU96UWg2RjY1d3hyNFN4bTJSM3psNnNmMVhCQXRsREVHWWdCV2gtQUprTjg0WEdPXzhLdXQyZ3Mxb2VvckxveE5uYmJWcGhJS0prSzJERFBRU042dUlVa3Zrd2FBMFkxT2FBLTR3d2pCXzh2ejVqLVVoR2pmc3VJR09xRE40RWJJTU9PQVdreWJwS0hJ?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1794637080
+   },
+   {
     "title": "Esposende cria Estúdio de Digitalização no Arquivo Municipal - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaGR2ZFJyZFJ5NnVnQW0xb3BhNThiMlJDMm40ZmFwQU5zdDdsejV1U3hCSnNNa21yWEhsSV9XUmxWTDIxZjlieTNScWF5dldrbzlLR1g5S1BrSmh1Y1RuTkhxdVJJV0JxeHVFaDVXRVBEUXRVX2FidDYwVTJNT0VxUk9qZ2tMdVdlZEZPQ2NXNmVGVDBQRFlLRUQwdklyOGhYUldYag?oc=5",
     "source": "Correio do Minho",
     "ts": 1794601325
-   },
-   {
-    "title": "Campeonato Concelhio de Futebol de Esposende arranca com 800 atletas e 45 equipas - maissemanario",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQXVuTUlPVERyVzNKMENPclp2SlBENE9mVjhadlRidTZfeUk5eEwtNmg3cllzNzhKa0oydUlKMjhBUU9jNVQzelpMTlpkOHJITkhKQnJEM2szeEdRR3ViWGVBWk1yWXluME81Y3ZfNlJtOHZBaUowV3BIcGV1MXFqcWkxZjhOdFZxWm5FUklvdHFwMHBQdDg2QnJEQ3ZYbmFhNTdMa2ZmU1F5ZC1FeTJONW1VMFVNenBV?oc=5",
-    "source": "maissemanario",
-    "ts": 1794593085
    }
   ],
   "mundo": [
@@ -1711,31 +1711,31 @@
     "title": "Retomados voos nos EUA. TAP e ANA Aeroportos garantem toda a segurança - RTP",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3lrSjZ5OF81am9MMTBwUW5ROGFVU2M5U0pVN2tYVkpNOUZJaUp5a202d25xbG93SGc5SW9yRXdCOVdFVmswdjRlVU8ybFVPWkxVTGlhQzU3RXJNYnBDLXQ3eFRLUll1cVZmOUNDLW1pSU9ZY3lPQlNkMjJ3NkYyYTVmeXRiWG9uYm90MWsybXdQTWdMTmdtQmRGbGw3bV9BcXdNSmRlM01qRWZkMXZVQw?oc=5",
     "source": "RTP",
-    "ts": 1794651991
+    "ts": 1794662993
    },
    {
-    "title": "Europeus não com um, mas 7 representantes à mesa das negociaçoes com Putin - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUnhjaXdJZkc0QnA0Yi1vamlYV0YyNTRqTXE1ZkthM1FlcGNBX3VBNEE0MFJJMmlhelZ4WXA3Tkttc0tDMmJsLUQ0d3RwSEZkNGpKTkRUOWVYU0dDczdtaG1wSmd2U2d1Y2ZhTVRUODcyYk5nZTBtQlpUS0RGTk9pTDhYczktZzd2dDlzaUlZQ21JRkZFYnVueWMwSXRSVzU4d2QtV3NmU0NIcWJpVlpQeHNCMUVva1pPUnhDUmdBdFlHa2NoU3c?oc=5",
-    "source": "Expresso",
-    "ts": 1794610450
+    "title": "Notas enterradas na floresta: Hungria recupera mais de 17 milhões de euros após investigação a ministro de Orbán - Público",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZVNVUHM1ZzdvWTZLdG1GZW1sdERfMEpXTzNrSzRHVmFNd29ReFpwMVBsVl9xYmhtUmRfb0gyLXVpVHR2NHVxclVqc1JBQUVreUZGSS1uTFN3RkVEbEhoUGdjdnhqUEpObldJUkJrOFNPcUJGOVJlZzN3QkJDYllsdG53Rk80WWhiRVJjTDA4bnRUeERVNVJsWWZPNjNVMlpvVGNyenMzcWcwemxFdE8wenZUVFJWdG92ZlNGRHlyM0dTTFBQd3lQM0l6ek12NWJpNzdEdjZNZ1NlZGViUmVLYUJR?oc=5",
+    "source": "Público",
+    "ts": 1794662412
    },
    {
-    "title": "Papa à Igreja de Chiclayo: não há missão sem comunhão - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTM4NHhFZ3JfT3BEY0J1bngzVHBUN0FLdmNycThIQkZWanVZeFZGN1F2R215TGhWanpXTnp0enRlQzZFdHlUS2FEb21HS00xS2c2cTB4WklhTklITmNVRDB0S2M2amVESHRGU0NGalB0cVIzRlFuMzFjaDlrTGVRb0VTb0xMWkY4RW11aThjY29sUGF5VW5OWVRrYzBCU0xHaThwZkh4YlI?oc=5",
-    "source": "Vatican News",
-    "ts": 1794608748
+    "title": "EUA propõem cedência ucraniana do Donbass em troca de adesão à NATO - Público",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM1g4TzZjWFFZZU5qLVJ3TjNhbnVPak9rYzI4cVJIRTFJM3BCcVJrT0QtUkRjOHlLVHFfSGRWaXBnQUV2OTdYVVZ2ZzljNUtoanhMQ0xoQTV2TXVyRko5LUFMajA1MjBDOTRmdGFLbU9zOEpiMnpaaGFqNXJsdy1UTzVaTUZNS0I2QXBVUnRzRXpFLWhXYWpuR3ExNTItYjFlcWFFazhWenF1dGV0cFV4REh3?oc=5",
+    "source": "Público",
+    "ts": 1794660720
    },
    {
-    "title": "EUA. Petroleiro abalroa navio de cruzeiro com 129 pessoas no rio Mississippi (vídeo) - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPek9mQlQ1YnZjYnpxcGpfb2xrVnJrV0ZrVTBsTGp2UmVhZ2pGMW00SHVYczRyNGVlRGoydDFvZTVHS29IaEJDUzJIM2pZc1NyZGZyVjVmOVUtY0VQaHNxWjcwSVFycnA0NXFCaUhvZVdVYkRoRjc5dFhEbmhRandqcTFjcUphNWFVQkZTcnNDLWhSM2NhdkZidmsyYldEemx5WTZIX2RUcDdHR2JKYzQ3dg?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1794608569
+    "title": "«Milagre no Mississippi» após colisão de petroleiro com navio de cruzeiro - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNejdSWE5aSUlFMUN6U2gwaWdZYjRCTXhJY3EtRVhXeVc4eWN2Rk5RNmVKd3ZKWlkxZkpUUHJ3VVZtWmRqQ2NzcVFzQ19mTkFFZ0wxMDZ6T2ZTZTdYY2hNeDVDeTRjZk5WWGdmOXZMVm43RU1JcEhjLTVZRFdzUndKd2wyWkFpTzZlQVNYZzFaVEpOUjZPT2NwMnVzejVhVC00VjFDQllXejRxZFdDZ1hTd3hudUFhemphVW5zdkZn?oc=5",
+    "source": "A Bola",
+    "ts": 1794646140
    },
    {
-    "title": "Frigoríficos, televisões, aspiradores: “Qualquer dispositivo ligado a uma rede pode ser alvo de um ataque informático” - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc3lNNkt2bW5uT09kQjZjNy1zMWthM1Yya1JZT29tNUV4WXQxT3hOUnFmZnNWcUR4bVVXWmlzeElLN0o2QWprTVhUc2FNZkgtaHJOcVY4NF83VFBXWnVJVFVxTy1FWTdkOVJ5UU9ZVWJBcmJya2VEdnRNT1FLWmxVMGZvQVlNekhodmZkVmp2cHB3NV9yUVdMYTRHN3ZSUkVONU03dTY2RHVsV3EwbWxHcTFobU1sOC14TGl1LWNyNmVHbEhMRmhlaUlWTng0WDhjWWVpdjFrMkZnM3RkVEVfYTEwZVF6TkpFSUdfNENnYjNyUVc5UTd6eGJlR1d3amd4UDdMRQ?oc=5",
-    "source": "Expresso",
-    "ts": 1794601183
+    "title": "Extrema-direita ganha no arranque da campanha eleitoral em Espanha - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGhJNHh2eVZyUGZsb2xtTHR4MTFUeVVzTVRYeEt2Si1xdnFCaWVmRkI2cTd3NWNhcENCN1BpMTIyZUI3eG9YSU9tOFcyd09KOVFTeEN2RXAtZ0FjN2NEbzJ2LVR6d2xiY3dNWmItN0R1NGIyaTRYUGJxdzZMV1QyMmxlY3ZzUjBJajVfZHdlUzBYeG1ETXg1c0NlbTIyckd2Q1J4VG9PTdIBogFBVV95cUxQVVZSWnFYam9LNDZuRHI0SjVhU3BpR0FrS2FfeUFDcUplMjliNWhJdHVYbDcxVVNKdng5cDVCUmNJX2tWUzVjVXN2ZGVyRUs1OFdBT3ZZRUFEdDJfdG1Cekl3Y3ROUkRQVV96MDkwbkdjeGoyMkFORXM4TFE0akNDdG93VVdDNGFoa283a2pYWXZuUFVveGF0T2RfSFoyUUJPc1E?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794616200
    }
   ]
  }
