@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-14T00:00:09Z",
+ "atualizado_em": "2026-11-14T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-14T00:00:10Z",
+  "atualizado_em": "2026-11-14T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-14",
@@ -1471,10 +1471,22 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Detida em Barcelos por burlas superiores a 160 mil euros - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTWlMekJ6dXIxcnJZR0pfSjZWa3ZsWWs1UTVEc2VlRmxWcUlpaFFsSWwydWtiNWExUlVOeGNOTENvWDdoTzQ3S0VrRUcxam1zSHpEYTZ5OFE0LUp2WmFQOTZVYXBOX3d4MldudFlpTU9rYlg5dlQtUm5wTHhoYzRiZ2N1Zlh2SmtfdTNVT001QUhQX0dJOFlXbkE4ZUhwT0nSAZABQVVfeXFMUEtmNXYxNW9JejVSNC1lV3hhVkJPZmZGeVRicmJzSFRjZmhNLVFpWWpva24yelh3Z1ZhNW80WnlMMG1jZlRiV3VjbjdCdklHR1FjaWRial9qRFRkcVI0Ym1lLV9HS3QyZXFNMVh4UWJhSmY3RHJRaWw5TmM2YjlTc0l5WVFpTmcwVWQ4QUdjVTRZ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794599880
+    "title": "Despista-se e derruba poste: Estrada Barcelos-Viana cortada várias horas",
+    "link": "https://ominho.pt/despista-se-e-derruba-poste-estrada-barcelos-viana-cortada-varias-horas/",
+    "source": "O MINHO",
+    "ts": 1794642733
+   },
+   {
+    "title": "Magusto - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyd0hBRVlESThSM1ZRT3gzc3Uxek5hSldHcEhwOVp2Y1lNNG42SjVoRFFmRkp1TGRONG1qOHJOeXRqVEo1THhzV1RDUG1WWWVEMlJDV1QwWjU3UQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1794632549
+   },
+   {
+    "title": "PJ deteve mulher suspeita de burlas superiores a 160 mil euros em Barcelos - dnoticias.pt",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNS0dVUlUzc2w1VTJjSHFvWHhPZEVwQVh5U1NYZnhRQmNidUVIUnVqTGdZQmRTQjdxTlQtazBqV2NHUGh2a3NqWTk5ZGI3ald2ZHVtakZhV2JLVDJHNzRSRkphdWl1T0NRcjZQUmdOalpKSXZ3d1ZuelRVQk44bXB6QUw3cG1KRmR3ckhQZkxEMUh1Zk5qTXhqM2tCRDdsZEI3WUYzTlMxdW82cUJsOU5sSm9SZXEyWGExLUE?oc=5",
+    "source": "dnoticias.pt",
+    "ts": 1794616680
    },
    {
     "title": "Dívida de 12 milhões ‘rasga’ têxtil de Barcelos com dono canadiano que já vestiu o Benfica - ECO",
@@ -1489,25 +1501,25 @@
     "ts": 1794587380
    },
    {
-    "title": "Burlona comprou carros com documentos falsos em Barcelos - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM3JndzcxcWQwWDZvOHRnZWVweFJud3JNRkIyNUhFVWczTlhHVHdpUlo2cjk4VkZ1Z3l1SU83Ynl0dHRwY3IwVlp2QWdxQTZ2T1JtZ2hJcFJnT3BobW1ZTEZPdFVaSC1uNUlYdmxJNzY0NUVETkZQc3VNaUlrOEUtMG1IMVRTWlQybHdCNWY5UXI0ZXpnTllYZk45akpFUQ?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1794567825
-   },
-   {
     "title": "Barcelos apresenta Mapa do Potencial Solar do concelho em conferência sobre descarbonização - SAPO",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYzd5Q2pXNHFySjdqdTF4NGVlQ09SLUJqOFZuWWdCc3B5OXduNEFlTnBuelFGN3UwYlFHaXQ4VEpHMU1IaVh0SXlsVDZVcDlaZ05uYUVrblZ5MmFhLXg1anRVS2tBczNhT1VFOWRpOHBlZjNWN2lrLVd0cG1INjhJZF9zRzFwdVhRTGxuTVVSNUNrbHpiUjl3bkVMTmRndnJ4MWZWMzhncVlYZFA4dVNBdHdIaw?oc=5",
     "source": "SAPO",
     "ts": 1794566329
-   },
-   {
-    "title": "“Desculpem a demora. Muitos carros na rua”: o teatro em que as crianças fazem política climática - Público",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOdWJsT1FwMGdSU2JQV291UEl5MWRNaVpsNi04ZnRTUmVnSWhXemg2YnNLaU85T0l6TWlvNFNOMGM1cWR2MjlpcTRQMzBzV184SVJUMllPRkVQTWpWSG1uUDNNWWNqT2ZJak9KRlZsb3VqUGtkdmhRUmlWRUJIUGtKbzVvWjlEUE44dHJkZXZmdlI5eGRhblRfbGdlT1ZKMlFaUmZsN3VxWXNZVWl2T0xCM1Nqc3QtMDNtamRvczhkVjB2MExB?oc=5",
-    "source": "Público",
-    "ts": 1794555420
    }
   ],
   "esposende": [
+   {
+    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2OXBRaEYwSXp6ZFRMdjMxb01SLWFZdG52WjEtSVp3dm1yRWtGbHM5UFhGTU9RVG8zX2FIQjBLdEhtVE1HQ0wzSHU1d09aQXFlZ3laZGgySG9CTWtKbU12TTVTNWNMcXZ1X054eGZRWjlHeTFiR2tHZWhnSEZ3bUk?oc=5",
+    "source": "TV Esposende",
+    "ts": 1794641969
+   },
+   {
+    "title": "EN103 cortada em Esposende devido à queda de um poste - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQby12b0RYemNuSnFzQ1NhVWtMRWNYWG9xSlJJc0tickx2eVZFSWxUMlpJMjFKa3JEMzFpaG9TMzZvbl9SZzBMZmNNVW43UUI5TWxINFZtcTFjT1RoWEpoR09rWW1ucTBBOTZIbDBYNGZBLU5lcGdFdnFGS2ZKMDRvdEswRndVQ0xidFNvUnk0MkJTUE9mcFZKWmJwM1BhQQ?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1794639162
+   },
    {
     "title": "Esposende cria Estúdio de Digitalização no Arquivo Municipal - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMUhNbHVSbFVTZHF5LXRmTm13cHNKYkJXTlhwQlFUdWZPMEhmaFhpNWYxQ25Ib2ZyTlJCYVd4enhFbDVsUXFVT09raVd2NVY2UEloaU84ZmI2ejYyTWQzdVNrYzdrMWlUd3JtOXNYZ3BCaUkzSGN4ZVBHQ0hpcjZNNnE5RkhkbERxLWtSbmExZGZmMGNuSU1HdFFnVnFrOFFnLTU3RmlRYjdydw?oc=5",
@@ -1531,50 +1543,38 @@
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHpYWTZGRDhIczB1MmtPM3hUOEpYYzdMT1FLYVhkc1ZJR2U5SERjMFJqWG02N1BmS1VTOXJsX0pQN3g4NVZXUUhBR1U2NHlaNnh3OXpKaG1ob0Qtb05XTkFVLVlCNDZ3Q0tHRU1oejF2VUplRkRDOUs0Nmd4Z0R1ZlZhbw?oc=5",
     "source": "TV Esposende",
     "ts": 1794590963
-   },
-   {
-    "title": "PCP pede ao Governo que divulgue estudos sobre a PPP do novo Hospital de Barcelos-Esposende",
-    "link": "https://e24.pt/novo-hospital-barcelos-esposende-pcp-pede-estudos-ppp/",
-    "source": "E24",
-    "ts": 1794525952
-   },
-   {
-    "title": "Reunião da Câmara Municipal de Esposende - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MQmxxZHBtdDlEMlVyUGhKTEdHc1lta0xrcXNkY19IcXI3YkZBbkYwS3loNllfWEEzM2pKd0RPWC01RTdLOXhfOXdIengzVWFqbnhnVVhnTGpxTVVPaWVjakNzbEJ3LTlFazQ1ZUZTbHREd1BFRnhpa1hrbjk?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794521446
    }
   ],
   "mundo": [
    {
-    "title": "Petroleiro colide com navio de cruzeiro nos Estados Unidos da América - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQVM5RVFIdUZpOFlqbG9ZN0N4WVpiWUZaQ2xVOXVYbWh1X19FQ29TakprdWZvVDJ2STRscU85UUZ0NlFpOGQ1UWFwZlN2cHdzTW5WNGFSZC1CMmVVQ21vVVIybGMzMmw2YnRyOWsxUG10ZW1GSllyZ1JnZkx1OHlWZnVFcjBjejRrOEtGbUlBTmxUS0lFLWFWbDR4MVp0S29LWU1tRVdJa0FBZGRhYjMzZkktUFk5X29tYTI2dkphZw?oc=5",
+    "title": "O que estará na origem da falha que parou os aeroportos nos EUA? Autoridades investigam hipótese - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOajF5VkFUU1ptZ3Q4U3gtLW9PcmdCbWZ2bEtLTGRpckdNMnJweFRCM1dLOGptbTluVkFUV0REREZrdVVRUzN0NkZ2TFQ1ZHhvbVdLbG9IMXQ0c0JNSWhYTTFRSzZzeUdLSFZ6RWI1a0ptb0xERjRhRlJNT09WWnJ6b1VneGpUWDMxOU1scXE2ekZxTkFMMjcxdXVSV3hZVDBYaGQxUE9uRGdpc2Q4NlBhNDczZGFzWXV2Ymg2ZUhrVGhxY0lRVldqbFpaTGlOekVXRDduUjZ0dnlkdlUyY1NqWkZlRQ?oc=5",
     "source": "SIC Notícias",
-    "ts": 1794604436
+    "ts": 1794618428
    },
    {
-    "title": "EUA suspendem voos nacionais em todos os aeroportos devido a problema nas \"comunicações\" - Observador",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORmhEWDM1WGdPdWFZaTdEWjBfNkE2VGl0R2Y2U0NYcTZsdTJJNFFKQklfd183WlZkUzFlR2IxaTBpVEd0cmFCTXFWMlVEZ1RVSXM2WEdITTdzT1c0V0dTUm01bWhsZUtIWFN4SW1jTjNHSzRyM2NiVjdjOXBCdDJUam43VUFFRFpJZHFYZjBRYzRrTVpjTFI1RGhUcXgtQjFM?oc=5",
-    "source": "Observador",
-    "ts": 1794600540
+    "title": "Europeus não com um, mas 7 representantes à mesa das negociaçoes com Putin - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUnhjaXdJZkc0QnA0Yi1vamlYV0YyNTRqTXE1ZkthM1FlcGNBX3VBNEE0MFJJMmlhelZ4WXA3Tkttc0tDMmJsLUQ0d3RwSEZkNGpKTkRUOWVYU0dDczdtaG1wSmd2U2d1Y2ZhTVRUODcyYk5nZTBtQlpUS0RGTk9pTDhYczktZzd2dDlzaUlZQ21JRkZFYnVueWMwSXRSVzU4d2QtV3NmU0NIcWJpVlpQeHNCMUVva1pPUnhDUmdBdFlHa2NoU3c?oc=5",
+    "source": "Expresso",
+    "ts": 1794610450
    },
    {
-    "title": "Líderes da UE incluem Itália e Polónia na equipa de negociações de paz na Ucrânia, Kallas sem lugar - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcXFOZUVNc0QyUlJrT2pSOVVLQUNpc0lmQ0FDUy1aTUZxWFRIblhBdVppSHJiVUtHTHRWZU1xN09zRHNmRlR2WGEtR3lXTEp0ZGlMZnBaY0lMaDZjSFNHMDFCeXg5Rm1qTHVfSXYzOExRUVFpb1Y1ZWliYTcydDZhQ2N6akYxcTVHbnBFSjV6RVRBYUtJWC1JTDdFYlluTFphX09BdV9xU0UxeFkzUHFOWmhRbzRscVFHS1Q0cTZxdTJ2bWs?oc=5",
-    "source": "Euronews.com",
-    "ts": 1794596727
+    "title": "Colisão entre navios provoca naufrágio de cruzeiro com 130 pessoas a bordo - JM Madeira",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVEp3d3NaUEtiUVhWbExQakp3V3dmX1RJckJXcVVHZDREMzhnT0tKNFZuYlBZNTVQYmU0Y0VlZ1B6WkwyXzlQOVRhbzdNN1VPNW5lX0d3RGhXLWh5ZnNZME96UjE1NzNIOVVGVVdsYmFIbkpxbEpHemkyZ3Y2cW50d0N3OENRanNnZm5UVHZBeTVKa09jZHNGeURuZmJFbkQ1ZDJmdDFQN1h0VUJQSTBhaGR6N2o4OERiLWFJVkgwdDR0WVllX3ctbHlkWjNfeHM?oc=5",
+    "source": "JM Madeira",
+    "ts": 1794605466
    },
    {
-    "title": "A previsão falhou. O mundo não acabou a 13 de Novembro de 2026 - Público",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaGo3dFB2akNrNlBYaHRuZmt0NEM3MG5DckNTX2d3Tlk2M2VtTWYwQ0o1bjZBMkpVWVVNa19tWWlaelVDVXJSRUhNNms1cXVocTQ5OVZCYi16MUJ2eGxDNXh6NEJ2SjIzZkl4TzFYTV84ZkVoYTJFU2FjdWhkd0o2azBvRDZPS1RKU0hBZXZpMzFsT2QyTjh5cWFheUZUa3NEVF9GSkNQUTJEODg?oc=5",
-    "source": "Público",
-    "ts": 1794588870
+    "title": "Frigoríficos, televisões, aspiradores: “Qualquer dispositivo ligado a uma rede pode ser alvo de um ataque informático” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc3lNNkt2bW5uT09kQjZjNy1zMWthM1Yya1JZT29tNUV4WXQxT3hOUnFmZnNWcUR4bVVXWmlzeElLN0o2QWprTVhUc2FNZkgtaHJOcVY4NF83VFBXWnVJVFVxTy1FWTdkOVJ5UU9ZVWJBcmJya2VEdnRNT1FLWmxVMGZvQVlNekhodmZkVmp2cHB3NV9yUVdMYTRHN3ZSUkVONU03dTY2RHVsV3EwbWxHcTFobU1sOC14TGl1LWNyNmVHbEhMRmhlaUlWTng0WDhjWWVpdjFrMkZnM3RkVEVfYTEwZVF6TkpFSUdfNENnYjNyUVc5UTd6eGJlR1d3amd4UDdMRQ?oc=5",
+    "source": "Expresso",
+    "ts": 1794601183
    },
    {
-    "title": "Donald Trump afasta JD Vance das negociações de paz e diz que Washington não precisa de \"um acordo com o Irão\" - Observador",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRkVfc0xZVHNkOW1oVThuaTgwM2VCYTV2amd2RWk2WWUxa1p4VDFIT21rVjNBY1M2Q2FyTGI0ci1JWlJwd1lFZXF2bmYwTm9EVnBIMldTWi1ySkVpX0tfX3c4WlVVbE05bmdiYVVyT0ljVWFTZmNIVEw0UVFNcERkcXpjblNVQmYwN3Job2U1Q3pGQ0oxbkpsc1F2TzdRaWk1TUR2UGp5LVpBOTRsV2hGdzFzMEU0SDlaYUFfZHN2alRlbjh0VVU2SFl4c19lR2w5SGU2RUJPcjZzUQ?oc=5",
-    "source": "Observador",
-    "ts": 1794575460
+    "title": "Papa: \"Que alegria voltar a Chiclayo!\". A tarefa do anúncio é crucial - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcFFVVDF6cndpZmxkVE9aSlhIWHJTRGlZdnprMzFpSVJYZHVmY05fbVpkUHV2c1FpOXpwSmhMZmM3Vlp4QzBpUWdqbEQzQ1pFQmNZSDhpRHoxS1JKaEpSVmlwUWZfTVRqZEVMV0tPNUM5Rl9IRnlWSjF0RHVvcjZlOENfY0lkM3NjX2Y2Q2I0eFRlcXZSYzh3UXZtbEZXeHluVmxHVGcteGJ0enpac1Y2ckExNW8?oc=5",
+    "source": "Vatican News",
+    "ts": 1794589561
    }
   ]
  }
