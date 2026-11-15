@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-15T12:00:02Z",
+ "atualizado_em": "2026-11-15T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-15T12:00:03Z",
+  "atualizado_em": "2026-11-15T18:00:09Z",
   "dias": [
    {
     "data": "2026-11-15",
@@ -1694,10 +1694,10 @@
     "ts": 1794664144
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2OXBRaEYwSXp6ZFRMdjMxb01SLWFZdG52WjEtSVp3dm1yRWtGbHM5UFhGTU9RVG8zX2FIQjBLdEhtVE1HQ0wzSHU1d09aQXFlZ3laZGgySG9CTWtKbU12TTVTNWNMcXZ1X054eGZRWjlHeTFiR2tHZWhnSEZ3bUk?oc=5",
+    "title": "Boletim Unidade Pastoral de Alvelos, Carvalhal, Gueral e Barcelinhos - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHVTRFVOV05mdnNVYUN2Rlp5T2Zwd0NqY3M5dUllQ2gwdE1rY3Blc1Q4YmJLSUNqN1BFSFEzajNVTmNmdEJpWGxjZTYxVUlGZDhjUm9COWtmM202Ykc1UmJRNDdhVmRZZWRvNXFESXJBdVg2cEhKcGFWZTBZaGUyQUd5dkc5UjFBNlhlcGRuMEt2dVpBTktIUC1uYko3QlU?oc=5",
     "source": "TV Esposende",
-    "ts": 1794641969
+    "ts": 1794641158
    },
    {
     "title": "Boletim Paroquial de Marinhas - SAPO",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Dois aviões colidem na pista do aeroporto internacional de Miami - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPb1A2d0NiRUo3cWI3NUwxa1RRTnh4SkJSNEtoR29LZnFHNHhVTVZNcnF3XzhXZjAyczZFcWdEYkdLVGxLWjRhYVNWbHhabjlPcVdBM3VyYUJmSmpvcm1iTmFacVFYSEpoVFp5WFo0S1ZuQzdJdVNGLTQtWV9QS1RUU20tcWZReHNTc0I5Y0QyaG84TlkxUlVxR3E0UG94c1B3UXV3bk1nZXNFbWc?oc=5",
-    "source": "RTP",
-    "ts": 1794737135
+    "title": "Impressionante: SpaceX faz história ao capturar nave na torre de lançamento (vídeo) - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmRZWTNKVVpoTkhNMDBFdlZaZUdmeTlCRERURFZVNTUtc3d3QTBNc3ZERFRaTHVYM2NvWEF3ZE1FNFJnMEFBbkw5MlR6TnhUcFpXVDVCV09heFVicDIxd2JBSi1xZHozajRHR2dnN09lUzJ1eEt6VGtWeEVjY1lmTDk4cUY5NEVjc2YybjNhUk13aThPNmRRVDFRRHdHWE0tblJ5RTlmOThRQlBJa1NUQ21ZX1RKTTRiSURCZktvZ2ljeGtoRGZwMWpB?oc=5",
+    "source": "A Bola",
+    "ts": 1794745860
+   },
+   {
+    "title": "Troca de cabo de cobre por fibra terá estado na origem de falha: este domingo ainda há mais de mil voos cancelados - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTnRvaEZTOEJsdXBvMDNUUEFFVmVZVXdNYVdQZ0c0a0JoV25XWXZxaTJacHlNQ2hRaXZkRHpIZFhJeEROUWtCNzA0UnlxLXZIYWxNT1ZVSU9LV3dSVS1JYW1kUUoteDNWUUtRWWNNUTNSYUF3VlJkZHVFM3Jaa3R6NEhaeW8wVzJMU0lEUmlVbGtiVG1aN2JIUjdoa2dkQVBHUkxncmtSaGhmUl9WaFVuT19jVEVYd19xZnVKRWlQRjhEaFFEWHNKeXlaVU9lc0J1a1Y4bXBuN0ZpZjloYjFGQ2hMVGF1YWtqNVVfNTRhNWltNUtjV21wTlAycw?oc=5",
+    "source": "Expresso",
+    "ts": 1794741310
+   },
+   {
+    "title": "UE interceta petroleiro suspeito de pertencer à frota fantasma russa - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVkk5VHFGcXZvdFR6c3pOYnQ5VTRPMHhOLTQ2WnJJbkg3dmpFMTN0aUZqYWxsVWR2MWtMYUYzVThIa0lNZVZwckFNbUV6c2dPZF94amU0Tkw4bmg4RFp3cHAzbnU2bEFuazN6dkVlTFFmV29KUjRaUkZNc1VoWTlmdlk1UHVSM3Z2SW5ldUl2aC13bENVYTJRZnBWajJQa252VDJlN00yT2l4d18wRkZVczJaWkVJbE0?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1794741060
+   },
+   {
+    "title": "Dois aviões colidem na pista do aeroporto internacional de Miami - Público",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbGxHN0FUSXRrY080eWM4UnlVNVNfam8xTUh0MHpKcmVKX1JqbFRiaGJvZTlJMmMtNjh2ZmJKOUZJbDUyODcwWHdZcXhUNkc5WGZKSldKbHJ5bDRhcGd2ci13Q05NbmhQaUlsQ1hYWVdYTHZ5N2ZQTElLVWZSdkNnczlDUkRYWjQwZGp4NDlETUl3M2V2NElTblJ4NWxGQUhyb3ZOLVlIZkNTXzgzT3RpcA?oc=5",
+    "source": "Público",
+    "ts": 1794737217
    },
    {
     "title": "PSOE estagnado enquanto PP e Vox mantêm 51% das intenções de voto. Lula cancela comício com Sánchez - Expresso",
     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOT3Z4QW9VamdRSHJ0X25BX3dHSkRHRGZKb084cEY5NWd4T21KQ3E2d3lIdjJrdkt0SjNjNDYtbExPcjQ4RkxCaWhPRlRSM05PYTBaUWY3clRWWkE4SHZTeGJ1MVlldjVXLTh3LXV2ZExwSVd1dFJIUHluMnNzYnh0ZGNrN2JSYkt3OGlVcktNWUhIRDFERzEtUU9CcGNscG9VRjZHS3ZJNWdPM214eWZzVTNudno4U2dIQUIxdWhiMXN3RUxEU1ZGY1lkZ05WcEp2NHZ6RkZxTW1rS3pVRzlJ?oc=5",
     "source": "Expresso",
     "ts": 1794736637
-   },
-   {
-    "title": "Milagre no Mississippi: Mais de 130 pessoas resgatadas após colisão entre navios - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMTFPaWlOZkZZYWhnX1MwTU1tQ01rT29INWFVaVhRRnNBZzNpUDhVc3FrUWlieGtBMzk1X0hzcVNDNkFkZzJXMmF4QUQyNC1lSWJqYlFybno1YUdUNlY5WnR3d3hDVjNsQ1RfdHZPZHlqbTJlVnpGOHJYWG0xcmtNUkEtdzlhVFozOGc2a1Rscm5MeXBjdVdFdzBFazdIdmhMYVIzdHpIeWtSSXEyQzdQQ1l5MVZWczVV0gGzAUFVX3lxTE5lcUNxY0dNQkZ1YmZkZFNHX3FIZW9KXzA1SzJWaU9GOFVDaWh6ZHdRYTNGMkV4Rzh1bFhVT1hEWUlwaWZGbndSSzh3bXliMUFEbWZVQ3JnM01OcVlfMlZJSmJtdEgyZnpBMzhLZUtPTS01VEZLMWc0U205ejhwWFJ6bC1lc3lZY1QxNkdjYXFUanNJam9GSlcxd2VRNmtHdkdPUU1PXzBmRkNPSWt3U2lUYkFB?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794702600
-   },
-   {
-    "title": "Papa: vocês são resposta de Deus à minha oração. Continuem rezando por mim - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZDBER0RaUHk1Tmg4WHFidVIyakQyYzdnMzF6Sk5zWDJzQ2l5a0QyNEczaEFnTEdKM0s0VTNXWnBtMENLRGozVV94WWVWZG9VNXlCRV9sYWhabVR6aU90S3NYWXJjSGtHcUQ0MUY2U2V0NVBhQ1FRNXJhRFBIZXlMQVhmbDI3U2lyYjY5aXNnTWdBaDhFRnZjZTI1Sjh0NWF3QVVaOTFLak5NQmpBTkVnTDVWQQ?oc=5",
-    "source": "Vatican News",
-    "ts": 1794700369
-   },
-   {
-    "title": "SpaceX atinge \"Santo Graal dos voos espaciais\" ao recuperar nave com os braços da torre de lançamento pela primeira vez - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxORWlhZzVhZ2hQeko0NjJ3Vzd0ZHRaYTYySWFEdG9GZjlZZm82TlExZEpzSUotaVdvamc4MEdRTU9vbVpmZXRpdThfOGh4amlqQXVxUXZMZHM5VldxZTNRek1RazFFWExFTkZQOUhnR3p4WVR5TWlYSjZkcXhZNUsxQ3dVRU5uSUktUThlbnFjdXdUbmNEck1YSWN4ZnJsZmZMa1BIQWlrWHJvMVducGJyblA0M0VEYkZJSjV3S1pFVmRoWFZrdWh4R2ZkU0N4bnY1ek5ENWZjT2JWOHZZWkNBQW9DVktlZVBNLVlvNmhWb0dzRTA?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1794694770
    }
   ]
  }
