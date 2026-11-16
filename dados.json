@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-16T00:00:02Z",
+ "atualizado_em": "2026-11-16T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-16T00:00:03Z",
+  "atualizado_em": "2026-11-16T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-16",
@@ -1471,16 +1471,16 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Paulo Lima renuncia à presidência da Junta de Aldreu",
-    "link": "https://e24.pt/paulo-lima-renuncia-junta-aldreu-barcelos/",
-    "source": "E24",
-    "ts": 1794781327
-   },
-   {
     "title": "Bloco de Esquerda de Barcelos apresenta propostas prioritárias para o Orçamento Municipal de 2027 - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkswcllCbkZwdFpraHF0QlVCRkFRLS0ycFFuYU1LeVJEZHNKamx6R3cxM052ZFdyZkNRY3VEYTJGeXpia19hSUwzWmhScHE2UmZPSVlRMmdQZHY2Z0NJTG1uSEo2V1JST20ySHR6RzBFR2VycUpWcG5JSTRKVW5yZWdlR0Izd1k1X2VOM3ZhVFR2OVlZT0ptZHVaVVZKbFowZEswWno0QUZjYVZ3b0dvTTh0YkhScHZYTVVfbTdFTzQ?oc=5",
     "source": "| Radio Barcelos",
-    "ts": 1794773236
+    "ts": 1794787645
+   },
+   {
+    "title": "Barcelos: Paulo Lima renuncia à presidência da Junta de Aldreu - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92OTdaWnpQaWw0d3NfdHlnRGFyaEhiQXdjc044TmVvZlA5OFNvOFlSU3hreTRPdlcxdGhVdVFKeElDOXF5Z092bGVBdVhac0JVc0dJTzRxelNiQVZtcnRfUndidTE2d1Zv?oc=5",
+    "source": "e24.pt",
+    "ts": 1794782015
    },
    {
     "title": "PJ Detém Mulher Suspeita De Burlas Superiores A 160 Mil Euros Em Barcelos — DD — Post (feed, Fundo Branco) - Diário do Distrito",
@@ -1524,7 +1524,13 @@
     "title": "EN103 reaberta ao trânsito em Esposende - Correio do Minho",
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWI5ckpQbnZpNHJYZ1FZUExfejdxaUJfcW8wSmRaaGFPTlB1LUh1aGJDaVF1dWZkd0NHTlNkMFNGdm1uQ2dmVWotcFNMRDVhVHNaWnNiQTZkd2Zaa0JzWGxtSG8ydWlxWHo5QURNY0NfY1FuMVIwZGdOa2QzUWtfY1hxUUJYNG9n?oc=5",
     "source": "Correio do Minho",
-    "ts": 1794666628
+    "ts": 1794663000
+   },
+   {
+    "title": "Esposende: Imagens mostram violência do despiste em Forjães que cortou a EN103 hoje de madrugada",
+    "link": "https://e24.pt/esposende-imagens-mostram-violencia-do-despiste-em-forjaes-que-cortou-a-en103-hoje-de-madrugada/",
+    "source": "E24",
+    "ts": 1794652163
    },
    {
     "title": "Boletim Unidade Pastoral de Alvelos, Carvalhal, Gueral e Barcelinhos - TV Esposende",
@@ -1533,24 +1539,30 @@
     "ts": 1794641158
    },
    {
-    "title": "Boletim Paroquial de Marinhas - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMFNhYmZNaktMLU15OHJ2bXpjZ2labnpVYXprbDlFMnB3aDROS3dna2F6QlZJR0ltemx5UDUzVUhOb2xLZks0SmR6N1JSeUM5T0FDalVhVTNFOHo2aDBVQ3BXdTFuUm12aGtDT1dMcmJVZ1haem0tVG9fbWlZVzJSYjJmVQ?oc=5",
-    "source": "SAPO",
-    "ts": 1794637560
-   },
-   {
-    "title": "ESPOSENDE TERRA A TERRA – EM BREVE NA TV ESPOSENDE! - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSHpYWTZGRDhIczB1MmtPM3hUOEpYYzdMT1FLYVhkc1ZJR2U5SERjMFJqWG02N1BmS1VTOXJsX0pQN3g4NVZXUUhBR1U2NHlaNnh3OXpKaG1ob0Qtb05XTkFVLVlCNDZ3Q0tHRU1oejF2VUplRkRDOUs0Nmd4Z0R1ZlZhbw?oc=5",
+    "title": "Município de Esposende atribui apoio de 24,6 mil euros à Junta de Freguesia de Fão - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNlVsR3d1dUY0a2JsenpHdFUyVDF5UTIwekFJQ05sVTVhcDBCTXVtYXE1c25nUUF4emlTcXhadXVjZjFKYVViZ05XY3ZtanNmVl9JbVRwRWVIdUdsUDFuTUxGSXJ4eFozR0VQVW9XSVZjZjloUFF1S3kwRVJHSUVLYmR6Z2JiMHRkWHVGekdTQi1CZi1XUTRUcExmUlBoTGt4WkVkMmNYSFNPYVIyZUpN?oc=5",
     "source": "TV Esposende",
-    "ts": 1794590963
+    "ts": 1794585822
    }
   ],
   "mundo": [
+   {
+    "title": "Pelo menos 11 mortos em incêndio num prédio na ilha turística de Phuket na Tailândia - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWQzekxkdTBmY0sxVlJJVmI3Q3VySUFXWHVfbGhUcHgxenNtVXZkM0ZPZlZ0UURuWTByUGxlMmZoOHdpNWNtaWljaWdQSUx1dU9sdGRsT0QzZXdyUFFCQTJkOXpNQkhOQkpySXhLR3N1d0NhTW41QlpkaFd2cjlPeENNTm5nY2p5QW04dUlJclVQeC1LTlJ1eEwzVzZJTTZXTjE0TnZ6bzBaN2dpemxzWDhhU1k4Njdid1FBLS16SdIBugFBVV95cUxOdWNHOEoyRmNfRUV5Q05RMVhKSzZHREhZc01udm5jNjB1cGEyTjlocTI5c1phRk1tSXZpODI3R2lHcHhfS3ptakNZRURjYTJTN29lakc3bXM1eFgwYWljMi13QkwydTluamUzZ0VySGs4djNSWmxqOWlwd3ZENDFsSE9yS0FNeTg5V3gteWlkaWI3YU1ZVGNlVzZsZW90Sk04aUthMW1wZ0tjZk5TUUF3SUtwd1FvSlZ6WXc?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1794806400
+   },
    {
     "title": "Estónia vai fechar fronteira com a Rússia após nova tentativa de sabotagem - RTP",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQkNWRGNXTzVqVFItTmN2dElkTlgzaUh0RVE1N2lLemFyU2pvbWRDZDB4R05sOHFLbEhrZVpzTjZQWHVub0JITkVEYTFpSHhPVjFYWWZ2NmxkZjZCTEpOWkZSeVJ5bUZ4b0UwS1RkdTJDVk02VFNUVlNZN3RhN1FrVFFvV0U4cjVUWG5icUZEY1pDOFVUVTBZQWZLZ2R4VjQwcHQtQzg0My1FT2M0NGdTWTBKcjM1djRf?oc=5",
     "source": "RTP",
     "ts": 1794770340
+   },
+   {
+    "title": "Centenas de milhares de checos nas ruas para defender a liberdade dos média - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQU0tEQVNodTNYaVUtZl91RkNuX3NGVXc5RXJoODlRQ05HX2NHSlFiZXU4Zk5HbGdTMTdKSWlyeUNkLWJRdG9GbkhkRFFNTzNrUFpzNEpBSzB1MGo0UXNsNy1XR29ISkJkYnI3Z3BVM1BBblZ4OTNQMHdHRG92Ump2SlgyRTRlLXFIN19tY085SmVnVFk5UUx4emZkR283emMyWWp0cW5mbHVQbWxpeC1GX2FVT3g4OThuczZ6d1hn0gGyAUFVX3lxTE5VblUxZk9nM2dTb01qaXFuVUszWkk0RXVCYUsxOXpiS2luVkFVbHA2VnVPaUQxVFV5WHNsZmJUSmdPbDNocVN1R19UNkxDb3hpWXptSE5uR3R4YjlJRzJjZ2N4WGpUa29mb3FWczItVnFjQnZPcTBxOVR3UUVzejUtbm1zdUEwSGFYVWpRb3ZJcnlQcjdhb2ZtM1F2MkZjU3RhdFVMRmlULUNqM3ZMUkFvZHc?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1794768720
    },
    {
     "title": "Dois petroleiros afundam-se no estreito de Ormuz após colisão com minas navais - SAPO",
@@ -1559,22 +1571,10 @@
     "ts": 1794766200
    },
    {
-    "title": "Novos ataques iranianos mostram limite da estratégia de Trump - Público",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa29XLThrMWhkYzNpay1vVGt6cDBiMjhteTFsVGdEblpQcXJhWEJGVDZrZ0oyLVdXQmRiYlVicmhLOXNnUFkxb0pKblpjZWdqc21zZEpZVDRSWnZFekk3d0YyZG1VbjlydVE4T3l4ZzE0bTdWWHE1dWxYNjVHY3lwdlhvVUsyalZUWm14NXI0TE9qWDAwVHYtLTlwVjFmRWYtcUhfWE4tR2M2anBnTkpNNQ?oc=5",
-    "source": "Público",
-    "ts": 1794760209
-   },
-   {
-    "title": "Mais de dois mil migrantes chegam às Canárias de barco nos últimos dois dias - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQUh4bjlWX1BpYlVZelBGNGMtajlwc0tGV1lENm1ETm8zTkt0blRvN2ZBUVlrbE1oRzN6ck1NQkJYZDNBaVEtTVJYMTRVam41X2g2N2YyQ1I0UGVVZ0NhUHRzZEZmdnlhVE85ZXRkTmZpanFKRDlBNWd1OW5oM1ZHblZ6bHlCOEUwZ3Vqb2ZCMlktQUE3QWVUN0o3WUpJeTBMemhkYUU0MXVIT0RiZWFNbHpUaVbSAa8BQVVfeXFMUHUxNERWME1WcnZzZXoyM1pTZWE0RjJsaXRBbWtLUHpXWGlCazBiWTdqd0dzSWNpY0g4SHE4cURCZXdWOWtLNlZUQkVVZmRranl1MnhkNVlEX2hfVHlSRzFvTzNaMGN4ejI2ZTNmdlFzaUVrY2lmcFRqUGxOa3ZkU2NIYVhHOGZiR1E5Z1VDZ0gyYVdVUXU3SUJkMlVia3p3TE5UYzBvaEw1a000RDRoTQ?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794747180
-   },
-   {
-    "title": "Impressionante: SpaceX faz história ao capturar nave na torre de lançamento (vídeo) - A Bola",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZmRZWTNKVVpoTkhNMDBFdlZaZUdmeTlCRERURFZVNTUtc3d3QTBNc3ZERFRaTHVYM2NvWEF3ZE1FNFJnMEFBbkw5MlR6TnhUcFpXVDVCV09heFVicDIxd2JBSi1xZHozajRHR2dnN09lUzJ1eEt6VGtWeEVjY1lmTDk4cUY5NEVjc2YybjNhUk13aThPNmRRVDFRRHdHWE0tblJ5RTlmOThRQlBJa1NUQ21ZX1RKTTRiSURCZktvZ2ljeGtoRGZwMWpB?oc=5",
-    "source": "A Bola",
-    "ts": 1794745860
+    "title": "Um único 'router' no Arkansas paralisou o espaço aéreo dos EUA e expôs a fragilidade de uma rede em transição - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUTdPbkhLNl9YSGpobHhMZHJHX0Nuc19PQU5jcldWcDZ6T3NqYXl4UkxlYnN4Vk4yVzY5Uk5xWjgxMmhvbWY1QnZlRUtEMElkV2phZjJySlFSS3dTLTZJNmE0bWk5bE40Z3JjZVFxZVMwUjdFVjBwQ2hPSWpHTDdsbV9iS3Awcl85bVF0TTdGUFZlZmpVYmdhcHhOM2dhRU4wU1dVU09Obk1ZdklnejBKdXYxNHA3NEdDUGd3c3ZqWE9TLUpRVndtQXVMV2dqdw?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794763661
    }
   ]
  }
