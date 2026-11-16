@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-16T12:00:09Z",
+ "atualizado_em": "2026-11-16T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-16T12:00:09Z",
+  "atualizado_em": "2026-11-16T18:00:09Z",
   "dias": [
    {
     "data": "2026-11-16",
@@ -1632,47 +1632,59 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: Teatro de Balugas estreia “Os que Chegam” com lotação esgotada no Theatro Gil Vicente",
-    "link": "https://e24.pt/barcelos-teatro-de-balugas-estreia-os-que-chegam/",
-    "source": "E24",
-    "ts": 1794826766
+    "title": "Pure Cotton de Barcelos enfrenta dívida de 11,5 milhões, despede 31 colaboradores e quer perdão de 70% de credores - FashionNetwork Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZTlUYWl4QXc2RVdYcFJjVlV3SUFUYUNwYkRIS25pMzVGVGJxSFhXcF9GTTZXaDBhT2k2d3Z2a2FvaTB3blR0MzJ6Nm1jM28yOFFzZU5ORHJqcTJOS3FfZXpVbHdZOUc4aXVCd2h5eWczbi1wWXVDVzQxTkxRVE9VdzZiWVQ2RjAtRHp2S1JXTFZxNE9iaFFtV1JYeHQtVDU0UThBNFpKVkZfWFowTnpabWZBTlc2VXRXRV9BUlZZcjNHbzBEai13ZG5TY0FlcFIzZFlTSllVbFFOaTl2LVlQcHAtUTcxTWZBeUh3c0RibmY3dw?oc=5",
+    "source": "FashionNetwork Portugal",
+    "ts": 1794849047
+   },
+   {
+    "title": "Trail AM juntou 500 atletas em Barcelos. Eis os vencedores",
+    "link": "https://ominho.pt/trail-am-juntou-cerca-de-500-participantes-em-barcelos-eis-os-vencedores/",
+    "source": "O MINHO",
+    "ts": 1794844687
+   },
+   {
+    "title": "Decoradora de Barcelos que ganhou fama com Cristiano Ronaldo abre loja em Lisboa - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERpbXpxZkIyZnJGRk4yS3QwRERhbXQxcTdYNVZwbDFNQWFkMTN3aU9hNHpXSGFEWWNmSG1hRzlxNXBvMUltTy1DRzc5RW5QMXA4Zmt1dXcxQWhXN3lNUlhDVXRzMUxmMTNybzhON3d2OFZYZnpfNWlBTE1DUFc4RjdOZUxVZUdfNGM1YWRodGZoaHl5UV90ZDRyVWpPd0Zp?oc=5",
+    "source": "O MINHO",
+    "ts": 1794832980
+   },
+   {
+    "title": "Barcelos: Teatro de Balugas estreia “Os que Chegam” com lotação esgotada no Theatro Gil Vicente - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UWmc0ME1BQzN2MlVrQUtpeGUxR19HZVlQb05Hb19Ed1ZEV3VrNm4xWW81bzBEQlpfTHZlZVJqZXBsaDBGMDFHNGtsTHNUT2hIWjdfTDlUYWxrd1FZc29fT2tOVFZ1SVVNTzZfckVhR19CZw?oc=5",
+    "source": "e24.pt",
+    "ts": 1794827215
    },
    {
     "title": "Iniciativa Liberal quer baixar impostos e acelerar construção de habitação em Barcelos - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY05rUXMwREV5SGtnYlA2aVhSejlVdnhlWGt4cnZlN01DT3F0WG45VVYtQ0UtUVd6bU9oZjVobnMzRTNIcUxfN01WMGdHakF0cmZXVjJwSXNTSVJCOVkwaU91U0tVZGFXcXBGcFZMNENkWXNIRUJtZGxfS1hlWG5iRkw5SUY4X3hZSFdFMHYtcjlkbGdabUZ6dUs1aGhvcklIa0hjcG5OZ1IwUQ?oc=5",
     "source": "Braga TV",
-    "ts": 1794824931
-   },
-   {
-    "title": "Têxtil de Barcelos novamente em processo de revitalização com dívidas de 11,5 milhões",
-    "link": "https://ominho.pt/textil-de-barcelos-novamente-em-processo-de-revitalizacao-com-dividas-de-115-milhoes/",
-    "source": "O MINHO",
-    "ts": 1794824390
-   },
-   {
-    "title": "Despiste seguido de capotamento faz dois feridos na estrada Barcelos-Póvoa de Varzim",
-    "link": "https://ominho.pt/despiste-seguido-de-capotamento-faz-dois-feridos-na-estrada-barcelos-povoa-de-varzim/",
-    "source": "O MINHO",
-    "ts": 1794823231
+    "ts": 1794825809
    },
    {
     "title": "Apresentação do livro «Para Além do Antes e do Depois » - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcklveWlZU19KRUNKX0J4RVFPZnY2VU9mS1hsSnJqQ3Z4M2o1dU9ZWndGQmJIS3ZnSTBhd3NPWk9nYzBDVXRiVlAwWXlYM05lbXFBUnFnS3dCVDV5ZTdKTzdtWFJHUFRObm1MZHFrUEduOU8zNmk3VEpNc28zUm1vM1ZjbFMtZXNwWktROXp5MXZkYzlyQ1E?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1794822601
-   },
-   {
-    "title": "Bloco de Esquerda de Barcelos apresenta propostas prioritárias para o Orçamento Municipal de 2027 - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZkswcllCbkZwdFpraHF0QlVCRkFRLS0ycFFuYU1LeVJEZHNKamx6R3cxM052ZFdyZkNRY3VEYTJGeXpia19hSUwzWmhScHE2UmZPSVlRMmdQZHY2Z0NJTG1uSEo2V1JST20ySHR6RzBFR2VycUpWcG5JSTRKVW5yZWdlR0Izd1k1X2VOM3ZhVFR2OVlZT0ptZHVaVVZKbFowZEswWno0QUZjYVZ3b0dvTTh0YkhScHZYTVVfbTdFTzQ?oc=5",
-    "source": "| Radio Barcelos",
-    "ts": 1794787645
    }
   ],
   "esposende": [
    {
-    "title": "Esposende: Vasconcelos recebe Prémio Rodrigues Sampaio",
-    "link": "https://e24.pt/esposende-vasconcelos-recebe-premio-rodrigues-sampaio/",
-    "source": "E24",
+    "title": "Quase um milhar de crianças vai jogar futebol em Esposende - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVsaGRYUWFqV1hsQ1V3WWpFMDdzNVV5TDk3SnppaXA3cVY0V18wRXJjWXVsZFIxcmcwV1AwVVZfVkU2ZVpfVzdQRGxDTTBzU1lHMmVmeW0yX3d0X0xSNW5sMXNpNHBNRzZoeGR6a1pfQktZY2RSUGkwcGY4aVU4Sk1UT3NWYVFUOVk1VFBEMHNGdFduU3BjTlA3SUxfRlIy?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1794842719
+   },
+   {
+    "title": "Centro Vitalidade abre portas em Esposende com uma aposta no envelhecimento ativo e saúde mental - Voz da Póvoa",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUw0QjJrSkZ3NHh4dWhDMEVlU3M4SHFVTzV3a3BSQnFMNHh3VGRXMVpjR3k1VFB6V01wdGIxR0xoMi11eUFaOXp2SElCU1NJb2hWcG5WeC1sMVloeDlPTDFUNnpYWHVxYldrLW91MFAyYWVKeUhQVHFMb21uSktaWl9rel9hOGtYd3NtMWdFWXEyOEsyVy1XMVR1YWNyUnlDUFItOGQ4Y0w3TGxZUUVUSjdMYmRBdHhZcHppY29Tc1RsNXZKLWRlTkVkdG8zNC1rZHFoUkFFUnFhRkppRDd3?oc=5",
+    "source": "Voz da Póvoa",
+    "ts": 1794841331
+   },
+   {
+    "title": "Esposende: Vasconcelos recebe Prémio Rodrigues Sampaio - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBnWkx1R3EyeDlvNzlDSVR3MWxOcVdFSDR0RlUzSU9xelh0TmR0N214MHlKVno2M1ZMamdMU0poSzNSZFVxV0xNSGQteVJKbXg2M3lOMkJMemk0Z1JKTUw5TGZyR3BhU2Q0Z3N1R1g5anVuZFl0Nmc0VA?oc=5",
+    "source": "e24.pt",
     "ts": 1794825211
    },
    {
@@ -1692,21 +1704,27 @@
     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONWI5ckpQbnZpNHJYZ1FZUExfejdxaUJfcW8wSmRaaGFPTlB1LUh1aGJDaVF1dWZkd0NHTlNkMFNGdm1uQ2dmVWotcFNMRDVhVHNaWnNiQTZkd2Zaa0JzWGxtSG8ydWlxWHo5QURNY0NfY1FuMVIwZGdOa2QzUWtfY1hxUUJYNG9n?oc=5",
     "source": "Correio do Minho",
     "ts": 1794663000
-   },
-   {
-    "title": "Esposende: Imagens mostram violência do despiste em Forjães que cortou a EN103 hoje de madrugada",
-    "link": "https://e24.pt/esposende-imagens-mostram-violencia-do-despiste-em-forjaes-que-cortou-a-en103-hoje-de-madrugada/",
-    "source": "E24",
-    "ts": 1794652163
-   },
-   {
-    "title": "Boletim Unidade Pastoral de Alvelos, Carvalhal, Gueral e Barcelinhos - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNHVTRFVOV05mdnNVYUN2Rlp5T2Zwd0NqY3M5dUllQ2gwdE1rY3Blc1Q4YmJLSUNqN1BFSFEzajNVTmNmdEJpWGxjZTYxVUlGZDhjUm9COWtmM202Ykc1UmJRNDdhVmRZZWRvNXFESXJBdVg2cEhKcGFWZTBZaGUyQUd5dkc5UjFBNlhlcGRuMEt2dVpBTktIUC1uYko3QlU?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794641158
    }
   ],
   "mundo": [
+   {
+    "title": "\"Brexit não funcionou\". Primeiro-ministro britânico prepara cimeira com UE - RTP",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSk42UXVjNnRMd2Q1ZW5yQ3B1TXhMMmg3WmlZdUgwODdCZURwQXp3ekdxUFRMVXhlUUJIdEZKMmZ5RTJEVXZWdER6ZXpXY04zbXNKVTMyeUNiUjFvMTN0T3Z4ZWlyYmlxUGJFMGZJaXYtazNFUUhONWJsV1hWRDN0MXNXQmtTYTVGU1J3M0QtNUlMb0owd1VQOEVwS21XdHJja3NtQTNwZFdyZXJZWjdDSm5PMXA?oc=5",
+    "source": "RTP",
+    "ts": 1794831580
+   },
+   {
+    "title": "Kallas alerta para \"exigências absurdas\" da Rússia. Moscovo deve comprometer-se com um cessar-fogo, defende - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVjNqMnBpZ0hXbDE4NUJsQ1oyR1drWnNCNzZNa0pQNTFqSGY0RmZseDRfX0RnNFdUdDhvN3ZkY0M3c3RBSktsdE5sbW9KWWdDYUFQalVfbFVTOS1ZazBFeU1fSUlBeFNrblRTSGk3WU5pSjE2N0FLd19Kd0ZWNmRiU29zVjFkVXkzLUJYSF9kcFZQeTVXNTV1NDhTcDZEcEVOZ0xTcG1nNk9NM1hsUzYzaUV0d3YxZHdFQXplclJadjFnR3BRazFDcW03b3VNZw?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794820812
+   },
+   {
+    "title": "Uma aldeia da Macedónia do Norte pede que seja declarado o estado de crise devido à invasão de mais de mil vacas - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPWVFxYTcyTWg0Tm02dlpJZFFfb2o1WHlsaGtTd3llRDlnVkdRTHd3TjVJclNGYUlwc2VKQ2FyRVc5QVNoOTh6WGxKdE1IVmZqbEJXYmkwZDRxQ2lQM3lXang2MlBxNmVucUJ2RU5NSm5wbGVtSjJENEhxUHUtRTdkM3hlMndpSEdqeV80QWVGU2tLYnUwM1E5YlJoTm1HMTh3RlVRYUVOd2trRFk3TDQtOEgzWDRLRHVTSVBuS1l2Q1BqT1diZ2VodDVIN3k3eEtCVWRqWUpMd0pDQ3JaSWc3aXRrY3ZyNENoMEhmRnRyeU5HbDJPeVNNZjRYLVg3STRGQmh0Z0xXWVVubDdJSzdPTmpPd1FWa0dOZVJBZ0puVi12MjJnVVE?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1794817225
+   },
    {
     "title": "Rússia abate mais de 1300 drones ucranianos num dos maiores ataques da guerra - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX19sM242djFXUGRVNGRkSmkzTDNkQ0ozVE5CeTZiZ3h6bDhlT19wOFlONVljMGs3YXdKak5oQXJVYlY1ZjN5SzZGaTIxMmNpMUhqaFEzLVo4QWRaZ2c0dG5KMV8xbVZDa2dIUzhHMVNaM29Qc0JMLS1TYk1wdW9HRW1ZLVpJYkxERVZVdW0ycmEzQno4blo4bVdramNOTUhzSmlkZkJUNnJJSVlHMk52VWREV1B2VVZR0gGsAUFVX3lxTE1mUnVKZVk3OEJxM0dZUWdkbDQwN3p3Y2lHMkY0TlFONzh2TWh3eF9VUExlVlJha2lhVWZoOXgxYkZPb0JsVVc3NzBCb09WaEdwRWh1alRVZGpISTlIa1FIR0M3NTdFdkdCbHoxd3p4aGhpdm1oVlpCdGJUQjVrV0tNR2dYdWJ5VDlfVnVZMjhjUUxmQ0JFbmdkbmk0Z05uQjdXVEJ0ZEtmcWRpa0g?oc=5",
@@ -1718,24 +1736,6 @@
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHE4OE5KWUlBYUpRclc2cnpTdmY4TENqRUdpLUF6WndkU2ZtTEwxOFl1ZWVGUHRIM1RsejRSTmRqdXBtcGt5cnNodGc5MmFTYVNid2ttZ2tBRlJzUS1Uc2tGbnA0NnE1TkVCNEwzT3otVEh2NTkyaFlQZlo5UXhtYTBua2s3ODJVUHhGSEtTUVVIOURiYURibVozNGJYZk5PQVR0WngwTHRNYklLMU53SGVlaw?oc=5",
     "source": "Euronews.com",
     "ts": 1794811653
-   },
-   {
-    "title": "O “efeito Trump”: europeus pedem mais autonomia para resistir à pressão permanente - Público",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTDJOcjZnWFFZSjAzY0N6blJzZ0Z1eUh4OG1PaTBPVHlHaHlib2RLVDdEVmlDcXJWZnJ0NkJVOFpoeURRLXpfZlVPbml5YTJGNGROdlN4RGY3dHpwdzZYaTduSlRJcl9wbXYycmh6LXBfMlZlTjZ5NlQyZ1htLXYxNjRGYXJuM29RNU91VHkxRDUwRnhHMFlHOU5RUVN1cThteFJpVm9XS184ODUzY3BpRXVGWTFzSUY2VEw3X1pR?oc=5",
-    "source": "Público",
-    "ts": 1794809220
-   },
-   {
-    "title": "Pelo menos 11 mortos em incêndio num prédio na ilha turística de Phuket na Tailândia - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYWQzekxkdTBmY0sxVlJJVmI3Q3VySUFXWHVfbGhUcHgxenNtVXZkM0ZPZlZ0UURuWTByUGxlMmZoOHdpNWNtaWljaWdQSUx1dU9sdGRsT0QzZXdyUFFCQTJkOXpNQkhOQkpySXhLR3N1d0NhTW41QlpkaFd2cjlPeENNTm5nY2p5QW04dUlJclVQeC1LTlJ1eEwzVzZJTTZXTjE0TnZ6bzBaN2dpemxzWDhhU1k4Njdid1FBLS16SdIBugFBVV95cUxOdWNHOEoyRmNfRUV5Q05RMVhKSzZHREhZc01udm5jNjB1cGEyTjlocTI5c1phRk1tSXZpODI3R2lHcHhfS3ptakNZRURjYTJTN29lakc3bXM1eFgwYWljMi13QkwydTluamUzZ0VySGs4djNSWmxqOWlwd3ZENDFsSE9yS0FNeTg5V3gteWlkaWI3YU1ZVGNlVzZsZW90Sk04aUthMW1wZ0tjZk5TUUF3SUtwd1FvSlZ6WXc?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794806400
-   },
-   {
-    "title": "Morreu Miguel Ángel Félix Gallardo, \"o padrinho\" do narcotráfico mexicano - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX3M2NTdhbExQb081X1ZZTlFSR3dhXzFZQWpWMWpBZEJGZ0t0MnVMR3M2WUQyRUJ4M3J6VkFXdXgwRlBDLWVLRFJGdGNTU3RGRzBXQkZEOWJTNDQ1VEI1ZUdhd3FoUzhLOXpldi0xaVA4LXBZZU95Q0xISlpyTVlnOVdIOE1lQVlCcV9qZU9zc1IyVHU2dUdrdmVYR2dIMFl1ZlkxTDVlak9FVW9INnlN0gGjAUFVX3lxTE9rd0drRUlUSHNhcDkzLVd4ejZrdWprTVdyR3pxRmR6NzJUb3o3NElvT3NkY1pnU3BjZ0pSMG5DdWVtdGo0NjJhd1JrRFF4bnFpc0ZzRnpWZy1yN2x4bEdENU1rNFpEak11dmxYQkVNZG5CN1lveGlkVVI4WERlcXRPNFljc3NxdTFwUHlVdDU1dThJcU1iRWotYmt0NzliellteUk?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794782400
    }
   ]
  }
