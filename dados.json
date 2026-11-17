@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-17T12:00:02Z",
+ "atualizado_em": "2026-11-17T18:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-17T12:00:03Z",
+  "atualizado_em": "2026-11-17T18:00:09Z",
   "dias": [
    {
     "data": "2026-11-17",
@@ -1632,6 +1632,24 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "“Estamos fartos de promessas e queremos que a construção do novo hospital de Barcelos/Esposende ande” - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzdoSW5KRkl1QThLdUlyX0RRX2pTVWwzQ1V4Qi1FSk8tMVU0MUU1SVhtQ3c4UWRFUXAxS3YzYS12a0NPMXRtZkN6NmNJdEtIb1hkMGt6cC1qMWlEUHNERjNSRkpNOGlSbV84bWVCNXRtY0dScnBraFp2RFM1Mk5EZDdPNjFkTzFId2JuSXZIdi1FdU1lalRkNWQtTk0yQlRVM1BPRkRkUjR4MkNMd0pUdndEMzZBbVd5VHZpZ3BMM2oxbFFTRTNlcnZlcVV4aWstVkw2NWdXdw?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1794929218
+   },
+   {
+    "title": "Caso de deposição irregular de lamas de ETAR pode ser \"ponta do iceberg\", alerta Zero - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdF9xSnRzNnd4SmxiS1FUSFdISHZSQWlERFpueWdjWndlQzhtR29PNXFKSkp3cWR1ZnlRT2JRZXFPT0owOWdFbmk2bXZKUkpaWV9tUHFyWEVlQlc1LUtZOF82MnhpbDJEZlpkcnAtT1JCcEk1SmNtNnhVdUtqYVI2ejdYR21uZnRQVHpNY3YxZnFaVHdXODE4QU1ra3Z2V1h2QnU0REJEU283aXdi?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1794925162
+   },
+   {
+    "title": "Atleta de Barcelos vence quatro medalhas no Torneio Nadador Completo - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYTdEZFRMZFZYX1FTUUViV0ZYWjcweE1lQi1MejhpVGJ2UEdJaGdEdGJZVDBwMm9ob2lRcW1VVE5ETTRvLXRmUEpkcXE2aFlMOHBmUXVmelNiS2FNSE1Vb1Ffc1c2MkdsRU1NRnRYMW5UdEpma3BfSmhQMGNCWkt4TU5jUzQtTGJtcHlWMzJteDBrUQ?oc=5",
+    "source": "Braga TV",
+    "ts": 1794913820
+   },
+   {
     "title": "Instituto S. João de Deus promove Terapia Assistida por Animais - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3lCS0FfTEhZazhtdTVCLURfNEE2N1RfQkdxV1BUaXhfb2dRU3NiMEpUWlBpSENYU2R0TnRDNTRucUNrci1BNHhVNHBoX3Z5UWduOHJQLUZoZzZzajdyQXJ2TzlYV3VLeUpfeHFsYVRlTjZQRWFLLWp1VmZJR3FTaU9GTThkS2tCanZfVkhZZnc2QQ?oc=5",
     "source": "| Radio Barcelos",
@@ -1648,62 +1666,38 @@
     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZTlUYWl4QXc2RVdYcFJjVlV3SUFUYUNwYkRIS25pMzVGVGJxSFhXcF9GTTZXaDBhT2k2d3Z2a2FvaTB3blR0MzJ6Nm1jM28yOFFzZU5ORHJqcTJOS3FfZXpVbHdZOUc4aXVCd2h5eWczbi1wWXVDVzQxTkxRVE9VdzZiWVQ2RjAtRHp2S1JXTFZxNE9iaFFtV1JYeHQtVDU0UThBNFpKVkZfWFowTnpabWZBTlc2VXRXRV9BUlZZcjNHbzBEai13ZG5TY0FlcFIzZFlTSllVbFFOaTl2LVlQcHAtUTcxTWZBeUh3c0RibmY3dw?oc=5",
     "source": "FashionNetwork Portugal",
     "ts": 1794849047
-   },
-   {
-    "title": "Barcelos: Melhor club de techno/hard techno do país faz 7 anos e esconde os DJs até à noite da festa - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDROLWk4bmJHdzEyWVNXNDVTdjhEcDZNTnNiblhqOVFVN21NYWx6YVpyM1VfUEdsUDhLeGFBRGFldHpGc3dldjZtMjZocTV6S1pqcmxwUGlzQ1I4TTVZOFowbVctVms0dHI1MXZicnZjb1ZlbW5qNEVZUXE5V2xubHBDZDF2SmdCd2JjbTk5SUYzbE5qTmEyYlVRakZCbkl1NzFuUjZ2Y05kRWNJLW1Z?oc=5",
-    "source": "O MINHO",
-    "ts": 1794848760
-   },
-   {
-    "title": "Trail AM juntou cerca de 500 participantes em Barcelos - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rMHBhbXFfNjhNemt4WHljTFVrQW9FM2ZONEpuQTlOcWRVbzFXY1RFRm94RzY0THNZRnJZMkNQZjVCcFFmakZlVzk0MnlUTkNmVHRuM196d3Rka1ZsZnRpRjZCZEh3YkpnWElieVRtUk4tVmtDNGVmZUFyWEFXbkU?oc=5",
-    "source": "Braga TV",
-    "ts": 1794841670
-   },
-   {
-    "title": "Decoradora de Barcelos que ganhou fama com Cristiano Ronaldo abre loja em Lisboa - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeERpbXpxZkIyZnJGRk4yS3QwRERhbXQxcTdYNVZwbDFNQWFkMTN3aU9hNHpXSGFEWWNmSG1hRzlxNXBvMUltTy1DRzc5RW5QMXA4Zmt1dXcxQWhXN3lNUlhDVXRzMUxmMTNybzhON3d2OFZYZnpfNWlBTE1DUFc4RjdOZUxVZUdfNGM1YWRodGZoaHl5UV90ZDRyVWpPd0Zp?oc=5",
-    "source": "O MINHO",
-    "ts": 1794832980
    }
   ],
   "esposende": [
    {
-    "title": "Vigilantes da Natureza detetam 3 passarinheiros em Esposende. Suspeitos fugiram",
-    "link": "https://ominho.pt/vigilantes-da-natureza-detetam-3-passarinheiros-em-esposende-suspeitos-fugiram/",
-    "source": "O MINHO",
-    "ts": 1794911746
+    "title": "Herdeiros do grupo Esposende foram alvos da operação contra tráfico de drogas e lavagem de dinheiro - Blog do Ricardo Antunes",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOenlFUUdNLWR5MmdidHZOc0xJOGVONmZOM2VGNzBNLUQ5WjVrLTRkT25JY1VpWFItLUR2VkQzN240M1F5RjZ2Rk1xSVpNTjRjTk0zVGRnTW4tckFOUGFiTWM0OGVWNGRnMzRsR3VLMnFaek1mTkZHYThLMDBRZXFPdE9WRDF0WjdObWFBbG02dVdRekVkLXZIZ1N1MEthOFRWc1ZJT24zNXV2aFBOX2hiRGZzSDE4dS1BUDNsdFZvcW5mVXlpTGxj?oc=5",
+    "source": "Blog do Ricardo Antunes",
+    "ts": 1794927732
    },
    {
-    "title": "“TraumaTeam Esposende” parte para o Brasil para o Campeonato do Mundo de Trauma",
-    "link": "https://e24.pt/traumateam-esposende-campeonato-mundo-trauma-brasil/",
-    "source": "E24",
-    "ts": 1794873919
+    "title": "Universidade do Minho recebe concerto “Quem Canta seus Males Espanta” com grupos de Arouca, Esposende e Viana do Castelo - Mais Guimarães",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFEwTDFTd3luRjFIRmpsR2M4VmNBV2pobGpSelBqUHJaVVNSXzVRMmtHTFduck5PVzk0OVo1RjIxMUw0R3FnMko0S0lvWFlZUWQyT2ZHeEJYV0V4N3YzUlNCWWlzbnV4NW9MT0xnbWJZWm1faHNnbWE0MFV0azhGMHI2al9oMGxjVHl5bXdjdGVzcDdxcEdJV0lFbVdtQmVDRjR6N0tWWDZDalozWTVsUVZEdFdnZ0NyZ2dhS2JTNGdlcUhuWmpRSFE2UEpmbUVOZFItaGs0b1R5eUE?oc=5",
+    "source": "Mais Guimarães",
+    "ts": 1794920975
    },
    {
-    "title": "Esposende: Vídeo mostra incêndio em poste elétrico deixa habitações sem energia em Marinhas - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LRUhpR0dSdVpqbUJEZ0VZYjRGamxJTlhwZklPMkE1bjJaU0N3Zkg1NWdSTE1QMUtzMFZZem1ZTEo2MGhpYm5iOHpYLXg2OGVsX0g4Mi1IbUlvOW9WMGwyZjBreUtlazRWUk1aUVBqTG1TMnJMU1FOakp2WQ?oc=5",
-    "source": "e24.pt",
-    "ts": 1794873462
-   },
-   {
-    "title": "ULS Braga realiza primeiras cirurgias endoscópicas mamárias - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSldNbFRWTTJpQlY2QmJoWlc0cmJjbFdkV2FlZ2lhNWZlZmJTWWxTZm5IOUtMM1pUdjlvMkYyUVBRcklxNEZMdUg2Y2F0blJkTFdJT2Fob1gxRGZZTmo5QlFQcERKV1A2NmZHdHZSM0JiSTJzR2V2ZG9JcEV5MHRUT19NbVdnUXpUT2RsYUREMmV6QQ?oc=5",
+    "title": "Faleceu António Patrão Ribeiro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mbkhFRW9tWVE4Wm80QmVCZWYxbnBkX1RHb0dLV04wYnJTaDRBd1Q1QTBqbVR2NTBqSUIxZ1F3cXM0NVNjeUZnQncxZXFrVXVnREtZeU1Pd2ZRdk9WaXh3MGFPNl9reGtackdr?oc=5",
     "source": "TV Esposende",
-    "ts": 1794854738
+    "ts": 1794918399
    },
    {
-    "title": "Quase um milhar de crianças vai jogar futebol em Esposende - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVHVsaGRYUWFqV1hsQ1V3WWpFMDdzNVV5TDk3SnppaXA3cVY0V18wRXJjWXVsZFIxcmcwV1AwVVZfVkU2ZVpfVzdQRGxDTTBzU1lHMmVmeW0yX3d0X0xSNW5sMXNpNHBNRzZoeGR6a1pfQktZY2RSUGkwcGY4aVU4Sk1UT3NWYVFUOVk1VFBEMHNGdFduU3BjTlA3SUxfRlIy?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1794842719
+    "title": "Vigilantes da Natureza detetam 3 passarinheiros em Esposende. Suspeitos fugiram - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR09WUWt6ak9iT3YyQTJfVjZpUnVlT0JSeVhaNkRxYVdHZ0NBckMtNGhJcENPZ04xY2xTa1h5cVg1Q29RcjR0dXN2T1lFQlp0RUNaYWFQY0JVbzhQNjdPOHg0VEJrMkpNdXRzRUttVFdaRlp3eWJ2Zm44THlHUllQWjhkNkU3OTBfX1drU2RQOU9yTnFKSmZlN1FrU1BXUQ?oc=5",
+    "source": "O MINHO",
+    "ts": 1794908100
    },
    {
-    "title": "Centro Vitalidade abre portas em Esposende com uma aposta no envelhecimento ativo e saúde mental - Voz da Póvoa",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUUw0QjJrSkZ3NHh4dWhDMEVlU3M4SHFVTzV3a3BSQnFMNHh3VGRXMVpjR3k1VFB6V01wdGIxR0xoMi11eUFaOXp2SElCU1NJb2hWcG5WeC1sMVloeDlPTDFUNnpYWHVxYldrLW91MFAyYWVKeUhQVHFMb21uSktaWl9rel9hOGtYd3NtMWdFWXEyOEsyVy1XMVR1YWNyUnlDUFItOGQ4Y0w3TGxZUUVUSjdMYmRBdHhZcHppY29Tc1RsNXZKLWRlTkVkdG8zNC1rZHFoUkFFUnFhRkppRDd3?oc=5",
-    "source": "Voz da Póvoa",
-    "ts": 1794841331
+    "title": "\"TraumaTeam Esposende\" parte para o Brasil para o Campeonato do Mundo de Trauma - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX3V0eW9VVVNCb0ZUclFtem4yQmpFNXRmLTlZU2x5MHR1eUlhdXVmd1JKeEZJckRlYmxLd0NkTXZDME5SVFpIZEJuOXg1OXZYZzJsbC1TQkJMeGFEdDBvaWZJX05aZ1ZGRzhza2tPa0x1bmlzY0E?oc=5",
+    "source": "e24.pt",
+    "ts": 1794873919
    }
   ],
   "mundo": [
@@ -1711,31 +1705,31 @@
     "title": "Leão XIV: minha viagem chega ao fim, mas o tempo da missão continua - Vatican News",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFIyaVRLZHpYbmZyMGdMRHUtdlRvY1pycGVVOTY0WDJPRGtYRy1aNHl5ZFVJY0IxQm42UlVsa2JTekxEdktZeWFNc0pXeUt3YkNYcnFvYTZIMFlWdUYwV2hleVJXNEhzQjVMazBfTTNpeFpqUVVWLUZhOTJpRHBMeWh2TFBsYllQcTZEZFI3VjZzREJraDF5U19aUzJKX2otZFM0MEljVjlYVERnQVRwdzM2ZU0?oc=5",
     "source": "Vatican News",
-    "ts": 1794909710
+    "ts": 1794932722
    },
    {
-    "title": "Dezenas de feridos em colisão entre dois comboios em Praga - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNamRHZ0d0M2xJN3NMeVRmcnh3SHJWVUVEV0pHdlBBbk9yY0I4SXZEa1lMUkdmajVJS3Z4VlBDSnJYTzl2M0FsS0V5emhHbHhELTk2d2tVeDNweGdMbk5DRXhUbkw5SGo1U3J0bnB5RUNuektWZm5vLTYwT2dnTDJrOUVrX0hubEdCVFBkWFBsdWVxNldiTVRQT0ZINEw?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794904440
+    "title": "Papa desembarca em Roma após 12 dias de viagem pela América do Sul - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEoxRS1jS0FVMFpXVGNFYmRhZXpDdEJVeFN5c0VNZTQ1b1JMWjY1YzRvNGJ1Q01oWkZrUFVDaTZFRm9oU1VKaDhVVXBHSXRsTmthMlppeWlTQjR5NFh3M002WHJDMDBoX3FLM2VGX2E4UFNpdW04Mm1WRmh3VmhtenZ5RTRzS1FQMUI2QVNlVVJaRlZDZlhETGtETGZoTlda?oc=5",
+    "source": "Vatican News",
+    "ts": 1794928176
    },
    {
-    "title": "Ucrânia e Rússia trocam ataques contra pontes estratégicas. Ponte da Crimeia danificada - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQb0J4QzlaNkltSThxRS11eWFCdkdCTnZPODBZVF9xT0gzZFRabkgyOXg5VmhSZG81VzZPN3BiQkZaTUNCV2NEQnFGU2VMQjFLT1VKMy0tSHRNUTJ4RHBZU1pLdktaNVpScEt6bW5mYUh0NFAwZDE0NlpMTjN5TVdlRUlMMFkxYzBvU2dqLTRCXzVZVWg5N0RiaGFQNGNLZFl3Q25qQXUtY3M4eHp0VTA3b2l4alg2ZFA1dXpzTWRjRkVSWVE?oc=5",
+    "title": "Zelensky celebra operação contra ponte da Crimeia após ofensiva russa contra Kiev - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOam9Ra0RJNmthd2hEempmbjl5TWNDbmRFZEFzNDNDbDRIRU1BWkZldUdrSEplS1dhLVpKNjE5ZmhfZkttMHNYaVhNRmJZNVJMdlFjcV9WRkprbXJ3YW50UENYd1h3djNWNTk1SXhzX0FMRXlyZHRZZ0gxcWU0YVZ6R195UWVFdjB5TmFCWkllUFNnUWp6RkZpeW1RbFdzd3N0b3F2ZmIxUmRMZE80Z3Frc3lTdnplVjZnVjdlVklIOGt6SUE3TDR6WTVwUDYzSFRFNE5QZlBYczlEaUhXWjhvT1pJYlRfTmthZWk3TA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1794920294
+   },
+   {
+    "title": "UE prepara novas sanções contra a Rússia, num contexto de exigências \"absurdas\" e ataques de inverno - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2FORDFUN2llcWlfUEg5ODRpN1FXX2Fyd2tzOWg1TzVGajhJT3B3UmRjcllRTFZxTlEtWmczbFBGT2pfb01scDR1Uk13R3QtRE0xT1kydHdnZGowdFdpT25QT1BwOFhyUU10bWY4ZzlSRV9JYWt6QjN4WDNZd3dmZDNZRUd6QWNXWU9QbjFtakd3TkYxbGV5NWRBTnJtUzBGdTJzZlRtYTd6bkVnMFJYckxrUE45bFcyZFhiZEkzZHo1akE?oc=5",
+    "source": "Euronews.com",
+    "ts": 1794918223
+   },
+   {
+    "title": "Colisão entre dois comboios em Praga provoca pelo menos 46 feridos - Público",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNnp4ZXFGSVpnRWlsdmZwTTl3SjRKNy15VVJKMHZ3bV8weTdzYnkxWWpLRkVIRWVmZnp3V19iQnkzMGVKLVMxQ0xSWmRqQnRHeTQ1ZHJPMm12alIxMUVvTTRaTjlCbndvZDk5bmZudFphem5xVXdGXzk2T1RVQWpGcDA3SVZiSjVTalNDcVRVc0lrai1wZmp3SlFvS3l6RnJ3aTJDMXFoNk5OOUU?oc=5",
     "source": "Público",
-    "ts": 1794902744
-   },
-   {
-    "title": "\"Salvou-me a vida\": Cirurgiões removem tumor de dez quilos em operação pioneira na Europa - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaXhOdXNKRllfWXIyZmNtaC14bjlMSEV5amlORVJTeVJZYklzcXNVcTRqclBHUTNDVXVMVzhWLUpwNEdRQ0sxaWVJcTR0eGFjeEpOQjhXeklmYlQwY0NOM1QxbTNmQ1NpRXdzRVczLWFvY2l4cU0ySnVyVE1qX3Fsc0YyaVU0SkNHaVp2WFl6ZV9Eb3pkUU5uaWkxY0J0WmlrMEZWZjRkcUpwa0FZV3F3YzFlN3lIay1PdlRtbWN0TGVsMWx40gG4AUFVX3lxTFBvSVpPS1h4WExlQ2xLZWZnUmp5LVZoSVZzNDRWSWM1dlBjODZCQnppRllSQlJtTTBOdDBSd0Etb2pBUUtrdTROY2xSdGVEQWdRRlVMMXFGeFAwSUlHYWR5dV9Fb3BoRTVFU3JuUUNQVTdVNmRGRUFpaTRITUN3NzFlaDNHY2xFa21panhFeUdDazhkYlhQY1JxX1lZQlY1a0VKeTBpMzIwTkNRNlRwZzd5bFp0VU04aGY?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1794902280
-   },
-   {
-    "title": "O Reino Unido arrependeu-se do “Brexit”? | Podcast Hoje - Público",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOQ1BZaTBqb3RHOV9XVnE0UUwtcnNRT1ZDbWtqVGNQSWlEOGZxWXNIanpTYm5uM18yZm0wNFdPeFlfeVN1ZXVxdHFmS2s2Ym9sX0xQa25xNjhmX09MRHotRmpWM0FHZzA0dU9NYm5WcFNRakFxREsyaGJTRUtQOHg0eUR2RTM2aU5BUjc4R2hUX1A?oc=5",
-    "source": "Público",
-    "ts": 1794893400
+    "ts": 1794914115
    }
   ]
  }
