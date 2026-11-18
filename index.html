@@ -431,8 +431,9 @@
   /* ---------- Facebook · Vila Cova ---------- */
   .fb-h{font-family:'Fraunces',serif;font-size:1.1rem;font-weight:600;color:var(--azul-fundo);margin:1.6rem 0 0.2rem;}
   .fb-sub{font-size:0.78rem;color:var(--tinta-suave);margin-bottom:0.9rem;}
-  .fb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:0.9rem;}
+  .fb-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:0.9rem;}
   .fb-card{background:#fff;border:1px solid var(--papel-linha);border-radius:var(--radius-m);overflow:hidden;}
+  .fb-card-links{display:flex;flex-wrap:wrap;gap:0.35rem 0.85rem;padding:0.65rem 0.85rem;font-size:0.82rem;border-bottom:1px solid var(--papel-linha);}
   .fb-card iframe{display:block;width:100%;border:none;overflow:hidden;}
 
   /* ---------- Recursos uteis ---------- */
@@ -710,19 +711,23 @@
       <h2 class="section-title">Notícias</h2>
     </div>
     <div class="fb-h">📘 Vila Cova no Facebook</div>
-    <p class="fb-sub">Os últimos posts das páginas locais — em direto do Facebook.</p>
+    <p class="fb-sub">Se as publicações não aparecerem aqui, abre a página directamente no Facebook.</p>
     <div class="fb-grid">
       <div class="fb-card">
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMARCAVilaCova%2F&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+        <div class="fb-card-links"><a href="https://www.facebook.com/MARCAVilaCova/" target="_blank" rel="noopener noreferrer">MARCA Vila Cova no Facebook ↗</a></div>
+        <iframe title="Publicações do MARCA Vila Cova" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMARCAVilaCova%2F&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
       </div>
       <div class="fb-card">
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F100064472090701%2F&amp;tabs=timeline&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+        <div class="fb-card-links"><a href="https://www.facebook.com/100064472090701/" target="_blank" rel="noopener noreferrer">Jornal A Guarita no Facebook ↗</a></div>
+        <iframe title="Publicações do Jornal A Guarita" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2F100064472090701%2F&amp;tabs=timeline&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
       </div>
       <div class="fb-card">
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fvilacovafeitos%2F&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+        <div class="fb-card-links"><a href="https://www.facebook.com/vilacovafeitos/" target="_blank" rel="noopener noreferrer">Vila Cova e Feitos no Facebook ↗</a><a href="https://www.vilacovafeitos.pt/" target="_blank" rel="noopener noreferrer">Site da Junta ↗</a></div>
+        <iframe title="Publicações da União das Freguesias de Vila Cova e Feitos" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2Fvilacovafeitos%2F&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
       </div>
       <div class="fb-card">
-        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMunicipioBarcelos%2F&amp;locale=pt_PT&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
+        <div class="fb-card-links"><a href="https://www.facebook.com/MunicipioBarcelos/" target="_blank" rel="noopener noreferrer">Município de Barcelos no Facebook ↗</a><a href="https://www.cm-barcelos.pt/categorias/noticias/" target="_blank" rel="noopener noreferrer">Notícias do Município ↗</a></div>
+        <iframe title="Publicações do Município de Barcelos" src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMunicipioBarcelos%2F&amp;locale=pt_PT&amp;show_posts=true&amp;width=340&amp;height=420&amp;small_header=true&amp;adapt_container_width=true&amp;hide_cover=false&amp;show_facepile=false" width="340" height="420" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" loading="lazy"></iframe>
       </div>
     </div>
 
