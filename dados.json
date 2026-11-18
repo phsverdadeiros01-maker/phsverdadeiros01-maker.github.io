@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-18T12:00:11Z",
+ "atualizado_em": "2026-11-18T18:00:04Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-18T12:00:12Z",
+  "atualizado_em": "2026-11-18T18:00:05Z",
   "dias": [
    {
     "data": "2026-11-18",
@@ -1632,9 +1632,21 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos: PCP quer construir nó de acesso à A3 com a EN205",
-    "link": "https://e24.pt/barcelos-pcp-quer-construir-no-de-acesso-a-a3-com-a-en205/",
+    "title": "Barcelos: Pentágono Urbano lança concurso de design para estudantes da UPCA",
+    "link": "https://e24.pt/barcelos-pentagono-urbano-lanca-concurso-de-design-para-estudantes-da-upca/",
     "source": "E24",
+    "ts": 1795022463
+   },
+   {
+    "title": "Barcelos: Rota do Vinho e da Vinha leva meio cento de visitantes e influenciadores galegos às Caves Campelo",
+    "link": "https://e24.pt/barcelos-rota-do-vinho-e-da-vinha-leva-meio-cento-de-visitantes-e-influenciadores-galegos-as-caves-campelo/",
+    "source": "E24",
+    "ts": 1795013368
+   },
+   {
+    "title": "Barcelos: PCP quer construir nó de acesso à A3 com a EN205 - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YMGI1Z0g0RjBWQUtYSDFGZHBOSGttZXZrOUJLbmdsdFcxcTdDLVJzUjZSVFNUZjlQQllWQmNXaHlvNldlWTRGZlF3TzVHWDNvUjB6aDlxS1dJWVdGbU9xNkJrblU4cDJHSHdNaGR3SjZNTjdrR0VhdWt0T3JtQQ?oc=5",
+    "source": "e24.pt",
     "ts": 1795002369
    },
    {
@@ -1654,21 +1666,27 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObVRlNFdUelE2T0JfWmtkV3pVQTFiMHI1RVB1ZGJuWktRcEZmWjlXZE93bExSbG9XSmtjVXV6NU84Z2VMZlNLNU1wblZ4RmFSSF9IOEJBd0NNZHBFYk9DZmlxekVabmkwamRUaG8wMUctZDlfcDlWeFBnUXp6WWdBQ0ZzeUJGQnNNN1hZUEU4eTk0bFU?oc=5",
     "source": "O MINHO",
     "ts": 1794940260
-   },
-   {
-    "title": "“Estamos fartos de promessas e queremos que a construção do novo hospital de Barcelos/Esposende ande” - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzdoSW5KRkl1QThLdUlyX0RRX2pTVWwzQ1V4Qi1FSk8tMVU0MUU1SVhtQ3c4UWRFUXAxS3YzYS12a0NPMXRtZkN6NmNJdEtIb1hkMGt6cC1qMWlEUHNERjNSRkpNOGlSbV84bWVCNXRtY0dScnBraFp2RFM1Mk5EZDdPNjFkTzFId2JuSXZIdi1FdU1lalRkNWQtTk0yQlRVM1BPRkRkUjR4MkNMd0pUdndEMzZBbVd5VHZpZ3BMM2oxbFFTRTNlcnZlcVV4aWstVkw2NWdXdw?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1794929218
-   },
-   {
-    "title": "Caso de deposição irregular de lamas de ETAR pode ser \"ponta do iceberg\", alerta Zero - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdF9xSnRzNnd4SmxiS1FUSFdISHZSQWlERFpueWdjWndlQzhtR29PNXFKSkp3cWR1ZnlRT2JRZXFPT0owOWdFbmk2bXZKUkpaWV9tUHFyWEVlQlc1LUtZOF82MnhpbDJEZlpkcnAtT1JCcEk1SmNtNnhVdUtqYVI2ejdYR21uZnRQVHpNY3YxZnFaVHdXODE4QU1ra3Z2V1h2QnU0REJEU283aXdi?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1794925162
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Município promove sessão de compostagem doméstica em Marinhas",
+    "link": "https://e24.pt/esposende-municipio-promove-sessao-de-compostagem-domestica-em-marinhas/",
+    "source": "E24",
+    "ts": 1795024545
+   },
+   {
+    "title": "Esposende inaugura programação natalícia sexta-feira - www.maissemanario.pt",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOW5MeHNrSnY1NEpjVEgxUXhyN3hrN1pJN2llS0gyRG1XWWxYbi16MlRseEVEN2xxSjRkNVhHU2ZvX1QtRW5RaFRjYWIwMlVfeVdjS1U3VW5RS2hmazN3eGNvaklIVnNZWEVKa25CVktVNG9TM3ZQX2NHcUpSTjR6R3RoZjRLRVRLT1dEaHduVE5Cdw?oc=5",
+    "source": "www.maissemanario.pt",
+    "ts": 1795023544
+   },
+   {
+    "title": "Saúde: O Centro Vitalidade abriu portas com aposta no envelhecimento ativo e saúde mental - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBmTkJnNU5qRTRSQU04Z2Zzd0dRVDJyLW96ak9zUEVWZURpdGZtZ2pZWVQyVC04blRFSnVEbm1WVUVZeG1YS1RvdnQ4Mm1iZFpDNEllWkR3RkxWc2ZyWF96ZHFqZGRsREc4eUozQUtqUm1obzVSUl90bQ?oc=5",
+    "source": "e24.pt",
+    "ts": 1795018897
+   },
    {
     "title": "GNR – Balanço da Operação “Censos Sénior 2026” - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HUGRvcE5fTlEybThxRm1JVnhKak5aZDh2OFNHX3RJbkNBdnFOTVdPR1VkUTUwaHFEUmRfQ0xQYWRLQ1RReGFBRkFEOEJZQ3lmYjZoN0VvZTRzSjV1MWlhUV9adUdsUHFCdzktTmlxaGowS0JieldGcXNQMA?oc=5",
@@ -1686,50 +1704,38 @@
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bzB6NERQd2o5TFNBdVQzWm92amQ5a0VQbUlGSEVrUVAzLWtLUUpDd1pwZDZ0Vi1NQ0t1UEpxTFNtV2lCTVJEZ2w2TXg1WVBaLUJqb01Lc2VDaTMxTlE?oc=5",
     "source": "e24.pt",
     "ts": 1794959086
-   },
-   {
-    "title": "Esposende nega que herdeiros do grupo estejam envolvidos com operação sobre tráfico e lavagem de dinheiro - Blog do Ricardo Antunes",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORERkbWh0bnVGbDdxeTB5UGRubE1tYlNvek1MMFZTQnkxUGlLUlRFOU5PZVgwWnJxZGVxaVJ0dG44RzR5YWx1MHlSbFRDTHYxb2FzejgzdEtJR08tR3JEOE9CLWVBUW5mdVVNSnFDUjBVNHNCdHlweHE2RFNwTm5iVWdvWDhnY0E1MURnckVBNHd2MEZTclJvdEF5ZmUzbjBneHRSWVA2RGxfczQ0bTNKVnpoZHNnT1Mtby1VN3ZiNXFVTUZQSnhnRTNRcmlkN2FQ?oc=5",
-    "source": "Blog do Ricardo Antunes",
-    "ts": 1794940834
-   },
-   {
-    "title": "Faleceu António Patrão Ribeiro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mbkhFRW9tWVE4Wm80QmVCZWYxbnBkX1RHb0dLV04wYnJTaDRBd1Q1QTBqbVR2NTBqSUIxZ1F3cXM0NVNjeUZnQncxZXFrVXVnREtZeU1Pd2ZRdk9WaXh3MGFPNl9reGtackdr?oc=5",
-    "source": "TV Esposende",
-    "ts": 1794918399
    }
   ],
   "mundo": [
    {
-    "title": "Xi devolve cortesia a Trump e recebe-o no aeroporto. É a primeira vez que o faz a qualquer líder estrangeiro - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTjVuRGNEQ3FKWnpnb3pMV1dBYlUwbkhZb095enYxRlN1SjY0YlFQRGVPY3lKVG5Yc2U4TXNfRndnT3o4NDVqSUtoeHozc0UwYWhkcHNjZzZoT1EtUWtPcEhjTkV4MkFqbEZNZXpkaHQyWXRPSGwzckZNbGhYQjdQN2xQVk9lTnJIcW4zMklaeVRTMk11LU1nZUh3aVN4amdSNEt6TDM3bjI2NWs5bmdKSjVLb01nNHAycWxJOWtHcXhpOVJlaHJIWlVORzQ0cnJncmQzQXlwR09DTURweUc2SkVDRlVTM0NTZzVj?oc=5",
-    "source": "SAPO",
-    "ts": 1794991920
+    "title": "A IA está a criar pornografia sem consentimento e Paris Hilton quer levar os responsáveis a tribunal - Marketeer",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGtlYkp3MmF4TEJ3Ql82ZGE5MFJiTUZhUkYxX05QX3plVk01X2RldzhEc3FDdWJ0V0NBRXlKVmlQLVJHOGIyUkFxb3VIbTBKNUlSOTRsMDlMejJ1Ry1jTTlhQmUwR0NWYzJpTndxQTh6TUo0b3Y1Y1lkS09GY0hPTURTdndUa01ZMnRfbUNxNm00ZDY0c1U2T2lUQkMyQ0RHcjFhQ0I1WEpNMWN1TjF1dU8tTVZjVVhFa3dEWDZBcWMtdVZhVlE?oc=5",
+    "source": "Marketeer",
+    "ts": 1795008060
    },
    {
-    "title": "Ucrânia: ataque à ponte da Crimeia destaca drones e inteligência artificial - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTNKWWxIeEM5ZmVGclRmUVE3V1gwcGJGYmRaTjkxWjVUdFRtU3U3T2YyS2VYUThPSmE4UHNBRzhqc0dvVUJEcFMyQkpYR3phRUM2ZEVuS2hhUWJ6N0liS09WM0ZmNG1hRW9UVjExZDlRN1RyTFRSdnl1eUllUVgyeTVLc0o4VkdOQ1RCRGxfV05EZEE1RHhXM1NvbEJ1d3gtbm9lVVRSUERoY01WT1E?oc=5",
-    "source": "Euronews.com",
-    "ts": 1794985385
+    "title": "Junta-se a Xi e a Putin. Trump já está na China para a reunião da APEC - RTP",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdjdYM2ZFNnBDcE56RkZ3VWFuRDBHQ3hWVUdZZHN4bWc3RlQ2WjBUa2xTOHI0cHBpTUN5aklKdFl4NExZOHBfU0FwdzBaMVNDZWxjRzB2d3Mtc2s0WU96eUJ4WlZKN1I5VEhSMXhBa1VhZEV2c1pWNjBYeF9tUmxHY0UtQlMwcDBOR2ViMjVmR2RQelV0Q0JmeGRzR3JLbzFOSlRsTi1tMzc4WkZtd0F6dk1n?oc=5",
+    "source": "RTP",
+    "ts": 1795003057
+   },
+   {
+    "title": "Abraço, flores e passadeira vermelha: Xi recebe Trump com pompa, mas cortesia não esconde divergências - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaldxSHdTekQ3dHR3OVJyT3BTWkw3ZV9LSjBSUlFUNHF4NU1IZ1UtdDllU0dwaGxZY1hVRmw0WGVFWU1qdmlEQkdoUWhJNS05YjBQVkZEVGljZXB5MDdUQmtBUjJaaVF4Zmp3c0VRcUxjaXE3YjlzM2dHVXR5NmJLdnVrWFJaNEpoVElyQUdyYlFFYWc0d1VnbWRrbGtiMlZMYjM0YXc3VXFtdHRWYlhldDk5NXM5MDdUMGt2MGN3ZDhFamFuUmZyX3EzZTFXNVZqN0hKZUJUMzZtNzlpQ3c?oc=5",
+    "source": "Expresso",
+    "ts": 1794997954
+   },
+   {
+    "title": "Mary Peltola vence no Alasca e democratas vão controlar 56 lugares no Senado - Público",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPVUFfNEdicVBIME5WRnE1TG96SmVXYzhpazJnN2o1ZG9YN193RVZZVFd1eUY1OEJyaGg0NXdiS1VtaHBYX1FHMndQR2VMUVkzR2taalJHWW1oaGZLTjFJRW5PNlYySlBTRmZvYS1CckFxMmpzMk9hZlVablpRRlkyOVFzSURnRm1RYUhlTmxyclZaVkptVklUZ2VNY1R4LWczU1JBSGd6YUJRSjZ5SlFyTGZIWFpzZjZSZldiT1MzUDVfdw?oc=5",
+    "source": "Público",
+    "ts": 1794992110
    },
    {
     "title": "Espião espanhol ao serviço dos Estados Unidos fez viagem suspeita a Portugal - Expresso",
     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZEpRU2RBUk1CQ3Ffb19Qc3N5bnRpV2dXNHhFOTlwZ0VNZ1MxSklLQzVHTlBtU25VNEtpbkNKZF91Z2htMGgxOFlHN3B2YWRVV2FYS19OUVJOOG16eUxtejQxcEpSM21nMjZpSHhwcThEYk93dGtnRXVTYXBZVnRGWGhSOElyNXNUNVJaeHItRzhsYVRQdUE4SGd2MFc1ME9FMFpmaUxvaHVnWDMxbjFMd0szRzJPTGxXdnhXN2lRM3dibVFT?oc=5",
     "source": "Expresso",
     "ts": 1794985200
-   },
-   {
-    "title": "Democratas vencem no Alasca e aumentam maioria no Senado dos EUA para 56 lugares - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMVAzNE8wYnNYNFpZVWtiRUpoNjZYYnVNeUpVNV9EVHBjd2poOXNMQ2pHSE9FN0d0UDMyQmtYVVc4YTM2VXRJQzI3eG52bXhCRkg1Q3hyb0dnUXdrM3BGWkc3MGpsVWNBbUd3cHVBLVo5M1lWUzVhanRQdTIyY2llMFN3ajE3N29iTnBlZUtjYmRQdUs2cl9MTlVXX3hnNk1FQWEyOExKTXJQcC16SW5xSzFRajljVWRLbEHSAbQBQVVfeXFMTVMzTi1zczNlSEtoMzNHZ3RMSTRGZkdEVDRRbGZscXFXeXc1WmxjMURQNWtSQi1hV0t3ZHJER3ZJZzVhY3ItOVJmN1ZYY1p5QlMwUGlGTjlWUjBzUW9nYnFaZHpoTDkzbUNRZGxXcWVUaThaSjVzX1Vpb3ljRGN1d2FLSVc5ZVY3V21JUDIxS2RsUFJyUXR6UTluQkpoVlBjRmlVQ1VPRXpJdWppUjZycFYyVGxy?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1794981360
-   },
-   {
-    "title": "Onda de falhas tecnológicas atinge Governo dos EUA, Trump afirma que está tudo bem - Público",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3F5TUZVaDF5N1Q0MlZEZFVCTHR3Vk1pOGZkcmpRYjI5amVVMEQtRnVGUW1wUHg0QmstMlVNRnp5ZWNTUDlkeUlxbk1lSFpBZXA2NmVjQm1MRUVPbXhnSmEzNV9oUFVocG9uNnZ4YkJxTjZnQW9PTU81eElpNTNnN3RsVjN0WDRvUmNRaDdMVVkyR1BJU3JYOGYtMUxHX3ZrTnhLUUItZ1E4NVhlYl9Od2xDNWxNVk0?oc=5",
-    "source": "Público",
-    "ts": 1794966182
    }
   ]
  }
