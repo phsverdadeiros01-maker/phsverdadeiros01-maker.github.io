@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-18T00:00:09Z",
+ "atualizado_em": "2026-11-18T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-18T00:00:09Z",
+  "atualizado_em": "2026-11-18T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-18",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Vê OC Barcelos x FC Porto em Direto Online | DAZN PT - DAZN",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaGlKSlgxWUxFdjd4S3kybHV4RVB5ZnVlVFM0cEpuZmNrTDNrM01FZlF2Yi14MXNqa00xaWl2VkVQYW9PWkRsRkxYRDFmWXl1UVBRaHlQbndwX0lkcjlEY0tfd3dyb0VQOW1NWlNBOGZWRnZTc2lMZkVvbnloMVZ0UWw2dmZydGdwUlk4?oc=5",
+    "source": "DAZN",
+    "ts": 1794983899
+   },
+   {
     "title": "Casal de Barcelos recorre pela dupla absolvição de empresárias rivais",
     "link": "https://ominho.pt/casal-de-barcelos-recorre-pela-dupla-absolvicao-de-empresarias-rivais/",
     "source": "O MINHO",
@@ -1481,12 +1487,6 @@
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObVRlNFdUelE2T0JfWmtkV3pVQTFiMHI1RVB1ZGJuWktRcEZmWjlXZE93bExSbG9XSmtjVXV6NU84Z2VMZlNLNU1wblZ4RmFSSF9IOEJBd0NNZHBFYk9DZmlxekVabmkwamRUaG8wMUctZDlfcDlWeFBnUXp6WWdBQ0ZzeUJGQnNNN1hZUEU4eTk0bFU?oc=5",
     "source": "O MINHO",
     "ts": 1794940260
-   },
-   {
-    "title": "Trail: Águias de Alvelos vencem duas provas absolutas - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE03TFdFR3lSRmpSUU1MMEw3bWhxOWFicTkwM0Fldy1nUy13ODhUWHp4a1VTR0xvdGdaSmZud04yVzhtSWhjWmlLUEFyQ1BsLWM0NXNrMmp2WmlkNWFTbzgxQm42dHlobUlzMFYwS21yaGY2OUlSd2Qw?oc=5",
-    "source": "e24.pt",
-    "ts": 1794932440
    },
    {
     "title": "“Estamos fartos de promessas e queremos que a construção do novo hospital de Barcelos/Esposende ande” - Semanário Alto Minho",
@@ -1509,13 +1509,19 @@
   ],
   "esposende": [
    {
+    "title": "Esposende: Incêndio em armazém de resíduos em Apúlia mobiliza bombeiros - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83bTlTS0NhRXVZekQ2NFAyTG1CcUxibjhQZEFtQ1JIZ0RVS01zYWlURmItR2djMDdVdi0wZTl4dG0xXzBxb0VrZFY1OUhaN2NUeU9FNnhYMWgzUFNLdGRTaldTSU5ZOEFkVWc?oc=5",
+    "source": "e24.pt",
+    "ts": 1794971659
+   },
+   {
     "title": "Esposende: Colisão na EN13 em Belinho deixa dois feridos",
     "link": "https://e24.pt/colisao-en13-belinho-dois-feridos/",
     "source": "E24",
     "ts": 1794959086
    },
    {
-    "title": "Esposende nega que herdeiros do grupo estejam envolvidos com operação sobrre tráfico de lavagem de dinheiro - Blog do Ricardo Antunes",
+    "title": "Esposende nega que herdeiros do grupo estejam envolvidos com operação sobre tráfico e lavagem de dinheiro - Blog do Ricardo Antunes",
     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORERkbWh0bnVGbDdxeTB5UGRubE1tYlNvek1MMFZTQnkxUGlLUlRFOU5PZVgwWnJxZGVxaVJ0dG44RzR5YWx1MHlSbFRDTHYxb2FzejgzdEtJR08tR3JEOE9CLWVBUW5mdVVNSnFDUjBVNHNCdHlweHE2RFNwTm5iVWdvWDhnY0E1MURnckVBNHd2MEZTclJvdEF5ZmUzbjBneHRSWVA2RGxfczQ0bTNKVnpoZHNnT1Mtby1VN3ZiNXFVTUZQSnhnRTNRcmlkN2FQ?oc=5",
     "source": "Blog do Ricardo Antunes",
     "ts": 1794940834
@@ -1531,15 +1537,21 @@
     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1mbkhFRW9tWVE4Wm80QmVCZWYxbnBkX1RHb0dLV04wYnJTaDRBd1Q1QTBqbVR2NTBqSUIxZ1F3cXM0NVNjeUZnQncxZXFrVXVnREtZeU1Pd2ZRdk9WaXh3MGFPNl9reGtackdr?oc=5",
     "source": "TV Esposende",
     "ts": 1794918399
-   },
-   {
-    "title": "Vigilantes da Natureza detetam 3 passarinheiros em Esposende. Suspeitos fugiram - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR09WUWt6ak9iT3YyQTJfVjZpUnVlT0JSeVhaNkRxYVdHZ0NBckMtNGhJcENPZ04xY2xTa1h5cVg1Q29RcjR0dXN2T1lFQlp0RUNaYWFQY0JVbzhQNjdPOHg0VEJrMkpNdXRzRUttVFdaRlp3eWJ2Zm44THlHUllQWjhkNkU3OTBfX1drU2RQOU9yTnFKSmZlN1FrU1BXUQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1794908100
    }
   ],
   "mundo": [
+   {
+    "title": "Papa desembarca em Roma após 12 dias de viagem pela América do Sul - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSEoxRS1jS0FVMFpXVGNFYmRhZXpDdEJVeFN5c0VNZTQ1b1JMWjY1YzRvNGJ1Q01oWkZrUFVDaTZFRm9oU1VKaDhVVXBHSXRsTmthMlppeWlTQjR5NFh3M002WHJDMDBoX3FLM2VGX2E4UFNpdW04Mm1WRmh3VmhtenZ5RTRzS1FQMUI2QVNlVVJaRlZDZlhETGtETGZoTlda?oc=5",
+    "source": "Vatican News",
+    "ts": 1794959400
+   },
+   {
+    "title": "Oposição israelita tira ao Likud de Netanyahu a presidência do Knesset - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdEhBQTM4Um1la1Y3bXljdzRCMFNFc3RMelpsVVNyZjVtcGlnZ3lHYjFwUW1WUDhqRnQ3aTgyajNwb2pGM29zUkVheGdnMnhXNExIMjE5Ni1xY0h5b1VKX1N0ejhJbFltS3pJMTFWckIwYzZOMnMtRlJxenkzWFpfWEo5aDhlaXNSSGNncTlaLXhzWDlQeHZHYVR1bUpUMnYwLXFscURibXhna21ndWZmR2N6SE9TcWYzQm02b1k2SF82OTQzMzkzbV96SXF6UGRLOFJzTm9FaXE5Q2xOYjlrd1hwRTROMU0?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1794953088
+   },
    {
     "title": "Rede interna da Agência de Segurança Nacional dos EUA está em baixo - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZE5GRjhaNERFTWkwQ19QTjJLLVIzNDdEWk4xVjB4UGd4YVF2WVAtbjhzMUVtTm1LMmQ0RWZmNlpscGpfRE9LdHgxSmstMmszcFEyUlZRcXBaSXlMT2RxRFZYS2pXck1RUy14dVVhM2hRTU95R3JnUDdBNFdNMkQtNVpyaVhQRElxMVZtdnNqTFN2V0M5YWQyRTlOLXhGZTU0aHg5Nmo4cUVWODDSAZ8BQVVfeXFMTUZvYlNPSk1CSUZoRVFuYXZuOHBzZkRMLXhyUnNrQmlMNGRZWDByTk1uM0N5dmlYU3RHLXRtSzRFNlhFVUthY1ZDWldubERfb1dVWmJxeVNvc1g1UFByWnU5aVp2RnViX1pYVk9BcUFSX0Rjd0RyWTJQWEFfd0ZPeDdpcjk2WU5TTWswMU5qVkhESFdNTVNoeHBGczdHVEVv?oc=5",
@@ -1547,22 +1559,16 @@
     "ts": 1794934080
    },
    {
+    "title": "Espanha aprova aumento do salário mínimo e da função pública a dias das eleições - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT011WUNCMDhOdHgxeHNtQ1k5eE8yZWdJTkJsTEVjdVNPbFVEQ3ltU2RxdVFaS0tlSUpIVkxQR2tLRnRVN05CU3dMYWlyY3BkRl92dzFxdDM1WmNmblI1Wktoa09RVUNpVlNmTlFnZ01ZazVfYm5GZVZ3UDVlOE5LQ2IxUGdqVGlnYTJJamhDZ2sxdTNKajBNUVkwcTFUTDZmRXdwd0g2MVhLVWpqdm1uNXlaU3VHUQ?oc=5",
+    "source": "Euronews.com",
+    "ts": 1794933422
+   },
+   {
     "title": "Zelensky celebra operação contra ponte da Crimeia após ofensiva russa contra Kiev - SIC Notícias",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOam9Ra0RJNmthd2hEempmbjl5TWNDbmRFZEFzNDNDbDRIRU1BWkZldUdrSEplS1dhLVpKNjE5ZmhfZkttMHNYaVhNRmJZNVJMdlFjcV9WRkprbXJ3YW50UENYd1h3djNWNTk1SXhzX0FMRXlyZHRZZ0gxcWU0YVZ6R195UWVFdjB5TmFCWkllUFNnUWp6RkZpeW1RbFdzd3N0b3F2ZmIxUmRMZE80Z3Frc3lTdnplVjZnVjdlVklIOGt6SUE3TDR6WTVwUDYzSFRFNE5QZlBYczlEaUhXWjhvT1pJYlRfTmthZWk3TA?oc=5",
     "source": "SIC Notícias",
     "ts": 1794920294
-   },
-   {
-    "title": "UE prepara novas sanções contra a Rússia, num contexto de exigências \"absurdas\" e ataques de inverno - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxON2FORDFUN2llcWlfUEg5ODRpN1FXX2Fyd2tzOWg1TzVGajhJT3B3UmRjcllRTFZxTlEtWmczbFBGT2pfb01scDR1Uk13R3QtRE0xT1kydHdnZGowdFdpT25QT1BwOFhyUU10bWY4ZzlSRV9JYWt6QjN4WDNZd3dmZDNZRUd6QWNXWU9QbjFtakd3TkYxbGV5NWRBTnJtUzBGdTJzZlRtYTd6bkVnMFJYckxrUE45bFcyZFhiZEkzZHo1akE?oc=5",
-    "source": "Euronews.com",
-    "ts": 1794918223
-   },
-   {
-    "title": "Estudantes começam a governar a Sérvia: prometem restaurar a democracia, mas o rumo da política externa é vago - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZVFBOVhLZExLc0xYMjRXZ051akQycnk1dmJnNFlPOGd2R1BqNGdPV3o4d3ZMWU1tZXJQVkI4SVkwUmNrZDh6anRkVF9QaDBUTmY0Wk1yTmw0S0lvVE1vUW9zelBHLXVLRDkzU1pXcTh6TXdKT2p6WGh1NXJfa0YyMTJ3SHBqbm9ZNzA1YVhQNjFoRjdyZTNXc2RUZV9IT0I5OHFTYVVNTlhSUGQyUzVFSXJoWm9wZ25TTXYxbzdQOWEyc2RRTEhQb180M0JtaGdpQ1k1Z2FPTVBJMl93aWgyNjBfNzhiUFExS3Z3?oc=5",
-    "source": "Expresso",
-    "ts": 1794915295
    }
   ]
  }
