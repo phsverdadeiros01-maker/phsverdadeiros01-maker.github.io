@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-19T00:00:09Z",
+ "atualizado_em": "2026-11-19T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-19T00:00:10Z",
+  "atualizado_em": "2026-11-19T08:00:10Z",
   "dias": [
    {
     "data": "2026-11-19",
@@ -1509,6 +1509,12 @@
   ],
   "esposende": [
    {
+    "title": "Nada de passeios junto ao mar em Esposende, Viana e Caminha: Previstas ondas até 10 metros",
+    "link": "https://ominho.pt/nada-de-passeios-junto-ao-mar-em-esposende-viana-e-caminha-previstas-ondas-ate-10-metros/",
+    "source": "O MINHO",
+    "ts": 1795074701
+   },
+   {
     "title": "Esposende promove compostagem doméstica e oferece compostores às famílias - Semanário Alto Minho",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQnpGbHBPd0pmNjRKVFRmV2VJUFpjWnFYYk5aZmRteU5ZaTYwQUktWUVtLWlVU1VGdU1PRDBoMlpmUWg3Q0tpdS12c3NfaHpXRUhXODNhOGhRV3pPb0xscHBCeld0TXRPY3czZWwwZFJyX1FfRHpsTzZDN2I4cWtJc3JQZnItS2tjRlNScUhFUDdkWlhFWEdaRVpwZ1hoOVZXcXhwV1FaWUdSYlptWVcxVUZ4am4?oc=5",
     "source": "Semanário Alto Minho",
@@ -1537,36 +1543,30 @@
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE52bzB6NERQd2o5TFNBdVQzWm92amQ5a0VQbUlGSEVrUVAzLWtLUUpDd1pwZDZ0Vi1NQ0t1UEpxTFNtV2lCTVJEZ2w2TXg1WVBaLUJqb01Lc2VDaTMxTlE?oc=5",
     "source": "e24.pt",
     "ts": 1794959086
-   },
-   {
-    "title": "Esposende nega que herdeiros do grupo estejam envolvidos com operação sobre tráfico e lavagem de dinheiro - Blog do Ricardo Antunes",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORERkbWh0bnVGbDdxeTB5UGRubE1tYlNvek1MMFZTQnkxUGlLUlRFOU5PZVgwWnJxZGVxaVJ0dG44RzR5YWx1MHlSbFRDTHYxb2FzejgzdEtJR08tR3JEOE9CLWVBUW5mdVVNSnFDUjBVNHNCdHlweHE2RFNwTm5iVWdvWDhnY0E1MURnckVBNHd2MEZTclJvdEF5ZmUzbjBneHRSWVA2RGxfczQ0bTNKVnpoZHNnT1Mtby1VN3ZiNXFVTUZQSnhnRTNRcmlkN2FQ?oc=5",
-    "source": "Blog do Ricardo Antunes",
-    "ts": 1794940834
    }
   ],
   "mundo": [
    {
+    "title": "O impacto do ataque à Ponte da Crimeia na guerra na Ucrânia - DW.com",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS2xIZEpBaldsVkFBclVWT09FbndnOTV4cUQ2Tmw1dnc2aUh6TWt5QkhkMUowVC1KTk1sUk1WX1p6REVTMkt2YUxreHpYUHFONXp3N0RRb1pHSlgtdGJhY0V5SmRhTFFWMVZBaENZeGZHMEE5Q1N0U1lkd3AyczVyYkQ0X0VSbXdVdmNNTFVvNDRhM0FwWFM0TGZYeTRlcDFmdk5PUFFMSTTSAagBQVVfeXFMTVhyRm43Ty1JdXM0R041VmN1aEo1ZFgyZWRFdlVHOG9NazlLLXkzY1ZkX2ZIQThSZXR1ZDlIWXV2OTgwS2VCWFhfQVcxM3BuNVJ4LTVuSkVsMUxNcXFMREp4VGp1LXRVUnE4QjRZeFl0MVFsZnVRTFZzckg3cjN3WHlTdjNOVGhoMmF5TW55TzhIM3pPRUZUWGhBb3pLV3RfUWdHNmZUNkhV?oc=5",
+    "source": "DW.com",
+    "ts": 1795029804
+   },
+   {
+    "title": "\"Posição de força\". Comissão Europeia propõe novo empréstimo de 45 mil milhões à Ucrânia - RTP",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHJmYU9LYUZQbU1qSDBla29FQjZ1T1JDcnF0cHdyQ3lOZndYaFVZTFRXU09Pc1hxX3VWWkl3Nzk3MHRtU3diZGpQVHFveFFjUU1yazFtNjRRc0ZIUzBfTWJqRHFtWldWSVJWUzFrMGExVGs3OFlnc3hmNzZ5eFdkOHM4LUpybUhXS21ZR1B3bk42SXpfZl8ybTNJVVl5b2szZ0EyYVluMk96NzBJRXNLOXdNcVh6MTZKLXlyOVlsQVVxUUljNS1z?oc=5",
+    "source": "RTP",
+    "ts": 1795025586
+   },
+   {
     "title": "Trump chega a Shenzhen enfraquecido, Xi joga em casa e Putin procura estatuto - Jornal de Negócios",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzJReVN5NXFzUG00Vno0SGdWbnRGOTMzX0xfTUVBaVFmaG1QdDU1aEJGSGtZT0ZUVXhVN3hBbFF2V05UeE1rTWE3a1hKdWY5YkNkMDlNNUltODVhOW5kX2pMWlFMLTBmX2FOc0g0MmhOdXU4c3lCU3o2X0V4SndtaTFRbWZwM3hnMUIzR05YdnM4SW8yZ2swcW0tM2NaZFdkZVM0SjNvRXJOYURCbUlKSEtic0lLRzFiSnRnMXVxME1uWFJDajEza2RXTQ?oc=5",
     "source": "Jornal de Negócios",
-    "ts": 1795025382
+    "ts": 1795025280
    },
    {
-    "title": "Polícias franceses montam tendas por melhores condições de trabalho - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNbkxwZEgyTFdnMzFZWm9UQjR0SHJXVWZ4SENGR1FQTHRWcGY4U011emxObHZENnVDc3Z5NnFGaTYtaVIwcjhFOTRUekNxa0lEZC1qT2NXRlpiZ0pEN0VqaVpxdjItYVNyS0lMV0lXZXJhUWZraS1GWTMyTFV5c3ZkMjE0VDFiYzlzTlVvSTdiQ0lKTkFCVjBCMGxRbkVyd1hRNkNSOUhlTXA3Q2_SAZ8BQVVfeXFMUE1qMlI4NTFjZHc2UkFOT3pod1RxRkR3Y3FXZVktOFd1NVlfQjB1dm9PMHRuRVR2LW9qVnZWMlRzeXc4T1NPVmlBT3gwVUZrOFNTVVlIbldfSHlmY09GOWxVQ2dJYk1OajQzOFhRN3ZTU3B0NGpwU05qZTA3S1BFd21WT3kxYW1PM2FjR2VOdmdCWWJnWmJiTzJQMGVCNG5v?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795021020
-   },
-   {
-    "title": "Biden critica Zelensky em novo livro: “Teimoso” e “pouco agradecido” - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeE9lN1BTa2p5ejQybE5SSXVUVDJLZjFFX2tob01IX2hsdnRVMUFzNFpRR2tRcEFrV1c1bXo3d0lQcGZ0TC1NU2lidUVYMURNTDlSQnZJWEV6VVVlNzdaOEtJdU5KZk9BTEM3cUZOaHlJTmF0YWo0TkZlV0ZxTTZxQm9wbVFBdG9VdXVkTlhjcVBkbzVyODA0MWlmN1VxLWFOM0I1TGhhSHR4VWVmMDZEa3BBN2E?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1795006262
-   },
-   {
-    "title": "Cimeira da APEC: Entre um abraço e um aperto de mão, as divergências políticas persistem - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTUpNSGVnUWJXZFFqTVp1LXdqYmdIZVY2eE1Takp4eS1vMExLRUhEZ3JYZmpkZ1ozc3VsSlQ0RjJhVVdFMzktQ2t6a0RIbEV4by00eTZXRzhURmtUcnQ4UkVSUHNMV0dja0lRQ25zSk9sSjI3NmhPWHFScGw3YlVaaEtJSl9YblRqaVdBd1BjNVd2ZkVIZGhaajN0S0xXS2dLM0xyaklFdENCN18tZ1JKZ01Da3FHcERCZjR5Q1ZLWXRiY0RReTN3MXVJeV8?oc=5",
+    "title": "Abraço, flores e passadeira vermelha: Xi recebe Trump com pompa, mas cortesia não esconde divergências - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQaldxSHdTekQ3dHR3OVJyT3BTWkw3ZV9LSjBSUlFUNHF4NU1IZ1UtdDllU0dwaGxZY1hVRmw0WGVFWU1qdmlEQkdoUWhJNS05YjBQVkZEVGljZXB5MDdUQmtBUjJaaVF4Zmp3c0VRcUxjaXE3YjlzM2dHVXR5NmJLdnVrWFJaNEpoVElyQUdyYlFFYWc0d1VnbWRrbGtiMlZMYjM0YXc3VXFtdHRWYlhldDk5NXM5MDdUMGt2MGN3ZDhFamFuUmZyX3EzZTFXNVZqN0hKZUJUMzZtNzlpQ3c?oc=5",
     "source": "Expresso",
     "ts": 1794997954
    },
