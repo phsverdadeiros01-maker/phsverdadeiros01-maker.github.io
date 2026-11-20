@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-20T00:00:09Z",
+ "atualizado_em": "2026-11-20T08:00:09Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-20T00:00:10Z",
+  "atualizado_em": "2026-11-20T08:00:09Z",
   "dias": [
    {
     "data": "2026-11-20",
@@ -1533,19 +1533,25 @@
     "ts": 1795088400
    },
    {
-    "title": "Mulher gravemente ferida após ser atropelada pelo metro em Vila do Conde - maissemanario",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS2FuUmRXeXlhcW5BbkhKNUpGcmY2bEpRWU1aWVI0M1pwUWhHeDZiaER3a21DWHB5UW0ybjh2Z2FzRGxrSkkyMlJ6Qm1ab2NQRVhCNHEwYVZQNHBTWndabnIxei1yRWhkSUowWGhWT0p4YnJhSC1YWE9KLUNVNkY4M04zVkdUVjNkZDNuV2NqOU83d3JuYzN6cHozVEE5ME1TMVEwYVpwOVRGY2FH?oc=5",
-    "source": "maissemanario",
-    "ts": 1795088306
-   },
-   {
     "title": "Esposende: Gandra celebra São Martinho com Santamaria e Quim Barreiros - Braga TV",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb0l2Mnk5ajdjTzZrcWdvZU90VGtHYk9BYVcwanBVQ2RnVXNiQW9yWFZMSkNscVpjTVpXRk1FRGw1dWpLZWo2UDlaWEQyZjNqak5IQl9IbjN5RFJGVlNQY1BLVk5xVlhWeVBmUXVUa2F4aDZ5OW9Qd1ljaGZ6akFRZVlRQi14Q3V5bnJucjNNTDJQM2c?oc=5",
     "source": "Braga TV",
     "ts": 1795086135
+   },
+   {
+    "title": "Nada de passeios junto ao mar em Esposende, Viana e Caminha: Previstas ondas até 10 metros - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOElsZm41bXVmMGtWek53c0drMWtIZXhQWnlsbXFGYmEtVlJNbkh1cnhOSjdwSGVDYVRONGVDdmFuSEJ4QVc0RDluVWxTb3BpV3Y1TnphRmh3dUloNWJPY3lWR3RzdVdQN2k2ZkQzV2ZMOW8tUW9NM0N3dXl0TUJWRXpYTXdLSWdsUklYRVl0eFpkdG9zdFBRWUIzUHNKNmIxMUJ4WXpjZFU2ZUU?oc=5",
+    "source": "O MINHO",
+    "ts": 1795071060
    }
   ],
   "mundo": [
+   {
+    "title": "Feijóo \"atacou a jugular\" e Sánchez não se defendeu - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNaktZYTNhTEVVN2tCeFBhejhpZGt5ekU0QXYzRW9WRVQzUDJPOXJLdVRMb0Y5RER3Zm9FbHFwc2l1YjRkNW9jYl9LU0V3SWVIR0JOMkhrVkN6bWpLUDMtNUtjdDZkcGNQLS1qMk9QYnA0blQ5OVZOWEotQ3ZIcmVzRU1LMDBIVWxialRIRlI0UVE3TDRORUViRnl0bGhsZ1FTMHMydVBlQjRaUm9lX0NoSWVXaFlWamJNLWJiYUY2X2dQV0k3NzhrangzQjV6bGNUVHk5MXlvTmhJTUl6VVBHNlpxbHdVV2dGX3A5MjV4djhLU2E4?oc=5",
+    "source": "Observador",
+    "ts": 1795136220
+   },
    {
     "title": "Birmânia é o primeiro Estado a ser condenado por genocídio | Birmânia - Público",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWHNlbE1zUTVtQktLejhYMUtsZzUwZ3RqRGM0WFh0UDJZblByZ0gtOFRzcENhNmgwY1JLTHlVUEVELWxCQ21jWFVjOF9USWUyeXM0WVF5WVlTM3FjVGF3Wm8xS3FWdmRWQWRNVHBuN3FGWkkwZmlyTjBCTkNRWlFtdm51Rm11V2gxcFNCMnp0Mk9QY3F3TzN3LTlsc2NyenM0eERRZFQxLWM4UkRMZllGQW5RWW0?oc=5",
@@ -1553,10 +1559,10 @@
     "ts": 1795113660
    },
    {
-    "title": "Quatro detidos em caso de britânica drogada e violada pelo marido e outros homens - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOX1h0RktGQ2Fja25XOVE5eEdsbTNhczdXcFVXd3BDRnhWS0J5b1Z1b2pJWGpsTlRVeGJvN0M2RldxYS1lNVVia2Yxd0Y0UWl6VWxjRG1fRzBKSGtacFU1dEFHMmtmNzA4Tk9oOEdYdjVLOUlINElJVmdkM0RtdGpDSjZxVTFrY0lFOWhpOHNLY09mQ0FKV3h5U2I4VHVUNExPSWV5WlZiTVRtTlFOWXdRNy02R0U5REY1cDBkX3pB0gGyAUFVX3lxTFBqRktKOUxvWUJpR0lpemtGZUJ3S0d1N1ZVNzBYTU5rbjF2c3hFZWhNWk5LVmV1MWlJandFSHczTV9UTmVuTjVWX3Ywbk5ybWZVdXBpa3lHRTdheDM4aDRKclQ3NlpsZVFjZURMWHZtdzI3TFVlNHA0WDA2dkt0c0dvTWNsTmtjT082RU9xV3pHQXVZTkhKR1FLT3BWTzdYZlRXbUpQUVA1alBCZEdKcVU4Zmc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795113120
+    "title": "Homens britânicos culpados de crimes sexuais contra mulher drogada pelo marido - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQl8xR196WWZDWVI5cUVsbU5lMGlQRkJqZnpScU9EM3BjQlQ3Yk9lMmJjZWtSeWRJYjdCV1NmTlpJdGozWUNhbTRtUm1FWW5WX0hpVHkxeXJiMTlmdE40STZHbVZLaXE5UWZ2cUwteFI3S252Vnpzcmpvei11d1M2dXFBSndNdnluMm45c1U0NXNQWFZSUWU4TkhmRnhleFZOX0Z3ek5mNkxMYmZZNWdhNnFPYUpMejlsR3ExN0d2ai15Uk5NZk5BWjJ5Uy1wVTA?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1795113335
    },
    {
     "title": "Ucrânia voltou a atingir ponte da Crimeia: “É um golpe no prestígio de Putin, além de representar um grave problema militar” - Expresso",
@@ -1569,12 +1575,6 @@
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONFo1VHpHSGVJVzN0VV9odlM0c2dKa2gySnJvdWUzOGh1UWRQMmRhRDk5cTJfMlRwclZ0dkxmbl85WjdTNmpsNUdqbnNOT3lYQzRWWURFdFg0WHNaQUhCX3RWZmJoX0M0dUQtVTNodTk1b2Y5OElJU1F6S2pVbFRTdEVicTJjbG5HNU1tZ2txdVlqZE5xR01aTUJsQmt1dHZsSjNCSXBzTGVuTjh6U1RDVE5R?oc=5",
     "source": "Público",
     "ts": 1795104474
-   },
-   {
-    "title": "Ucrânia: Putin convida europeus para Moscovo antes de eventuais negociações diretas - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQ1NkMWJNVVNSV0xqM0xyNlYxU2lxM2M0Rmsxa0JyV1FPa1JVWEVQcTR1QTR0dVA0YXdYSlJ1eUZ0d3dqU3pWcXlJNmtxZnUtQ2VNODZDZ1lMNVZyVHVlS3RjM0xWNFZHZHhiMjYxZ2s2SndMUktTX21SMnNjcnIxZ29FUC1tcC1SNlBfdTFqTVF5UDFrQW51WU9UbTlNb2I1a0pxQ1NnWHdpczUwTDVNWg?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1795103268
    }
   ]
  }
