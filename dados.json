@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-21T00:00:16Z",
+ "atualizado_em": "2026-11-21T08:00:15Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-21T00:00:16Z",
+  "atualizado_em": "2026-11-21T08:00:16Z",
   "dias": [
    {
     "data": "2026-11-21",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Encontro de Coros Jovens - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSjRhN2N4SGhNbXB1TEdzYjA4QWM4NExjbW96dzIySnB6TVJDWnNRR3JjNi0wbXRyUFI3T2FpMzVuMm1ES25YY1Q3ZDZIUGVFUVNyMTJtX2Z6Vm1qTVpSSEdDNFFkOFdaUDlQQlBtNW0?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795239314
+   },
+   {
     "title": "Barcelos prepara mais de um mês de animação natalícia com concertos, desfiles e mais atividades - Fama Rádio e Televisão",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWo0dXZxMkRUWExWOV9ZaUJJV2I1aFBRTTdVM3FrS1NjTXRuLXlXUlRjZWJlS0g4SDEzaFF2bG5fRFhsN2JTX1BVNDVzNDVFU2xwY2gzWHNxeE5vUDc5V2ZSanZWcEVQVkd2bThwdW12X0VTbTgtZTNsTlp3UEQxSnZvNExJR01EOFk1MWRIdl9udXMxQ3gwZlJ5ajlPTjFZNHQ0SlFwVm1ubDdXUjY2TTROcVdScWlwUU9MZHJUcExfcVFEOER2d9IBzgFBVV95cUxNVndyb2VfNFNnbm1WX21BNVFlZC04c1ZvaTA1RzF5a3dKZ0g5SzN3QmpYN0FBN2plWXc0dUJwYnZRSnFzaVp2ZF8weTBOQUZ2Mkt3VGJfR2R5TlZ6dlZibENSVXBaUTNMbFFyOHJBQUc2Rk94Z0JqUHhXeEpNdXRzWHlUOFFFOTlGNFNfZ3F6MXhVZ1hUWm9rRFR4QmZZNEdwTkZwWHQ5ZnJKM2tpR2haSnNaT3hBU2s2MTFPVU9lZ18teU5xZzk5M1NDc2dUUQ?oc=5",
     "source": "Fama Rádio e Televisão",
@@ -1499,15 +1505,15 @@
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ndzNOQ3ZudE5UeXlxTlF6c2ZZSS1vVVo2U0NrTXdmYm9Ea1d5c29LLVZzRnpDZ2tNWTBIV1hNWlpGclFYamRzb1YzNm5FNkk4bE9FTmJYUUlGUldOejZfVm9CT0xmTmVxZmtILVY1Wnpvamx0WG9qR3NLSGxuZkk?oc=5",
     "source": "| Radio Barcelos",
     "ts": 1795167868
-   },
-   {
-    "title": "Barcelos reforça apoio a idosos e pessoas vulneráveis com 76 equipamentos de teleassistência - Fama Rádio e Televisão",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTUl4XzRUaXlySjczazJVWUs1ZzIyVGg0eVNnZzNLXzF5dkVvZ1FXazE4UmRjVW8yb0FyUm5YS1NlUmlYendCclI2QUI5SlpSdFFxdFdLX2pFY2QyWEF1d05SQjB6YVhUVUZiVGRUWndwX29iUEsxckM4YUNyWlVlLTRkanBneVM1bkF3cjZRMDl4SU1CVWZ0Y2Q5NkFkUHA5THVnTG9hb29DVXpzbFNSSmR0Y3RIbktYY3hzT0FhcmN3a2F0T3fSAcsBQVVfeXFMTjF1LWZtMWsyTVV6S1V1aU5fdHNBZFV1NENMSUxZVUN4bUZFUW1sVmRDcnloNGRtVjJxRm9pMTZFYlU3MHlLRWZTTlNmN2tLeVZtVlEybTBmdkJmYlpHUEkweXI1U1psV0hYTURiNm1PVXFadlo3bGFRemZzRGNEY2l0SjktNWhSd1U1TWV1bkxzQWJPaWhxUGhDb1hZbXVGNTFHSW4weTQ1T0lkSkFFNm9ya1REbmN3QUVXUTUyTW50TmM0dFZ5ZTMwaFk?oc=5",
-    "source": "Fama Rádio e Televisão",
-    "ts": 1795156832
    }
   ],
   "esposende": [
+   {
+    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVWJIZnJ6VF9TQWdTV0NEcWR1UktRTVVybFdmYnJqc3htWlpaRjF2eTEteFFFd3o4WDhYRjMyQkJYQ0FneVZ4UEVpcHJaTUdZV21adTl5OFNkem1uMnRCbXNPUnU3ZzdoZHZCRmU4V0hYU3BZS25UT0k1UWNsaEE?oc=5",
+    "source": "TV Esposende",
+    "ts": 1795245876
+   },
    {
     "title": "Esposende ganha ambulância do INEM em 2027",
     "link": "https://ominho.pt/esposende-ganha-ambulancia-do-inem-em-2027/",
@@ -1515,10 +1521,10 @@
     "ts": 1795212589
    },
    {
-    "title": "Esposende liga iluminação de Natal este domingo após adiamento da cerimónia - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkRkcFNfY1BScTNnTUdSYmVRYzBoMjIteGpjNzAwU0l0SjUxVVNmcXdxQ0w4bTVmQ3ZJN0R1QnVJLWNxQXRnaGFHWFNwUFZzajBZZDRwcWV4MWZ6aGhyQUtNeUxpeFdmYWdwUDVxNG9abG5rUXoxM3JKWmdtajhNU0VsVlZJLW9QN1FudVBwbjdqMDJzT0VOM0FZMXZhTUtLNGRENkdQb01RaG51Y1U0NzFYNjjSAaoBQVVfeXFMT3MwUDd6bGhKVW9lMFhjX0lFd2JJeDlOUEhjSnFlWk5sMkFTbmZuXzBMME5vZHRodl9CX1ZYZUxhY2ZhNDdtaFd5RE9EQzMweDVjSEN3a1JxSmhSbll1V3ZVSzRvS0EyTzZlc3pZdjBlSXdWYWtxQkd4QkRNSnJlbUUxTDRtZ0xyWmxyeEdFUVJsUF9lMHhEeWxOaHgtc0RjcG0yR25SOEVlNWc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795198740
+    "title": "Esposende adia inauguração das luzes de Natal para domingo - maissemanario",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWtQRC1FUW5YS1Fla0Vnek05Q05VZ2VXM0lLaWxiTDNtdzZXWEJiNXZ3MG9fSHZYODlQQ0VPeFhTaXRJQURhRHAzYmkyU0tjM1VkUTVtU2phWmZGVmh1MFVUdXc2WmhnMlkydHkxeXNNeU9uWC1Za1luVnFRNnJTdUYwREhjbmszeTFDcFFXN1BtZW1pSUlXNURtRQ?oc=5",
+    "source": "maissemanario",
+    "ts": 1795200047
    },
    {
     "title": "Mercadona investe 9 milhões e inaugura loja em Esposende - maissemanario",
@@ -1537,26 +1543,20 @@
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVHFkM0EteWJBM1pGNXM1RmZQWFlfQjkwREhjeXBrZVA0cUFOd0ZwclVXSHFwN0puYkczT1pvaGN5dXRsdDV5R1ZRWkZPbldHc3ZIZl9HOWZBNnlaSGZ3eW1WdFpHbEw0OEVZeXRRMUp4NzBYRVhwR2hOem5TdW4zQ0xWYmlnNE1tQjdGSmUxd0JVLUNueTU2czZmOUV5eWotMXNKelZFWQ?oc=5",
     "source": "NiT New in Town",
     "ts": 1795111020
-   },
-   {
-    "title": "874 mil euros para projetos de economia azul em Valença, Cerveira, Caminha, Viana e Esposende - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMEVRMkIwRUxnX2swWTBGNTB2dUV6cVFtMy1nQm1LcEpseVg0VGh5Rm5KQnExaEgwVFZUU0FnOWUyMklKd1dTVjU0MFdCcTZDTHhEbXRtbDR0ZFRoNV9YUHBGSGViUm9rVDQxM2VHOUdlVWg4NzRlcmtJWFpqR3JFaUJrRjNPY0xEV3d1aGFlSWcwZ3ktaWx4RDBLMjAtLV94SHlvdVpqcDcwMlZMSXc?oc=5",
-    "source": "O MINHO",
-    "ts": 1795100460
    }
   ],
   "mundo": [
    {
-    "title": "Jair Bolsonaro hospitalizado devido a \"fortes dores abdominais\" - RTP",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONjdVM3E0alpyXzlKam5PeFh0NU5YenAyUDlRNktjMmRfOTlDOVBtdzNIRnZVUHhoOG4yY0I5YlE2ZnZFd051Q2x6TFd6QWZCOE5TbktpZzBDbEFaWjJWZ2luc3dqQ3loNnF3X0VyU3NneEFvTzZTZmxRRFBjUmVDNHB4bVlLRlBSdERGRmIxLXc3MVY0OGVqc0g4WjllQzlqVDkwWmVUUQ?oc=5",
-    "source": "RTP",
-    "ts": 1795210589
+    "title": "Arranha-céus mais alto da Arábia Saudita danificado num ataque dos Huthis - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0t4OFhkeF9YSU9NQlZ1elhLV2cxdkZSM09ITWNfUXJMSS1TZG9zSFlLUE1NRWlmVnQ3ZjNjc2ZqVDlvWVNvVVpNQUdHUnQxRnBVeDl4WUpUak5ibUJTMXhtazU5LVYxZ0RZbmVlaS1rQkM3aDBCZFJtWm10dDFFZkRRSk5ZSWhKRVFWOW82LU5HX3N1ZFA2ZndBelZsTkpKaklweTJB?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1795210015
    },
    {
-    "title": "Trump avisa: \"Não vamos permitir que as empresas construam centros de dados noutros países\" - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdW1uaXVTZFpLVkFJbHdhTl9lSV94NjludDFSMkdHdXlpbjZHbjNhTlZFcnFNSHhtOS1qNDh6WUgyTUViUHRmWlUtT253X0J2N0ltM0htZnM3ckRrLTgtdTVYcy1XU1h5ZzBHRHp0VS1fTDMyTGZVRDJiN0pfclJuYTVoV2RlVXc3RlhIczRXWEdINDdvSzdjenBLQ0x2Q0ZpbWtIakliSm50SzNkRF9tTWVVYzNvYmVoNUNnRG9FWTQtVDBuQ0Jtak9nbUo1NlJ6aVNuRXJmMXg1SUdreUpyVmpoRVdXcVE?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1795199181
+    "title": "Trump diz que mísseis russos caíram na Polónia \"por engano\" e contraria Varsóvia - Diário de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0dTSVdXcTd6bzhwMWJjRk15c1VoZ3A4dEo0d1FxQVVScVlvWmhOM3NnUTdad0xYZnQ5M21LN2p1SEVWbms1dUNrZjdUZHhKSlBBM01zVlJiQTdkRS1nR2xXRkZYeFExeEpYVzVUT2o0MXhId0NIYTFqc1pkSVBNWHZfTXRkN2xtVktwaUsxWHdSWW93d0VTeE93RzJwVkp5MXRnUEhnM2xtdw?oc=5",
+    "source": "Diário de Notícias",
+    "ts": 1795206170
    },
    {
     "title": "Donald Trump quer acordo de paz entre Ucrânia e Rússia fechado até janeiro - SIC Notícias",
@@ -1565,16 +1565,16 @@
     "ts": 1795193154
    },
    {
-    "title": "Polónia, país da NATO, acusa a Rússia de três incursões no seu espaço aéreo e de “provocação” - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMTNiYU9fNDVUTmNneXh1SXNWTmVPS0FVb05TOFRqd3pyLVVuVnF5cXVBNGxBY2NMYzBwVHNPNVNYLVc4TTNhcG1PTDY1bzBnSnZKTTNwVmxkbkZra2Q2MGxkc0pNMk1XcWVydlF6cFptSnZKc3RMcXFDeUY3NFc2cnhiRG4yQUVBQThvbEVZZmZNRUJ3cEh3b0lCS2ljSG9ZbDcxeG1OaDcwZVJvUnFOWkloMENtd3JiZnVuek1Wbi1QZS1zRkwzRS1WaE5UZU1INlRNX3FHdDRNNTB5?oc=5",
-    "source": "Expresso",
-    "ts": 1795179831
-   },
-   {
     "title": "Farage acusa Burnham de trair Brexit ao regressar a partes do mercado único - Euronews.com",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQ0hPajlxM1AxcGkwb01zUUdzYUVEZGY5T2xDOFRaLThSU0REQUlDSG5xall0ZEphV3B5WUpXWFEzVFNiYldqOVpwaFZqdTFHNE45WmhpRG9nT0I5QTNvSDlyQ2xqeTNtYm5JUG9YaHEzM1JaYTB1WVVVYWFXZ2gtQVN2NjJNR2hBd3BpYlNiQk5fQ0FFaXhtQ3hWaVk2TlMwMVktVjVPSFROeDFvVzFF?oc=5",
     "source": "Euronews.com",
     "ts": 1795177701
+   },
+   {
+    "title": "Joanne Young foi drogada e violada por vários homens durante 13 anos a mando do marido - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdnJEQU9Dd2Y2REZKc29kMHBhUDJmLUhzY19SY25PVEc3b2hwaE1nMVl2MUMwQ1NjOHdNWGF6ZUtxZjJDSEtHS3VCX3hjcUR2dHlITmhnNXZwTWh5cVFiXzhyZ2dXdVFoUk1MdzlLbm5halFQTW4tQ2s1ZmdrZWMyMS1LQWpTWFA4amd6NTdnTW5jYjJXaFhLam1vazVuc3lLb0E4MVhRcDNKRGNwaDNWamhlekVPNlBHWldDclBHYnFyUdIBvAFBVV95cUxOMlZBNm9DZk1fSXF2aU9WcHFfOUxjOHhMVUdub085TXFiWVRvX3V5Z3laSG9RRXliSlZESjhkcTR1emRoYm9fT1VjbmdjZUZvazlINXcxbXBab3RuU0swY0dfeThpeXJJeWZUYXJNYmRFQWwyV0paSkI1dE8zRUk3Zmk1a2FXNDJnNnpzZTl3NW1oZmdiZ3I1dGsxeGdVZTYwS3B5N0pQUE1YenMzUkdsNDFfQVdISy1OTDZUSw?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1795172100
    }
   ]
  }
