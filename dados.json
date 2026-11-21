@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-21T12:00:15Z",
+ "atualizado_em": "2026-11-21T18:00:15Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-21T12:00:16Z",
+  "atualizado_em": "2026-11-21T18:00:16Z",
   "dias": [
    {
     "data": "2026-11-21",
@@ -1632,6 +1632,30 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos debate habitação, transportes gratuitos e obras na reunião de Câmara - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk44MDBhcTQ0N0hMRzBLa21DQTJZS2JydnZqUTJtanl4Z0gxLXktc185NUVpMmh4Y2VMbzRKYUpYUnRlS2xJS0hOemZIQWU2OER0dEpNZzk0d0RjSm9WQU1yNlktVEYxSXZLN3VkUW1PeS1BNVc3Tlh6ZDkydkc2Q3gtaTZsOU91cjBvVklTMmh1dHJ0N1pVcWxPN0M?oc=5",
+    "source": "Braga TV",
+    "ts": 1795278554
+   },
+   {
+    "title": "Barcelos apresentou Mapa do Potencial Solar - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnpWcE9wOVBob0RwYTE4NkFsSk9oNFdRbG9CLUFKbzJQUGxTeVJFSTJ5dFl3UHlMRFBnanJyN1JWYnIxZ0pZUzhlSWd6V1dJMGtNVlM0TmZ2a3p1eFQxNDJiLU0tUnN0bmFIMXNEWldtSlBMNzNSSjZSb0RJZ0NFV0hIYkdoUQ?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1795273442
+   },
+   {
+    "title": "Nem Cândido Costa ou Luciana Abreu resistem ao “tasqueiro” que distribui amor e tradição à mesa - versa - lifestyle",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPR0I1emNrR2Z4bGdFM205ZDRxQnV1SG1BWGlYNHV5ci1DSHVVN0thMWhNMnRWakI5UzJ2OEZPWUtEcUdsaGZLOFg2Q1RURmRVcjdxZkswYWdnRFZiNWhZWU1aTURoQkZnS1BCQ3dUcUo0Zy14SGtlVGhvZEhzRUZ3b0ZrMVZGLUI3UDJGTnZWMTFLUVRaSGJhelFMU09lVnFfNHRla2RzZC14S3ZxN3E2RHA4dE0yOTJLcnRuOUZBMGw2TDdNMjRCQ2xGTVJmUGtEV1hxX0ozZWpPN1FUaERGR0xMQ3NTcEpGS2s1QnYxN2JMR0UzLVF5Wk55Ty1NTUh2d05iNDdPRQ?oc=5",
+    "source": "versa - lifestyle",
+    "ts": 1795266352
+   },
+   {
+    "title": "A Quarentena - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wdDRxbUVIYjc0SnktaTVJMEF2MlJ2cVd4NHB0OTlQdzdDTmxPeG9Ya3ZYaUlPOG15MnR5MmIxYUFVbjl5Yk45ckxEXzZ2a1hyUEhXOVd6ZS0wRDlMWFNNTg?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795264432
+   },
+   {
     "title": "Encontro de Coros Jovens - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OSjRhN2N4SGhNbXB1TEdzYjA4QWM4NExjbW96dzIySnB6TVJDWnNRR3JjNi0wbXRyUFI3T2FpMzVuMm1ES25YY1Q3ZDZIUGVFUVNyMTJtX2Z6Vm1qTVpSSEdDNFFkOFdaUDlQQlBtNW0?oc=5",
     "source": "Agenda Barcelos",
@@ -1642,33 +1666,21 @@
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSFBsbWo4YlkwS3hUYVh3cXA1cDk0Vmk5SmJGbVVzbkxuc0E3LVlDWWRWaDhtQVJnNlNqeW1tWDFhMFd2bERpUlpMSWpHTDVGLUEzd09tWFFmQnVwd0dYQU1QTXJNTDdPZkdlNEZTa0tZR3JNVDBjRXc5YXBGSTBHaGZsUjU4OHhzTmwxbmlDUEc4NFU2WVQ0SDVwdlVHeUhlQ0ZGck5xWWtySzRFYTdQWHQ1TlpYeU9tUlhvUXRKSWpMMXFEOGxrSjROSQ?oc=5",
     "source": "A Bola",
     "ts": 1795256100
-   },
-   {
-    "title": "Mário Constantino Lopes garante reforço da cooperação com as freguesias em 2027 - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnZLSWdZbjk2T25PRko3a3MydHVQUXlLUW9BWldxVjdTLWJSQjJpTm51X1ZiaDRUWnJyWTJmRzYydU9rSHNCaTl4THNfRkJ5TXRTSFNUN1hmRkJJeEZaT2xLUktlZGpmMDJuTTlkWjZEamV2LVYtYWhJSUFIQkFFdGNDQS0ydi1wX2p4bDZ2QWw4RllKT0cyQkFCdUhHLWRSRFE?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1795251757
-   },
-   {
-    "title": "Barcelos: Acidente a envolver viatura de transporte de doentes não urgentes",
-    "link": "https://e24.pt/barcelos-acidente-a-envolver-viatura-de-transporte-de-doentes-nao-urgentes/",
-    "source": "E24",
-    "ts": 1795249769
-   },
-   {
-    "title": "Barcelos prepara mais de um mês de animação natalícia com concertos, desfiles e mais atividades - Fama Rádio e Televisão",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYWo0dXZxMkRUWExWOV9ZaUJJV2I1aFBRTTdVM3FrS1NjTXRuLXlXUlRjZWJlS0g4SDEzaFF2bG5fRFhsN2JTX1BVNDVzNDVFU2xwY2gzWHNxeE5vUDc5V2ZSanZWcEVQVkd2bThwdW12X0VTbTgtZTNsTlp3UEQxSnZvNExJR01EOFk1MWRIdl9udXMxQ3gwZlJ5ajlPTjFZNHQ0SlFwVm1ubDdXUjY2TTROcVdScWlwUU9MZHJUcExfcVFEOER2d9IBzgFBVV95cUxNVndyb2VfNFNnbm1WX21BNVFlZC04c1ZvaTA1RzF5a3dKZ0g5SzN3QmpYN0FBN2plWXc0dUJwYnZRSnFzaVp2ZF8weTBOQUZ2Mkt3VGJfR2R5TlZ6dlZibENSVXBaUTNMbFFyOHJBQUc2Rk94Z0JqUHhXeEpNdXRzWHlUOFFFOTlGNFNfZ3F6MXhVZ1hUWm9rRFR4QmZZNEdwTkZwWHQ5ZnJKM2tpR2haSnNaT3hBU2s2MTFPVU9lZ18teU5xZzk5M1NDc2dUUQ?oc=5",
-    "source": "Fama Rádio e Televisão",
-    "ts": 1795229438
-   },
-   {
-    "title": "Eis a programação do Natal de Barcelos - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ibnNoRlUzcmFyVmxldHlHREF4SEdGMXVvSWItcncyeS05dVNYU0UzcTBsU2tNYkRJTFNzUTZLQWpPcnQtQWNSTTEyZ0FEQ2J0c2N2TktWUzhIOVo0X19MNVFTTXdLdnBz?oc=5",
-    "source": "O MINHO",
-    "ts": 1795188960
    }
   ],
   "esposende": [
+   {
+    "title": "Faleceu Carlos Alberto Lopes Moreira - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yNTRadkVWX0c3Z2w0ZTBrY3hCM0k1cFp6dXA4XzFhRjF2OFlYR3dnODB6Q3ZOODZBMksxN3Y0cFVFalM4aVJIdk96SDJYdVl2eVFhbG1ic3lIaUY2OE1MbmVrNThVRWVFNHJ1dFBxSWhNT00?oc=5",
+    "source": "TV Esposende",
+    "ts": 1795283177
+   },
+   {
+    "title": "Esposende vai ter ambulância do INEM para emergências graves a partir de janeiro - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdW5wYV9fVDNrbEhjM2w2Rmh3ZEtWR1A2VE5JSjBwNTZqSVNiTnBpY2xfWmdFX09ZcEpNbEtDSjZQajF1bURsX3JoT0ZwLVVudEMtaUViWWJnaEo3SmR4enpIS3dnVU44clZwWWJ5OFMwT0V1aGxyRVVNaHhKZGpwb212a0Z6cDR5cmMxSWcxOUh2T3E4eW1NaDN6aDBOU2JoWGJVbHUzQ19YR25pWUdyVXJ4cGtOQ29kWDZr0gGwAUFVX3lxTE5BWTAyZkt0cFhsVTRzTm5lOUJZd1VfS0NkRTNRTGdtSE1ZQXZ5dm9hQTBTdzVjbzFUbko1MU9lR1JBcUtITG55OTJIRktuQU9lT2MwTTJMUHgyR0NlUnhuSUgzN09qNWlZcEhULThmTDRyNmEwaFRoaEUtOWRrOUt5MDhaNHZ6MFVzeTlLdTFGbWxwQW9Ea25nUTh0aFB5cnV0WnZiNEVMbzQ3QnBHbVZ4?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1795272900
+   },
    {
     "title": "Boletim Paroquial de Marinhas - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTMlVkdnQwMW5MYjNSUHhDcG1wWVQ5OUlpeVdSSElBSU5fWHVvZkFNT3ZscjBwc3JfcG9vQXFqMFdiYzVWMDdVVnpJUmpldW5RR3hJSVJEOVB0WlAtMzc2MS1JZWJpc19NeHlkbkVScw?oc=5",
@@ -1679,25 +1691,13 @@
     "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVWJIZnJ6VF9TQWdTV0NEcWR1UktRTVVybFdmYnJqc3htWlpaRjF2eTEteFFFd3o4WDhYRjMyQkJYQ0FneVZ4UEVpcHJaTUdZV21adTl5OFNkem1uMnRCbXNPUnU3ZzdoZHZCRmU4V0hYU3BZS25UT0k1UWNsaEE?oc=5",
     "source": "TV Esposende",
-    "ts": 1795245876
-   },
-   {
-    "title": "Esposende ganha ambulância do INEM em 2027 - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zYm1pZ0ZRb0ttdjFhYk5ILW51ZnNBeFZVOFROdkUyTEVzdWszdG1qU29xN0duX0RzZmF0YUt1X3JpTkZyMTlHYXdMSFpEaEt3NmFUVWtXdTZkd3k1NXNFMW5lV05VZUU4RlV1bGxB?oc=5",
-    "source": "O MINHO",
-    "ts": 1795208940
+    "ts": 1795246134
    },
    {
     "title": "Esposende adia inauguração das luzes de Natal para domingo - maissemanario",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWtQRC1FUW5YS1Fla0Vnek05Q05VZ2VXM0lLaWxiTDNtdzZXWEJiNXZ3MG9fSHZYODlQQ0VPeFhTaXRJQURhRHAzYmkyU0tjM1VkUTVtU2phWmZGVmh1MFVUdXc2WmhnMlkydHkxeXNNeU9uWC1Za1luVnFRNnJTdUYwREhjbmszeTFDcFFXN1BtZW1pSUlXNURtRQ?oc=5",
     "source": "maissemanario",
     "ts": 1795200047
-   },
-   {
-    "title": "Mercadona investe 9 milhões e inaugura loja em Esposende - maissemanario",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOODVRSXpDTXdaNklpRm1EbWhhWkd4aHlreGR6TEZjSFoycjVvLTBRYTVaWloxMHZSaHBlMEdWQi1KUTJ4YXlDamVMenVnbHZCZVRyQ0h4T2dhb3ptTnhvOUdxbnJzRkV3RXVYdWlSaExkSWxTR0ZJajRfOXJoZTB2eW0xNXNBSzRCc0RsNEYyTEc4THU3Z1Zz?oc=5",
-    "source": "maissemanario",
-    "ts": 1795196193
    },
    {
     "title": "É de Esposende e traz para o Minho a maior empresa de alojamento local dos Emirados - O MINHO",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
+    "title": "França, Alemanha e Suécia criticam proposta de orçamento da UE - ECO",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQY2VLQzl1SUVzVlk1VUVGbkdKTFEtdkZtYlNSczRtdTgzVVNqam1UUUsyU0lhWEVLOE9DR1VXVFcxYmZEQnRzQlU2eXV6UWItM1l2bXFsWnBBS0tFYlViMWhVaWVRc3N1MTIzUm5xNVRBUm9lcTN3MHFBeWNfWXRJTEVFQ0ZKOHl1Ym9zMkR3ZTM2ZC1hUDJHLQ?oc=5",
+    "source": "ECO",
+    "ts": 1795268804
+   },
+   {
+    "title": "Angola passa de entusiasmo para desencanto com China, diz investigador - Notícias ao Minuto",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdURjLXo1cjBtaTB1dFg0Uko3VWItczJOTHRUbnpKVHRHRW5fbmw2Qk1PeUgyQnJXcDU1Q1JkdlhLX2JEaGxKbTJydEZJSFpIcXB3N1dic25nVGdETUtlRG52dzR5aGctbDQyVEFJQWF3UGFPR292ZEMwQXVZMGQ5VklDY2VSdkNxTjZmeEExQUlPZGFqT3J5Q2MwYWQyYkJmbXRRb0JDVXJjdDEwUXlNem1CejRPVUFhRGtn?oc=5",
+    "source": "Notícias ao Minuto",
+    "ts": 1795249860
+   },
+   {
     "title": "Hipótese de Riemann: problema matemático histórico resolvido com ajuda da IA - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd0dNWmcyLU1NM1kzdE14LWROTHI5NGJPMXNMQ3puNFFDd19XRkdIUExyeVlMcktVWUxxX1NtRlFwVlpyejBWdzByc0NycmZPSVFzUVR0VVRMUXJJLTBzVG5RYVhFWmRjZGdaMDVjRlRpQkhxY2liR1VWaTJySzh3T2tYVk50Y0FNVlFpOTJzN05HTjZOZnZ1XzhRUzFGWjgwUUJMQUl6WTdDMDh0bGFzX1lGNW1GY3lJSUHSAaoBQVVfeXFMTlZaX1E2MUpMc3dqV1ZXNEFrcnFyTkN2YnY2TXBXTjg0RDZ5YXJYQnhWb18wX2tVZF9PemNiYmtTUDZ3NnJrdUJScmM1X0oyRHJqVDNDd0pmZm1xWDU3ZGF6ZzEzOWhLY2UtWmxyNnJVYjF5M3FUU0ZDTko4X3BHWkhxVktpQS1hTjR5UHVnNUE1MDc3QUx6dDNvUmxpM1REZWRNbTBoM01FZHc?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1795249800
    },
    {
-    "title": "Vídeo de Xi Jinping a recusar aperto de mão a Putin é verdadeiro? A SIC Verifica - SIC Notícias",
+    "title": "Vídeo de Xi Jinping a recusar aperto de mão a Putin é verdadeiro? - SIC Notícias",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQT3pPeFlycDJ2RjEyWjFvRGg1eEUtS2d0bUtBMndHZzJBTENBXzNmN1V0WTZvQVBZN1Q0YlJvWDF2VFVGWnViRnBDVmZybG55azNaaF9DZEpBSXdpQ2xZd3ZELU1kVDd1bWx5MVNzeUJZb19QalpyNU1uMGczeTM5eXlSUzk3cDh2c1RnbGlSdTR4Znd6TGxORzFvVndQdkgzRVI4a3ZiTXREdWJSZFk5MHpHVjVKd1llb0ZUbA?oc=5",
     "source": "SIC Notícias",
     "ts": 1795247100
    },
    {
-    "title": "Arranha-céus mais alto da Arábia Saudita danificado num ataque dos Huthis - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNR0t4OFhkeF9YSU9NQlZ1elhLV2cxdkZSM09ITWNfUXJMSS1TZG9zSFlLUE1NRWlmVnQ3ZjNjc2ZqVDlvWVNvVVpNQUdHUnQxRnBVeDl4WUpUak5ibUJTMXhtazU5LVYxZ0RZbmVlaS1rQkM3aDBCZFJtWm10dDFFZkRRSk5ZSWhKRVFWOW82LU5HX3N1ZFA2ZndBelZsTkpKaklweTJB?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1795210015
-   },
-   {
-    "title": "Burnham promete \"brainstorming\" sobre aproximação à UE. Bruxelas mantém portas abertas - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ3pVdkcyVGs2TDhGOW5BTEZaaUJlNVE1NEpuZDk2QzJyUmZIT0RZaWF3MnlnLVB5OW9BTHRGZ29KZE1OU2N0SmV1Q0dMc05ObWk0eFlNM3dYZFNxVHFJbnRmclJBOFRjRUxad3NJMWdFN2xnc2ZaY2o5WWxtMUJ4c0duTWYtMVl6VEhSRHdlcWxKR2N2ODBuTno2ckFOaUhFTTI0Ulk1NG9HZU1ZQ04xUjE4RHZ6VnF4OU45QjFCeXo1dzNWRUtzTzdvQ01ZSWdxSG5QV0ln?oc=5",
+    "title": "Jair Bolsonaro hospitalizado em Brasília - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc3M1UUhLNXRvdjdCbW9RWm5FbEl4clBtdjI5dC1vMm1OSHhpUWg5SlVWeVJVUW5PRDBQdE1iSGtBMjJnYk1talU3dUZZYkFrV09NMnBJc19PTUFtd213QXMtdV9EOUhNMEVHVnBwVjZxdGQzVjVMLTA2YVJOWDJnLWptbWpuWHFlQzh5eUlScjFzQlRGTjZuSUtodEQtVmo2Z3JR?oc=5",
     "source": "Expresso",
-    "ts": 1795208989
-   },
-   {
-    "title": "Trump diz que mísseis russos caíram na Polónia \"por engano\" e contraria Varsóvia - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNR0dTSVdXcTd6bzhwMWJjRk15c1VoZ3A4dEo0d1FxQVVScVlvWmhOM3NnUTdad0xYZnQ5M21LN2p1SEVWbms1dUNrZjdUZHhKSlBBM01zVlJiQTdkRS1nR2xXRkZYeFExeEpYVzVUT2o0MXhId0NIYTFqc1pkSVBNWHZfTXRkN2xtVktwaUsxWHdSWW93d0VTeE93RzJwVkp5MXRnUEhnM2xtdw?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1795206170
+    "ts": 1795213862
    }
   ]
  }
