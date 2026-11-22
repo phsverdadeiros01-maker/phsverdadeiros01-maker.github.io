@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-22T00:00:15Z",
+ "atualizado_em": "2026-11-22T08:00:15Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-22T00:00:16Z",
+  "atualizado_em": "2026-11-22T08:00:16Z",
   "dias": [
    {
     "data": "2026-11-22",
@@ -1471,6 +1471,18 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Convívio Magusto de São Martinho - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qcm54U1FqV2s5OVY3VmhMSWxpem83UnhXdzN0OHRjaGR4S1hFNUdvUzVkdUZDOWtEWVFPLTdFeFl5MG1qX25vRVBGS2RGSld4YnIzb1lraTFVbDBzNTlLOHR0T2VtRU5qYTBmczl4VW1WdkxWdXRFaTlFTQ?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795320034
+   },
+   {
+    "title": "Óquei de Barcelos foi mais forte no dérbi minhoto - O Jogo",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUdmaU83T0l2aU1YTG9XY3F1aDlBajVyLTZkUWgteEt0ZkJhSmhEWlg5eTcxaWYyeUlpNm1pRS1vWEx1cjNFR3Ytck1qQVppY1AyOHN4OUMzY1hSbnRLMjZDLTU1NXJIQWxzMW94U1gyN3IyVmdlcWgyNk1SaWkwdWdJVE1aR2x3Nk9uNEFqa1llVk5XVjJGUkZLdV8xczA?oc=5",
+    "source": "O Jogo",
+    "ts": 1795305360
+   },
+   {
     "title": "Festividades em Honra de Santo André - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFlJZVlGaERGZTA4QUROaktRVUdySjVzVkJ3Y3BpdnhHeFQta3VjTG1KVGZENGJmUXo4N3UxU1gzNVBMZUM4VEVmMERDM1hmR012X2VwSUZjNk9oam1SRWVNTXJrWlhodVEwT0VPamtoQ3Zwb3pibDBHaXA0T3FkWA?oc=5",
     "source": "Agenda Barcelos",
@@ -1489,22 +1501,10 @@
     "ts": 1795292640
    },
    {
-    "title": "A Quarentena - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wdDRxbUVIYjc0SnktaTVJMEF2MlJ2cVd4NHB0OTlQdzdDTmxPeG9Ya3ZYaUlPOG15MnR5MmIxYUFVbjl5Yk45ckxEXzZ2a1hyUEhXOVd6ZS0wRDlMWFNNTg?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1795286032
-   },
-   {
     "title": "Óquei de Barcelos bate HC Braga no Pavilhão das Goladas - Diário do Minho",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQal9PaC1EaXRqel8xMl9mNW91OGoyb3UwTlVTcjZvMmFLaE9CWEZfQWoxSEl4UE5Yei1pdFJRLUFEY1RpU1BtN3V1UVh5QmM0MXVpS29jejJybGdLMlhzWUMwTUdMNFBXZnlqSXAzNlFQOEJoWThaQTRzSUM2dnoxUzFfbzN6aENGeTRaWnVIUXZ2QUkzVFdnVEgtOEJGSGV6dV9Wd1RXczNCQmpoZERPd0RmVmJFZ2hFT19vM0xHQlBWbWdLR2fSAcsBQVVfeXFMTWFCWmJJc3VRVUlSdjl6UHdUWGIxTmRiSmVRT1YxckxhSS01d1NMWjNoalpKTGhLYkpaeXhQNXB6aVR6dF9lQjRYYndfRnNYQUJsQ1ZjY0x5MUZfOVBJX0J0SGpvajBJRzlLUHA3cEo4Tk5QckM2RG5aTnhEMloxT3ZNZlF4TmctSVl0bWpjQTl0OUxtM2xUMUdjaXgzRHFWOFhEUEM3dEhPQ0ZNOEZXc3AyR1VLNkhzUE12amg5dGVIc3ptd3BQT1Nmenc?oc=5",
     "source": "Diário do Minho",
     "ts": 1795285740
-   },
-   {
-    "title": "Barcelos debate habitação, transportes gratuitos e obras na reunião de Câmara - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVk44MDBhcTQ0N0hMRzBLa21DQTJZS2JydnZqUTJtanl4Z0gxLXktc185NUVpMmh4Y2VMbzRKYUpYUnRlS2xJS0hOemZIQWU2OER0dEpNZzk0d0RjSm9WQU1yNlktVEYxSXZLN3VkUW1PeS1BNVc3Tlh6ZDkydkc2Q3gtaTZsOU91cjBvVklTMmh1dHJ0N1pVcWxPN0M?oc=5",
-    "source": "Braga TV",
-    "ts": 1795284217
    }
   ],
   "esposende": [
@@ -1559,22 +1559,22 @@
     "ts": 1795285851
    },
    {
-    "title": "Vídeo mostra detenção de \"Chapo Isidro\", um dos dez criminosos mais procurados pelo FBI - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZ3JQSUE5MS00WmEwNDZQWHJYTTdITkV5UUxYZzRWeXVESnNKZ3BBUW1RYjB6dThFekIxS2dhX0FoRUVINjc1RGVwc3psSFhNREk3Z25QZURLMHpaeURwVmVzVkVUVi1GbnZRRG1RcGxhTnd3ZHZhdmRGY2FnZjBzSkRQVnd6YVotRTc0U3ZESGlSWUE3YUMweVpiU3BrTE90clZsc05fWUZtamRJWnJYQzNla1JNTmpRcEw1dzhIZ3dDNWRWa2dF0gG2AUFVX3lxTFA3NlJ3MXNkTnM4cU1RX0RTRHFHeGdBNVZYeFN5eVhSMFNod3ZPVTBQemdQUU5hbDh3VGM1dEQ0dDhrMnpUV2h5LVRsdFhIeWxMZ2pmWnBBNjBLVGFvWE9JdEh6Zk15X2ZNMXRnaG5mSHlQOHBjd1NwSGxzSnVYRUxsRVE1QWtZWk1HRFM2RDE1VUVDTk1zRjExUF90OVZ0WVJwQy1NbDV5bFFfTWE5ZU5kWldwRHln?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795283580
+    "title": "Ex-Presidente do Brasil Jair Bolsonaro internado nos cuidados intensivos devido a obstrução intestinal - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMlNkU0xBSDNRSEZvb2pEUjc2TUhLSjVDanV5RlFfSENMcHRGRWYwQmhFamhXQk9sbGh6NzVBSTA2WU5EUm1aZ2FLQ2hXVzZZMG5POWhSbUR5a0lIaUkwZnpGY1ZPaGFYcjZJT1Jzd1pvTG9KdVNWTTJIVzllenAwcjRPTXlad1lYUlhKTm5waXIxMmExQWVoNUYzMHRnZFRNM1RXNnNnSmdmVXg0QVU3VXNxU3lZZDZhd3QzOUdfXzYxVkk2MTZTcTdVbzNvMGM0X3c?oc=5",
+    "source": "Observador",
+    "ts": 1795285320
+   },
+   {
+    "title": "México captura barão da droga “El Chapo Isidro”, um dos mais procurados pelo FBI - Público",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQ1A4a0tmZktJZFMyS3FMVmxCTzY5RGR0TVFqU3hLSkY3STNib0NhRDhOWWpZWXpoamZCOU5tZGphdGd1UlZDczZmNHpNenZGYk82cmc5SThCd0pQRmFjWmxrSHBRU1g4MnZIRGtFMVdickFfZmJYTnZqZmhteHJ1SF9Zc18wcWt4bTdENnpLUjBaZlIwNU9NMU85WUVwc3BiTTU5S3F1aEdxSUNrN1dCYTc1Zw?oc=5",
+    "source": "Público",
+    "ts": 1795284057
    },
    {
     "title": "Costa subtrai 200 mil milhões de euros ao orçamento da UE, mas frugais ainda exigem mais cortes - Público",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVVhhTGF0YTkzWnhMbmRTNThhYmtNVF9IOXplekRqekJrSUtqaHdoSnVTOXFjMWJDaktycnZINkNTWDQ1TC1XaGREdjQ3NWJfdjAyb2R6ekJraEVLNFNhdjBSM2xIVlhpbWV6Yk5ZMmFlSnJXTWl1eVFKZENzNC10NGc1eG1FMndJX0tPMUt0MHRoYXZDc1F2Qmc3Vkh6OG53dUNXT2trOUQ1LXJKcGVKX1hkQXdPNTh2TXJmS1VhN1hWWDNvR0dHbA?oc=5",
     "source": "Público",
     "ts": 1795282689
-   },
-   {
-    "title": "Navio de carga russo atingido por drones no Golfo da Finlândia - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZ3BjUnV0R0xvb1pyZl9sOVQyaF9Db21ueFh0akQ5b2d4S2ZtaWp6S1l1VURRZkFJeXdfMWZnS3J5Zzg3S2tSWUl0dXpOamRSdlFMUGRQeWY3MS0tNXI5Y3JqRHEtaUlobEx5NzM4VDhqY3liUTI1LVVIeXpUUVd3Ty0xb2wyMzJ6RjI2Y3dzdHQyV0JPTFI3b1B6aWhsdw?oc=5",
-    "source": "Euronews.com",
-    "ts": 1795281479
    }
   ]
  }
