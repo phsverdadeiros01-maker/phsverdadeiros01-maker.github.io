@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-22T12:00:05Z",
+ "atualizado_em": "2026-11-22T18:00:05Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-22T12:00:05Z",
+  "atualizado_em": "2026-11-22T18:00:05Z",
   "dias": [
    {
     "data": "2026-11-22",
@@ -1632,16 +1632,28 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Olhanense perde em Barcelos e está fora da Taça de Portugal - Algarve Primeiro",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVG9aeV9mVmJiaTdublZHMlllWjhZR3dQaUFNZ2ZHVzBXLW9EQUdSdU9LbHRjcG5NUV9WOS1SZUtZRHNBY3lmdVZ6LUdVemxfSUkzSUJuam53MkFGNjNqM1VnNnR3cUpPc2JQTUtINnBtXzFwT0RSZnNyYXpFRURYR3RYSFl5R2hINnNmRkUzLTJRbTBodE9Ic3M0dlI0TjFZZWsw?oc=5",
+    "source": "Algarve Primeiro",
+    "ts": 1795363380
+   },
+   {
+    "title": "JPP questiona cobrança de entradas no Pico dos Barcelos e defende acesso público - JM Madeira",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaDllZ3ZmUDV3MnlTQVdIcUVjY05pcllvdG42S2xOYmxteFl2ZE1YbWJIQ1JZMThaWDhuVUttMkdJT1ZZVmJYaDlFNUd5Vkx5bmw3R3FqNWhjcHNRNEF0aE1McHh1Y3NldG9MWGEweHJFRGFud2p4VVFtWkhMNDN3VzJHMjRpNlNlRzN0M1NqQVR6cm5vbjFOYzVJTWotSFpKdVFqSHh3WXV0VlFtSlgyUWU2U3RzcE8yeEdBblVLbVV2YUQ5UEd6aWUtbFJRYU5kVzdadnpLYXQ?oc=5",
+    "source": "JM Madeira",
+    "ts": 1795352054
+   },
+   {
+    "title": "Magia do Natal regressa a Barcelos de 28 de novembro a 31 de dezembro - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVlZhR2wzLWl4MWhNcnQxYTdQUWJ6RGFWUFVuRGo3WlNlLU1YMXYtQjlRMTQ2YnJBTUlYVko2SWREUFI2ZHpQaW05QzdjdERRc1dwUFIyeUw1TGUycDkxcmtwR1J5N1VaOTZUNE1jSTRaTHNEMTMxc0NTTjNlVVd4ZUhSWG5vc2xhWHJpbmdrTDhOODRWLUE?oc=5",
+    "source": "SAPO",
+    "ts": 1795348800
+   },
+   {
     "title": "Convívio Magusto de São Martinho - Agenda Barcelos",
     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qcm54U1FqV2s5OVY3VmhMSWxpem83UnhXdzN0OHRjaGR4S1hFNUdvUzVkdUZDOWtEWVFPLTdFeFl5MG1qX25vRVBGS2RGSld4YnIzb1lraTFVbDBzNTlLOHR0T2VtRU5qYTBmczl4VW1WdkxWdXRFaTlFTQ?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1795341634
-   },
-   {
-    "title": "Pico dos Barcelos vai ter entradas pagas - JM Madeira",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNck1iZ2tMbmRPWV9KQ1NuNWxyZC12QXRrTFI2VFQxaEkwTFJWaW5odjN3dWxTXzJQX3JBM0E1VFNrclFybEoya3dudW1XZDEwRkhqZ0pUWVM1aHdBaWdzUV9BV3BGV1p4bUVHaUJQYy1wT2FxdmR0NzV3aDVydFRNRm9PYWNfTE1VV3lpdWUyS2xmRFJnYVM2ekdLRmdTUWRTUEtR?oc=5",
-    "source": "JM Madeira",
-    "ts": 1795330500
    },
    {
     "title": "Óquei de Barcelos foi mais forte no dérbi minhoto - O Jogo",
@@ -1654,21 +1666,15 @@
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFlJZVlGaERGZTA4QUROaktRVUdySjVzVkJ3Y3BpdnhHeFQta3VjTG1KVGZENGJmUXo4N3UxU1gzNVBMZUM4VEVmMERDM1hmR012X2VwSUZjNk9oam1SRWVNTXJrWlhodVEwT0VPamtoQ3Zwb3pibDBHaXA0T3FkWA?oc=5",
     "source": "Agenda Barcelos",
     "ts": 1795301628
-   },
-   {
-    "title": "Barcelos apresentou Mapa do Potencial Solar - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnpWcE9wOVBob0RwYTE4NkFsSk9oNFdRbG9CLUFKbzJQUGxTeVJFSTJ5dFl3UHlMRFBnanJyN1JWYnIxZ0pZUzhlSWd6V1dJMGtNVlM0TmZ2a3p1eFQxNDJiLU0tUnN0bmFIMXNEWldtSlBMNzNSSjZSb0RJZ0NFV0hIYkdoUQ?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1795292929
-   },
-   {
-    "title": "Barcelos cuida de quem cuida: histórias entre dedicação e desgaste - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcXJHQmtKd3lPQjVfWm5ZOFM2ZmF6dE81bERBT0QzYWdMckJ0dFlmRjQyT1FMbkxhMVlwS1dTYllQWTJFSFQ4ekx5bk5MXzlESEJxSWVNZ1N3VlkyS1g3X3I5OXNCMms3VG9HQWFJbG40LUNXZ2NNeENxc1dMUVZfcC1xS2pDTWNhVi1PVS1JeEM1YUk3aTRMSVFwdXo1c1FhLVBnNG9JQQ?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795292640
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende: Despiste na A28 junto a Esposende provoca dois feridos ligeiros - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVFGa3FHaS1qcXBOSG9zeFNDTG53QVFDNVoxZ0JvaEJCNXFpRzF6RXVCQ1lYcnZYbUF2UWhWYW1qdFNEbjJuUzRtczFxbXhFQ21zM0FIREhLRnp6NG5PdFpqQ1J6dm13SUVLc1hWVnZUU0lPbDA5LWpYeFlvbFVxQkJrSERxa0Iza3RVV1NGTGFtRWc?oc=5",
+    "source": "e24.pt",
+    "ts": 1795367681
+   },
    {
     "title": "Faleceu Carlos Alberto Lopes Moreira - TV Esposende",
     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0yNTRadkVWX0c3Z2w0ZTBrY3hCM0k1cFp6dXA4XzFhRjF2OFlYR3dnODB6Q3ZOODZBMksxN3Y0cFVFalM4aVJIdk96SDJYdVl2eVFhbG1ic3lIaUY2OE1MbmVrNThVRWVFNHJ1dFBxSWhNT00?oc=5",
@@ -1682,22 +1688,16 @@
     "ts": 1795272900
    },
    {
-    "title": "Boletim Paroquial de Marinhas - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTMlVkdnQwMW5MYjNSUHhDcG1wWVQ5OUlpeVdSSElBSU5fWHVvZkFNT3ZscjBwc3JfcG9vQXFqMFdiYzVWMDdVVnpJUmpldW5RR3hJSVJEOVB0WlAtMzc2MS1JZWJpc19NeHlkbkVScw?oc=5",
-    "source": "TV Esposende",
-    "ts": 1795248726
+    "title": "Esposende afinal vai ligar as luzes natalícias este domingo - radioondaviva.pt",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORjZkRkZNa01BUnhuSWVvZzhVVWVIOVI2ZHF0UE9TZVBvbkgxZ2tfNnY4emZJbmFLTFhJSVp0WDNEQURrQXRXY0NoYWNTOWdMUFNCWVNKOGR1aXZhQ1d6bXFsRVpnMFJBenktcmxyUXdDWHhJdUVrYlB2T2l1S0k2cm5TcXZ2U3R4RlNWMWpB?oc=5",
+    "source": "radioondaviva.pt",
+    "ts": 1795250367
    },
    {
-    "title": "Boletim Unidade Pastoral Esposende Centro - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DVWJIZnJ6VF9TQWdTV0NEcWR1UktRTVVybFdmYnJqc3htWlpaRjF2eTEteFFFd3o4WDhYRjMyQkJYQ0FneVZ4UEVpcHJaTUdZV21adTl5OFNkem1uMnRCbXNPUnU3ZzdoZHZCRmU4V0hYU3BZS25UT0k1UWNsaEE?oc=5",
+    "title": "Boletim Unidade Pastoral Esposende Sul - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE96Rno3bkcybUZrc3pDS3Rya1lkYU9WdFBoVzBBN2NwemhXWVhVVFUwRjc4ak5wVXlka1JxV2FreVp4ZHNtU0k4RGU4Nk5uWVpGNk9wQW51VXNpYzlZOHAtREgzSEZuOEJHc2tYYWdsV1UySUtQX0NJRWlZbw?oc=5",
     "source": "TV Esposende",
     "ts": 1795246134
-   },
-   {
-    "title": "Esposende liga iluminação de Natal este domingo após adiamento da cerimónia - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQkRkcFNfY1BScTNnTUdSYmVRYzBoMjIteGpjNzAwU0l0SjUxVVNmcXdxQ0w4bTVmQ3ZJN0R1QnVJLWNxQXRnaGFHWFNwUFZzajBZZDRwcWV4MWZ6aGhyQUtNeUxpeFdmYWdwUDVxNG9abG5rUXoxM3JKWmdtajhNU0VsVlZJLW9QN1FudVBwbjdqMDJzT0VOM0FZMXZhTUtLNGRENkdQb01RaG51Y1U0NzFYNjjSAaoBQVVfeXFMT3MwUDd6bGhKVW9lMFhjX0lFd2JJeDlOUEhjSnFlWk5sMkFTbmZuXzBMME5vZHRodl9CX1ZYZUxhY2ZhNDdtaFd5RE9EQzMweDVjSEN3a1JxSmhSbll1V3ZVSzRvS0EyTzZlc3pZdjBlSXdWYWtxQkd4QkRNSnJlbUUxTDRtZ0xyWmxyeEdFUVJsUF9lMHhEeWxOaHgtc0RjcG0yR25SOEVlNWc?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795198740
    },
    {
     "title": "É de Esposende e traz para o Minho a maior empresa de alojamento local dos Emirados - O MINHO",
@@ -1708,28 +1708,28 @@
   ],
   "mundo": [
    {
-    "title": "\"Mossul está mais bonita\": a transformação da cidade iraquiana nove anos após a guerra - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdW0yd1o5OFY5X21aZjcyblZUc2J3YlJWOVMyeDVndjdJX3FPeC0wNlBpSUpsazJmd05kbEZIWlVrSDhWUXlzNzdjU2JGV0sxdVN4V3hSNTZaaUxWaUN4TWxMV09OcV9lV3BONGRRMEw1TXZLb25CZkczNVRrWjlfaG1XNTFvSnpmeTRaYkZfZ251RnJhM3pxWlgtRExQN2E1TEVqMWpsSm9vMGN2UG1yb1luS0k2aUZCVEVxdkZUTHdxMF9fZGZvck1IZHRTMW5SNC1oSUR6NHZnZw?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1795336200
+    "title": "COP31 termina sem acordo após bloqueio da UE e outros países - Público",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdlRiNlVKQ0ZrWXF6M2Z2WXN6bjViYlhleHFRVUZ1eUYweVhMMXBIMjBWYW9pOVRoT0lXNGl5a3lKM2NnQlJKdzRoNVdlTWhSS1YxLVFHZGlQS3ZEeTBBMVI2OUc4T0V6dUFfWDZOSXV3dEpROWRXWWVNaURIbGFBZ09oalBOVUo3bjVodDA5Q1cteU5BV2ZqcEFfUDU5NG1YQWdnUTIyNURzckFP?oc=5",
+    "source": "Público",
+    "ts": 1795349133
+   },
+   {
+    "title": "\"A Rússia pensa que está a investir\" com agentes secretos - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNeTR2SUozZjV3c05aQjJTc3RBeTBGLWtOcF9zeElJRkhkSlZ4WHF6dm0zWS1zOHJ3b1R2YjZvQjVVem9aekRvSFBlRFZfWUxhSmdlS0NMVVRVc1ZmYzRYOWhwa0NzU2FDbkZZM0RFUDBFTVc2aTV2X2gzNWY4SmotRFBfcGc1M2VpdF9SWkd4amFmZGN5WlViTlZqalM2VGZrLV9fUDNUdDF3bFVFTXI2cEpacnZxdVRNbklsdFlaeFktY0ppZlRFVjJFUFBoSWJvVmp0M01zakxxNmliREZEWThiNzBsQQ?oc=5",
+    "source": "Observador",
+    "ts": 1795347000
+   },
+   {
+    "title": "Pelo menos 14 pessoas desaparecidas após ataque russo contra edifício residencial na Ucrânia - RTP",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYVF0a1JKLWYwM1pMQnBDZElLZWFGdmQtbUpaR0xnWXlKbEFDQXVEZk9ZSkRBR1A0MGdkeVdYMDBSdEFOMlVmakNnd3lyVlVWYm5BRFVKNTV2dVZadEItVG1NLTJYdEJVaGI2dXFsZlV5d0FvWS1Lb2NrQXJ1bFl4Vm1BYU5PQTB3UzlhdlljNXFaZW94d1BlRzJtVFdLbGJQYU8wRndnZXFFNWxIdTZHOVRzWGtLVmRFY2ptZFMwMmRGaER2dXR6dEZFTEVHaHYx?oc=5",
+    "source": "RTP",
+    "ts": 1795345242
    },
    {
     "title": "Sondagens anunciam Governo PP/Vox a uma semana das legislativas em Espanha - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaTJ1em5aZjE0bVlQXzNKcTNYSTJEdEhES2wzTVdaa0pHV0VrcFlhRTNnU2ZqRVpTMWdOYW93RVBPLWtVRGpCamIxMlNLdG9lSzRWUS1Wa1N0MEV5UklwaGxhbUhVOXFGVXppdXgwZWc3UVpmcXRFTE5iWXNCZnhsaTRvQW1ZeE10Vm9UZTlWa2o1Q2wyQWlORTJzSFJuNGMtUXQ2eDhsSERSYURLblR5NWlJNNIBpwFBVV95cUxNQjhmQTFzMkhieUY0d2Y1bnhQU0tKOG1CLTJIcFhPUkQ3MXZscWh2cWZ2VU5YZFREM1dmdktnMVZCY1NRU05jcktMM2ZMajBSSnZMN2N3aTlKV0ItVmxPRVZ3WW1ZbEEwRHdHSGR1dG5EZUo2VWxmLXkxQnpwNzl2cWVUS3FJMVE4cFBzbzh1WVBTMF9LOGFMVnhhbzR0b3RpSUNBUE52bw?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1795335600
-   },
-   {
-    "title": "UE prepara-se para rejeitar terceiro rascunho da COP31, que continua sem fósseis - Público",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPaHVfRjZTU2FKbWpyYkV3cElHZ29ncEdjcDJEZEtzWnZMTENMYWZLTW1uSzhTelMyNlZXLXFmWEdnRDFZYnpjM1FpbUkxNVhpR0g1ODIyWEJTcUpFSjNEZ1FoXy0zclB4a2s4WXhmTUJDWGxrWFRsbHhQdVZQa0h5YnMwWURaUXg0NVpnaUNMLXhlZHpjem1xeFJETGZKbkJqWmU3cmdqejh2WmhpRmM2OTU2ZWFYdHVoV2xGbQ?oc=5",
-    "source": "Público",
-    "ts": 1795335337
-   },
-   {
-    "title": "Estudo encontra “fortes indícios” de transmissão de hantavírus dos Andes entre pessoas num navio - Público",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd3FRSHMybVctbndvNW5LblZiaXFLMTZ6UXF5T1BTMDlmUzZzTGc5by1Mb0NFMzlQcno2VzZFNjFJbVRrWWE0emZzcElSWVVhbnAyNEozaVF4TkVHbVMzNVNJSmh1OF9EdE14MVFMRVYzZVNFSG92NWM3RmRnOEhTd3VCclV5YVA4TG5aZUFOcW5pMzJLYl9XU2tQUzFPM0sxNDJGOHpfZ0JWVWVOd2x4YUxsLTJjQko2bVFFWkQya0pHYVB5b0xaQnJZSng?oc=5",
-    "source": "Público",
-    "ts": 1795331700
    },
    {
     "title": "Katja Hoyer: “O mal pode acontecer quando as pessoas boas não fazem nada” - Público",
