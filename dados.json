@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-23T00:00:15Z",
+ "atualizado_em": "2026-11-23T08:00:06Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-23T00:00:16Z",
+  "atualizado_em": "2026-11-23T08:00:06Z",
   "dias": [
    {
     "data": "2026-11-23",
@@ -1474,7 +1474,13 @@
     "title": "Óquei Clube de Barcelos vence Hóquei Clube de Braga por 7-3 - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeHRWZEk5NUdjRFdkRnpCdzJTRlZaVEg1dkxFVUcyRVhlSW1xVjNvcHFvTHpaZ19rVmtRbDFjLWVTQUh0VmdNTDlBRWs0NERVYkR1dmFUTkZ3eUx1ZGlhTDY5Y0lZRU9hcDUxMjUxX1Q2QXRmc2piQnV5WXRraExaaDJlWERDemhjMHJVeUJ3OHk?oc=5",
     "source": "| Radio Barcelos",
-    "ts": 1795376707
+    "ts": 1795376976
+   },
+   {
+    "title": "Vê BC Barcelos Gil Vicente x SC Coimbrões em Direto Online | DAZN PT - DAZN",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdmtzbjNObnA3ZFY4a3YzVDk0a015TXUyVDhrX051NTBkc3hlRXRfbTRHaUg5QXVFTWJnTVRzbDVUOWV6ZjJiMkp4NXNtVWtrZFhkLVl0R0k2eGRuc291OXJRZW5ZblJ5WFlXX3lmMmVERXh5VDVEMnJxQXpuNzNWek0wd0JCcHdodnlWcA?oc=5",
+    "source": "DAZN",
+    "ts": 1795372200
    },
    {
     "title": "Taça de Portugal: o sonho ficou em Barcelos, o orgulho regressa a Olhão - Maisfutebol",
@@ -1495,19 +1501,25 @@
     "ts": 1795348800
    },
    {
-    "title": "Convívio Magusto de São Martinho - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Qcm54U1FqV2s5OVY3VmhMSWxpem83UnhXdzN0OHRjaGR4S1hFNUdvUzVkdUZDOWtEWVFPLTdFeFl5MG1qX25vRVBGS2RGSld4YnIzb1lraTFVbDBzNTlLOHR0T2VtRU5qYTBmczl4VW1WdkxWdXRFaTlFTQ?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1795341634
-   },
-   {
-    "title": "Festividades em Honra de Santo André - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFlJZVlGaERGZTA4QUROaktRVUdySjVzVkJ3Y3BpdnhHeFQta3VjTG1KVGZENGJmUXo4N3UxU1gzNVBMZUM4VEVmMERDM1hmR012X2VwSUZjNk9oam1SRWVNTXJrWlhodVEwT0VPamtoQ3Zwb3pibDBHaXA0T3FkWA?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1795301628
+    "title": "Barcelos apresentou Mapa do Potencial Solar - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnpWcE9wOVBob0RwYTE4NkFsSk9oNFdRbG9CLUFKbzJQUGxTeVJFSTJ5dFl3UHlMRFBnanJyN1JWYnIxZ0pZUzhlSWd6V1dJMGtNVlM0TmZ2a3p1eFQxNDJiLU0tUnN0bmFIMXNEWldtSlBMNzNSSjZSb0RJZ0NFV0hIYkdoUQ?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1795292929
    }
   ],
   "esposende": [
+   {
+    "title": "Esposende acende luzes de Natal - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWDY2RkNLM0p4UldrZEd4ZzUxUUptbUh2UktXbXM2LXRXUFFXR0ZaNF9ZbzdTeURwbVpxSVR6bEN4RndibUd3a3BoZ3MzRkNjdDREMDJKWTh3Q0pPeGN4bGNDSEhZZHZTRS1mY2d6elhsY1NVOHVqQk51VmdvaXhxQlNlSQ?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1795413740
+   },
+   {
+    "title": "Antas e Fão salvam a jornada, Esposende empata e há quatro derrotas - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldTZVhVcExJbEcxRnNPTXBORUJJeWlGaDBjUmlUX2dlUkVsTFFuVzJ3ODQ3cFJmZ0dXX0RiT1JJUUF6OXhEMXd1WVFITDZhWGpWU2p3RmlOR05rekFMQ3NZeWVSOTAydUVLODg1OVBkRmNPWFBDLTc3d0dMRkt6NUhBajJPdTNMTGZXUnZDVy1ONG04TFp1MThGRQ?oc=5",
+    "source": "TV Esposende",
+    "ts": 1795385557
+   },
    {
     "title": "Já é Natal em Esposende",
     "link": "https://ominho.pt/ja-e-natal-em-esposende-2/",
@@ -1527,22 +1539,10 @@
     "ts": 1795377960
    },
    {
-    "title": "Antas e Fão salvam a jornada, Esposende empata e há quatro derrotas - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRldTZVhVcExJbEcxRnNPTXBORUJJeWlGaDBjUmlUX2dlUkVsTFFuVzJ3ODQ3cFJmZ0dXX0RiT1JJUUF6OXhEMXd1WVFITDZhWGpWU2p3RmlOR05rekFMQ3NZeWVSOTAydUVLODg1OVBkRmNPWFBDLTc3d0dMRkt6NUhBajJPdTNMTGZXUnZDVy1ONG04TFp1MThGRQ?oc=5",
-    "source": "TV Esposende",
-    "ts": 1795376071
-   },
-   {
     "title": "Esposende: Despiste na A28 junto a Esposende provoca dois feridos ligeiros - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVFGa3FHaS1qcXBOSG9zeFNDTG53QVFDNVoxZ0JvaEJCNXFpRzF6RXVCQ1lYcnZYbUF2UWhWYW1qdFNEbjJuUzRtczFxbXhFQ21zM0FIREhLRnp6NG5PdFpqQ1J6dm13SUVLc1hWVnZUU0lPbDA5LWpYeFlvbFVxQkJrSERxa0Iza3RVV1NGTGFtRWc?oc=5",
     "source": "e24.pt",
     "ts": 1795370755
-   },
-   {
-    "title": "Faleceu Carlos Alberto Lopes Moreira - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdDdHa2VKRGZrVDFaOHkwb2Fwdll4b0FjNkE0Q0VicGc5X194QzZDcklrZmotUE5kZ2tZbzZFYklRNFZtV2FhajlaLWliTW1uRlpzdVhYRVU0MEtTS3lWNU9NT1VyTkp6S282UGlNc1NIZGt1akhXMjZvZjE0THZCazVwdV9heXpRSS1uVQ?oc=5",
-    "source": "SAPO",
-    "ts": 1795279260
    }
   ],
   "mundo": [
@@ -1553,28 +1553,28 @@
     "ts": 1795377874
    },
    {
+    "title": "Eisenkot e Netanyahu sem acordo para possível Governo de coligação em Israel - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnljTVhGaElVaC1zbnAtS1l6Z0trWVVHZlJuUnBTRk9XRnBNZnNTXy1KYU1idnpSYzBESFdQZ0RDaDU1NVZVeXZIVVd4MTlSQ0MxVTlaSEJhYlZabnZVQWYzYlA3Qk1SZUtad1otWFR1UHh5bkl6UXJBQlBnYUdxZXJaYm1Sd3VGVld1Z0c4U0F1Y1ZNVmU5Ti1ydXRvRHJ3UWVQRENFNFg3ckZkc0FGdHJjYk9nMDViYlRvWVBJOEc4aFNvc3ZicEZ3?oc=5",
+    "source": "Expresso",
+    "ts": 1795376063
+   },
+   {
     "title": "Niklas Frank: “O meu pai sabia de todos os crimes nazis em solo polaco, mas estava-se nas tintas” - SAPO",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOUlpMNHY0OVdHRzJfRDR1dHZCTTVOOW9BMVBWNzBxc2pydjdxWHdEVmxhSXNOOGRhdU96QldEM0lmWmwxNmxlWUozcDMxZnkxY0lhU3Zqa05FSW9HNHVCQ1A5VHZ4dkgycC0tOU8tTkR6MmlTaElaNm1rODBUR0gwaGhUOXlWMmdxY1JPMUhTMFlvUkpOTmFiY2RVemRBUEVjYWE1MUdWcFlMMUFWWkVzV3JrZGQ3YThJZ2RqUUowdWoxZTl6SWk3YkNYSjA2d1gwaHdobloyUlo?oc=5",
     "source": "SAPO",
     "ts": 1795374900
    },
    {
+    "title": "Inspeções a botões e recompensas para denunciantes: medidas anti-fraude com IA levaram a demissão do ministro da Educação na Coreia - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxONXJ2QnFKc3J5b0twUWxld19rdXlPTVFKT2ZpUUFIeGdNNERQbDJpeV9KVENabW1Ud21wZnVTUzJ3emNOckkwWUhFQkhjUmJDSG92SWJXa3RIcHhzZXhrUFlFSjFBMGpsRGVGaTA2TjhpMmM0cWc4WWZjNHlkbWNZZlVzVlFRcmsyX2c3c0dHQl9WR3llaTJDREdfeC15bE45VkprR2FOZEhkZkN4Z2FBRmtkZFNZNGpfYXF2U0tWeUdsSGZwbjVlZWFlUV9walNPbmVYSzBPM1BXaWdET0NoWFpjVUR6TkxZSlhxUU1LcVYxeXBwS2VLY1FRd0NsT05oeTNycEJrTG9Tc0U?oc=5",
+    "source": "Expresso",
+    "ts": 1795373314
+   },
+   {
     "title": "Objetos voadores que caíram na Polónia eram mísseis de cruzeiro de fabrico russo - Correio da Manhã",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQYUY4X1lfdnpPQVZ1ZXQtMlBmZFVIV21HSjdUbmhrVDkwMTZST1daNjZiWGw2d3hwRmdFYmJPRHM4RlRENmxaNk9RdlI3U0RmTVNyV0w5UnVaSlVVekRwNmJfWk5FWldxVWdKVGdCc19yR2NkSk10bHhENnhFVFFzZHpSZzc3eWl5V2RlSmdEWVJxNENxcjlKREppWUNqeEZmZThYLTBuOHFYUlBxN0tibGhwYXN4SENpQ0ZJTE13UXN2LUlNSkZJdFE0VTh0NlpCNUU2b3ZXNWVGYjVxaUl5R2JR0gHcAUFVX3lxTE9BMVlpOXlfN090Qzd4MG1YcGZ0UUo1VnJuVXEwN0stT1pTU0N4aWx1Zm1fVGRCOEpHb0UydkRPUkJDSGdkRnBJUFZYVXc3S0hDNzhTNl9XU2ljY05nbm5NVnY4VVhQODBUZmNodkpxczdCYnN3UGtJZ2NlS1dZRUpxLVp2TlE4V0VqYnNCdXZXOFNwbXVzTkJ0VzFJRVhES3JfRUZrSkEtaW5US1pOOXlJbkJ2Ml9wRkRFOXRhOF9ocnlVeDhGRmVySk9LbXVFQXBqZUs0anBlUm9iUTY?oc=5",
     "source": "Correio da Manhã",
     "ts": 1795370940
-   },
-   {
-    "title": "Trump diz ser “muito difícil” trabalhar com Schumer, se for líder do Senado - Diário de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQVFzMndCODVEYW1RWVBJdmZoRUZINVpwU2JGNGNPdS1Uc043TkwtTnNOUzB0RzNjRjBzVkhhYlc2VE1ZczFDVjJwcjdKRUNERFJnYUdOTV9QZXRoWThYaEZmME9ncUJHdEM5UlZKSzY1amtVd3NGbHExbHgxOG81WEcydkcwOGZtekQ1R01ES0dJQTdKZ1Z1WXNyZnlNZHRVZGIxUw?oc=5",
-    "source": "Diário de Notícias",
-    "ts": 1795368119
-   },
-   {
-    "title": "Rússia reboca cargueiro após ataque de drones e incêndio ao largo da costa da Finlândia - Público",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWFVhTS05aUk1UHpLNFVwWXBpWG5UajRnVHNZLTVKMDd5d3I4WTBFSGhqM1hGU0FXMm80Y2NhaGZ1SURZc2pseFV6VmdaZkNNOS1kQlBIMFZlTnpzbVNJUGVQSm93TU1YMnVQbnA1VzZVa2pKMVZkeHg4T05wUDdBMXk4SHFVSzNuTW9wMEpJSE5Rc2ozNkVxX2RDTVZZOE9HeDNjVU44dkRnZ0hBdmRZQUVNc0ZHUGxfWXExbGlTZEFta29KX1gwSQ?oc=5",
-    "source": "Público",
-    "ts": 1795367418
    }
   ]
  }
