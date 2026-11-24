@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-24T12:00:15Z",
+ "atualizado_em": "2026-11-24T18:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-24T12:00:15Z",
+  "atualizado_em": "2026-11-24T18:00:15Z",
   "dias": [
    {
     "data": "2026-11-24",
@@ -1632,46 +1632,52 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Barcelos dá voz aos saberes e tradições que marcam a sua identidade - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnk1ekVOU3BGUFg1QnN6aDNmb09YNHN3N191ZFJEbEZMQ0dCLWRQQzlDR3QzdG15S0RrUEJ5UE5rdVByRjFoTi1zWlJ5eWNscWtSZFE0WUNMelg2MHIyYnUxYWFnMWhjMk9ic3NFS3Vpa0h3T1MzLVA1bi1zckc3bVRobkcyWmxMN3JuaFppRU16TTdLN2dmNC15aDNPZmwtdEpJMll6RVlyM1Bt?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1795519263
-   },
-   {
-    "title": "Barcelos apresentou Mapa do Potencial Solar - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1GQkM0ckVfUkVTTWdUVE1halUzWDVmeHRoMmpLMUc5U3FnYk9sT0tVaDAycXVQLUxveWROcGF2VTc2bFpfcGhtQ0ZCRFFOVzVvaTlJQjkxVWJBUjRBZmJtT2diYnNFQzFTYnRja3JDNU1JVnc?oc=5",
-    "source": "SAPO",
-    "ts": 1795515964
-   },
-   {
-    "title": "Cursos profissionais em debate na Escola Secundária de Barcelinhos - | Radio Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPXzFOY1k2b0RmY1I1akVYdXBYZF9CSVhzNm9iT1hvX2dteU5ES0FHME45SG9OTXFPSGNNTGs5bjc0M1phTEd5dEp2dFlUTHVBclRLQTlBTjZqd3ZKZzViMnBkS2k0aXZCS2hNaFltdVdfTHVsM1JJLXFHQ2VGM3Q3anBaZ0hfbmN3bUliSVRDNU1fbGJ5YzFB?oc=5",
+    "title": "Desporto de Barcelos em destaque na 29.ª Gala “O Minhoto” com cinco galardões - | Radio Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmxGSUhNQTFzeWVhZ25kR0lyUllNQWRUcTQ1aWVrRm9HZjhBblNHaW92Yll4cjRLNkhuYk1lVWxUOTZTYUZQby11cFo2S1dwMk4xa2Yyd2RtU0xBMXgwMjdHVUl4OTc4SlM3ZEl2TjJnUkhQSEE4Ukd1ZDJXNE9HQi05ZlpFanJYc29qc2FoV0FrM2lxbl9qcjgwUHNQSDhUYlBn?oc=5",
     "source": "| Radio Barcelos",
-    "ts": 1795510311
+    "ts": 1795542857
    },
    {
-    "title": "Barcelos recebe prémio internacional por projeto que promove o direito das crianças a brincar - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMFFHeEFraGhkcVZpWlF5dEZBQjZ2WS1vX2xSQ1BGRzhkSlZHWnZMSHNITmN3blpkQUNLaVBiR0ZXR3ZrZTJ5SGVRTDRFQ0ZUWEFOY2lKWHN2ajlnRjE4WENXTm1EWkhpZ3FiUGlXemFvbnB1VUpkQlRrbzRYa2MxOWQ3NmI4OGltX1JVelExaEE5QV9udU1SendKdHpKSkVVcWVuaWQyVXkzZ09XMUlGU0hlWQ?oc=5",
-    "source": "Braga TV",
-    "ts": 1795470636
+    "title": "Barcelos: Câmara aprova TUBA gratuito em dezembro e concursos de habitação",
+    "link": "https://e24.pt/barcelos-camara-aprova-tuba-gratuito-em-dezembro-e-concursos-de-habitacao/",
+    "source": "E24",
+    "ts": 1795540829
    },
    {
-    "title": "Câmara de Barcelos garante reforço da cooperação com as freguesias - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZXBaZ0NsT3ZqckExLWJVRDRkM1hRUU5lYk1BTE4zRlNud19jS0NVMnhNT1Zib3cyWnlySUlkVjFlMWswV2N4cFN2cnh2eWxHRHlFN0tWNngzakl3Ujd3ZlVyMk9sMFZjU3pPQzRDNDdTQldnWnI3UGV2U093djRhbnBDYi1IZzh1Q1NZaDg2aDZLbmZRNDZxbF9VdFVuUzNpa0tVVXJVY09lSWZMcnpab0I1T0JMN0NBOWd1ZnRsb2NlVzAyclFIUEVjbXVsQ09tamfSAdcBQVVfeXFMUGM4RUI1UXc4T2VYbU8zRUdqeDd2aWZWUmJyTkc3a0ZHZGg4dTRyanhlRl9CZTFBVUlWQzdGZ0lQT05kaml4QWRuTmdtLXhYRXF3bGJuMV82a0w2cHJaMHNYZ0dzaldZNHdYckk5U3lDN3RIU09QZHFZYUNuT0xkZTJubUxsOG9HeEE2XzFxUDZrZTNtTXFVS2dxMXQyeHpUT1AwRHp0eThQZ3RkOUhtTGdYY05ENWp0cFE0WnQwUE5aX0d2cHQ1elI3QjNqYnI0djl2bDlmT0E?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1795454460
+    "title": "Sporting-Óquei de Barcelos no arranque da Liga dos Campeões",
+    "link": "https://ominho.pt/sporting-oquei-de-barcelos-no-arranque-da-liga-dos-campeoes/",
+    "source": "O MINHO",
+    "ts": 1795537649
    },
    {
-    "title": "Barcelos: Presidente inaugura creche de Chorente com mais 30 vagas - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3lObTFxTFJ6a3dUNW9nYjBKMjJHZzQ4SS1oYV9FSmMxMVpOcTBXVUhLS1V1RVMwYjNBZGRlWU5xLVB0NDRFYWJmZTh3VjV4Z2pNeE91NEFPRmxHWTJfTjZraDdyY2FLQlVxWlY3NnF4ZkVha1pHUVhtaDc3bkR0R21YVkNvWE1M?oc=5",
-    "source": "e24.pt",
-    "ts": 1795453792
+    "title": "Município de Barcelos distinguido com prémio internacional pelo projeto «Brincar e Natureza» - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMUdXbUlBdGxqeHpRUlBjVDhzOXI4VFE0d3lpcUFJZTh2MTZxZGNFbkZPcG1BVUJRNktKS0lYTUJESUllZmR4MnpEV3BibnZlN3JPRzJrdlFPS3ZtanRIQUprLTVoR2hqVDRadzlPM0NBV0p2ODVfaHRLWlhvOU81VVQ2eHlIcXRwYWtNSlFhRkoxMnJDSno4eUFXdlUzTENVeWw2QWwxT3FycGxaSnFOdUZ3?oc=5",
+    "source": "SAPO",
+    "ts": 1795535160
+   },
+   {
+    "title": "Nove anos de prisão para homem que ateou três fogos em Braga e Barcelos - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUHNhcVJnU05hQ3ljSW9sc0djLXFiUnBORENoSTdLR291U1hsMWE5MXJNZjJNY2ZMSjJIZm1QS3FrdzJxQmZ0dlN3Sm1mMDNrV2FOb2V3TmppZTU3OFlRekNRbV83M09Hdi1RNTEzTjNVLVp1SURLS0xiX3lVRnF2blVoQlNQSDh3a2JLUXFWVVpHX3ZyclM5MVBVNXBSOGVpRlh5Wk9XWC1HY2FzQmt4ZnBJZG4wLWdTQlZV?oc=5",
+    "source": "SAPO",
+    "ts": 1795532160
+   },
+   {
+    "title": "Mário Constantino Lopes inaugurou requalificação e alargamento da creche do Centro Social de Chorente - SAPO",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeFRMVU92NlhYT2lFYWdHZkpsXzk1U1lIazRMcTlzb2EycEVVbG5xeVE0bm9ucm53V0Y3c0xEcWZ5d1ZHSDJNbmJHMWEtdFd0XzdhTXRZbjB5SVZoV1RwVzZxVENkbTR2RGxvWTJtUEdWUWl1eW9JRXNrWjJNV3ZaUEhzeW9CWnp3c1l6WU1tRjI1RkE3alpNeVZEeXBqaG1hNnFHNWFyb2Qtdk44UTNyVnZ5RjE3T1VrSi1yQXdwY1M?oc=5",
+    "source": "SAPO",
+    "ts": 1795527600
    }
   ],
   "esposende": [
    {
+    "title": "Esposende dá voz aos mais jovens com novo canal digital - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5oYmp0VWlNTjR4UlZfSnNQS2Izd25lazZVUUtVRmlQU3U3S05VeUlJdFBEdkV3MjVLallaaWdWOTVsWHRJd0xDcVFRQmJKQ1BGNHl6TmJ2bW5yV0gxZjNLY3VWdnBlSGh5SW5pZktnWTc5a2J4azZzdzE5YjVERWN3Mm56dk12cDNkMHVyWHY5dFdMTVhTZEJwN2w?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1795522278
+   },
+   {
     "title": "Esposende recebe espólio da família de Valentim Ribeiro da Fonseca - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtiVzBXX0JkeHlpYXUxUUJ6bmx0aHEtVWZPY2JjcWhXVHVtNlNmZHBYeEMtamxCemlabUwzVDl3YlNWZWpDRjFBb29ucWFJWUcwNGpFcHl1cnJqeEFMcnYyOU5JbHZRa2U0UE9pZXRnNGxBTEF4OEJfU0lPWmlpQ1gwMFVvVEVEZDJGZkUyZkktNzFTXzE3TWptSDZzdVRGLWxjT0otcHAtZVhIamsxM1dR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzVjdUIwVmtxa0xVSElZYlZmWF95Wm8xakx4MzdEbS1sQVV0OVJwMXBDRHYxbVRud3JSX011c09HZWdPTGZQTmxKbzgyaHJoYkUzM081dUdVVHJ1V0lIVnNEaURZUWNJc1JaeUxONzlGSHJrdFdZdGc0NHVoei1BbkpsLThNY2t2N0JieWloTVJfTzlmUzNhS0tadmtEVXdTalliSjRSMmFPeXIz?oc=5",
     "source": "Correio do Minho",
     "ts": 1795516381
    },
@@ -1680,12 +1686,6 @@
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3JnRHRKOVBSYV9mbkpoV2tjWmFibDhuNFJQX3RrbERiTFlkR2pmcTFzMk85OXZUR1NncWpnWFhCRVFnWmxLVlR5ZDAxZjBGU25GWG1scWM3SjNnWXpqOV8zQXBfZE1oYWZPQUVXOHJjTERkTnFDOHYzTlBYd3NSY3hHcDJLQUVUcG5FVklNQ2dTYjBrX29XV0kyR3NVdUZ5?oc=5",
     "source": "e24.pt",
     "ts": 1795479889
-   },
-   {
-    "title": "Esposende lança canal digital para reforçar a participação das crianças e jovens - TV Esposende",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPT0trbVhQRG9GeWFEUS1YNEJ0VVdxUWl4RjBkWHo4S3Vjekk5NDlHWFZGdFVWZXNFZXdVYW5xUUliNlpyRWFYVjlZUEdINDhEelNJeDhmZnRXUm1UU3hYOVVDOUVFQzFfbU13VzJYYzNIRHlDTnFucFBWMExvNkZfc2RHZHV5SjZKZUJkOE4yQTZScEZ3d3ppTGhKLVJva0xoLWdIaWkzWEhDVmVBQUE?oc=5",
-    "source": "TV Esposende",
-    "ts": 1795471610
    },
    {
     "title": "Novo Hospital de Barcelos-Esposende incluído no OE2027 após proposta do PS - Braga TV",
@@ -1708,34 +1708,34 @@
   ],
   "mundo": [
    {
-    "title": "Humanidade, medos, sede de Deus, tentações: no “Diário”, o rosto místico de Francisco - Vatican News",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQkdKdW1PM1pxSXJvRTVWTG5GVW8yeWR3SlhNYzFmRGNyeWFkeU96WU9mQlcwOEcyRi1KT1hnVWRMaHlzM2pFLWIwZk1NcVo2aktqZllzU3NIR1U5bVlxVlMwZGVzNy1zbTRXMlhUNVhsRWJPd2lFRExTNUVJNVZHYjBxVHVpSHAybTlzMnQtWDJHSnItdjh5VGxXUTRVakoySDZzSQ?oc=5",
-    "source": "Vatican News",
-    "ts": 1795521053
+    "title": "Rússia continua a esconder baixas da guerra: mais de mil militares suicidaram-se - Público",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHpOOG9PSDQ3Q2hKdTgtNFpsYnpvbXdJZGVDX2FNck9KNDZwRmUzTjZPN0laREtLblZTdHp3bGNMZHFPS1BnOGlMNWVHaHJLVmduVG1BaS1sb3NySzVhbjRYZmdRNVhXNmNMR3JQZmRmeWNFcEpSb1NWdjA1TWJQYWp6RUViUTUycG5SNnF1SVV0el8wY1lIZlZCcG9rZHoxN0JiQ25WelM5X0NxNlFvSTFXeFJtYU95enNKU01R?oc=5",
+    "source": "Público",
+    "ts": 1795532543
    },
    {
-    "title": "Julgamento de Nuno Lopes por acusação de violação adiado para Janeiro de 2028 - Público",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcHB5Skh2eHVfVm5EenNMMDFlUUZUaDVHNzJsV1VhX0NVTUtGOURDZlZ2NlRlMklIRG5xcW80Yno1UUFmS1Z4NGxMV3N4RXBEVnEyN1RxTURyWGVrd2ZwaTl4bXRkOUNkNHZYbTk4SlRnUUxCWjk4Yy1JVkJuTFRCeGR4U3JDaUZhWUVXSlE5UmF1WHZOSUc0WDNIR09OeHNXUTgtbzhTVWUyOEhfRkdyTGRkel9iZFZGUjZlSV9vZHBxZw?oc=5",
+    "title": "Líbia diz que ataque da Ucrânia a corveta russa é “acto de guerra” - Público",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQVB1VUpGcXl2LW1uOC1oRHJqWkVEUklFbUk3RTd1cEFmazlpOEhCdzlRTlRvUWJZdnNScHJBSm1oT04wMF9pUmpydXVCVnBJYzVyRDdnZU8tNUU5YVNmOHcwbFJyU1M1TXdwV1RrdVluNHZLRjZKNmd0T1ZVQkJrOEppbGRzemU2Tzg4UnNYZTRsaTRqdzFGUE9qUTl2X3k4eDFYdQ?oc=5",
     "source": "Público",
-    "ts": 1795510578
+    "ts": 1795524163
+   },
+   {
+    "title": "Liga dos Campeões: ingleses preocupados com leão… que afinal não existe - A Bola",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdk0xRjBxeVptQWxhbHEzNWhZUm9XQ0tBVUVleXhfTlVKUFFvRFpVMEl1aWNkeHVSbmU4TWNfcG9BY0l5UDYycllWOElkMkEwMldza1RfbFJoM3ljZzNGLTdQZTlhZEdhQUhHMFRMWmEtWjlXS1l6a1RUYl96ZHhxTlBNT3EwbmRjSXZCTWloZERBUzJ0QnB2YURfejQ3OUZzWGx5YUJZdElyaUJ1V0xYRFQ1ZE5EQ3pPZTJN?oc=5",
+    "source": "A Bola",
+    "ts": 1795521420
+   },
+   {
+    "title": "Julgamento de Nuno Lopes adiado para 2028 - Observador",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZzRMdlk4WjZkUm1oN3BCZGE5bDZzZG1SdDRLV0V4N3U3SF9VOHdzaHN4bF9TRmN5UllJanZ6a0lJQ0lqS3pMMXJTSlpnQjRKTzUxUy1OelFVZjdSbzFWTnBXRHA1M2p6bVUyMUNscTZWNGtPTmlVVG92XzUyaDNQUlVEd25SWUdRelNkcy0tUkJmN0JrTVE?oc=5",
+    "source": "Observador",
+    "ts": 1795512180
    },
    {
     "title": "Sem acordo é melhor do que um mau acordo? Porque alguns veem esperança no colapso da COP31 - Euronews.com",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVDRESHNMUXBRczBpMEEtVk51NEpvTmZMUjE4OGFmazF0aTJnZWlhS2RQdjd4eXVnU0FLY2N4UjNPQVNaZmpad1UtYVVkcGZVLTZMdkpwNlJZYWJDUm1tVkRsVTNlOXA3Q0VVYjhsTEtBVWpSMXNfWWxEX1F2NU5nVEF2ZmlVNUFvZXZFUHRfVHJ3R0NNXzBzRi13?oc=5",
     "source": "Euronews.com",
     "ts": 1795500131
-   },
-   {
-    "title": "\"Humilhada, exposta e magoada\". Fotos íntimas de Gisèle Pelicot usadas por editora - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPd1Vtb1IwazdBeHVBd1ROc0NYamhQclI5THV2Z3lKM1pLbUFnSXNLQWNSX1MweEM0aE52RXI2bXFJNlJNY2tDV1M2b3IwR0x2Q254UnIwZU5qQ3hWXzBlTmtSaldQM0JtNjdaM0JFR1JiSlkyZXhmTEtoblRfN2h0Q1Eza3NZRGdld0pRRG5FLWI5SHlSb0NoQTBKYy1NcVljTDBrUnRwa2VRTWM0YVNXcjZoU0x0N01sU0HSAa4BQVVfeXFMT0NTaVE3bFZWc1lDSzJtcjJfR3MxUnZlNmJoOVpGU1p5UTJTNl9NN0xBRWJFel83WjRiY29vRkNLeGlEa3V4d0xRVG9PRHNST1ZUcWdKSlYzMW91bGgxUGx4ajAzSFZMYll4S1AyeF85N2IyM0FFWXlUME5FTWY0d09FanBNZVk0alY4Q2k5ZGNDM19YVkFBeURKVTI3a1VvUUFqRGx2YWlTNEpvZ1FR?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795483860
-   },
-   {
-    "title": "Ataque \"exemplar\" da Ucrânia atinge navios russos na Líbia - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYmxRRTJzQ0RuSVVVQWtmS1JnNHY3VFltbzNZbGxXRWFwQnB4ZGloaGEyMFZRdEJzZGV4eXc1YWx4ZHg3RnBvUmNiU2RLR3RKamhrQk9tbmpCQjNaY0ItUHM4TVN5MU1zR3JZbHpsRlhUcTZnV0dibTI4NDJxMTdVQTVZa2psQk0zVU0ya0N6WlBaaDdfdTlOZXg3cHdfb0czdDk5NEozd2dNR3hnQ3VPVDBlRUNrNEc0dmtRU1RwUnVwUdIBvAFBVV95cUxNRDZWNGxpRm9EbVJXQVUwLWM1S1ZqN0ZJbWFJb3dNSEhsOFJ6OHNWdURNNDFmY3V0UHU2cTJyVmNCQ2g4VXpNZklub0gyU0lVcHFCQjRqTG15TkpPWmtlUlZJSWRIZXg2OEJRSmRXQXk4WG9GTklBdFp5dnQ4djQ1UGx6QzRXeEZTcDlfWGtGWDFfUVl3OXd3N3pNM2MwWkpyTS14MmdWdTZrdmVEcHBZR0FKM2VZSVNaUFBISw?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1795480200
    }
   ]
  }
