@@ -1,10 +1,10 @@
 {
  "host": "pi",
- "atualizado_em": "2026-11-24T00:00:22Z",
+ "atualizado_em": "2026-11-24T08:00:11Z",
  "resumo": {
   "total": 7,
-  "ok": 6,
-  "falha": 1
+  "ok": 5,
+  "falha": 2
  },
  "servicos": [
   {
@@ -20,7 +20,7 @@
   {
    "nome": "OpenClaw",
    "detalhe": "gateway",
-   "ok": true
+   "ok": false
   },
   {
    "nome": "Tailscale",
@@ -44,14 +44,14 @@
   }
  ],
  "metricas": {
-  "temp_c": 50.5,
+  "temp_c": 49.9,
   "load": [
-   0.3,
-   0.13,
+   0.23,
+   0.14,
    0.1
   ],
-  "ram_pct": 66.4,
+  "ram_pct": 64.9,
   "disk_pct": 26
  },
- "ultimo_push": "2026-11-23T18:00"
+ "ultimo_push": "2026-11-24T00:00"
 }
