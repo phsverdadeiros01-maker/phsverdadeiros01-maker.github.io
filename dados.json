@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-25T00:00:14Z",
+ "atualizado_em": "2026-11-25T08:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-25T00:00:15Z",
+  "atualizado_em": "2026-11-25T08:00:15Z",
   "dias": [
    {
     "data": "2026-11-25",
@@ -1471,6 +1471,12 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos disponibiliza mapa para avaliar potencial de energia solar nos edifícios - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3JwZkN4a09YYUxFZXhWMnU1SkVIYTFDOFB4Mm1uT3NrbXQxTGczVWMxQjg4VnptVVlqanlnVlhkdHByWUlXcUJJdzJ4OTNiOWNGRzNHSU1EbHNDLURxbkREUDhSSUFqb29RMWhtX0FVN2hnc003Rlg3RTZialYzT2k2eFNLVlFSaFpvRHc0cEdxWnJhYVdTQTJkNlBPbWp2eE9N?oc=5",
+    "source": "Braga TV",
+    "ts": 1795556741
+   },
+   {
     "title": "Desporto de Barcelos em destaque na 29.ª Gala “O Minhoto” com cinco galardões - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMmxGSUhNQTFzeWVhZ25kR0lyUllNQWRUcTQ1aWVrRm9HZjhBblNHaW92Yll4cjRLNkhuYk1lVWxUOTZTYUZQby11cFo2S1dwMk4xa2Yyd2RtU0xBMXgwMjdHVUl4OTc4SlM3ZEl2TjJnUkhQSEE4Ukd1ZDJXNE9HQi05ZlpFanJYc29qc2FoV0FrM2lxbl9qcjgwUHNQSDhUYlBn?oc=5",
     "source": "| Radio Barcelos",
@@ -1484,7 +1490,7 @@
    },
    {
     "title": "Hóquei em patins. LC - FC Porto-Benfica e Sporting-Óquei Barcelos no arranque - RTP",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOb0lITGtKSGt3ZjdMMkJQWW4zZVQwNWRiQ3NKSHNIUkc1bmdTeWVGb3RGaVk2b3pUbWN0NjlxN04tLVBMVlhNbjI2ZUY5LWdlVDV2RlNOSVJoZW5wZUdPb0ZZZ3NaX1JvZXVRYm1VNEZpN2RldS03Z0VKVy0yT1VEZ21aV0pjbHBqek5Ia2NfYWRiYk9FTzVNRm8xRTFENFl1NHlIbE0wQXlHTHNNZWQtcmIwSjlGT3V4?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTzRxb1lyc2xYZE94MWZfOEZZWFdMbzhWcE5BYTY0UzhOdkQ1U3Z0ZkFOX3BXLXVKMzVxSHVyakw0QmE4MGpsNTA5YnVyVGdEWGlLSjkteURhVmU5c3Q5NHZEMC1IR0psdUpaU3VDT3ozM0hxdTgyRU56RVlxSElxVC00ei1ob3ctOWUyQVV4Z3FqdlplN0JpNDVYcURPbTAtMW1oam1LWVNJcEhKbUEzZUdPdWFlT3ZQWnVqRDNmZVZCYUpLVkZRVk1B?oc=5",
     "source": "RTP",
     "ts": 1795536453
    },
@@ -1499,12 +1505,6 @@
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnk1ekVOU3BGUFg1QnN6aDNmb09YNHN3N191ZFJEbEZMQ0dCLWRQQzlDR3QzdG15S0RrUEJ5UE5rdVByRjFoTi1zWlJ5eWNscWtSZFE0WUNMelg2MHIyYnUxYWFnMWhjMk9ic3NFS3Vpa0h3T1MzLVA1bi1zckc3bVRobkcyWmxMN3JuaFppRU16TTdLN2dmNC15aDNPZmwtdEpJMll6RVlyM1Bt?oc=5",
     "source": "Semanário Alto Minho",
     "ts": 1795519263
-   },
-   {
-    "title": "Hospital de Barcelos incluído no Orçamento do Estado - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TdDNvc1YzdUxadUFHbkhBQWMya25pS1RfcWRPbVhSOXNCcEpqRVpiV1ozUFdqbG1rTFpjaUJFaEFObk9kLUtjT3cwcHBJQUt0a2U1VjUwVjcwNklJVDZzTTd3UWlmem4tUWpWV2s3Q1ZTSXMxbEdtd0RaTQ?oc=5",
-    "source": "O MINHO",
-    "ts": 1795518780
    }
   ],
   "esposende": [
@@ -1515,16 +1515,22 @@
     "ts": 1795522278
    },
    {
+    "title": "Esposende sob aviso amarelo devido à agitação marítima - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByUjJoZ2dfZk4tZU1sUUtLQ2JqOEdhSlZFSmJZNDVKa0tBS2hWTk54MHlRZWdHa3ZhZWEzVXVSNThCWDk1TTlwTzU0ZWlld0J5UVZCYmZtMlh4eGpxaXMyaXpZMFhJY1NvTm9OZHItNEY2dFNwMzNfR0ZHXzgyWkE?oc=5",
+    "source": "Braga TV",
+    "ts": 1795517350
+   },
+   {
     "title": "Esposende recebe espólio da família de Valentim Ribeiro da Fonseca - Correio do Minho",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmtiVzBXX0JkeHlpYXUxUUJ6bmx0aHEtVWZPY2JjcWhXVHVtNlNmZHBYeEMtamxCemlabUwzVDl3YlNWZWpDRjFBb29ucWFJWUcwNGpFcHl1cnJqeEFMcnYyOU5JbHZRa2U0UE9pZXRnNGxBTEF4OEJfU0lPWmlpQ1gwMFVvVEVEZDJGZkUyZkktNzFTXzE3TWptSDZzdVRGLWxjT0otcHAtZVhIamsxM1dR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzVjdUIwVmtxa0xVSElZYlZmWF95Wm8xakx4MzdEbS1sQVV0OVJwMXBDRHYxbVRud3JSX011c09HZWdPTGZQTmxKbzgyaHJoYkUzM081dUdVVHJ1V0lIVnNEaURZUWNJc1JaeUxONzlGSHJrdFdZdGc0NHVoei1BbkpsLThNY2t2N0JieWloTVJfTzlmUzNhS0tadmtEVXdTalliSjRSMmFPeXIz?oc=5",
     "source": "Correio do Minho",
     "ts": 1795516381
    },
    {
-    "title": "Esposende: Bloco exige divulgação dos relatórios sobre derrocada de Palmeira de Faro - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3JnRHRKOVBSYV9mbkpoV2tjWmFibDhuNFJQX3RrbERiTFlkR2pmcTFzMk85OXZUR1NncWpnWFhCRVFnWmxLVlR5ZDAxZjBGU25GWG1scWM3SjNnWXpqOV8zQXBfZE1oYWZPQUVXOHJjTERkTnFDOHYzTlBYd3NSY3hHcDJLQUVUcG5FVklNQ2dTYjBrX29XV0kyR3NVdUZ5?oc=5",
-    "source": "e24.pt",
-    "ts": 1795479889
+    "title": "Ambulância de Suporte Imediato de Vida chega a Esposende em 2027 - radioondaviva.pt",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDA0NlRhTU83VkFPQ0RubHpJdDBEX1JzVjBhRFdtWXppQkRBSUh5MzdFVlVJTEVWelBKdzk0cmNjUGhIVEQ1bG5nOXk5VUFnU3ptR2FfYUVwUEFsMnNDTHZHOWxQVjhaRFo2b3lUbUpVUHE3SkdYdGl5Tlg1Xy1vS1VBY2ZNZ2xGQnNGS1hoTDUzbk5f?oc=5",
+    "source": "radioondaviva.pt",
+    "ts": 1795515611
    },
    {
     "title": "Mercadona chega a Esposende com investimento superior a nove milhões de euros - Novum Canal",
@@ -1541,34 +1547,34 @@
   ],
   "mundo": [
    {
+    "title": "Assalto a centro comercial na Colômbia acaba com 30 reféns - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDIwX3kybzJ4TzNtelZ1V2tvNk1ad2FBd0xHZ1pOOThpWXNDWFFRUHU0VFlHVFlJeWt5RmlvbFAxMFZTMjBqTGJvc0ZaSTFucUZubVBGWk9aYXp2OVNiN2otMk1MLUxqUWtxWTFMUHFONHlkWmUyeHZRUjdxOHFrcTMwY1N3SWN0U1JjOFh3bTVoVDB1cTZremdhZlFleTBoSjI3OHFadGxVUWN4bVNrNEpHdw?oc=5",
+    "source": "Expresso",
+    "ts": 1795562670
+   },
+   {
     "title": "“Desmantelamento do antiamericanismo”? Como Feijóo e o Vox podem reposicionar Espanha entre Trump, Israel, Marrocos e até Portugal - Expresso",
     "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcGNkbjd6TzZmdjM0bng3TmJCb3RDVHlueDA5OHVJX0FFZ04wRmxJcTZmSS1Uc2tZQThSanplRUtVYml5WDdNeVZUaHBWdEZrNXppY09icll6NFItWjQtRnU4WGgxNVlVZENaUnpmaEZSZGptUmdOdzl1cV84c0F1bW1qdjBOeGpMTmVRYnBsM2ZWaDBkRGlaZUp6cHNFSUh1YjctTW5pRGpNR1FjblVVRUtGX0hiWnRpX3A0dW9BVUx2bnRUcUFYbFdqRHlQZVRaMUY3bFVoZWlENjdJUTVCazhxVG5GS1JJNm9aM1psenJaTFI5NTlQb0ZERGVzZVozM2pXag?oc=5",
     "source": "Expresso",
     "ts": 1795546800
    },
    {
-    "title": "Nova variante da covid-19 detetada em Portugal em poucos casos e sem maior gravidade, diz INSA - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWEtsQUtLcExBOFQ1SFQ5aHEwSEllZG9jSEFCbGxRajZkb0s4aG1WeGd1NElIVFJzZGVUMEgycXY1M1A0N3JPcHFhVlZkb09aNW5xdGJWWmZ2Tk5NR25KbC1QUHhXeUNhekxtNXZmZEE4dXdWYTZVR2NGT0gwcDI5Zi1fMzFrQkdsZUo4dUl2RF9fWk1YRnlzT2xBdmxnQkZJTVdPeGo5RWoySk9RZTJoMWU2VnFVSnBleXpJRmk3bWMwM0xzZkh1RWdOeWdmV0RwbXVSQkRWTDliaHY4X3FocjVfaDFyckhEcnZ2TmFibw?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1795545938
+    "title": "Espanha: campanha russa Matryoshka espalha desinformação antes das eleições de 29 de novembro - Euronews.com",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2duVEdpTWJsYkswYkNDay1QT0x3YkdmV1RJejZvbnVVVjNJU1djLVRwSDg1bmdaNXZybkFEMWVnUjZQWElvc1pzTHl0Nk1aTkNDZ3Yzcjd3RnNRMlUzVE9VZzE1dWRTeF9QTHRFa0l5dm1MUlE3SDdvd0JnUjV0cnNWcHB6X2g4T0w4QkxRcFFmSzVFMlRlaDU2am5lZlRpYTJWeVNZRTVTektPUmV5V1pLZDFOdjhTQ2FWUGdKdXhaTUE?oc=5",
+    "source": "Euronews.com",
+    "ts": 1795541714
+   },
+   {
+    "title": "Grande substituição? Frederiksen incomoda socialistas na UE - Observador",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQckRXWTdoai0yRVB2VHRZdkczNmpnam1XM08xZFJWTzRacWJ2cmxRbFkwdjNZQlZ1UDZET1p2dE04VVMwTzJHVmpPby1FWVBnSTE2RzVTZWlGaHVZOFFGcGhfVTZKa3E3aHZtVHQ4ZERWMDhjZFhpbjRnM2gxbExfWm5TYjkwckhMODAtU1EwRklWREVsTUN6elFwX04yNjlLbm9qWVA0VWpQSW1CSXJ0akZlc3B0azhLcmpBZV8yVC1BVFBtdzdIMHdmWWN6OFZDRWhGczJwU1Z0SE4xT2ZiNDZIakhUN3lT?oc=5",
+    "source": "Observador",
+    "ts": 1795540740
    },
    {
     "title": "Talibã apagam nomes das mulheres dos registos oficiais: na província de Balkh, todas passam a chamar-se “Bibi” - Expresso",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZ1QwbXhIY2VFa1A2RjBRWElQb2lyU2pqeUp0cU45QnRYU2Z2b1FZQUQ3VVZ5bVlwV3RXLVlhS0wtLUlGOE96dHBlLUI2d0F5Z0I3dVRzU2FrbjA5Y1h0bDdXdkFsZUZRV01hLUJOQkt6TjhPRTM1R3p1RkVjMFdvd1B3LTVDRzdDVzF2NDRCVldQSzVRbUJYSUdZSmZVUXpyX01yVExEQndlOGVHNlZlby1jb1gxamRGWDZYOHBnNVFOVXpHejZqTXo2b3pCZW1uajV2U3NlS2VEQ0NDdHNuUU1ZRFM0cVFvS1A0U0FyRm5xTWZJMkdteg?oc=5",
     "source": "Expresso",
     "ts": 1795540711
-   },
-   {
-    "title": "Coreia do Sul manda residentes de ilha abrigar-se após aviões russos se aproximarem do espaço aéreo - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU2tVSmRwTHYzTEYzVVItcTBuUmwySmxjVzgwVmMyWkFrWmtiWFpFdjBFcDlnTDUwTnFjdktTb3N3M052cUhuSHpETmFpMXZsWkxtd3VGbEc5akJfSzFWeWV1RUw5Wnc3M0VjMFhvTHBkbldZV283R01GOEJpRXl4dUppNVpsWVZqTnNHSDBxWlpkS0Npb2J4ZnJkMTBfNHB2YmVUTnRWR0lxQ0lmTlR3VUdYUnJjb2pXRGlJZHZVZko4WVU?oc=5",
-    "source": "Euronews.com",
-    "ts": 1795535338
-   },
-   {
-    "title": "Rússia continua a esconder baixas da guerra: mais de mil militares suicidaram-se - Público",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbHpOOG9PSDQ3Q2hKdTgtNFpsYnpvbXdJZGVDX2FNck9KNDZwRmUzTjZPN0laREtLblZTdHp3bGNMZHFPS1BnOGlMNWVHaHJLVmduVG1BaS1sb3NySzVhbjRYZmdRNVhXNmNMR3JQZmRmeWNFcEpSb1NWdjA1TWJQYWp6RUViUTUycG5SNnF1SVV0el8wY1lIZlZCcG9rZHoxN0JiQ25WelM5X0NxNlFvSTFXeFJtYU95enNKU01R?oc=5",
-    "source": "Público",
-    "ts": 1795532543
    }
   ]
  }
