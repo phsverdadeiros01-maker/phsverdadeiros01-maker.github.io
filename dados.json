@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-25T12:00:14Z",
+ "atualizado_em": "2026-11-25T18:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-25T12:00:15Z",
+  "atualizado_em": "2026-11-25T18:00:15Z",
   "dias": [
    {
     "data": "2026-11-25",
@@ -1632,43 +1632,67 @@
  "noticias": {
   "barcelos": [
    {
-    "title": "Câmara de Barcelos aprova concursos de 3,6 milhões de euros para habitação pública em Cambeses e Vila Cova - Fama Rádio e Televisão",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQmRyWWZjQkRqRGdMXzVfLVVKOFJPNzVRY1dEcHRyRmpSTjJDXy1nWTU0M21aVzN1N3FsLWdUaUxGclEtUm1DOUNiZ201Uk5rX3JIVllUQzFWWkM4aVRmRk9Ydjg3TE5zS0w3VDlSLVhqQjlEcXpXUFhLUVZYeXQ1M29xUWJKMnl0anhyWlMyOXIzSlVJMmxHdjVZaHJ1ZlJpSWUxVHQ0akhYN1kxWVZXSGJqdXU0RHZMVXZMUTBrNFNFSDM2djlPeDdwNTloVUFtZi1XTWdCVdIB3AFBVV95cUxPdkhEcEE4VUgxd1ZwNmdyUnBkbFVoT25hNUpHNGxLOFp5SGg3XzhyZlUtUTRRUC0tNVZvNTZaMUY0VG1sTTdvdi1jSURSazktaV9lbFF4X1FCUldIc040cTVfcjNZdXd5djdzZHoxdFc0dGZHVUE3a0ZEcTRoaHpHOFkwbVFSS0d1NjFXWENERzVwLXAwdUZ4LURDMGhTaDJBTVhqRjFXZEstOE8tYm44TEVHcERGelgxV0JjelhCdklXNmJHYlFNeTM5Y0xDc2xsYjg4WklBNXhTUkVS?oc=5",
-    "source": "Fama Rádio e Televisão",
-    "ts": 1795607795
+    "title": "Câmara de Barcelos investe 3,6 milhões em 24 habitações a custos acessíveis - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPOTM5VkxwbkF2WVE2bjExajRuY3VXWGN2OXBXc3V2SnMzZGFFSEN3VDZjZ3g4QXZ3VkdyVm1yZUlGcVNuVU9rak13dmFFbDVhTlRoZEJvZDFWYWJMcEtsTjJOWC1UbDRiMG5MTE94S29BNlZHM3dTUEZXbGQ2REdfY2tjbXpRc3ZIRlJDRVJmMGVDVFNXS3BfX2g1X3IwMDlIZExCRkpBWEJ2aUd0UWFKTlA5NHJydlp0RWJfczMzX3d5WjByOHJEekFVbUllTkRMNU1JeDZjUWdmZXRx0gHiAUFVX3lxTE9BU2xOME9ZVlRwRFdiSE8wU3VqbTVwLW83QVZWWDJ4LW9pOFJOaGVaa1dUMGNLRlYtWkFkX1h4R3M2aGhBS191LVQ1MFQ4X19HUjQ2V1dSZmFQdlBleEp3bm56Unl2NkJrWkw0eWdVWXRfNFNqQ2doRTU4UlNQTDd3TGFzOHNVU2NRTmlzclpETWtaejhqT09tX0x0ckFJaVJ1OWU3UEFBUkhhR1pRU01kUzlmQ3IwaHV5d0czc2U1UlNvb2RpbVk5V3pJQnVibGRpclI2WjZka05lMjAxZjJoUGc?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1795621680
    },
    {
-    "title": "Barcelos investe 3,6 milhões na construção de habitações a preços acessíveis",
-    "link": "https://ominho.pt/barcelos-investe-36-milhoes-na-construcao-de-habitacoes-a-precos-acessiveis/",
-    "source": "O MINHO",
-    "ts": 1795606488
-   },
-   {
-    "title": "Santo André - Barcelinhos - Agenda Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4tSHFVREpBc2FJU0FfTWNHX1gwcTZCX3pTWW5GcmtMRm0yNWtpVTJSdFhoT2lQRHNyWEN6SXgzTzR2MkpoN0toeWFNVkhROVlndS10MTdjMG1OSFd4ZW5HVFZMQms4MzJwb191bFdoQQ?oc=5",
-    "source": "Agenda Barcelos",
-    "ts": 1795603037
-   },
-   {
-    "title": "Barcelos: Torre Medieval acolhe exposição do Presépio até 10 de janeiro",
-    "link": "https://e24.pt/barcelos-torre-medieval-acolhe-exposicao-do-presepio-ate-10-de-janeiro/",
+    "title": "Barcelos: Município assinala Dia contra a violência sobre as mulheres",
+    "link": "https://e24.pt/barcelos-municipio-assinala-dia-contra-violencia-mulheres/",
     "source": "E24",
-    "ts": 1795600171
+    "ts": 1795621445
    },
    {
     "title": "Luta Olímpica do \"Despertar\" conquista nove primeiros lugares em Barcelos - Sintra Notícias",
     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE4wUE1BX291TVZrQ0tuU3hfTXMtaG5CLXpqYWtCQ1hQa2Y4YjY2d0NJR2xCNzhIOXNnb2Z6QzlPbHJYWFF1dTNFMi1MTEdwSkRUX3lBNENPbEpOcEJVN0NuWng3SU1TdzZjUXhfcVk4aHpjVGhRR0pQNmlLSnNNWk0zeExGQ3RPbU5POW9odkZkUHhzYmV6enM0dXBKbW5vZG9DNktZMzY4ZC1FalE?oc=5",
     "source": "Sintra Notícias",
-    "ts": 1795598141
+    "ts": 1795619183
    },
    {
-    "title": "Barcelos disponibiliza mapa para avaliar potencial de energia solar nos edifícios - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb3JwZkN4a09YYUxFZXhWMnU1SkVIYTFDOFB4Mm1uT3NrbXQxTGczVWMxQjg4VnptVVlqanlnVlhkdHByWUlXcUJJdzJ4OTNiOWNGRzNHSU1EbHNDLURxbkREUDhSSUFqb29RMWhtX0FVN2hnc003Rlg3RTZialYzT2k2eFNLVlFSaFpvRHc0cEdxWnJhYVdTQTJkNlBPbWp2eE9N?oc=5",
-    "source": "Braga TV",
-    "ts": 1795556741
+    "title": "Exposição «Presépio a 7 Artes» - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ubjBUXzl3cV9MbWF1R05NX1Vpc2c5Qjl6dzlodFcxbllXOFpHR0d3Z3pqNVl3OWJqQk5Jam5NbEk0TkNTeVJaYTAzVTRFbWx4SFRMWDRyWjl4OWlxWWY4cGQ2QlNOaWtzbE5PQmxESmVlU09YQ0E?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795617900
+   },
+   {
+    "title": "Barcelos: «Presépio a 7 Artes» reúne 245 peças na Sala Gótica - Agência de Informação Norte",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWMyYzVvTl9CTC16SlF3LXE3RDVoeG82SXI4eXk3UXhfM29QVjMyWHVXTjhHQ0xlR1Q1Y0pqTGZlVXYtQU1wdUVLbGR6QjVzTUF4ZmtubWI3U0VLU1c3ckxYMjI1OTl1ckVGeENUekJpM3RfNlRKUlk4aVl3ekIyeldGNXpoQVNoSmVQdlZGZWJkbEZhSzJ6VURsVmtfMXAx?oc=5",
+    "source": "Agência de Informação Norte",
+    "ts": 1795617131
+   },
+   {
+    "title": "Barcelos conquista prémio internacional por as crianças a brincar em contacto com a natureza - O MINHO",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2syelZtNTdnVFBfcFh2REpGekRBV0c3RVUxd0RPSC15bWVnczYtaDZZMWtwSEtXdHVBdm9mTF9TdlpKaHZ2cEc1bFY0UnF2WDZ4amhGYWxlSTg3VUhEeXBjQnV5Z2pUOEhHVEs3VTdPaXFaakdhWllIc0szeW41ZEV3bVMxS3RyOUVOYXFNTGxodzZHaGVaNjFTT0NDSXVubmZkNXNwRWYwRlpFQ18yTw?oc=5",
+    "source": "O MINHO",
+    "ts": 1795611660
    }
   ],
   "esposende": [
+   {
+    "title": "Alunos de Apúlia plantam carvalhos que semearam há dois anos em Esposende - Braga TV",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ0pYLTBlR2ZIRUtSaGdKVkI2NmF1dV9YTmljQ3pEZEdIU3NfVUxQTkxFeGV5QTBmem95T0pmQ3l3cW8wSU1XVUVhd0thSU5VUWR4WVpZdFR6cmc1OVNuazdHVWVaNkpxNnNzYmZILWN0WGIwUzJoMWpZc2lVYlNVS1ZIOEZrZHJkcnF4TlR5cFk5aElXTEZPSg?oc=5",
+    "source": "Braga TV",
+    "ts": 1795625279
+   },
+   {
+    "title": "Município de Esposende assinala Semana da Floresta Autóctone com plantação de espécies nativas em Fão - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHBkQWQxWGJOLUdVeU4xck0yQlBtb3BsVURaZDAyOW52T1VZdm5SMDZwTnB1UVZoOV92S1M1RGRpaW5kQldrRWh1bGcyZ1dqY1p5XzN2Rkp3UDE5U2J6UUpmYTJqN0JZUXMzLXdBbDJtR1VtVHh1aFpYRU5KMHdSWjFuREJtbjdjdF9PYjAxNi1CLVhsYzFOeDR4enVIblJMSzRGWmJMc1pEX0xmUGJQQnFjamZKUFFvTVRzZUp1dlhIam1QMUhzdHF3?oc=5",
+    "source": "TV Esposende",
+    "ts": 1795621791
+   },
+   {
+    "title": "BE exige divulgação dos relatórios sobre derrocada que matou casal em Esposende - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMm1DSkVZMVktMHM5NDAyM2E3VDBOaUlQaFU1dDRjUWZzbVFRR1BpRE1ONXQxeExfVGxwRHVscUdLS29qRXhEOUpUSXdXVGI1c09jVVFEUVJITmVUMDFub0tocUZ5QmtFTkZ4d1lmUGRUS3FIS3lkRm13YWxyX0xySlR2R2syczZNb3kxU2Fpbm1tNlBlSEU3Tm9VZkNkQ3p6SGNuY9IBmgFBVV95cUxQTG1YXzB1cDA1dUw5dnU4T0NRQW5ZQXFTTVJoX0V3MWxzVGhsMjZDbEhYVnZfdWRNS0M0aEVkb1BuR1FHSmtYT044MXdMZGk2UUM3bEhJY0tTYUlRRW5XcXBMM3d2NXJYNmF4ZGpRT0w1LUk2STdsT3VnNDhmVGxFZFFQalVSRGZjdzhkbmw0M1ZTTGNMMzdZdF9B?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1795617360
+   },
+   {
+    "title": "\"TraumaTeam Esposende\" parte para o Brasil para o Campeonato do Mundo de Trauma - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX3V0eW9VVVNCb0ZUclFtem4yQmpFNXRmLTlZU2x5MHR1eUlhdXVmd1JKeEZJckRlYmxLd0NkTXZDME5SVFpIZEJuOXg1OXZYZzJsbC1TQkJMeGFEdDBvaWZJX05aZ1ZGRzhza2tPa0x1bmlzY0E?oc=5",
+    "source": "e24.pt",
+    "ts": 1795601627
+   },
    {
     "title": "Esposende dá voz aos mais jovens com novo canal digital - Semanário Alto Minho",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5oYmp0VWlNTjR4UlZfSnNQS2Izd25lazZVUUtVRmlQU3U3S05VeUlJdFBEdkV3MjVLallaaWdWOTVsWHRJd0xDcVFRQmJKQ1BGNHl6TmJ2bW5yV0gxZjNLY3VWdnBlSGh5SW5pZktnWTc5a2J4azZzdzE5YjVERWN3Mm56dk12cDNkMHVyWHY5dFdMTVhTZEJwN2w?oc=5",
@@ -1676,66 +1700,42 @@
     "ts": 1795522278
    },
    {
-    "title": "Esposende sob aviso amarelo devido à agitação marítima - Braga TV",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByUjJoZ2dfZk4tZU1sUUtLQ2JqOEdhSlZFSmJZNDVKa0tBS2hWTk54MHlRZWdHa3ZhZWEzVXVSNThCWDk1TTlwTzU0ZWlld0J5UVZCYmZtMlh4eGpxaXMyaXpZMFhJY1NvTm9OZHItNEY2dFNwMzNfR0ZHXzgyWkE?oc=5",
-    "source": "Braga TV",
-    "ts": 1795517350
-   },
-   {
-    "title": "Município de Esposende recebe espólio da família de Valentim Ribeiro da Fonseca - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQk80enlGVXN2NEpDeEJ6UUROSG5ZU1htYURsT0d2VzRSSmlTNmg1OF93eTNQZ0o4UHdmMWpqOHRaU0ZtLWpma19XajQ0X0stNnZyeHVNYnd2N1R5U0lLSjBXUjlwbkViMnBRelBIWFZIajlXcFR1dEg0c3NuX0xuUU9qZzJqZk03VFVOTzhlSFM4U2d3cFVWNE9QYjN1amdsX0xKRk41bjl3VGEzVGhFQ2V6bTEzT2Z5YnVCVUpnMG5xbEV3bnc?oc=5",
-    "source": "SAPO",
-    "ts": 1795512180
-   },
-   {
-    "title": "Esposende: Bloco exige divulgação dos relatórios sobre derrocada de Palmeira de Faro - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV3JnRHRKOVBSYV9mbkpoV2tjWmFibDhuNFJQX3RrbERiTFlkR2pmcTFzMk85OXZUR1NncWpnWFhCRVFnWmxLVlR5ZDAxZjBGU25GWG1scWM3SjNnWXpqOV8zQXBfZE1oYWZPQUVXOHJjTERkTnFDOHYzTlBYd3NSY3hHcDJLQUVUcG5FVklNQ2dTYjBrX29XV0kyR3NVdUZ5?oc=5",
-    "source": "e24.pt",
-    "ts": 1795479889
-   },
-   {
-    "title": "Mercadona chega a Esposende com investimento superior a nove milhões de euros - Novum Canal",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVHVHNFUwYUJHY0FBaGpQdjJrRUVqeGpaM0Zyd3Y3cXhqTVc5aXNOLXg0LW45WEVLbEdtRmV5M1lKQTJDd3Yya3FGUU5qMFU0ZTM0LUxWa3dyREdLMEZ6YzM0SV9RcXl5Z0pmRmt6enFkMlpGVmFvam9oZjU0Z1gxZnFOR1BnUFBsdU9nRkEwODJ3TjJUbXoyOHJEd210ZW0tMmtDV3ZtVGFRcVZZ?oc=5",
-    "source": "Novum Canal",
-    "ts": 1795459193
-   },
-   {
-    "title": "A magia do Natal já chegou às ruas de Esposende - Diário do Minho",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaUZ5NWJBZFBvZklGV0FqS0xyM1NzZHBocW5FdHBoWmdyU1BWeWxkeWJNYmVUZWNfNTRGd1dCcDBBWDEwUFBuMVA3WXdFM2xfenltZndPamlQdi10dkZHTnMzb1RoUmN0NzRIWHdyZWh6R0RadS1HNEJIRkFqbHNwcTdFQVA4NTZJTS1hYjUzN1FVNWM1SFpWQUxjMzJuNl93YUlkSkFjZnBOSGlkVjdhM2JwNEhvY2I00gG-AUFVX3lxTFBNWUVQc0o1TXRFWHpma0NhdXlGUGRFN0tkSTBoVUJ5aHZTN2x6WVhqRzhhc1huNE1WNl81ZkN3cVdSZXBzMy04dkRZdkpKbDFIWlRiOHBRY3VhZlJ5NnhGODJKdkRRYWpSOEdTcmUzVTBnWmxLbWpxbkhpN3FaZ1dQOGRrYnB2ZVpEaFJvYl8zVjZhQVpzWFFNUzBPS2FSVzRPdFlBZDlWUEFNQjlHWkduWmZPLXY3Q0lEUGxWNlE?oc=5",
-    "source": "Diário do Minho",
-    "ts": 1795454400
+    "title": "Esposende recebe espólio da família de Valentim Ribeiro da Fonseca - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYzVjdUIwVmtxa0xVSElZYlZmWF95Wm8xakx4MzdEbS1sQVV0OVJwMXBDRHYxbVRud3JSX011c09HZWdPTGZQTmxKbzgyaHJoYkUzM081dUdVVHJ1V0lIVnNEaURZUWNJc1JaeUxONzlGSHJrdFdZdGc0NHVoei1BbkpsLThNY2t2N0JieWloTVJfTzlmUzNhS0tadmtEVXdTalliSjRSMmFPeXIz?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1795516381
    }
   ],
   "mundo": [
    {
-    "title": "Prémio LeYa 2026 não é atribuído por falta de qualidade literária - Público",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcGZBZVpMOFlwck1Idkx0elRPWXM4czhvVG1LNkN3Tl9FMEg3ZlJaTzdQVndkemRsQm9pV0VTSERUYnBQNHdlQVpTZ25hc092NXRENTFmYjRBSEhyWUJtb3dTMlpiOW9MSzNSREp4cDEyYi1hQjJlNGFVWlRZMjQzb0ppYnpud2JrTWRrb2pmMHNFQm5oanZvdVQ1ZWlrLXBOQ29ON2pnd1k0cnlNU2lWdnZrYjRTMDhIOERYY09n?oc=5",
+    "title": "EUA vão propor novas tarifas comerciais de 15% para a UE e 20% para a China - Jornal de Negócios",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1RFTzBabUJsTDM0eGs2Z2hLenp2X2JPdnMyRjF2U0VyczFjU1h5Qll3ZHdIamVjenk2OVI5dkFkZFh6a3VSQ013cF8xb0hUWEtsWHpzNUJDRGtfR2taOFRaNzExaWExdEtUay1rQkc4b3FOWmEweEdTWkVTUDBkekFNQWVjVm9GWmJnNy1CNjRIU0xmNGtWTDNYWE9aWGF0NHlmb0hkeS1QcHpNdnhYLU9MaC1xMmJWSFFVUlVvSnVhQVNmRzltaUNQZ9IBxgFBVV95cUxNQjZseGY5R0dOU3hQTkM3eU1ZM0N5OG9FVjRzUHZWY29fa1JtSnFPNDdfQnktb2gyQTNla2QzZndEcG1HYTB5TnpocTBsYkdjTm5SbXBZVHpORW81RjNNcV9iUUlyUThTMEVSbFlzajlhT1RZbHZQdjJTSU9NNnViWWd1NmJKcTN5ZmF5WHpYdjNIX2h0akN4TjhYR2l1dmQ0NmFGOFJzZDBob0FiVXBzNENwU1JUVW9JTjc3anFLcjUxUjRWUlE?oc=5",
+    "source": "Jornal de Negócios",
+    "ts": 1795614192
+   },
+   {
+    "title": "Assalto em Cartagena: resgatados 30 reféns de supermercado após 17 horas; um sequestrador morto - Público",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUDNPUmU5S3kxMFhYXzNlazdONHhxc0NibGVpR0VoSTJ5VVY4OTFWNHdzeFJoTUQ1bHRpR3NDblhLZlNlckloUUE0ZGJFbURjc2o0d0pQLUNrVnpQY0l2Zm9RSjJMWTlqamZ3REc2dGxXNUVTRURaMXNfNzRHNDJMeUoybFBhZ3RsQ05LN1NoWDRETXRFaVNvTm5qRHBCYzVPSC1JbHVXVGR0WThKQUJ1TDVqalUzdkFUbF9VaDFfSWNJdEp5YXh0OHY0ZlBMdEZhU2JuT2Ewdw?oc=5",
     "source": "Público",
-    "ts": 1795602383
+    "ts": 1795606056
    },
    {
-    "title": "Mulheres e raparigas sofrem violência extrema adicional em Gaza, alerta Amnistia Internacional - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORURSOUhfaTU3TmFSY3JuSUU5RXdLTGFUbnlNaDE1ODVfYXpSdGtGR2M1U2JKenFuQnVqX19tOHowM3JvYXpVR00xdmEtSlkzVFdqZmFkcG5jd0tDaHU0X0kyVHh3aUdsRXFfajlpT3N1RTR6aGl0N0d6M0FsYWM5VUdOSTFEWWhYeHhIcENIcDNGMVFud1Y2YXNNdkNTQjhJRjJ0SU9UWi1wMkxoV2hnXzdJbHpvelV2ei1SbWx2LTNTR25GVlRWeFc2cm5qZ9IBwgFBVV95cUxQZjdiWGRUYThOV2Y2NGxMeTFLZU5sak92Nmc1Vk9vd1lRY0NkaVdYTDZhRXdZeE5rMXU1X1VaZmtGZ3JxTnRpU19pU09VTWc0Q0lFUkVpNmVxdk9ONEJSX0R1U0RPdUJ3VjMzWjN1NnpTcmIySVktYm0zRTQ3TUV4S1pvcy1jaWlLbTVsSnBmUWpwT3ZkTkN1eXBIdVllX3kxaTlVbGxSeGlqTkpVVUhqZEZ4U2w2M0FoWEREcGxBbmxnZw?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795564860
+    "title": "Guerra chega ao Mediterrâneo. A \"operação exemplar\" da Ucrânia que afundou navios russos na Líbia - Observador",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSTVhV0pSUDJIeURMRG14Qng0S1FBdGRsUmNmdHB1cHA5TGhZWXcwY1ZubXdEbDNoTFRMSkt0aW85WDI5OWF0U0lLQmVhTGpqdzU2dTZFZ01RblZ1ZkN2ZldITVFtTW8wd2dzLUJrOWxQZ1BfSEtGYkVKVEdCajVqNlE3MjlmaHRoYzJaVXJPYVBLUDZUbWFFV2FRMmdhcTJCSHd0RjJGdXJNWHVRa3ZYZlEwZU9mUXF0OHlPVVdLb3FhOWhYWUE?oc=5",
+    "source": "Observador",
+    "ts": 1795602720
    },
    {
-    "title": "CIA e direção dos serviços de informação dos EUA alvo de ciberataque - Jornal de Notícias",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORElYTVRod0JCUUxkaTZHZVl0dzhEWjBPNTNDMUdCSGlKNnZoNUxmdGp4dFlIQklZX0JCT2oyR0dEYmJKWEllbDByb0dOV3VmZzlpWFJzdUR4clFxdFZhbzBQNXp3dUFDc2Mxdkp1b2pfUWhNS3BjSVNObWNiVzFLOTNzTXBYcFlFTjdzRDhRRUk0RnRvZHZwX3RXZ1hwLTZhZFRwX3NRMmNTSG9S0gGgAUFVX3lxTE4zVnFhcVJsNU9UYWNnNHZuZUFNNVVzTXhHczc3OXZxZjYyZEFwcVA5THdXNWlVakNUY1hjTThUakk3LVFCbkdaRE1pdmc5Ykl2UVlmcGFBNWtXZmxuMWF1MUtOQW1pY0NMLUtBR185d3VaZktlRENOYXdZOXpYS1BpTTluZzEzWXJxTmE5TXoxY1JyMW82RzBVUEg2UVhDMUI?oc=5",
-    "source": "Jornal de Notícias",
-    "ts": 1795564080
+    "title": "Leão XIV: não ser escravo da guerra, mas converter corações pela paz - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYUZiMWJrUjdnMmtSN0RiMjRhd3hZLXo2SnZvTTVOZDlxYzZkc2NwX0ZUa2hhdTFmeExQeHRrem9yRzdjMzcxOTQweUZCRnkzTm1Tams2MFY5dUVkTks5Tmt6Mld0VlRUb2hRMnlqd19la05EMjJXckpfZ1p1UFIteG13TnJ6aFh5N2J0cGRyZnFlRUhTT1pTbzlLbXNOTTYw?oc=5",
+    "source": "Vatican News",
+    "ts": 1795600896
    },
    {
-    "title": "Assalto a centro comercial na Colômbia acaba com 30 reféns - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRDIwX3kybzJ4TzNtelZ1V2tvNk1ad2FBd0xHZ1pOOThpWXNDWFFRUHU0VFlHVFlJeWt5RmlvbFAxMFZTMjBqTGJvc0ZaSTFucUZubVBGWk9aYXp2OVNiN2otMk1MLUxqUWtxWTFMUHFONHlkWmUyeHZRUjdxOHFrcTMwY1N3SWN0U1JjOFh3bTVoVDB1cTZremdhZlFleTBoSjI3OHFadGxVUWN4bVNrNEpHdw?oc=5",
+    "title": "“Uma espécie de guerra de guerrilha irrestrita no mar”: Ucrânia atinge a Rússia cada vez mais longe da linha da frente - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdm1ubU1zVzEtLUpSRmV3VlZ6UFdNcV9OLTlmSnh1U002T1I5NHZOUVE4UXdoNnhzdEM0WFVSMlNFc1M2Q1ZHcEtEWDlTVG1Cal95SzBCeTBud2IzSUdwMXdUOWZneHljVnBDRjctNWtSalI2bk1XYkxrUUQxWFdrdWpfbUtKZkR3MGoxSjd6bEEwcXpYRWVSSzZPTkpMNURRN0prSFdVUHRmV2U0cDFMYlgydUJqUlcxQzJFSV9ZbnRJU1F1N0dJS2tYeUdYMVRvemYwc2xWd0dsVjR5RW9FQ2c5dzVSeTN2MDBMdFBabDFpbXY5VDZJQ0Y5TnJZWTQ?oc=5",
     "source": "Expresso",
-    "ts": 1795562670
-   },
-   {
-    "title": "“Desmantelamento do antiamericanismo”? Como Feijóo e o Vox podem reposicionar Espanha entre Trump, Israel, Marrocos e até Portugal - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQcGNkbjd6TzZmdjM0bng3TmJCb3RDVHlueDA5OHVJX0FFZ04wRmxJcTZmSS1Uc2tZQThSanplRUtVYml5WDdNeVZUaHBWdEZrNXppY09icll6NFItWjQtRnU4WGgxNVlVZENaUnpmaEZSZGptUmdOdzl1cV84c0F1bW1qdjBOeGpMTmVRYnBsM2ZWaDBkRGlaZUp6cHNFSUh1YjctTW5pRGpNR1FjblVVRUtGX0hiWnRpX3A0dW9BVUx2bnRUcUFYbFdqRHlQZVRaMUY3bFVoZWlENjdJUTVCazhxVG5GS1JJNm9aM1psenJaTFI5NTlQb0ZERGVzZVozM2pXag?oc=5",
-    "source": "Expresso",
-    "ts": 1795546800
+    "ts": 1795599027
    }
   ]
  }
