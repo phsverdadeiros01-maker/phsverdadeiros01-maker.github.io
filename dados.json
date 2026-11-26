@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-26T12:00:15Z",
+ "atualizado_em": "2026-11-26T18:00:03Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-26T12:00:15Z",
+  "atualizado_em": "2026-11-26T18:00:04Z",
   "dias": [
    {
     "data": "2026-11-26",
@@ -1632,86 +1632,98 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "II Gala do Voluntariado de Barcelos com data marcada para 4 de dezembro - Município de Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcUMyWEdQVTFKZTd4RnZob2hKMTgzUUVpTW5wci1VaXFtRjVaaHdybU5ZaktfREstOXlpVHQyNTJEMVVxQ0FBU0Iwd2g4Q3FlNjFlSERTWURVQTFSVmIxY3gzRnRVSTZZMWprUVdINFFIaDdfdzhiY2ZqYlVXZzA1cHRUYmhjNU9TWVVUM3pVazcxWTdVMklTT2NGNzlFVUNGS0JoY0czYWU0eWM?oc=5",
+    "source": "Município de Barcelos",
+    "ts": 1795710750
+   },
+   {
+    "title": "Autocarros grátis em Barcelos durante o mês dezembro - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWENqQnUwbkhGdldsWmJSNVdWcVByRHlhVV83N3BOdzNaajZIQTNRZHZ1bnVTYm9xendzNml0UkFZNS04TDlJZDRUTHotMDFuNU5aLVdnSlZuUDN4NERsRmxHa01zZ0gyOWtoeFRNQ2x4RkhCMXFvdmpjbC1KWmhObDZPTjlwYi1TNHhIQkxISVNqcllMaGfSAYsBQVVfeXFMTjdRT0o0dlF3RUQ5Z1NtMHhvWjBzbF9OWkZ5NXk5Zm5LdWFOcUg0bHl6b01rQ0xFWk5uWEFsRTN3VGZPMTVSNF8wYVp0SF9hbms3Rm1ib1RYUjdxOGgtSnYxbWZCclp3R0hqbFhSaVU3X3hoUkhTaVFNZWZkZkJKRzRnM20tYkNjVjdBYw?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1795704300
+   },
+   {
+    "title": "Feirante de Barcelos terá usado contactos profissionais para traficar armas. Há sete detidos - CNN Portugal",
+    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVFMwWXFIVmlic2FUR3dFako2WHllQWlrYlZ4bWhGejVRZEc2bFE0aXpEei15eVhrX1pDNHoxU1lKcF9NdjQ2YzhmcVMwdU1KQTZKVEU0dlk5eUVfOS1JWDZhT2Q1THR6ekNDeGd1bG03dXRuY1k4aUlTaDJzQlZ1UnBiRXRCekJqYlZNQ0lIRlJzTHhpMWdaWmtGcFJYT2gtelRTdE95YXg1VHJkMmxxZDJxdTRQcjh0ekRoaFgyMTdhaW1iTHRYVi1uSlFoc2llRUQ4QnpsYU1yVmJPUVNwVGxqanFna0lUZ1gycDV0eVNqMTBVV2ozZmVRTUxHMWxKamx1eldWQ090M09Tc2FtVi1TMUl3VWc?oc=5",
+    "source": "CNN Portugal",
+    "ts": 1795694662
+   },
+   {
     "title": "Barcelos Doce celebra a tradição da doçaria natalícia a 5 de dezembro - | Radio Barcelos",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOVVNxSjE3dXJUbTZLd3FYaktfaHh3dHV0RXBFLUIzRGpqMHJ4bEJweVBmUjE0eEtlaWROTlJaZXExcmRaaG4zS0gyTFlaR0hTZFUxSTlsQmY1dExsdll4OG5NZURmTmVHNzY3U1FWYmhSSkN0UVI4ZW5fdWFWQVdlT2tQWUNxbEJPS3R3UVRub2k4RzA3N2hXVW81WQ?oc=5",
     "source": "| Radio Barcelos",
-    "ts": 1795693250
+    "ts": 1795693231
    },
    {
-    "title": "PJ detém 7 suspeitos de tráfico de armas a partir de feirante de Barcelos - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTnBTaFNNVHA2U3EwRXJOaEdQeFB3bk1YWDRJRzBqVVAyMUtOcGRLdUV0aXd0ZlJhWGtuYW5yTFR0bm40RXAxYjdjbmpfNEVxSWlKb1F0bFFKWGY4TFZCd2JpaW9sTGg5LXhKdDdIdi1PMWRwTllCLWhNdFhuazhpUU1vOFZYZW5EbU1LY3lwN2g3U0pmcDlWMk9lZjZjQklaRDhlUDZrY29nX2dPbzByMm95U2twdmFJdXVxbWZwU201bTNMZTZ3?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1795692692
+    "title": "Feirante de Barcelos suspeito de tráfico de armas. Buscas da PJ passaram por Santo Tirso, Braga e Guimarães - Fama Rádio e Televisão",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX0hzWTVrM0xqLWxseE5SNVJ4N3JhcF82RGZtTkYwdWlhQWhRQ0xIRGpUazAxaUNqREV1Vlk2QmV5bVFVWHoyejdkMlhua0toZk1yZW9RM3cyQlpqR052ckcwU1NyQVZ4bnVJRm1DLWNPb01NeEdEbDU5SGxfRll1NmM5aHZxbjl5YjlVNlNZSU9LZnNraDBWU2JxMDBnVWcyV1g0VnNrOFl1NFpCNGRhNjRuUDFRcFRJZy1NQzdQMmlRQnFCMGJqZ21xMjFMcGpsUU11Zm9Ia9IB3AFBVV95cUxQRjdEdkowMmszUDRPSHRzUEtnTGxlbnlia09Ld01GajNId1Rqb1pmbWY4T2RlWXJjZlBIWk5yNEpwaTdad24tU0Y1aEZiQ2piZ0dIRXA0c01uY2ZlMVdDUUl0dTQ5RGdXanMwMTRQTWl6SGJSeUhZaGR0alZXQ0VhUWRZbHRIV2JNSlFWRUI1OWhxTVl5LV9xYWNmX2VBT0NWN3NnRlIzcTZkMFAwSnI0TWpZYnJaR3NpLVlMLTRSbHpkVTdvd2JjcEkzNEdRbFR2WU5zU2FYN0lpMzhK?oc=5",
+    "source": "Fama Rádio e Televisão",
+    "ts": 1795692714
    },
    {
     "title": "Onde ver OC Barcelos vs Sporting CP na Liga dos Campeões em direto na televisão? - Magazine.HD",
     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQa09JXzhZQ0REeG9xVk1mNUlXN0lTTDNTTmdMcUtLdXowalp6cjRZbF9jcl9BclBYVUFhdUtfRHpjY1RIcDhKZHREREV4cXhjLWYyV3pvb2FiMWhUUDNuMUYwTlE4ek1BYkxMWlJqTXgzV0RuOVpqMW10c0pEWGFubmlQcUJESjFkWElzZDhtY1Z0ZTU4MXc?oc=5",
     "source": "Magazine.HD",
     "ts": 1795689934
-   },
-   {
-    "title": "Barcelos e Guimarães são dos mais afetados pela crise no têxtil",
-    "link": "https://ominho.pt/barcelos-e-guimaraes-sao-dos-mais-afetados-pela-crise-no-textil/",
-    "source": "O MINHO",
-    "ts": 1795688430
-   },
-   {
-    "title": "Férias de Natal 2026: inscrições decorrem de 30 de novembro a 11 de dezembro - Município de Barcelos",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMHplOEJVSl8wRk5KbVljTlBVZElpRWxHMGNCdmNvUTVIbWRiTWFtQTIwMGxYNHRJai05enV1Q0V1OVZfNVZBUVNudUp5Mmd6S05mQVA0Ukg4bzJHbDNuYzUxa2ZzakFvSkdBVE9uMEdkZm1xcHJKT2FHcXBwTzJDN3NzQ2ZaTC1mUk1CSFQ4c1REZjE3S1AtVzVZaGVnNmUyNzQ3azdvV01IcUhxTVVJaw?oc=5",
-    "source": "Município de Barcelos",
-    "ts": 1795687838
-   },
-   {
-    "title": "Exposição «Presépio a 7 Artes» reúne 245 peças únicas na Sala Gótica em Barcelos - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWEw0SlA3TDgwTDI5MjZ5R2d4d04tYk9XWUY4dlFhb2hYWl9mNkI0WHhqVVpHN3pHajIyTkI3dC1lU0xxQmtlOTc3YWUyYkxCTWFUQTlrY1lSWWh4VkF1Qk5YbVJMUmhrX0hlV1lKS0RTUWU1LXlJTUxfQmExQUE1eHlYdFEtNEZ5M29TeTNuWnlYSUlKZVp0STgwaXBXREhpTlE?oc=5",
-    "source": "SAPO",
-    "ts": 1795687685
    }
   ],
   "esposende": [
    {
+    "title": "Loja Social de Esposende recebeu visita técnica do Município de Cabeceiras de Basto - TV Esposende",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOczBGQkxMbmdTeXFRN1NzY21ocjNSa0FxeGFIbHM2SVRTQ0NhMnVNb1NmMnA0X29VbjA0NWdyU2VCUXNXdkY5QUxBaE04RlJ2Y1JXZ0dvbVB0TE9OY1oyUEc4d2hKTWNvV1pSR0ZWMy1rQUduVlBVcDFUU2hYU3Z3SUpDVVREN21PMmhpTjBEUmlGbFNyeDhnM2JZV0lVSGJEUmFaUk9nNklVZUVGRURweWN3?oc=5",
+    "source": "TV Esposende",
+    "ts": 1795713113
+   },
+   {
+    "title": "\"TraumaTeam Esposende\" fecha World Rescue Challenge no Top 10 - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOGlPaDNXay1zcXFVU01sMG00R2RaUDcxWHNTQWNwOF8yS3hIY2paZi1hbV9xSmxnLWVCa0tsNVQzR0M5bWZyWGdESmNFOUZROEVIeERPdDNhMTVEQTE4RDk5NjUxVmpjTnB5VUl1VEkyQ1JCTHNKNWl4cFM?oc=5",
+    "source": "e24.pt",
+    "ts": 1795709761
+   },
+   {
+    "title": "Esposende: Concerto evoca o Natal na obra de António Capitão Ribeiro - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVXlmbXdhS3VNbW1tXzVxdXlWMEZZdVdZS2NxaTZ5dXZpcEZ5MmgxZEFrMGVUVmpJOE5WTDdncWU3SElOdGdvd3pCaTZWV0VqZWF4U3NNVkV3Q0l4MTU2SXU3cEtRQlZHdUZJN1pQZ3lFMkpaUkN4cXR6dUJtUWpsQQ?oc=5",
+    "source": "e24.pt",
+    "ts": 1795708471
+   },
+   {
+    "title": "Alexandre Oliveira deixa comando técnico da AD Esposende - Diário do Minho",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQlRISmgxLTNqVlJUVGR2UThvUmU0NWhxbm5zaG5yQk5vdlVoY25PX0dMbDktYzc0bVJYeUhkb0dVaHltMGxHaVZESmtrZFlsUFNfLXNINXRWTDFSc0U0ekFjVHgwTVN6M1BQXzdUMS1qOF85cVYtSG40Rl90ODJJOGZrU292TnhyMHlnRFQ5N3psLVNMN1BSajRTLTUtRVdRb2FjMzRVUmtkbEVyVkNrSGhpbmxaVktqTkpVRmcwQUI3QUhiY2Vr0gHMAUFVX3lxTFBycjk4VVFjR2g3dnJ3MjFFVGNXZzRpUFJ1X0gyOG41WFdNMlh4Y0VqLUV5bE1YUF96V0FOTGhGejZwRWN4ZE9HOHFpZVpldl9kR2htcWVPUjZTQVF1ZFFjY3BjRGJPdUZqekpIMGhZTGdieUxCcUpsbzM0S0ZZeUVaQS1KcUFSbm0xRzVIUmxTZVp6dGZweWpHZGNyYm9DalE0RFI4dTk1LUpSUkR0UXhDcU9vRHdFYjFHMnJmcDZhSDZCOXNQZlVVWk0yQQ?oc=5",
+    "source": "Diário do Minho",
+    "ts": 1795704900
+   },
+   {
     "title": "Município de Esposende assinala Semana da Floresta Autóctone com plantação de espécies nativas em Fão - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjEzS09RU3RWTWJZT2tGMlVFNHBYbW1NV0hQbnJ5Z25iUWMxTHBzSGwwN3J3WThSREhwbWI4UjFIeE1USWFuY1pCVklQbDVHbF82RFZIWEdJV2tMd3Q3cUM2cG03dVlDM2d4dEpwN0ItdDFjVWtuOUNRT2dIYTRiRldkT2M2OV93SG9IM1JOQjhVSG5ueFhIWlV0bW5oWTg4cDgyNXFSakhjVmx0TzBxdW43YXRtcEhWZTVNdDdJWlE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejFEU1lpYnd0b1hEYnpad0tfdmJSUjJIZEIxYVRkLVY5N0xyNVJ3YlM0MHUwUUhlU2JRa3dPV3B1TDdiVVNZOHFodVZPZDJiM2hBMnROOGtMeG1mc0xWejBxTGh3dnY0MG9QdnA3Q2ZaU2VOUkhOOXIwOHVVM2dEQWxJNnJaQWhRVDdScU5FMnVVbmI5NHYxcnNfQnUyT1R0UjFhUXNNUGs2RVl3T1ZtRGxNaGVGNkp4TWRnaVhJOVlIc05aOS1BMHFYcmw4T29XUHJIVGJ2RUd3M1VKSEdlX1gwRQ?oc=5",
     "source": "SAPO",
-    "ts": 1795687201
+    "ts": 1795683600
    },
    {
     "title": "Derrocada que matou casal em Esposende ainda sem julgamento - Jornal de Notícias",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM3VOLVVnVXZkemtXQXAzMl9DamF3QlcwY21zYXBaYklyWFlNdmZnSkhkdmlqaXN2LXBfSmY4THFidEp4alU3c2hRaXhNckh5V1ljNmtFblNwV004TE1iNWRCa2liekJ1SVprSE40cUs1d2JUWlh0Si01R1ZrQllVSzIxVjFGbWZMaVRQQl9B?oc=5",
     "source": "Jornal de Notícias",
     "ts": 1795637160
-   },
-   {
-    "title": "Esposende: Tribunal repete julgamento de homem condenado a 16 anos por homicídio de idoso de quem cuidava - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYm83emotWFdDQmtFRkdkRFBkX2EtbWUyX2w4NUluTEVBTGRoMXNBZEFSZWU3dE5kNHJiZ0NSWDJSbmdIell5X3dNUlZtcHUwTG5QY05LaW1DUVZELVk5YWliY1dndkZGMEM3T05qZEMxUEhySmlUZHlwSkFCdWVvZEg0akU4S0NHSGU1LXBQbU1seFBaSjFCWmpzd3hubkQ0dTNuUUJLTW5YQUZGQUJIRUVEendrWTkwRm1ZaXBJcVA?oc=5",
-    "source": "O MINHO",
-    "ts": 1795634340
-   },
-   {
-    "title": "Esposende: Alunos de Apúlia plantam carvalhos-alvarinhos em Fão no projeto «Semear, Tratar, Plantar - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQjJUR0hlOUVZbDQ0V2JHaHdjN2RJeWUxZEktcW52dU9kT2VHS1NJUFBEamstbl9LVDJGZm5TMkpiVW1JT3p3NUgwbUE2WlhtSXlaaHg2RzV2aU9BbHFzRllEaVZKb0FNalpGVmZxSW5nRGhFYlhMNnV6TURVcERPZXRkYzdWZENReVVGcHVjVGVSQQ?oc=5",
-    "source": "e24.pt",
-    "ts": 1795626885
-   },
-   {
-    "title": "\"TraumaTeam Esposende\" parte para o Brasil para o Campeonato do Mundo de Trauma - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX3V0eW9VVVNCb0ZUclFtem4yQmpFNXRmLTlZU2x5MHR1eUlhdXVmd1JKeEZJckRlYmxLd0NkTXZDME5SVFpIZEJuOXg1OXZYZzJsbC1TQkJMeGFEdDBvaWZJX05aZ1ZGRzhza2tPa0x1bmlzY0E?oc=5",
-    "source": "e24.pt",
-    "ts": 1795617676
-   },
-   {
-    "title": "Esposende dá voz aos mais jovens com novo canal digital - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5oYmp0VWlNTjR4UlZfSnNQS2Izd25lazZVUUtVRmlQU3U3S05VeUlJdFBEdkV3MjVLallaaWdWOTVsWHRJd0xDcVFRQmJKQ1BGNHl6TmJ2bW5yV0gxZjNLY3VWdnBlSGh5SW5pZktnWTc5a2J4azZzdzE5YjVERWN3Mm56dk12cDNkMHVyWHY5dFdMTVhTZEJwN2w?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1795522278
    }
   ],
   "mundo": [
    {
-    "title": "David Pontes deixa de ser director do PÚBLICO a 31 de Dezembro - Público",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcVNvN2hHSENha1czeVM0Tk11cVlkUURjbjJaT0JqU0UtRTM0eWZXRDMzeG9OOXFLM2p4Ynd1VUdRSEVrQnZSM2k2QmpNSzNGQWtLS1VhS1FscDRQNFdoU0VDYzV2Mjk3aWtIZjFoWkhMdjRERld5NlRUTlJOWkUzVl9YeUV0NDNqOVZEQjZBSm44aVZ4VTZVQ1pkSUxZdTBPaWtVSHp6aEdwNmc?oc=5",
-    "source": "Público",
-    "ts": 1795689787
+    "title": "Kushner sobre a Ucrânia: “Não se trata de justiça nem de quem tem razão ou não”, Putin é um “grande mestre da política” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNTWhmWEFUYzBfaGQzNzJzdjdnOEhlSEVCNXQ3bXBYQ2xSMXFveWJuaDJvS3dpRG5TRGdESG11UGptLXVTR3EwNW8wSkJYLXllTjlXSk1PMDBISXNQZVhaZVRHOEtUUFhvZ3gxNnVoRnhqWnJvazk5QXJPbTNES3BNM0dGRDBjemZfaGp3MWJfX0ZZb0ZtcDFNTXFGSHlUM1o5aXhvZXhjZ2R5bFZVb1ZtY1NUTUZYSVUwejdsbGZjMWNOZnhmZGl3MDgtTkk0MldGMm5mZ0dzT1J5c211c0NBZFhLR3ZWM083NGl4bkNNdmoyczlCd1ZOaTU4SHo?oc=5",
+    "source": "Expresso",
+    "ts": 1795697931
+   },
+   {
+    "title": "“Público\" tem novo diretor: Pedro Candeias sucede a David Pontes - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1Z2RWp5UjNhWFFGR0FhV2RpZG41bV9LTzROekJpYkswc0YxZVRHOXd4dzktZGwtTlYzWGdPeE5TQzkxcHBONlFGajZJb0hZck9BMzJtazE0cmZ0NC14ZG1JM1NYSjJUNjRYa0xhY1FDNXJrRm15SnlHOHhFVHVlMUdpMVdQbjkyYlIzN2pUSjh6OHZsZUlwR3llSmhobHlweWNERUpDMWpqLVU2ZWVUbUZmVWpVbjBleGo0?oc=5",
+    "source": "Expresso",
+    "ts": 1795695588
+   },
+   {
+    "title": "Kiev reivindica ataque a base aérea russa onde estavam caças capazes de lançar mísseis hipersónicos - 24 Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLUtqLWNtX3lZbEF5bnFFWVJqUkxSY3c4R2V5LW9vaWxHRHBCNkhOS2xqOVlNc0FKVTFVNnh3cjlhazhReGxnQXNuNE5xQUhMVk53RmNUcldqY1ZwQ0hXVDc5RXZpQzFHOHBCSVVvNTk0YTMwT3VqeThVNDRSbmZVSUtJRklnRzhXb0ZYVkVOTFdXR2pVTUdVYnRHclczY1M3SGpSdnJFZTY0bnpCSzRGLUd3Skh3ckhzbHJlVXR2NVpTSjBTLUNtNmdoRkhmRG1faXRJaW5UbVp6UkdDaXc?oc=5",
+    "source": "24 Notícias",
+    "ts": 1795684479
    },
    {
     "title": "Petroleiro com sete mil toneladas de gasóleo naufraga ao largo de Ibiza, um tripulante morreu - Público",
@@ -1720,22 +1732,10 @@
     "ts": 1795681268
    },
    {
-    "title": "Exército dos EUA faz detonar reserva nacional de azida de chumbo e gera receios de contaminação ambiental - RTP",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcHFTTU9kcUU4dTRaY3hNVVY4Wk4zMnpBS085MHF3Q2VrWlhoVXFINjRqLVZjM25Ld0FWUDk1WnlzSzJrdm9IaU9zUUZnTGNOTEctajJaTG9lbFZqWWZJV29tUWVEWlFyckZjQmVGR25XN09FNXlCLXlwdWRVQXZ5ZkxKRzdpb3JIb216Vnk3bzNnRkw2VlRJbDhoTmljMWNxaFowLXAzOWlwR20zTVdIYVVNWVB2UXB4ZEZndlZPeFRmeDVQcFZIZDE4akF5cnNQMnRJUlF0cjVWbDlhZzNMVUNn?oc=5",
-    "source": "RTP",
-    "ts": 1795677501
-   },
-   {
-    "title": "Trump e secretário-geral da NATO instam Rússia a não \"expandir a guerra\" - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVlhvbjFWRzc3Z2NPVXp4RjdHVWdDRGs4LWllUk96cWg4aWZkT2lPRUtGVE5pZU1sYlg3M1JZOHZoSi01ZVh2LVFEdmNRa1I2Vkg3UGxDdWFLZUpSeTlJMURKTjBsakJlWVE3WUlsRFZ1YjBfTFZSZVdMem0yeHdRVm5jdkY1cFRZZjdXWmhBamhtZ3BHQTFHa3RsNlgxaklqbHg5Q1VJTW9wYnBJaC0ySk5vOVdCUHl2VlVrWWxfcmJWc0p1QXc?oc=5",
-    "source": "Notícias ao Minuto",
-    "ts": 1795674240
-   },
-   {
-    "title": "Orçamento de António Costa tira 400 milhões a Portugal - Correio da Manhã",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGRXTjRNR0NiTm9mNjI4alZZcGRsRjVySi1qd1NoMk85bkRtSDFDVWRqdXpfbW5TRng4Q1p6c2I3NFRQRzlKTDVfYmFib0dOMmU4RzhhaFlBcjRTTVgwcjQ0YjRwY1llYkVKU2lFMTNseE00T1NnRndYTTN5Mk93aGhxaXQ1LTctcjFrTA?oc=5",
-    "source": "Correio da Manhã",
-    "ts": 1795653000
+    "title": "Donald Trump e secretário-geral da NATO pedem à Rússia que não “expanda a guerra” - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcVhaOGhxWW5QY1Aza29kNFBCeENKckVwU0NxSUM0VTgwVXM5SVNFZFdUbjlfSnpRZzl5UHFhRjd3XzNqRjRuZFJEQjczQnhfVzNsaXBWX3FXV1FsM3dIZ2x4Ty0xY2FwckxaWjlnLTRDemZRU09vcjczQjVwYTlkVmVSdlJlU0VvZkpJQllpRUotOGMzcmJoeXVPMmMyaDdoMWNfNkFtVWk3V0lITng3VXpYbjdzNWo4R0gxaDdRSm1RSTRyZjdnUHB0WHRRUlU?oc=5",
+    "source": "Expresso",
+    "ts": 1795680634
    }
   ]
  }
