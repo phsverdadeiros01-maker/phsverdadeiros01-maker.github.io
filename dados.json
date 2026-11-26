@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-26T00:00:15Z",
+ "atualizado_em": "2026-11-26T08:00:14Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-26T00:00:15Z",
+  "atualizado_em": "2026-11-26T08:00:15Z",
   "dias": [
    {
     "data": "2026-11-26",
@@ -1471,6 +1471,18 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Barcelos: “Ninguém escapou a olhar para uma capa” numa exposição “extremamente significativa” - Correio do Minho",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUGNodmpDYlVuVmpEWUhjb3FVMWVIUC1aZzdZM0hBVzl3Mkw1bHpVTU0tZS12c0FZbk1yeXhUY2pfS2stQVVpQl9TaXc2Nm9VQXFxN29hQkQwOTQwZV9BVXNpa19KeDhFOWx1RVFseU5yRWk4SUJ6UllIcGlkUG9PbG0wUXFIOG5vdlBwM3ZPMXZlQkx3RGdwRWRaNm9jY3JtaFBwYUpkb0E3T0hJdVdZTndzczA3RVY2N2JVdHZfMU9QUGRhd0M4ZzdfNzdNYW8?oc=5",
+    "source": "Correio do Minho",
+    "ts": 1795673045
+   },
+   {
+    "title": "Concurso \"Pequenos Grandes Poetas\" - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDd3Y5X0ZWN1JySFdCVzBhVUZKWFN2ODhHOE03X0VCV0lEZEgyTHllZnBqMmhUSE91RHU3eUhyM1JWaWhJOXVLNUd6NmxvNDJKZmxSVUtHSUloQjg0aWMxaEptUXkwWmg1OE9oZWhjaFRvVmZKN0hFdE43aw?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795642832
+   },
+   {
     "title": "Barcelos: Filhos de mulher morta por atropelamento recebem 192 mil euros de indemnização",
     "link": "https://ominho.pt/barcelos-filhos-de-mulher-morta-por-atropelamento-recebem-192-mil-euros-de-indemnizacao/",
     "source": "O MINHO",
@@ -1483,28 +1495,16 @@
     "ts": 1795633994
    },
    {
-    "title": "Câmara de Barcelos aprova concursos públicos para construção de habitação em Cambeses e Vila Cova - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDBCQTJSOGpuTWhBLVNQR3FHZnB5U01JNXhScU4tSm1vcFFBZkhldGZ5UF94VUtaRkhKUEdIdXE0S2psSHJTbk03YUw4MnVsOE9HbEp4M0lEQktjbE5fTVRmWE84dDdWcERRZnBQS0ZIWXM2TlhUMnczd0Q5OUlBeDZKejBRMkM2VkRjTllVTm41MXdNUmVFVExuSVVBNlhKRllxSmkwazFfTXdLd0FGX0JfTmRRWTh3bGRV?oc=5",
-    "source": "SAPO",
-    "ts": 1795633080
+    "title": "Barcelos: Câmara aprova concursos de 3,6 milhões para habitação em Cambeses e Vila Cova - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQalRLeGZGYXNnOV9TQXRzaGNUcmtSOEZISkhObFR0bGQ5d0NnSkprTFpkUjkxQndreFgxMGIyWkhfSmt1blJOYmI5bnNOQjFMRlFBSmxFUmRhNy1KbDdTTzBCZTRyN0dMYzVXT1FBNGd0dEdvWUM4LVFkbzZGVFVCN3B5S0xMckdPOGhOTS1tUkhSUmhSWDFRVE1ud1hadDljeTFN?oc=5",
+    "source": "e24.pt",
+    "ts": 1795630495
    },
    {
     "title": "Barcelos: Município assinala Dia contra a violência sobre as mulheres",
     "link": "https://e24.pt/barcelos-municipio-assinala-dia-contra-violencia-mulheres/",
     "source": "E24",
     "ts": 1795621445
-   },
-   {
-    "title": "Barcelos: «Presépio a 7 Artes» reúne 245 peças na Sala Gótica - Agência de Informação Norte",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWWMyYzVvTl9CTC16SlF3LXE3RDVoeG82SXI4eXk3UXhfM29QVjMyWHVXTjhHQ0xlR1Q1Y0pqTGZlVXYtQU1wdUVLbGR6QjVzTUF4ZmtubWI3U0VLU1c3ckxYMjI1OTl1ckVGeENUekJpM3RfNlRKUlk4aVl3ekIyeldGNXpoQVNoSmVQdlZGZWJkbEZhSzJ6VURsVmtfMXAx?oc=5",
-    "source": "Agência de Informação Norte",
-    "ts": 1795617131
-   },
-   {
-    "title": "Barcelos conquista prémio internacional por incentivar as crianças a brincar em contacto com a natureza - O MINHO",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2syelZtNTdnVFBfcFh2REpGekRBV0c3RVUxd0RPSC15bWVnczYtaDZZMWtwSEtXdHVBdm9mTF9TdlpKaHZ2cEc1bFY0UnF2WDZ4amhGYWxlSTg3VUhEeXBjQnV5Z2pUOEhHVEs3VTdPaXFaakdhWllIc0szeW41ZEV3bVMxS3RyOUVOYXFNTGxodzZHaGVaNjFTT0NDSXVubmZkNXNwRWYwRlpFQ18yTw?oc=5",
-    "source": "O MINHO",
-    "ts": 1795611660
    }
   ],
   "esposende": [
@@ -1536,45 +1536,45 @@
     "title": "\"TraumaTeam Esposende\" parte para o Brasil para o Campeonato do Mundo de Trauma - e24.pt",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX3V0eW9VVVNCb0ZUclFtem4yQmpFNXRmLTlZU2x5MHR1eUlhdXVmd1JKeEZJckRlYmxLd0NkTXZDME5SVFpIZEJuOXg1OXZYZzJsbC1TQkJMeGFEdDBvaWZJX05aZ1ZGRzhza2tPa0x1bmlzY0E?oc=5",
     "source": "e24.pt",
-    "ts": 1795601627
+    "ts": 1795617676
    },
    {
-    "title": "Semana da Cidade Educadora com muitas atividades em Esposende - radioondaviva.pt",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT0RmVEl4OHNTSGhiVnY2aHNlbDRkblNubmVqOUZjc2s4V1l3Y1BIQnpPUjY4Uk8tN1RVSnJfR1dKTW81b3RUb2RzTWk2Rm5TT1JiWVFvaFFRUDhjMTdwSC02SW5wT0YwQWJWTnhYYkFFN1JuZDEtVXB4RXZmelV5anVIV1ZOaW9CSENST25jUnE?oc=5",
-    "source": "radioondaviva.pt",
-    "ts": 1795592607
+    "title": "Esposende dá voz aos mais jovens com novo canal digital - Semanário Alto Minho",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVG5oYmp0VWlNTjR4UlZfSnNQS2Izd25lazZVUUtVRmlQU3U3S05VeUlJdFBEdkV3MjVLallaaWdWOTVsWHRJd0xDcVFRQmJKQ1BGNHl6TmJ2bW5yV0gxZjNLY3VWdnBlSGh5SW5pZktnWTc5a2J4azZzdzE5YjVERWN3Mm56dk12cDNkMHVyWHY5dFdMTVhTZEJwN2w?oc=5",
+    "source": "Semanário Alto Minho",
+    "ts": 1795522278
    }
   ],
   "mundo": [
+   {
+    "title": "Orçamento de António Costa tira 400 milhões a Portugal - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGRXTjRNR0NiTm9mNjI4alZZcGRsRjVySi1qd1NoMk85bkRtSDFDVWRqdXpfbW5TRng4Q1p6c2I3NFRQRzlKTDVfYmFib0dOMmU4RzhhaFlBcjRTTVgwcjQ0YjRwY1llYkVKU2lFMTNseE00T1NnRndYTTN5Mk93aGhxaXQ1LTctcjFrTA?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1795653000
+   },
+   {
+    "title": "Um debate a quatro pode mudar o rumo das eleições em Espanha: quem são os candidatos e o que defendem? - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQQzczRUZYOWhQSzJPV1M0RE5WQmVUZ0ZOd3hfSFJGa09HcGlfYkdFT2lDQlozWTBUVTJCeWpsbVlhWWVrZGltNjNrYnZJNjBsN3FzRkNjZ3AzZEpfLXZSTC1zd2V6LXZvOWtTWTNxb2xOLXZDb19HUmZpS2VvU1R0NkZCazJCcWVwTHg2SElkZE9INTlyVXJ6N01YeDBDMWlyS0VYUERIdFkzNmdpUHhMUHZ6Vkd3OGl5MFpuelIxcVJMNXZlTEdGR1UyMUZoWnEzak5nRWdpbWZiMWdSaV9hSUF1aGJNdW1obVdkMHZGQXc3b2x3R1dCQldmYVNwXzFJVGVMQg?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1795638793
+   },
+   {
+    "title": "Incêndio no Cairo mata pelo menos 30 pessoas - Jornal de Notícias",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbkd1bFlQZmxsbWR6RHNTNURuQmxyS0dPTno3NFd5aFFJWGdtQU5OdXQtbzhZVUFzWUphUk4xT1pVNUxqUG9SbncyZFlVbHdvS0Y2TG54UXAtcldMZFFXQmI5QnFPSTdlQTF6OUxwSGFvRFQxaGxOaFRQaVRrTG5qMkF6RU02b0JDVTBWZNIBgAFBVV95cUxQUjZHQlJEWk9qX05uQ3RrYXZoMzNlR3Itd1lPNVN3OWJZWUtVZlVvM19Hc2Z2V285ZHJmZEtwQmpueTkyN24yTFB0VG9UU2JoclQ3LTRVM3FJbnd5d1JLRkttaGx3dnlSOGJsREN3SVNhQ0RqeGVLcklrcy1COWZOUQ?oc=5",
+    "source": "Jornal de Notícias",
+    "ts": 1795635000
+   },
+   {
+    "title": "Valor que Antoni Gaudí deixou à Sagrada Família foi revelado 100 anos depois - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR3JnWENNX2NyVWV6OVFEb2NtOXVhNExvRWNxRW9vVUZLVk9lMkx0V1JONzZCcl9DcF9nNGlIOHRscjdIUFZFVE1jUUp6UEd1TWVfT1M1dU5kV01QeTZZb0x2aHVGT2VkNXRwRElTYXFHbVBtUUlzOWRudHQtY2tVUElfVEZPM1kwSW9tMG9DOExTZlhDZjlMZTI2UEdLaXd1YTB0TGlVbWYyM1pDSjk5RkxFUUpzYTBieW5sZ0gxMlkyTnowbEE?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1795632624
+   },
    {
     "title": "Exército dos EUA faz detonar reserva nacional de azida de chumbo e gera receios de contaminação ambiental - RTP",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcHFTTU9kcUU4dTRaY3hNVVY4Wk4zMnpBS085MHF3Q2VrWlhoVXFINjRqLVZjM25Ld0FWUDk1WnlzSzJrdm9IaU9zUUZnTGNOTEctajJaTG9lbFZqWWZJV29tUWVEWlFyckZjQmVGR25XN09FNXlCLXlwdWRVQXZ5ZkxKRzdpb3JIb216Vnk3bzNnRkw2VlRJbDhoTmljMWNxaFowLXAzOWlwR20zTVdIYVVNWVB2UXB4ZEZndlZPeFRmeDVQcFZIZDE4akF5cnNQMnRJUlF0cjVWbDlhZzNMVUNn?oc=5",
     "source": "RTP",
     "ts": 1795630325
-   },
-   {
-    "title": "EUA vão propor novas tarifas comerciais de 15% para a UE e 20% para a China - Jornal de Negócios",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1RFTzBabUJsTDM0eGs2Z2hLenp2X2JPdnMyRjF2U0VyczFjU1h5Qll3ZHdIamVjenk2OVI5dkFkZFh6a3VSQ013cF8xb0hUWEtsWHpzNUJDRGtfR2taOFRaNzExaWExdEtUay1rQkc4b3FOWmEweEdTWkVTUDBkekFNQWVjVm9GWmJnNy1CNjRIU0xmNGtWTDNYWE9aWGF0NHlmb0hkeS1QcHpNdnhYLU9MaC1xMmJWSFFVUlVvSnVhQVNmRzltaUNQZ9IBxgFBVV95cUxNQjZseGY5R0dOU3hQTkM3eU1ZM0N5OG9FVjRzUHZWY29fa1JtSnFPNDdfQnktb2gyQTNla2QzZndEcG1HYTB5TnpocTBsYkdjTm5SbXBZVHpORW81RjNNcV9iUUlyUThTMEVSbFlzajlhT1RZbHZQdjJTSU9NNnViWWd1NmJKcTN5ZmF5WHpYdjNIX2h0akN4TjhYR2l1dmQ0NmFGOFJzZDBob0FiVXBzNENwU1JUVW9JTjc3anFLcjUxUjRWUlE?oc=5",
-    "source": "Jornal de Negócios",
-    "ts": 1795614192
-   },
-   {
-    "title": "\"Mais força\". Marcelo eleito para o Conselho de Curadores da Fundação Champalimaud - RTP",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRXV1Y292ME9TVWtfMVZvQm4wZWs5S3pjdVJnaU05QXRMX3FSSHF3RFZBZ0U4RDZDLUxINGJ1cklRazFqTWp6d2poZVNiWE9GSnB5c3VyMHVTMG9qMHZlUHZqNE9ZeDJnOGVMWG4zaEJYbWE2MEc4cEpnSDllamplTE95cHk1VS1QVWVpVHZZVzBGOUNoU1FQZEl3TWc3aHk1M2ttdGNyT2JNd1JRZlZ5ZHV3eWROM1lORUZBTFBB?oc=5",
-    "source": "RTP",
-    "ts": 1795613070
-   },
-   {
-    "title": "Talibãs proíbem uso do nome próprio das mulheres e determinam que todas devem ser chamadas \"Bibi\" - Observador",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdU5HMHo1STRKNFd2Q2pHVDFZX24zNjUzZVN1eEh5RTdRTkVSZkJLY2xzTG01X3oyRm1WYTZsMmF1ZzNWWFM4TjEzdDgxTlpaWUdHSmQ0c2d5QTZhMU9BOXRzR3JTdzduZEIwV2hPdnNXVV9CWlJ6ZVlnNUtEYVRVN0g3ellYdk1sMXpBU3FUX3RhYjkzV19aQmNESFR0V1lWSlRCTEtqTWo0NURZRTUzZE42ZEZfa2FfQXp2cGh2bWtHSFdhX1I4UQ?oc=5",
-    "source": "Observador",
-    "ts": 1795610160
-   },
-   {
-    "title": "Assalto em Cartagena: resgatados 30 reféns de supermercado após 17 horas; um sequestrador morto - Público",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNUDNPUmU5S3kxMFhYXzNlazdONHhxc0NibGVpR0VoSTJ5VVY4OTFWNHdzeFJoTUQ1bHRpR3NDblhLZlNlckloUUE0ZGJFbURjc2o0d0pQLUNrVnpQY0l2Zm9RSjJMWTlqamZ3REc2dGxXNUVTRURaMXNfNzRHNDJMeUoybFBhZ3RsQ05LN1NoWDRETXRFaVNvTm5qRHBCYzVPSC1JbHVXVGR0WThKQUJ1TDVqalUzdkFUbF9VaDFfSWNJdEp5YXh0OHY0ZlBMdEZhU2JuT2Ewdw?oc=5",
-    "source": "Público",
-    "ts": 1795606056
    }
   ]
  }
