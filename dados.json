@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-27T00:00:08Z",
+ "atualizado_em": "2026-11-27T08:00:08Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-27T00:00:08Z",
+  "atualizado_em": "2026-11-27T08:00:08Z",
   "dias": [
    {
     "data": "2026-11-27",
@@ -1471,16 +1471,28 @@
  "noticias": {
   "barcelos": [
    {
+    "title": "Bolo-rei, pão de ló e rabanadas: Oito pastelarias de Barcelos a concurso pelos melhores doces de Natal",
+    "link": "https://ominho.pt/bolo-rei-pao-e-de-lo-e-rabanadas-oito-pastelarias-de-barcelos-a-concurso-pelos-melhores-doces-de-natal/",
+    "source": "O MINHO",
+    "ts": 1795765402
+   },
+   {
+    "title": "Feirante de Barcelos vendia armas ilegais por encomenda - Correio da Manhã",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT3djVTUxUXFDNGktTE5ycnJGWV9wcllMbU5kX1Q1R0dRWDN1VDlJQWFabnJFVWNWNmJvNFQ0enVGRWJoSlRpM3pESWwxSUxiMkNKakpHN0FjU2xBU01RdWhzamh6WG8yTmVDZmpNMnJpTjdrQXRHWUhOVWtNd09NdWZBMk5sWHVPelZKeDRhUnl1MXkwV0pnYThKWHHSAZcBQVVfeXFMTlY1d0lYb3hBak9uWmdIdVBSbld0SEQwMHJ0T0hDQ3ZhLVVzNThLSlR0bURiOFYtU1l3eWhMaFQyR1IwUDlkOFFfdENmcmNPdkJzTVlOVkh6TzdMWTNia2NzRkVJRFg1V0JFMDVXVVZ5ZEJEeUMxWkdQRVcwTlIxWlZ3bXVQQzkyd3Y2VmFFRndLOGdPWTZiVQ?oc=5",
+    "source": "Correio da Manhã",
+    "ts": 1795739400
+   },
+   {
+    "title": "Barcelos Doce celebra a tradição da doçaria natalícia a 5 de dezembro - Gazeta Rural",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdG0tODV1a0todS16bTdiS2dFTi1ScVJTWHpyQmpIbzEyeFZCeVJHVnpaN3E3clRvWjFzeVZXcUtERkVYbEJ0NVRpWndON2IzVVAwcHpBbF9KbmQ3bjhiVVNuaDZLZnBwTUNWcVFTVmV5Z29RVUVBS2E1UUZoUFdYRDNVS3pqVm8wMmZtQTE1TmJwS2gycGJxWDln?oc=5",
+    "source": "Gazeta Rural",
+    "ts": 1795737945
+   },
+   {
     "title": "Sporting dá a volta e vence Barcelos na Champions - A Bola",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN3ZHOXpoNnZaM2gwT0dMZmJLWklvbXpyUGgwbmM5S2RvenVFS3hEU25oREZBMmdrVmtMRGdFZllBNHBPRUc5NTVaZnRnVzRaX2tYTHJuUkFxQ0R0LVdNaVJ4YnpQX2dIc21EdFlSbE9HS2dDdWlUalUzcmV5YXdJdWpIZWdGT19Lb0NxcjFaU1NRdXprNkVjejFOZzBqN3k5?oc=5",
     "source": "A Bola",
     "ts": 1795732980
-   },
-   {
-    "title": "Tráfico de armas: Feirante de Barcelos e outros seis detidos saem em liberdade",
-    "link": "https://ominho.pt/trafico-de-armas-feirante-de-barcelos-e-outros-seis-detidos-saem-em-liberdade/",
-    "source": "O MINHO",
-    "ts": 1795731455
    },
    {
     "title": "Barcelos prepara-se para brilhar! 82 locais vão iluminar-se e dar início à magia do Natal - Braga TV",
@@ -1489,22 +1501,10 @@
     "ts": 1795731166
    },
    {
-    "title": "Três feridos em violenta colisão na estrada Barcelos-Prado",
-    "link": "https://ominho.pt/colisao-corta-estrada-barcelos-prado-2/",
-    "source": "O MINHO",
-    "ts": 1795730113
-   },
-   {
     "title": "Sporting bate OC Barcelos no arranque da Liga dos Campeões de hóquei em patins - Record",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNbjM0WEc5eDMzN2R4LUhrdXFGNGVTbU9YWV9qUllQRHpZU1d2RE1ETnJEMjdXbExvU1cwODM2WWpMMjR2OWFtME0xczNtMWpTNHFtUmFzZ1VkT0U4S1ZEaHRpeFBBQ1pmOTdKR2pqVGFIOUNaN2Vvbm5MNVRYemFmWGNSd3NHSTI4dTlTYXJjcURzMU1VRlQtQXFJNkRDcTNzeW1kRVV1OEpjR2VUbEswbDVSMjhrTjhmdEpsVEFxTWhFNW9JVHF3eHVpREE4Z2NldlZNbXZjczZfMlNoTmJZaW8wbWZrNTZYZnRNZkRn0gHOAUFVX3lxTE8zSEJUVElQenJNQS1yM3llRm1FelVqam9WMHZZWnBsbXk5SVdNUzFzT2w4NlBURU8xcndPeHU3dlV6a2JoUW9LUG5RenMtNmI0cFNxRlpJSEJtUmFKa2x6bklkY3ZSVXJ1RFhqaDZLX1hFOVlYNXB3dDluV1k1Ty1keUFuMTJuRUk3SGJWU1RxZG9ZRkVUWmRQdS1uaWtiN3JERS1KbG9tSE5hVE1BWUJ1VTZMeUZteHQ0MFA0ZF9oeUVfSzM4M3pZUmtOSkFR?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONFhqbkJHaTZlMHJVMXNBSHUtTU5Sc0wxSm9QSkhBdE10bnlHQXEtanZsOVVfcnZnSzRsM0dxZ1ZwSU5BMnZQTVZYVTdoYVRwN0NQUmJWSEJwSWhfSjlQV1VIbFhsTzlQMmVlX2lER1pUclV6SkJiREwwSnM1ZnliNmNjVzB4S1VxOUt1ZXlfNk1GRG5Vc21iN0NuWUFqVEZvbjFrN2lrNEJJcmJ6Y1pmVW55VmtNakhPY2xYMmJsdHlaUTJhQk42TTl2M0RLQ1M0d2d30gHOAUFVX3lxTE8zSEJUVElQenJNQS1yM3llRm1FelVqam9WMHZZWnBsbXk5SVdNUzFzT2w4NlBURU8xcndPeHU3dlV6a2JoUW9LUG5RenMtNmI0cFNxRlpJSEJtUmFKa2x6bklkY3ZSVXJ1RFhqaDZLX1hFOVlYNXB3dDluV1k1Ty1keUFuMTJuRUk3SGJWU1RxZG9ZRkVUWmRQdS1uaWtiN3JERS1KbG9tSE5hVE1BWUJ1VTZMeUZteHQ0MFA0ZF9oeUVfSzM4M3pZUmtOSkFR?oc=5",
     "source": "Record",
-    "ts": 1795729770
-   },
-   {
-    "title": "Arte tradicional de Barcelos em destaque com exposição de mais de 200 peças únicas - Fama Rádio e Televisão",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbzk1MnF6eE1lYUptUjBUWXltQUpEdEtVUjh3dE5lRXloSDY3MFQ1Rkg1VEtzclBXeWVuWGVmaUlVX050NzVSMzNROUtfN24zRXlGdWxibFRoOEJRUVRqV2U1NnNJZVlsR3ZKWDBidFZuRjZhNjBKVl90ZWFMOFJBQjh1ZUdSV3F5MUZjRl93VTQ5dWtRbUR2VGVqOC1FdnRLUkNELU9HY2ZjazVHUC1LT054NWNhaFhG0gG-AUFVX3lxTE1sSHQ2aU1GSWNyUDVrU2Z1c0Iyd0U5Q0NvakFOUHRiVXpETEx2Y3NBNlJ5c0I0T1NuRklTb21vbUxQbXpKUG9WOG1WMlB0M2kwYmJTRTlxNXZLWXZCWEd5cVJLa2FUcTF3eE4zMklLeU5CWjh3cDhsTTY2M2g5RW9FTENFVm1tZTg1YXlQMFFlUUM3eG1wUEJrdTFfbWlXRVhQaDBLMWdUQ2cyOEFvN0N4Wjc3czBJelpFU2N6ZUE?oc=5",
-    "source": "Fama Rádio e Televisão",
-    "ts": 1795726135
+    "ts": 1795731093
    }
   ],
   "esposende": [
@@ -1513,6 +1513,12 @@
     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NOGlPaDNXay1zcXFVU01sMG00R2RaUDcxWHNTQWNwOF8yS3hIY2paZi1hbV9xSmxnLWVCa0tsNVQzR0M5bWZyWGdESmNFOUZROEVIeERPdDNhMTVEQTE4RDk5NjUxVmpjTnB5VUl1VEkyQ1JCTHNKNWl4cFM?oc=5",
     "source": "e24.pt",
     "ts": 1795710138
+   },
+   {
+    "title": "\"TraumaTeam Esposende\" parte para o Brasil para o Campeonato do Mundo de Trauma - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tX3V0eW9VVVNCb0ZUclFtem4yQmpFNXRmLTlZU2x5MHR1eUlhdXVmd1JKeEZJckRlYmxLd0NkTXZDME5SVFpIZEJuOXg1OXZYZzJsbC1TQkJMeGFEdDBvaWZJX05aZ1ZGRzhza2tPa0x1bmlzY0E?oc=5",
+    "source": "e24.pt",
+    "ts": 1795709502
    },
    {
     "title": "Loja Social de Esposende recebeu visita técnica do Município de Cabeceiras de Basto - SAPO",
@@ -1534,23 +1540,29 @@
    },
    {
     "title": "Município de Esposende assinala Semana da Floresta Autóctone com plantação de espécies nativas em Fão - SAPO",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjEzS09RU3RWTWJZT2tGMlVFNHBYbW1NV0hQbnJ5Z25iUWMxTHBzSGwwN3J3WThSREhwbWI4UjFIeE1USWFuY1pCVklQbDVHbF82RFZIWEdJV2tMd3Q3cUM2cG03dVlDM2d4dEpwN0ItdDFjVWtuOUNRT2dIYTRiRldkT2M2OV93SG9IM1JOQjhVSG5ueFhIWlV0bW5oWTg4cDgyNXFSakhjVmx0TzBxdW43YXRtcEhWZTVNdDdJWlE?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQejFEU1lpYnd0b1hEYnpad0tfdmJSUjJIZEIxYVRkLVY5N0xyNVJ3YlM0MHUwUUhlU2JRa3dPV3B1TDdiVVNZOHFodVZPZDJiM2hBMnROOGtMeG1mc0xWejBxTGh3dnY0MG9QdnA3Q2ZaU2VOUkhOOXIwOHVVM2dEQWxJNnJaQWhRVDdScU5FMnVVbmI5NHYxcnNfQnUyT1R0UjFhUXNNUGs2RVl3T1ZtRGxNaGVGNkp4TWRnaVhJOVlIc05aOS1BMHFYcmw4T29XUHJIVGJ2RUd3M1VKSEdlX1gwRQ?oc=5",
     "source": "SAPO",
-    "ts": 1795687201
-   },
-   {
-    "title": "Última oportunidade para vacinação antirrábica em Esposende - radioondaviva.pt",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNME9rcWplYnhGd2VENzRPaEI3OGJzWjAtWjhuTGtZaTJLLW5neHphWEwtSFc1MFRpMktYeEVseUdsNjRQOTBPZElMbVhac0o1cTJPejAwR0dSdHJzbFY2dzQwUWM3Ym84REhXS0hyYXRQU3o3RmFlaGNpVGVwRi1TVDVwMXdpOWtfQWY1eGhB?oc=5",
-    "source": "radioondaviva.pt",
-    "ts": 1795679122
+    "ts": 1795683600
    }
   ],
   "mundo": [
+   {
+    "title": "Pedro Sánchez acordou para o debate a quatro que foi um “dois contra um” - Público",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQd29ZaTdMdG5USVBid0FGNVdSXzdKaUU2NGkwdXBfZEVrOGM0MTVvRUVuc3RNdjZPeFQ5cE5FOWd6Z3RqdTJKX294elcxVHpnREJIREh0cVZYT21FOC01UGNpUXAyNjlwV1p0V0pkTFF0cDdVWmJILVR0cFNvQ3Vmc01YWE9HcTZfYkZmZzA4QlNVZjdKdzUtd1ZyV1Y?oc=5",
+    "source": "Público",
+    "ts": 1795743161
+   },
    {
     "title": "Às vezes é preciso deitar tudo abaixo para reconstruir - Público",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2X0gyRjdXbUxhYzNjVkRaVFJNdENFWTc0cEJ6Tm5oT2dkSk0zc1h3bTdzS2FVd0QwSjJ1UDU1ai12ZGw3dFJfWURRbUx4bWlUeEs3bHJfZE9zcjlhcmc?oc=5",
     "source": "Público",
     "ts": 1795718968
+   },
+   {
+    "title": "Trump pede a Putin que \"acabe com qualquer agressão militar\" na Europa - SIC Notícias",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWWxkTlNrbGt6Mi05T2syS0RIZzd2VVR2ZDFXZ1lwUVROLTBGbFB1SmNkR3gzc3lablQ1dVlOdTMzOEQ0WGZjaEhEa3IyYmhjc3JHbFI0R0lCX3FCbzk2TU5NSW9iV28zUE9DamhWREw5WWxYcjZLUXFtUzVuX2ZUdEVOTm9SWkNUZ1htekZhMGtsdko5T2prVWJZelhNVFZqdTZTbXFBaUFNeEcyS1gtMm5yZGpndFpvQ0VVeUVua0gwRmo4WHJIaDFmVktsOF9PX3dkMWVRamNwNGM?oc=5",
+    "source": "SIC Notícias",
+    "ts": 1795714309
    },
    {
     "title": "Navio petroleiro com sete mil toneladas de gasóleo naufraga junto a Ibiza - A Bola",
@@ -1559,22 +1571,10 @@
     "ts": 1795707780
    },
    {
-    "title": "Polónia: NATO envia avião de reconhecimento AWACS para vigiar espaço aéreo - Euronews.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNU1ibVJxVkNhUjc4VDhFQzBZS1h2RkZwdzVCbm9OR19rVFE2SFJ5a2JGaFBjeU4yWTdsSVpBeFJvRTNDdUs5MVJPeXVkclVCSlVtNGJoczhMSGc1cUVDX3ZTa1V2UmtFMmU1eVRTMVo0N1ZDNy11ZHpHUkZJRkowMmNrNzBpbm02aFJSZFVFUzN4SmxRR0FRYXpuMk9SYTc4eDNyRmJuOGtQd0pPTXBzZ3dZa2JRRHVZ?oc=5",
-    "source": "Euronews.com",
-    "ts": 1795707080
-   },
-   {
-    "title": "Turquia acusa Ucrânia de violar Direito Internacional - RTP",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNW1XNlctazJQYUFybWEtcW1LVDkwZDdvdTRVVjJjSVAtek5DUXZiQlZuRUxkenM0bHRhdnBTYThpREZpdFVFQ3dvam83TnFLWExWclZGTlpWdEtjS0NrQlJQSE5GUmtFd2pHbkxNb2dPd1hDamc5Qm9OTzFzYTc0LWh3V2tsTUU3X1pGWlZ5RnFEdnA4RjNoOTVzeVU?oc=5",
-    "source": "RTP",
-    "ts": 1795698899
-   },
-   {
-    "title": "“Público\" tem novo diretor: Pedro Candeias sucede a David Pontes - Expresso",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU1Z2RWp5UjNhWFFGR0FhV2RpZG41bV9LTzROekJpYkswc0YxZVRHOXd4dzktZGwtTlYzWGdPeE5TQzkxcHBONlFGajZJb0hZck9BMzJtazE0cmZ0NC14ZG1JM1NYSjJUNjRYa0xhY1FDNXJrRm15SnlHOHhFVHVlMUdpMVdQbjkyYlIzN2pUSjh6OHZsZUlwR3llSmhobHlweWNERUpDMWpqLVU2ZWVUbUZmVWpVbjBleGo0?oc=5",
-    "source": "Expresso",
-    "ts": 1795695588
+    "title": "Milhares de reservistas britânicos contactados pelo exército - Observador",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNb2k2bG1GOGlzMlNPSTFxNEg5TXBIckpwVlpfeFoyeFN2S2hUOTJXM05scVhmZnU1TU5YMDV6aUhlTUhJaGJwZW4xQkI2WmttUEx1TFlVNE5PRFN2UzFNd3NPU001VVRvSmhycmRhU1ZpMktFNExyWDlqTzJ1ZnlCTDRRLWdMX21STmlkNWt5SmNzSWRCQ0ZuYnA1MUdjektKOVE?oc=5",
+    "source": "Observador",
+    "ts": 1795700160
    }
   ]
  }
