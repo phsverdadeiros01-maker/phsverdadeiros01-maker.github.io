@@ -1,8 +1,8 @@
 {
- "atualizado_em": "2026-11-28T00:00:07Z",
+ "atualizado_em": "2026-11-28T08:00:07Z",
  "mar": {
   "fonte": "IPMA · Praia de Ofir (local 247)",
-  "atualizado_em": "2026-11-28T00:00:08Z",
+  "atualizado_em": "2026-11-28T08:00:08Z",
   "dias": [
    {
     "data": "2026-11-28",
@@ -1477,6 +1477,12 @@
     "ts": 1795818720
    },
    {
+    "title": "BARCELOS POLINIZA - NAS ESCOLAS - Agenda Barcelos",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5CczZ2Z2p1MklGY1l6dGIxd1VHZ21xN0t5cWw3ZHN0TlR1ZmVWT3B0clRtUDRadXdsMVBLVFQ5aFpidmczSjQyWG9MWEJySkFXcFh0WXV4US1PcGQyLXZyWkJBdXN6RFV1RXlHU19fZktrRmRNS18w?oc=5",
+    "source": "Agenda Barcelos",
+    "ts": 1795817725
+   },
+   {
     "title": "João Gião terá de fazer mudanças na estreia em Barcelos - Record",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONW5TR3ZOcl9aWFJyZ0lkcmplS1dGcGdVT2RlNVZqR3VJMTl5SlMyWFg2QWRqdkZHMXdlUGl5cVpQeUl5d09RSWdWTGFFa0VGM3g1Wk00Z0F3ZzFXa3JhbGlkMXZKMHpJbGl3c3BzN3lpc2lhbHljVjdhVHMyMjFabXNuNkg3ajdMdkNDTHdkTkU1U09VbXZGbzFOckZYSlIwWmJKVlVlSW5IaGZPdFRpcGxuZy05Skx2TzQzM3N0NmFULXNlRGVQcmMwc9IBxgFBVV95cUxQamhKaE5sSFpBOXFXRXRFZnR5SU13bk1IbmRKcTJqLUhPVjlYNndnamhCSTFyQW12b2c3UjE2NmMzTmlEYkVtaDdLWHVLaDhHaHBBcTN5NW91Zy13ZDdEbmw0TFMwZTZtX2taVUNDWm5penFNS29QVWRxM3BxUmxlckN1Wkd3djBjZHlRX1EtSmR4VG54Z1haU3ZWRTVtSGc3QnM1SkdKdHphVGNnRmxaV2lOTlRES1VJdk91TEMyVndEQWdSU0E?oc=5",
     "source": "Record",
@@ -1489,22 +1495,16 @@
     "ts": 1795802571
    },
    {
-    "title": "Nova ponte de Barcelos já abriu ao trânsito - Semanário Alto Minho",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUE2Z1RiUUxLUDA3djFjb29iM3Z0S0t5U3NxRG43ZjlOdDF6Umg5b2ZUanFVUlJuQWlCQTNyLWFJa2JWem9BQUJmeU5SUk5Tb1d1c1pjbUhwNm9aYVlJV196SGk3WTU5SkNXejhUSUE3ZFVTTm1zbjlucDBPdHI4V2RSYWdzNjlGNnRiNQ?oc=5",
-    "source": "Semanário Alto Minho",
-    "ts": 1795800986
+    "title": "Barcelos: Nova ponte sobre a Ribeira das Pontes abre ao trânsito hoje - e24.pt",
+    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ibWFVbVRaX2pvNUxOSk9HZXhqQjVybDYxVFRaZlBXR3BRVHVkVUZ3T2Rrc3ZpQzl1aWx3d1NhX2NhTnNzM3Jpc1NDTXlHSGxfbVFoTWVhVVRianpsc1pKTmY5ZTByQm5BU0FDeEFOQlBWdXhpX1hwa2ZRVQ?oc=5",
+    "source": "e24.pt",
+    "ts": 1795800842
    },
    {
     "title": "Barcelos: Município preside à Assembleia Geral da Rede Europeia de Saúde Mental",
     "link": "https://e24.pt/barcelos-municipio-preside-a-assembleia-geral-da-rede-europeia-de-saude-mental/",
     "source": "E24",
     "ts": 1795799887
-   },
-   {
-    "title": "Barcelos: Câmara oferece pinheiros de Natal no Jardim das Barrocas - e24.pt",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbU5yV1daSWxoNnE2LWZYajhyRVh4ZzRaaDkxUmVmN3JrV1NnX3dBV3lkeDZ4cnRZT2lxMHUwRVZPVjZQaDRzemRjbG40T3dyaUhUR09SUmZhak5EQ2s3dTZPX0NzVW0yZ0dVcUxFUmJ2dncwQlVwS0Q2WE9sZWdha185bk5LRXBw?oc=5",
-    "source": "e24.pt",
-    "ts": 1795793424
    }
   ],
   "esposende": [
@@ -1516,9 +1516,9 @@
    },
    {
     "title": "Câmara de Esposende aprova orçamento de 63 milhões com abstenção do PSD - Notícias ao Minuto",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU2lGd29YVXVyZzgtNGdKRFMtT2xWN2ZfYW5tOE00YVRoQ1lfMVA4VndxeFZ6dXNHYXV5czNQbXRfSWRtNGZhSWkxdC1xeTFHdDhJblg4ckQtbXB5NUQ5djV0QnVIWEl5X0RaQmpybERsMG9mTGxCMHJmTU8wYmxreUJmcjVpckFBVlJnYmx6enVZTUlDOTdObzNMVURSME9tRVNqYmdDak03cWJvU2lYNmtWYnNzMmRF?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNN3k5bFUwSnhzNGtZbm5oa0taMXJyUzVCWk9pSjFlblNILVRRUm9sa3k4TmE1cGtKNkE2UE9EdU9CNzFjaUR3LURDckVQVENHdDRiZjhSQU02bnNRRkVlb3lvSmhRTE00Wm5VTXo4bW9wOS1nR3Vyb0dLXzlteXA0RkgxVGVOQVRxd1pleVk2TDRDWVNhWXg1UTh2eGdkc0VVczd2eUdUZVdnNXZoTnQ5VVpqSl9oQQ?oc=5",
     "source": "Notícias ao Minuto",
-    "ts": 1795808820
+    "ts": 1795809638
    },
    {
     "title": "Esposende: Município e PIEP visitam La Pods Factory de cabines acústicas",
@@ -1547,10 +1547,10 @@
   ],
   "mundo": [
    {
-    "title": "O maior aliado de Putin começou a questionar um dos principais argumentos russos para justificar a invasão da Ucrânia - CNN Portugal",
-    "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNUFFEMzB5MzdUSDdwemFiUFNwNF9UV0lZdlBmYVcyeU9pU0JhUVBUQ3BpMTFXLVlpQWJpWGFUeW5tczltZnZQblBEaW5URFkySExqOE1vNEpWTXlvOG1XaUE5Z0FPOWh0cGZPX2pEQzlrdm5wbFZxSjZOOG91dVlweVZvb050cFBsUDVaVnVMcXQxdllXOEFuYnQ3MS1XalFWUVQ4T3MzN2xPaWhlX09vUmJxMDNfRGFscE14MEk5S3ltVW5qM014ZlgyeEZ5YmtPRUZPcVZDdktvMkNtY1FZbV84Z0VlV3B4eUdxZ250NTUxVmxiNUhkZTFuRDhUcVlIUXNLdTd3dnpDOF8zSGNXWV80OXVXYzZGSFBSbVpNRGFHai1Lc2tZ?oc=5",
-    "source": "CNN Portugal",
-    "ts": 1795817106
+    "title": "“Um momento de atravessar o Rubicão”: declarações de Frederiksen sobre “grande substituição” abrem crise entre socialistas europeus - Expresso",
+    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQX0hSWG1FS3ZBUjR1Q3A0a3VjOW1GdUY2VVRWMDV5VlVBa3ZOUExYUEZmem1PeGNQMFA0cTdST0JhZXdBNnl2REk5ajliZmtjNE5lUVZ0Qml1YVprWFdDOFlVVmNLMlRzWmZTSjUzMUJlUzEzZ2haOGZDRjRVR3lRR09uR08xWmVkTGE0dXBUMEFEZjR4ekpJRzdmc0VlNDZfZ1NyTU1UVHNsb3l6QWVseElPY3p1NEF6ak1vR2UtdHY2SGpJZU5JTTZkN1h2RERuOGVBcklNbnhOSDVjenp6bWE5VDNlNGNIM0ZQanB0cWdfeFNtbHpkUzQ4VFY1M1lwWmhj?oc=5",
+    "source": "Expresso",
+    "ts": 1795819472
    },
    {
     "title": "Sabotagem russa poderá causar \"incidente com vítimas em massa\" na Europa - Jornal de Notícias",
@@ -1559,22 +1559,22 @@
     "ts": 1795801020
    },
    {
+    "title": "Leão XIV: com Nossa Senhora a partir do coração de Roma, acolher turistas e peregrinos - Vatican News",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcWhwVE1sLTI0LWlRTlJRTDlxZXQxb3ZkX2w2ZVJvQVRLbGxDSlU4OWc5eFo3dkpxdURFNGFmMnhzTkdXTFpya080MHdDZjBSMDdqOXhkUk1oR0NFbmtoRnZ6ZXQyMjBqVmRFQmlWY3gzRndUWENVMW1WeU9HT1BqT3Y5TV9lbjViR0VmSnVxTjhZQ01sMU1wQWJYcF96U2RmT3d6WlhvdXJFaW85RldranF5MWI4WjB3?oc=5",
+    "source": "Vatican News",
+    "ts": 1795798122
+   },
+   {
     "title": "Zelensky admite que ataques na costa da Líbia foram \"muito perigosos\" - RTP",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUWVteFd0Q0U0UEM4cEZGZ1ozbWdhbDJpbHNTNlR6WFpRVExHZE9EV3V4MVF3cUh2b0x2b2NPaV9zdHd4SXpQNV8tREJwT3lFaDV1Y0l0WGdzb0p5YjBEWGlNM2g3YVFnd3RLRVVRN285QWlrWWxHWG0wRmc3dktUN3RoaUpfNHlfYXFfcHB6MjVabDFucUp0OXhjeEpSODRndWRHUTFlbHBOQmdqXzMw?oc=5",
     "source": "RTP",
     "ts": 1795778193
    },
    {
-    "title": "Zelensky sobre Trump: ser amigo de Putin é como ser amigo de Hitler na II Guerra - Público",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVzBic1B6c0dBMkZobTBCemdydWpERHFHX0FfWllQSllfX2dXWjZPd0ExX0ZkbXJ1azhXYXdOd1NXRVpUcjBWTzBDRmhmX2JmaHM1d2dtYzJDcG9KZXhTLWptakpxVmZzY3ktYjZhbnVqV0NhRGlNakZ2aGw0MzlzWU03SlJKQ0prR0VJVTU2WVVqQmdsUG9pQ3JBeGZYN3BxZUFrMUdGSlk?oc=5",
-    "source": "Público",
-    "ts": 1795772428
-   },
-   {
-    "title": "Ação de Graças nos EUA sob tempestade: quase um milhão de casas sem luz e centenas de voos cancelados - SIC Notícias",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWll2Z3NBdTdLTFROU25Fd3Q5Wjg4TklUY3FMR0FnR09iOXh2ZHJTWDUyOEwybFBKODVXMGQtZGY1M05OYVI2ajVDQWlrYjFYVUhscHZsQjRuNFRpbmhNd1I5amFDTzNLUUt6clNEWXE2aE1lSDdtUFNGbGdjdVYxOVdCNmY0Q2J5WW0xZkllZDVXV01DanB0NnhLa1B4WUthZ3g5Q3JwVnA2NlJhM1JZcTNZdGx3TFlZbGJuU1NoaXlNNXRQaUdCdEFKbl96aG1POHRJN1hHZjZ5ZnNONHJES3ZIZFJvNWhJU1E?oc=5",
-    "source": "SIC Notícias",
-    "ts": 1795769852
+    "title": "Ucrânia ataca fábrica de borracha a sul de Moscovo, São Petersburgo e Krasnodar - RTP",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTUQxZWwwZjFkRDN0SmpwbTBmSFRJQnYxVFM5NUVFVld5RUZTQTZvSzI1elJZcUhVUGFKUndQN3BNbnVEMDlpUE1NLWlpLVFkR05BVzlUWDNxaklLUjFObHVidlVaM0lhRnVBMWRzUHdSUV81ZHNoSFBWaDRYbGxuSDA1bWc5QXVLUjV2dWRkbkRmSlR2enZZMmZmekdyd2U1UUZJUG5IeUg0TWlUTl9UZWNLV29GZUR4T2V1cmZ3?oc=5",
+    "source": "RTP",
+    "ts": 1795775401
    }
   ]
  }
